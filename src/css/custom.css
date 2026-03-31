@@ -24,6 +24,8 @@
   --home-features-border: #d1d1d6;
   --home-feature-accent: #3a3a3c;
   --home-muted: #636366;
+  --site-footer-bg: #ffffff;
+  --site-footer-fg: #000000;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -44,6 +46,8 @@
   --home-features-border: #2c2c2e;
   --home-feature-accent: #98989d;
   --home-muted: #636366;
+  --site-footer-bg: #000000;
+  --site-footer-fg: #ffffff;
 }
 
 /*
@@ -56,4 +60,18 @@
   height: 100%;
   width: auto;
   object-fit: contain;
+}
+
+/* Slightly reduce the brand mark footprint in the top-left navbar area. */
+.navbar__logo {
+  height: 1.5rem;
+}
+
+.footer {
+  background-color: var(--site-footer-bg);
+  color: var(--site-footer-fg);
+}
+
+.footer a {
+  color: var(--site-footer-fg);
 }
