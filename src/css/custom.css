@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/*
+  Navbar logos use @theme/ThemedImage, which sets visible SVGs to display: initial (inline).
+  Infima’s `.navbar__logo img { height: 100% }` then fails to resolve against the 2rem-tall
+  wrapper for inline replaced content, so the icon can collapse or render as a “broken” box.
+*/
+.navbar__logo img {
+  display: block;
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+}
