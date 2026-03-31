@@ -8,6 +8,34 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: var(--home-hero-bg);
+  color: var(--home-hero-fg);
+}
+
+.heroBanner :global(.hero__title) {
+  color: inherit;
+}
+
+.heroBanner :global(.hero__subtitle) {
+  color: var(--home-hero-muted);
+  opacity: 1;
+}
+
+.heroBanner :global(.button.button--secondary) {
+  --ifm-button-background-color: transparent;
+  --ifm-button-border-color: var(--home-hero-fg);
+  color: var(--home-hero-fg);
+}
+
+.heroBanner
+  :global(.button.button--secondary:not(:disabled):hover) {
+  --ifm-button-background-color: color-mix(
+    in srgb,
+    var(--home-hero-fg) 12%,
+    transparent
+  );
+  --ifm-button-border-color: var(--home-hero-fg);
+  color: var(--home-hero-fg);
 }
 
 @media screen and (max-width: 996px) {

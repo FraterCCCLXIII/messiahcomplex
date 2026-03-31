@@ -5,14 +5,12 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Aggregate',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Collect sources and scholarly notes on messiah figures from Zoroastrian,
@@ -23,7 +21,6 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Map archetypes',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Trace recurring motifs—future savior, cosmic renewal, judgment, golden
@@ -33,7 +30,6 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Compare with care',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Use the chronological map and further reading to test influence and
@@ -43,15 +39,21 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({
+  title,
+  description,
+  index,
+}: FeatureItem & {index: number}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+      <div className={styles.featureBlock}>
+        <span className={styles.featureIndex} aria-hidden>
+          {String(index + 1).padStart(2, '0')}
+        </span>
+        <Heading as="h3" className={styles.featureTitle}>
+          {title}
+        </Heading>
+        <p className={styles.featureText}>{description}</p>
       </div>
     </div>
   );
@@ -63,7 +65,7 @@ export default function HomepageFeatures(): ReactNode {
       <div className="container">
         <div className="row">
           {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+            <Feature key={props.title} {...props} index={idx} />
           ))}
         </div>
       </div>
