@@ -1,0 +1,150 @@
+import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+
+const sidebars: SidebarsConfig = {
+  researchSidebar: [
+    'intro',
+    {
+      type: 'category',
+      label: 'Overview',
+      collapsed: false,
+      items: [
+        {
+          type: 'category',
+          label: 'Start here',
+          collapsed: false,
+          items: [
+            'overview/messianic-archetypes',
+            'overview/method-evidence-and-influence',
+            'overview/exploring-transmission-and-deep-patterns',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Reference & tools',
+          collapsed: true,
+          items: [
+            'overview/further-reading',
+            'overview/eurasian-mediator-figures-assessment',
+            'overview/mythic-biography-patterns-prophet-and-buddha-analogy',
+            'overview/messiah-language-greek-civic-context',
+            'overview/emperor-cult-and-civic-soter',
+            'overview/research-backlog',
+            'overview/curated-page-template',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Time & maps',
+          collapsed: true,
+          items: [
+            'overview/chronological-map',
+            'overview/visual-timeline',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Transmission & influence',
+          collapsed: true,
+          items: [
+            'overview/saoshyant-influence-hypotheses',
+            'overview/achaemenid-and-west-asian-judaism',
+            'overview/persian-loanwords-in-biblical-tradition',
+            'overview/eschatological-vocabulary-timeline',
+            'overview/dead-sea-scrolls-dualism-and-iranian-parallels',
+            'overview/jewish-angelology-and-yazata-parallels',
+            'overview/parthian-arsacid-corridor',
+            'overview/gnosticism-and-mandaeanism',
+            'overview/evidence-leads-persian-milieu-and-mitra-cluster',
+            'overview/gandhara-central-asian-transmission',
+            'overview/measuring-influence-mitra-maitreya',
+            'overview/saka-scythian-hypotheses',
+            'overview/alternative-buddha-jesus-transmission-theories',
+            'overview/paul-mithraism-and-historicity-notes',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Mediterranean & Paleo-Balkan',
+          collapsed: true,
+          items: [
+            'overview/pie-twin-and-brother-archetypes',
+            'overview/pie-and-ane-traces-in-biblical-tradition',
+            'overview/pie-motifs-atu-thompson-and-hero-traditions',
+            'overview/greek-wandering-gods-initiation',
+            'overview/hermes-mediator-and-initiation',
+            'overview/thracian-horseman-paleo-balkan',
+            'overview/philippi-via-egnatia-religious-milieu',
+            'overview/helios-apollo-sol-syncretism',
+            'overview/attis-and-cybele',
+            'overview/isis-osiris-serapis',
+            'overview/demeter-eleusis-mysteries',
+            'overview/mediterranean-mystery-sources-appendix',
+            'overview/hero-cult-and-mystery-cult-atlas',
+            'overview/mediterranean-figure-glossary',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Mithra & transmission',
+      collapsed: true,
+      items: [
+        'mithras',
+        'overview/indo-iranian-mitra-contract',
+        'overview/mithra-roman-manichaean',
+        'overview/manichaean-mihr-soteriology',
+        'overview/amitabha-maitreya-gandhara-transmission',
+        'research/mithras-source-compilation',
+        'research/about-research-notes',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Figures',
+      collapsed: false,
+      items: [
+        {
+          type: 'category',
+          label: 'Eschatology & traditions',
+          collapsed: true,
+          items: [
+            'figures/zoroastrian-saoshyant',
+            'figures/judaism-mashiach',
+            'figures/elijah-enoch',
+            'figures/buddhism-maitreya',
+            'figures/hinduism-kalki',
+            'figures/christianity-parousia',
+            'figures/taoism-li-hong',
+            'figures/islam-mahdi',
+            'figures/norse-baldr',
+            'figures/arthurian-king-arthur',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Greco-Roman & mystery mediators',
+          collapsed: true,
+          items: [
+            'figures/roman-mithraism',
+            'figures/greco-roman-dionysus',
+            'figures/greco-roman-asclepius',
+            'figures/greco-roman-heracles',
+            'figures/greco-roman-orpheus',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Ancient Near Eastern',
+          collapsed: true,
+          items: [
+            'figures/mesopotamian-gilgamesh',
+            'figures/mesopotamian-dumuzi-tammuz',
+          ],
+        },
+      ],
+    },
+  ],
+};
+
+export default sidebars;
