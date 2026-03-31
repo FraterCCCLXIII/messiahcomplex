@@ -6,13 +6,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #2563eb;
+  --ifm-color-primary-dark: #1d55d3;
+  --ifm-color-primary-darker: #1a4ec7;
+  --ifm-color-primary-darkest: #1540a8;
+  --ifm-color-primary-light: #3b72f0;
+  --ifm-color-primary-lighter: #4a7ef2;
+  --ifm-color-primary-lightest: #6090f5;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
@@ -30,13 +30,13 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #60a5fa;
+  --ifm-color-primary-dark: #4d9af8;
+  --ifm-color-primary-darker: #3d8ef6;
+  --ifm-color-primary-darkest: #1a6fd4;
+  --ifm-color-primary-light: #74b3fb;
+  --ifm-color-primary-lighter: #84bcfc;
+  --ifm-color-primary-lightest: #a0cefe;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 
   --home-hero-bg: #0b0b0c;
@@ -65,6 +65,34 @@
 /* Slightly reduce the brand mark footprint in the top-left navbar area. */
 .navbar__logo {
   height: 1.5rem;
+}
+
+/* ── Left sidebar ───────────────────────────────────────── */
+
+/* Smaller nav link text */
+.menu__link {
+  font-size: 0.8rem;
+}
+
+/* Smaller caret icons — override Infima's 2rem/1.25rem defaults */
+.menu__caret::before,
+.menu__link--sublist-caret::after {
+  width: 0.9rem !important;
+  min-width: 0.9rem !important;
+  height: 0.9rem !important;
+  background-size: 0.9rem 0.9rem !important;
+}
+
+/* Remove right-side border on the sidebar container */
+.theme-doc-sidebar-container {
+  border-right: none !important;
+}
+
+/* ── Right table-of-contents ────────────────────────────── */
+
+/* Remove left border on the ToC */
+.table-of-contents {
+  border-left: none !important;
 }
 
 .footer {
