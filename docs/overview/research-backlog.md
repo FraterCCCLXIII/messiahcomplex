@@ -269,11 +269,13 @@ Patterns 1, 2, and 4 all point toward the same deeper hypothesis: the traditions
 | I3 | L | **Git** + **.gitignore** | If not versioned: `node_modules/`, `build/`, `.docusaurus/`; document workflow. |
 | I4 | L | **README.md** (repo root) | Clone, `npm install`, `npm start`, `npm run build`, links to `AGENTS.md`, [Method](method-evidence-and-influence.md), [intro](../intro.md). |
 | I5 | L | **SEO / social** | `docusaurus.config.*`: metadata, OG image, canonical URL if deployed. |
-| I6 | L | **CONTRIBUTING.md** | How to propose edits, evidence tier rules, run build before PR. |
+| I6 | **done** | **Contributing page** | [Contributing — humans and AI](contributing.md) — manual workflow, AI agent instructions, data review guidance. Backlog item I11 below tracks additional AI infrastructure. |
 | I7 | L | **LICENSE** | Choose license if repo goes public. |
 | I8 | L | **Dependabot** / **npm audit** | Periodic dependency updates; security alerts. |
 | I9 | L | **Algolia DocSearch** or local **search** tuning | If site is public and large enough to qualify. |
 | I10 | L | **i18n** | Only if non-English locales are planned. |
+| I11 | M | **AI agent verification pass — R21 claims** | Use an agent with web-search access to work through each claim in [§ R21](#r21--unverified-greco-buddhist-claims-from-popular-sources), returning confirmed / unconfirmed / refuted with primary-source quotation. One claim per session. |
+| I12 | M | **CSV data audit** | Review `static/sources/` CSV files row by row: verify source column, fix missing references, flag rows without a citable primary or specialist source. See [Contributing](contributing.md) § 3 for agent instructions. |
 
 ---
 

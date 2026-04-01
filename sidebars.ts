@@ -370,6 +370,18 @@ const sidebars: SidebarsConfig = {
       ],
     },
 
+    // ── CONTRIBUTE ────────────────────────────────────────────────────────────
+    // How to add evidence, expand pages, and run AI agents against the backlog.
+    {
+      type: 'category',
+      label: 'Contribute',
+      collapsed: false,
+      items: [
+        'overview/contributing',
+        'overview/research-backlog',
+      ],
+    },
+
     // ── REFERENCE ────────────────────────────────────────────────────────────
     {
       type: 'category',
@@ -379,7 +391,6 @@ const sidebars: SidebarsConfig = {
         'overview/chronological-map',
         'overview/visual-timeline',
         'overview/further-reading',
-        'overview/research-backlog',
         'overview/curated-page-template',
         'research/about-research-notes',
         'research/thesis-assessment-notes-2026',
