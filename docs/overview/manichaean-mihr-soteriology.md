@@ -10,9 +10,21 @@ description: Mihr / Mithra as a light-being in Mani’s cosmos—sources, geogra
 
 ## What is relatively secure
 
-- **Lieu**, *Manichaeism in Central Asia and China* (Brill) and **corpus** **editions** document **Mihr** in **salvific** **frameworks** across **Iranian** and **Turkic** **Manichaean** **communities**.
-- **Manichaeism** is **trans-regional**: **Mesopotamia**, **Iran**, **Central** **Asia**, **China**; **text** **survival** is **uneven** (often **anti**-**heretical** **filters** or **dry** **climates**).
-- **Azimia (2023)** — "Mithra in Light of Buddhism and Manichaean: Savior Figure" (*Royal College of Surgeons in Ireland*) — draws on the Manichaean Mihr figure as a light-bearer, judge, and guide to argue that **Maitreya and Mithra are the same figure**. This is a **minority / Tier C** position; it usefully maps the Manichaean Mihr's soteriological role but the identity claim is not accepted in mainstream scholarship. Use Lieu and primary Manichaean corpus editions as the reliable anchor; Azimia (2023) as orientation only.
+- **Lieu**, *Manichaeism in Central Asia and China* (Brill) and corpus editions document Mihr in salvific frameworks across Iranian and Turkic Manichaean communities.
+- Manichaeism is trans-regional: Mesopotamia, Iran, Central Asia, China; text survival is uneven (often anti-heretical filters or dry climates).
+- **Azimia (2023)** — "Mithra in Light of Buddhism and Manichaean: Savior Figure" (*Royal College of Surgeons in Ireland*) — draws on the Manichaean Mihr figure as a light-bearer, judge, and guide to argue that Maitreya and Mithra are the same figure. This is a minority / Tier C position; it usefully maps the Manichaean Mihr's soteriological role but the identity claim is not accepted in mainstream scholarship. Use Lieu and primary Manichaean corpus editions as the reliable anchor; Azimia (2023) as orientation only.
+
+## Manichaean "Mitri-Burkhan" attestation (Tier B)
+
+A specific and more concrete piece of evidence from the Turfan finds: Manichaean communities in Central Asia referred to Maitreya as **Mitri-Burkhan** — "Mitra-Buddha" — explicitly combining the Iranian name with the Turkic/Mongolian word for Buddha (*burkhan*):
+
+> Mirecki, Paul & Jason BeDuhn (eds.), *Emerging from Darkness: Studies in the Recovery of Manichaean Sources* (Brill, 1997), p. 94.
+
+This is an attested naming practice, not a purely modern hypothesis. It shows that within the Manichaean synthesis tradition operating in Central Asia, the identification of Maitreya with Mihr/Mithra was made explicit — likely reflecting the kind of religious translation and equation that happened at nodes like Turfan where Manichaean, Buddhist, and Iranian traditions were simultaneously active.
+
+**Scope limitation:** This attestation tells us about Manichaean interpretive practice, not about Maitreya's origins within Buddhism itself. The Buddhist developmental history of Maitreya runs through the Pāli canon and early Mahāyāna texts without requiring an Iranian source (see [Amitābha, Maitreya, and Gandhāra–Mahāyāna evidence](amitabha-maitreya-gandhara-transmission.md)). The Manichaean equation is better understood as a creative assimilation of Buddhist eschatology into a Manichaean framework that was already Iranian-tinged, rather than as evidence that Maitreya *was* Mithra from the beginning.
+
+See also [Measuring influence: Mitra, Mithra, Maitreya](measuring-influence-mitra-maitreya.md) for the broader discussion including the Miroku/Mihrak hypothesis.
 
 ## What to avoid
 

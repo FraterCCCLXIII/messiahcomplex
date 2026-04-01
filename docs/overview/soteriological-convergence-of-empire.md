@@ -43,6 +43,8 @@ The single most consistent observation across all zones: the Persian Empire — 
 
 **Specialist support:** Pierre Briant's *From Cyrus to Alexander* (2002) documents the Achaemenid infrastructure argument in detail. Greg Woolf's *Rome: An Empire's Story* (2012) makes a parallel argument for Rome. For the Kushan case, Nicholas Sims-Williams and Joe Cribb on Kharoṣṭhī bilingualism.
 
+**The barbarian inaugurator corollary:** Empire as chassis also operates at a more granular level than the five rows in the table above. In case after case, the specific *forms* that canonical traditions took — the anthropomorphic Buddha image, Sanskrit as an imperial prestige language, the Pali Tipiṭaka committed to writing — were created by rulers whom the traditions themselves classified as foreign "barbarians": Indo-Greeks, Sakas, Kushans. The "authentic tradition" is the content; the "foreign conqueror" is the chassis that gave it its durable form. This corollary is examined in detail at [The barbarian inaugurator pattern](barbarian-inaugurator-pattern.md).
+
 **Tier:** B (documented infrastructure; hypothesis-level causative link between crisis and content).
 
 ---
@@ -175,6 +177,13 @@ This is a Tier C claim. It is framed as a **research hypothesis** rather than a 
 - [Syncretism methodology](syncretism-methodology.md)
 - [Primordial cosmic man](primordial-cosmic-man.md)
 - [Hero cult and mystery cult atlas](hero-cult-and-mystery-cult-atlas.md)
+- [PIE origin of the messianic slot](pie-mediator-slot-origins.md) — Pattern 2 extended: the *mitra-* root
+- [The identical algorithm: skepticism, mysticism, and the apophatic constraint](skepticism-mysticism-negative-grammar.md)
+- [Sacred canons as imperial artifacts](canon-as-imperial-artifact.md) — Pattern 1 extended: what empire fixes
+- [The shared Greek translation lens](greek-vocabulary-translation-lens.md) — Pattern 4 extended: translation as mutation
+- [Synthesis at network nodes](synthesis-at-nodes.md) — where the chassis and the content meet
+- [The barbarian inaugurator pattern](barbarian-inaugurator-pattern.md) — Pattern 1 corollary
+- [Paul's Christ and the Iranian solar mediator](paul-iranian-mediator.md) — Pattern 2 applied
 - [Research backlog §R22](research-backlog.md)
 
 ---

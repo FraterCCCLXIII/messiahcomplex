@@ -43,7 +43,7 @@ The **yazatas** ("beings worthy of worship") are divine beings serving under **A
 
 | Yazata | Function | Sources |
 | --- | --- | --- |
-| **Mithra** | Oath/contract guardian; cosmic judge; light | Yasht 10; Mitanni treaties; Achaemenid-era worship |
+| **Mithra** | Oath/contract guardian; cosmic judge; lord of light; **equal in veneration to Ahura Mazdā** — Yasht 10:1: *"I created him as worthy of sacrifice, as worthy of prayer as myself, Ahura Mazdā"* | Yasht 10; Mitanni treaties; Achaemenid-era worship |
 | **Sraosha** (Srōš) | Obedience; guardian of prayers; psychopomp | Yasna, Yashts; escorts souls after death |
 | **Anahita** (Arədvī Sūrā Anāhitā) | Waters, fertility, warrior goddess | Yasht 5; Achaemenid royal inscriptions (Artaxerxes II) |
 | **Rashnu** | Judge of the dead at the Chinvat Bridge | Yasht 12 |
@@ -70,7 +70,17 @@ Above the yazatas sit the **Amesha Spentas** ("Bounteous Immortals") — seven (
 
 ---
 
-## 5. The names: Semitic, not Iranian — but the structure?
+## 5. The Michael–Mithra parallel: equal veneration and the name
+
+The single sharpest point in the entire yazata–archangel comparison is the relationship between Mithra and Michael specifically. Yasht 10:1 records Ahura Mazdā's own declaration: *"I created him as worthy of sacrifice, as worthy of prayer as myself."* This is an **elevation formula** — the supreme deity explicitly authorizes co-equal veneration for his cosmic lieutenant. The theological tension this creates (how do you honor a mediating figure at near-divine status without compromising the supremacy of the one supreme deity?) is one of the defining structural problems of monotheist-adjacent religions.
+
+Michael's Hebrew name — **מִיכָאֵל**, *mî kā-ʾēl*, "Who is like God?" — encodes precisely the same answer to precisely the same problem. The question implies incomparability: nothing is like God. Yet the being who *is* the question, who stands closest to the divine summit and is named for that proximity, occupies Mithra's slot. Both formulations establish a figure of extraordinary near-divine status while maintaining the theological primacy of the supreme deity. One is Avestan; one is Hebrew; they are structurally identical solutions.
+
+This parallel is the starting point for the broader argument that Michael's functional profile in Second Temple Judaism is a structural re-expression of the Iranian template: a cosmic warrior associated with light, eschatological judge, protector of the righteous, present at the final renovation — authorized by the supreme deity for veneration that approaches his own. For the full argument, including how this slot was subsequently transferred to Jesus in early Christology, see [Angelomorphic Christology — Mithra, Michael, and the chief angel slot](angelomorphic-christology-michael-mithra.md).
+
+---
+
+## 7. The names: Semitic, not Iranian — but the structure?
 
 A crucial observation: the Jewish angelic **names** are Semitic (Hebrew theophoric: -El, "God"). They are **not** borrowed from Iranian. This means the **borrowing** (if it occurred) was **structural**, not lexical:
 
@@ -82,7 +92,7 @@ A crucial observation: the Jewish angelic **names** are Semitic (Hebrew theophor
 
 ---
 
-## 6. Scholarly positions
+## 8. Scholarly positions
 
 - **Shaked, Shaul** (CHJ): The angelic hierarchy is one of the strongest cases for Iranian influence on Second Temple Judaism. The **timing** (post-exilic development), **structure** (named beings with portfolios under a supreme god), and **function** (eschatological combat, psychopomp, judgment) all point toward Iranian models.
 - **Mach, Michael** (*Entwicklungsstadien des jüdischen Engelglaubens in vorkritischer Zeit*): Detailed study of the development of Jewish angelology; traces the explosion of named angels to the Persian and Hellenistic periods.
@@ -93,8 +103,10 @@ A crucial observation: the Jewish angelic **names** are Semitic (Hebrew theophor
 
 ## See also
 
+- [Angelomorphic Christology — Mithra, Michael, and the chief angel slot](angelomorphic-christology-michael-mithra.md) — the full argument: Yasht 10 equal veneration → Michael's name → principal angel slot → Jesus
 - [Achaemenid empire and West Asian Judaism](achaemenid-and-west-asian-judaism.md)
 - [Dead Sea Scrolls dualism and Iranian parallels](dead-sea-scrolls-dualism-and-iranian-parallels.md)
+- [1 Enoch and the Son of Man](enoch-son-of-man.md) — another occupant of the principal angel slot
 - [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md)
 - [Saoshyant and cross-tradition influence](saoshyant-influence-hypotheses.md)
 - [Zoroastrianism: Saoshyant](../figures/zoroastrian-saoshyant.md)

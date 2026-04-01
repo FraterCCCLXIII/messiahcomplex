@@ -94,6 +94,42 @@ Curated **entry points** for **Achaemenid history**, **Jewish–Iranian** interf
 
 - Primary and secondary sources on **Li Hong** and **Shangqing** — verify in **Daoist studies** monographs (not only encyclopedia summaries)
 
+## Mesopotamian religion and the Babylonian exile
+
+- **Dalley, Stephanie.** *Myths from Mesopotamia* (Oxford UP, 1989) — standard translation of Enuma Elish, Atrahasis, Gilgamesh. Essential for Genesis parallels.
+- **George, Andrew.** *The Babylonian Gilgamesh Epic* (Oxford UP, 2003) — definitive critical edition.
+- **Lambert, W.G.** *Babylonian Wisdom Literature* (Oxford UP, 1960) — Ludlul bel nemeqi and wisdom parallels with Job.
+- **Smith, Mark S.** *The Priestly Vision of Genesis 1* (Fortress, 2010) — Enuma Elish and Genesis 1 analysis.
+- **Walton, John H.** *The Lost World of Genesis One* (IVP Academic, 2009) — ANE cosmological framework for Genesis.
+- **Rochberg, Francesca.** *The Heavenly Writing* (Cambridge UP, 2004) — definitive study of Babylonian celestial divination and astral religion.
+- **Site pages:** [Mesopotamian religion and the Babylonian exile](mesopotamian-religion-and-jewish-exile.md), [Babylonian astral religion](babylonian-astral-religion.md), [Marduk / Bel](/docs/figures/babylonian-marduk).
+
+## Egyptian religion and wisdom
+
+- **Lichtheim, Miriam.** *Ancient Egyptian Literature*, 3 vols. (University of California Press, 1973–1980) — standard translation anthology; Great Hymn to the Aten, Instruction of Amenemope, Amun-Ra hymns.
+- **Assmann, Jan.** *The Search for God in Ancient Egypt* (Cornell UP, 2001) — Egyptian theology and monotheism.
+- **Quirke, Stephen.** *The Cult of Ra* (Thames & Hudson, 2001) — Egyptian solar theology.
+- **Aldred, Cyril.** *Akhenaten: King of Egypt* (Thames & Hudson, 1988) — standard analysis of the Aten revolution.
+- **Fox, Michael V.** *Proverbs 10–31* (Anchor Yale Bible, 2009) — Amenemope and Proverbs analysis.
+- **Site pages:** [Egyptian solar theology and wisdom](egyptian-solar-theology-and-wisdom.md), [Ra, Amun-Ra, and Aten](/docs/figures/egyptian-aten-ra-amun).
+
+## Indus Valley Civilization and the Bronze Age matrix
+
+- **Possehl, Gregory L.** *The Indus Civilization: A Contemporary Perspective* (AltaMira Press, 2002) — standard reference; IVC-Mesopotamia contacts.
+- **Parpola, Asko.** *The Roots of Hinduism* (Oxford UP, 2015) — BMAC contact, haoma/soma, IVC substrate legacy.
+- **Cline, Eric H.** *1177 B.C.: The Year Civilization Collapsed* (Princeton UP, 2014) — Bronze Age collapse synthesis.
+- **Site page:** [The Indus Valley Civilization in the Bronze Age matrix](indus-valley-bronze-age-matrix.md).
+
+## Alexandria and the Hellenistic synthesis
+
+- **Copenhaver, Brian P.** *Hermetica* (Cambridge UP, 1992) — standard translation of the Corpus Hermeticum with introduction. Essential for Hermeticism.
+- **Fowden, Garth.** *The Egyptian Hermes* (Cambridge UP, 1986) — best historical study of the Hermetic movement.
+- **Runia, David T.** *Philo of Alexandria and the Timaeus of Plato* (Brill, 1986) — definitive treatment of Philo's Platonism.
+- **Dillon, John.** *The Middle Platonists* (Cornell UP, 1977) — standard reference on the philosophical background of Philo and the Fourth Gospel.
+- **Long, A.A. and D.N. Sedley.** *The Hellenistic Philosophers*, 2 vols. (Cambridge UP, 1987) — primary texts with commentary; standard reference for Stoicism.
+- **Engberg-Pedersen, Troels.** *Paul and the Stoics* (T&T Clark, 2000) — comprehensive treatment of Stoic elements in Paul.
+- **Site pages:** [Alexandria as the great synthesis laboratory](alexandria-synthesis-hub.md), [Stoicism and the synthesis](stoicism-and-synthesis.md), [Hermeticism and the Corpus Hermeticum](hermeticism-corpus-hermeticum.md).
+
 ## Digital corpora
 
 - **Encyclopaedia Iranica** — authoritative **Iranian** philology and history

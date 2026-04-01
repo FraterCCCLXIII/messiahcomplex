@@ -27,6 +27,7 @@ Each serious claim needs a **mechanism** (how it could have traveled) and **what
 - **Literacy and bilingual texts** — translation, scripture, epithets on stone.
 - **Trade and pilgrimage corridors** — long-distance contact without single “conspiracy.”
 - **Royal and civic mythmaking** — founders, saviors, and ancestors **retold** after the fact (hero cult, hagiography).
+- **Translation vocabulary as restructuring medium** — the same Greek philosophical vocabulary applied to multiple different sacred corpora simultaneously. When bilingual communities translated Buddhist *dharma*, Jewish *tôrāh*, or Iranian *asha* into Greek, they used the same Middle Platonic conceptual toolkit — *eusebeia*, *logos*, *sophia*, *theōsis* — and each translation restructured the original through the translator's conceptual lens. Two traditions translated through the same lens can appear to converge even with zero direct contact. This mechanism is distinct from "bilingual texts" because it operates through the *vocabulary choices* of the translator, not merely the fact of translation. See [The shared Greek translation lens](greek-vocabulary-translation-lens.md) for a systematic term survey.
 
 ## What strengthens or weakens a transmission claim
 
@@ -71,4 +72,8 @@ flowchart LR
 - [Method: evidence, influence, and milieu](method-evidence-and-influence.md) — guardrails for **how** we argue
 - [Messianic archetypes](messianic-archetypes.md)
 - [Eurasian mediator figures assessment](eurasian-mediator-figures-assessment.md)
+- [The shared Greek translation lens](greek-vocabulary-translation-lens.md) — the translation-vocabulary mechanism in detail
+- [Synthesis at network nodes](synthesis-at-nodes.md) — where synthesis happens and why
+- [PIE origin of the messianic slot](pie-mediator-slot-origins.md) — the deep-inheritance layer
+- [The identical algorithm: skepticism, mysticism, and the apophatic constraint](skepticism-mysticism-negative-grammar.md)
 - [Further reading](further-reading.md)

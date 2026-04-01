@@ -57,6 +57,8 @@ The root *\*mitra-* is Proto-Indo-Iranian for **"contract, covenant, binding obl
 - [Gandhara and Central Asian transmission](/docs/overview/gandhara-central-asian-transmission) — Achaemenid → Saka → Kushan; where the thread crosses into Buddhist Asia
 - [Helios, Apollo, and Sol — solar syncretism](/docs/overview/helios-apollo-sol-syncretism) — Kushan coin horizon (MIIRO + BODDO) and Vairocana synthesis
 - [Hero cults and mystery cults — Mediterranean atlas](/docs/overview/hero-cult-and-mystery-cult-atlas) — the mystery ecology within which Roman Mithraism operated
+- [Babylonian astral religion](/docs/overview/babylonian-astral-religion) — the zodiac and planetary-sphere cosmology that underlies Mithraic initiation grades
+- [Alexandria as the great synthesis laboratory](/docs/overview/alexandria-synthesis-hub) — the western node where Mithraic and other mystery traditions met Platonic and Jewish theology
 - [Roman Mithraism (figure page)](/docs/figures/roman-mithraism) — reference entry
 - [Buddhism: Maitreya](/docs/figures/buddhism-maitreya) — the figure at the Buddhist end of the thread
 - [From Mithra to Maitreya: Solar Saviors](/docs/overview/solar-saviors-mithra-maitreya) — long-form cross-cultural history of the solar savior archetype

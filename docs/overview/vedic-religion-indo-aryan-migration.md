@@ -187,6 +187,7 @@ This shift reflects the transformation of the Vedic religion's priorities: from 
 - [The PIE cosmic combat myth](pie-cosmic-combat-myth.md) — Indra vs. Vṛtra in comparative context
 - [Indo-Iranian Mitra and the contract complex](indo-iranian-mitra-contract.md) — the *mitra-* function shared with Avestan tradition
 - [Saoshyant influence hypotheses](saoshyant-influence-hypotheses.md) — how the Iranian branch developed the eschatological savior
+- [The Indus Valley Civilization in the Bronze Age matrix](indus-valley-bronze-age-matrix.md) — the IVC's external trade connections to Mesopotamia, the BMAC junction, and what this page covers from the *outside* view (this page covers the inside / substrate angle)
 
 ---
 

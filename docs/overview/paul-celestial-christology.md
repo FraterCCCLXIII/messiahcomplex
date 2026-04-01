@@ -207,6 +207,7 @@ The site's position adds:
 - [1 Enoch and the Son of Man](enoch-son-of-man.md) — the Enochic pre-existent Son of Man as the immediate Jewish background for Paul's cosmic Christ
 - [Septuagint as transmission mechanism](septuagint-transmission-mechanism.md) — how the LXX vocabulary Paul uses encodes the full transmission chain
 - [Interpretatio and divine translatability](interpretatio-and-divine-translatability.md) — the ancient practice of deity equation
+- [Paul's Christ and the Iranian solar mediator: a structural comparison](paul-iranian-mediator.md) — dedicated comparative article: side-by-side table of Pauline Christ vs. Saoshyant vs. Iranian Mithra vs. Roman Mithras across six structural criteria
 - [Paul, Mithraism, and historicity (tiered notes)](paul-mithraism-and-historicity-notes.md) — critical assessment of direct borrowing claims
 - [Roman Mithras and Manichaean Mithra](mithra-roman-manichaean.md) — the Roman cult
 - [Hellenistic period transmission](hellenistic-period-transmission.md) — Philo's Logos, Stoic theology, LXX
@@ -214,6 +215,7 @@ The site's position adds:
 - [Dead Sea Scrolls dualism](dead-sea-scrolls-dualism-and-iranian-parallels.md) — the cosmic dualism Paul inherited via Jewish apocalypticism
 - [PIE twin and brother archetypes](pie-twin-and-brother-archetypes.md)
 - [Helios, Apollo, and Sol — solar syncretism](helios-apollo-sol-syncretism.md)
+- [PIE origin of the messianic slot](pie-mediator-slot-origins.md) — the pre-existing functional slot Paul's Christ fills
 - [Mithra cluster hub](/docs/mithras)
 
 ## References

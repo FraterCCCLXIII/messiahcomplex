@@ -32,6 +32,25 @@ const sidebars: SidebarsConfig = {
         'overview/syncretism-methodology',
         'overview/interpretatio-and-divine-translatability',
         'overview/soteriological-convergence-of-empire',
+        'overview/synthesis-at-nodes',
+        'overview/canon-as-imperial-artifact',
+        'overview/skepticism-mysticism-negative-grammar',
+      ],
+    },
+
+    // ── BRONZE AGE FOUNDATIONS ───────────────────────────────────────────────
+    // Pre-Persian substrate: Mesopotamia, Egypt, and the Indus Valley as
+    // participants in the Bronze Age world system. The layers that made the
+    // Achaemenid synthesis possible.
+    {
+      type: 'category',
+      label: 'Bronze Age foundations',
+      link: {type: 'doc', id: 'overview/mesopotamian-religion-and-jewish-exile'},
+      collapsed: true,
+      items: [
+        'overview/indus-valley-bronze-age-matrix',
+        'overview/babylonian-astral-religion',
+        'overview/egyptian-solar-theology-and-wisdom',
       ],
     },
 
@@ -54,9 +73,11 @@ const sidebars: SidebarsConfig = {
         'overview/enoch-son-of-man',
         'overview/dead-sea-scrolls-dualism-and-iranian-parallels',
         'overview/jewish-angelology-and-yazata-parallels',
+        'overview/angelomorphic-christology-michael-mithra',
         'overview/evidence-leads-persian-milieu-and-mitra-cluster',
         'overview/gnosticism-and-mandaeanism',
         // ── Hellenistic expansion (330–30 BCE) ──
+        'overview/alexandria-synthesis-hub',
         'overview/hellenistic-period-transmission',
         'overview/apocalyptic-genre-and-social-origins',
         'overview/septuagint-transmission-mechanism',
@@ -99,6 +120,8 @@ const sidebars: SidebarsConfig = {
         'overview/saka-scythian-hypotheses',
         'overview/measuring-influence-mitra-maitreya',
         'overview/alternative-buddha-jesus-transmission-theories',
+        'overview/greek-vocabulary-translation-lens',
+        'overview/barbarian-inaugurator-pattern',
         'overview/cultural-transmission-theory',
       ],
     },
@@ -123,6 +146,9 @@ const sidebars: SidebarsConfig = {
         'overview/emperor-cult-and-civic-soter',
         'overview/paul-mithraism-and-historicity-notes',
         'overview/paul-celestial-christology',
+        'overview/paul-iranian-mediator',
+        'overview/stoicism-and-synthesis',
+        'overview/hermeticism-corpus-hermeticum',
         'overview/logos-doctrine-neoplatonic-christology',
         'overview/mediterranean-mystery-sources-appendix',
         'overview/mediterranean-figure-glossary',
@@ -164,6 +190,7 @@ const sidebars: SidebarsConfig = {
         'overview/sramana-revolution-axial-india',
         // ── PIE myth and narrative grammar ───────────────────────────────
         'overview/pie-twin-and-brother-archetypes',
+        'overview/pie-mediator-slot-origins',
         'overview/primordial-cosmic-man',
         'overview/pie-cosmic-combat-myth',
         'overview/pie-and-ane-traces-in-biblical-tradition',
@@ -187,6 +214,7 @@ const sidebars: SidebarsConfig = {
           label: 'Ancient Near East',
           collapsed: true,
           items: [
+            'figures/babylonian-marduk',
             'figures/mesopotamian-gilgamesh',
             'figures/mesopotamian-dumuzi-tammuz',
             'figures/canaanite-baal',
@@ -198,6 +226,7 @@ const sidebars: SidebarsConfig = {
           label: 'Egyptian',
           collapsed: true,
           items: [
+            'figures/egyptian-aten-ra-amun',
             'figures/egyptian-osiris',
           ],
         },

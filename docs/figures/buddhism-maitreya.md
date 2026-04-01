@@ -22,9 +22,17 @@ In DN 26, the Buddha prophesies **Metteyya** as a future Buddha after a long per
 - **Bodhisattva** trajectory in Mahāyāna: Maitreya dwells in **Tuṣita** heaven before descent.
 - **Dharma** restoration—not a Davidic or Iranian king in the biblical sense, but a **parallel** in “future restorer of the true teaching.”
 
+## East Asian transmission: Miroku and the Manichaean interface
+
+In East Asia, Maitreya circulates under the Japanese name **Miroku** (弥勒) and the Chinese **Mílè** (彌勒) — standard phonetic transcriptions of Sanskrit *Maitri-* / Gāndhārī *Metreya* via Chinese Buddhist translation. Three movements transmitted Maitreya Buddhism to East Asia: Miroku Buddhism (弥勒仏教), Pure Land Buddhism (浄土教), and Esoteric Buddhism (密教) — all of which reached Japan during or after the Asuka era (592–710 CE) via the Silk Road corridor.
+
+A minority hypothesis associated with Japanese researcher Imoto proposes that "Miroku" derives not from Sanskrit but from Middle Persian **Mihrak** (a diminutive of Mithra), citing a phonetic chain Mihrak → Mi-l'әk → 弥勒. This is a **Tier C minority position** unverified against standard Sino-Buddhist phonological scholarship. See [Measuring influence: Mitra, Mithra, Maitreya](../overview/measuring-influence-mitra-maitreya.md) for the full assessment and backlog item R26.
+
+More solidly attested: Central Asian Manichaean texts from the Turfan finds refer to Maitreya as **Mitri-Burkhan** ("Mitra-Buddha") — an explicit Manichaean conflation of the figures (Tier B; Mirecki & BeDuhn, *Emerging from Darkness*, Brill 1997, p. 94). This does not change Maitreya's Buddhist developmental history but does show that the Mitra–Maitreya identification was made explicit within the Manichaean synthesis milieu through which Buddhism reached parts of East Asia.
+
 ## Scholarly notes
 
-**Indo-Iranian influence** on the Maitreya motif is **debated**; some see distant echoes, others stress **indigenous** Buddhist development. Compare Islamic **Mahdi** and Jewish **messiah** in comparative studies (e.g. *Religions* 2024 on savior narratives).
+**Indo-Iranian influence** on the Maitreya motif is debated; some see distant echoes, others stress indigenous Buddhist development. Compare Islamic **Mahdi** and Jewish **messiah** in comparative studies (e.g. *Religions* 2024 on savior narratives).
 
 ## Key references (starting points)
 

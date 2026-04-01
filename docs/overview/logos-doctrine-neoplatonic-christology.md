@@ -316,6 +316,8 @@ More contested:
 - [1 Enoch and the Son of Man](enoch-son-of-man.md) — the Jewish apocalyptic pre-existent figure that John translates into Logos language
 - [Paul's celestial Christology and the solar mediator tradition](paul-celestial-christology.md) — the Pauline layer; pre-existence, stellar imagery, cosmic powers
 - [Sophia and the Wisdom tradition](sophia-wisdom-tradition.md) — the Jewish parallel track that merged with the Logos doctrine
+- [Stoicism and the synthesis](stoicism-and-synthesis.md) — the Stoic *Logos spermatikos* and *pneuma* as the direct philosophical bridge; Acts 17:28 as documented Stoic-Christian convergence
+- [Alexandria as the great synthesis laboratory](alexandria-synthesis-hub.md) — Philo's Logos theology, the LXX translation choices, Origen, and the Platonic infrastructure of Christian theology
 - [Hellenistic period transmission](hellenistic-period-transmission.md) — Philo in context; LXX; Stoic philosophy
 - [Interpretatio and divine translatability](interpretatio-and-divine-translatability.md) — why the Apollo/Logos/Christ equations felt natural in the ancient world
 - [Neoplatonism and theurgy](neoplatonism-and-theurgy.md) — Plotinus, Porphyry, Iamblichus, Julian

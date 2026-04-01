@@ -237,6 +237,38 @@ is genuinely open. The structural convergence itself is **Tier A** — both trad
 
 - **Beckwith, Christopher I.** *Greek Buddha: Pyrrho’s Encounter with Early Buddhism in Central Asia* (Princeton, 2015) — read with reviews (e.g. BMCR 2016).
 - **Flintoff, Everard.** “Pyrrho and India.” *Phronesis* 25 (1980): 88–108 — the foundational scholarly article on the Pyrrho-Buddhism connection.
+## 9. The shared Greek vocabulary thesis (Tier B–C)
+
+A structural explanation for apparent Buddhist–Christian convergence that does not require direct contact between the traditions: much of what looks like philosophical convergence between Mahāyāna Buddhism and early Christianity may reflect the **same Greek philosophical vocabulary** applied to two different sacred corpora by overlapping intellectual communities at the same synthesis nodes (~3rd BCE–3rd CE).
+
+The thesis is examined in detail at [The shared Greek translation lens](greek-vocabulary-translation-lens.md). Key findings from the systematic term survey:
+
+- *Eusebeia* (piety) was applied to Buddhist *dharma* in Aśoka's Greek edicts (~250 BCE) — earlier than most NT uses
+- *Logos* appears in Christianity (John 1:1) but has **no direct Buddhist equivalent** — its absence from Buddhist Greek texts undermines claims of Buddhist Logos influence
+- *Sōtēr/sōtēria* (savior/salvation) is completely absent from Buddhist Greek usage — the Christian salvation concept traveled via the LXX and Hellenistic ruler cult, not Buddhism
+- *Anastasis* (resurrection) has no Buddhist parallel and entered Jewish apocalypticism through Iranian channels, not Buddhist ones
+- The *trikāya*–Trinity structural convergence (three-level cosmic hierarchy) may reflect both traditions independently applying the Middle Platonic three-*hypostaseis* framework, not direct cross-traditional borrowing
+
+The implication: scholars who argue for direct Buddhist influence on Christianity (or vice versa) may in several specific cases be observing a **shared imprint of Middle Platonic Greek** on two different traditions, not actual contact.
+
+## 10. Indirect influence through shared translation nodes (Tier B–C)
+
+Even if direct Buddhist–Christian contact is minimal or unproven, the two traditions may have **indirectly affected each other** through a chain of shared intellectual environments:
+
+1. Indian contemplative practice (~600–400 BCE) influenced Pyrrho's philosophy at Taxila (~327–325 BCE)
+2. Pyrrhonian skepticism influenced Middle Platonism
+3. Middle Platonism provided the shared vocabulary through which both Buddhist (Gandhāran) and Christian (Alexandrian/Antiochene) intellectuals articulated their traditions
+4. The Gandhāran Buddhist synthesis and the Alexandrian Christian synthesis both used this vocabulary independently, producing surface-level convergences that were not the result of either tradition reading the other's texts
+
+The **synthesis nodes** (Alexandria, Antioch, Taxila/Gandhāra) are the locations where this indirect interaction was most productive. See [Synthesis at network nodes](synthesis-at-nodes.md).
+
+This model explains:
+- Why Nāgārjuna's *prasaṅga* method resembles Greek *reductio ad absurdum*: both used the same logical tools available in the Hellenistic intellectual environment
+- Why Mahāyāna bodhisattva theology and Pauline Christology share a cosmic-mediator structural profile: both drew on the same PIE-inherited slot (see [PIE origin of the messianic slot](pie-mediator-slot-origins.md))
+- Why Neoplatonic apophasis and Buddhist *śūnyatā* are formally identical: both follow the same algorithm when pushing their core concepts to their logical limit (see [The identical algorithm](skepticism-mysticism-negative-grammar.md))
+
+---
+
 - **Schlingloff, Dieter.** *Untersuchungen zum buddhistischen Meditationslehre* (Akademie-Verlag, Berlin, 1964) — identifies two-stage meditative sequence paralleling Pyrrho’s *apateia* → *ataraxia*.
 - **Jayatilleke, K.N.** *Early Buddhist Theory of Knowledge* (Allen & Unwin, 1963) — definitive study on early Buddhist epistemology and the Ājñāna school.
 - **Monier-Williams, M.** *A Sanskrit-English Dictionary* (Oxford, 1899) — entries for *sukha* and *duḥkha* on the etymology argument.

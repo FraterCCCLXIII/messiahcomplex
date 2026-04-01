@@ -72,6 +72,8 @@ The Śaka rulers of northwestern India left a cultural legacy that extends far b
 
 **Significance for this site:** The Saka cultural legacy illustrates the same pattern documented for the Indo-Greeks: "foreign" rulers not merely assimilating into Indian culture but actively reshaping it in ways that defined its later forms. The mechanisms by which Śramaṇic traditions spread through Central Asia into East Asia were in part Saka-mediated — a fact often obscured by later textual traditions' tendency to minimize "barbarian" contributions.
 
+Pollock's *praśasti* finding points toward a broader structural pattern — the **barbarian inaugurator pattern** — in which the canonical and iconic forms of major religious traditions were built on infrastructure provided by foreign conquerors whom those traditions themselves classified as outsiders. This pattern recurs across the Indo-Greeks (anthropomorphic Buddha image), the Kushans (Silk Road transmission infrastructure, Mahāyāna iconography), the Achaemenid Persians (Hebrew Bible canonization, Kharoṣṭhī script), and the Sakas (Sanskrit as imperial language). See [The barbarian inaugurator pattern](barbarian-inaugurator-pattern.md) for the full cross-traditional synthesis.
+
 ## Controversies (brief)
 
 - **Beckwith:** critics argue he overreads etymology, conflates Prakrit / Sanskrit forms, or sidelines early Indian Buddhist texts that situate the Buddha in Greater Magadha / the Gangetic plain. See academic reviews (e.g. BMCR) and Indological responses.
@@ -94,6 +96,7 @@ The Śaka rulers of northwestern India left a cultural legacy that extends far b
 
 - [Alternative Buddha–Jesus transmission theories (critical survey)](alternative-buddha-jesus-transmission-theories.md) — Durant, Lost Tribes, Jesus-in-India/Japan literature, Theosophy, genetics
 - [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md) — Greek monks, Aï Khanoum, Begram, Heracles → Vajrapāṇi
+- [The barbarian inaugurator pattern](barbarian-inaugurator-pattern.md) — the Saka *praśasti* finding as part of a cross-traditional structural pattern
 - [Mithra cluster hub](/docs/mithras)
 - [Indo-Iranian Mitra and contract](indo-iranian-mitra-contract.md)
 - [Helios, Apollo, and Sol — solar syncretism](helios-apollo-sol-syncretism.md) — Greco-Bactrian solar deity synthesis

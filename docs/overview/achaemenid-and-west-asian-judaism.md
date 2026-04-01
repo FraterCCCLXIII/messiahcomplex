@@ -8,6 +8,8 @@ description: Imperial context, forms of evidence, Elephantine and Babylonian arc
 
 The **Achaemenid** (Persian) empire (c. 550–330 BCE) united **Iran**, **Mesopotamia**, **Egypt**, and **the Levant** under administrative and linguistic systems that **moved people, scribes, and cultic vocabulary** across long distances. For **Judaism**, the **Persian period** is the era of **Yehud**, **temple restoration** traditions, and major **Diaspora** nodes (including **Elephantine**). This page collates **what historians agree on** and **what remains debated** regarding **Iranian / Zoroastrian** impact on **Jewish** eschatology and messianism.
 
+> **Preceding layer.** The Achaemenid contact with Judaism presupposes a prior and equally significant encounter: the **Babylonian exile** (597–538 BCE) in which Mesopotamian cosmology, wisdom literature, and royal theology entered Jewish thought. See [Mesopotamian religion and the Babylonian exile](mesopotamian-religion-and-jewish-exile.md) for that foundational layer, and [Egyptian solar theology and wisdom](egyptian-solar-theology-and-wisdom.md) for direct Egyptian literary transmission into the Hebrew Bible (Amenemope → Proverbs).
+
 ## Pages in this section
 
 This page is the hub for the **Achaemenid contact & Judaism** section — the 550–330 BCE Persian empire as the primary contact zone between Iranian religious culture and Second Temple Judaism.

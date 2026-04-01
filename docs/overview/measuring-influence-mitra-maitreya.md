@@ -60,8 +60,50 @@ The **Amidah** is recited **standing**; Hebrew **עמד** is a **Semitic** root.
 | Zone | Why it matters |
 | --- | --- |
 | **Central Asia / Tarim** | Translation and manuscript networks; Iranian languages and Buddhism overlap for centuries. |
-| **Gandhara / northwest India** | **Layered** Greek, Saka, Kushan, Parthian, Indian histories ([Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md)). |
-| **Iranian plateau** | Continuous Zoroastrian and **later** Zoroastrian–Islamicate environments; distinct from Indian Buddhism but part of **wider** West Asian ecologies. |
+| **Gandhara / northwest India** | Layered Greek, Saka, Kushan, Parthian, Indian histories ([Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md)). |
+| **Iranian plateau** | Continuous Zoroastrian and later Zoroastrian–Islamicate environments; distinct from Indian Buddhism but part of wider West Asian ecologies. |
+
+## Manichaean attestation: Mitra-Buddha and East Asian transmission
+
+The Manichaean evidence adds a specific documented layer to the Mitra–Maitreya question — distinct from either the phonological etymology debate or the Gandhāran iconographic question.
+
+### "Mitri-Burkhan" in Central Asian Manichaeism
+
+Mirecki and BeDuhn's sourcebook notes that Manichaean communities in Central Asia referred to Maitreya as ***Mitri-Burkhan*** ("Mitra-Buddha") — explicitly combining the Iranian divine name Mithra/Mihr with the Turkic/Mongolian word for Buddha (*burkhan*). This is attested in Manichaean texts from the Turfan finds:
+
+> "Manichaeism in Central Asia calls Maitreya Mitri-Burkhan (Mitra-Buddha)."
+> — Mirecki, Paul & Jason BeDuhn (eds.), *Emerging from Darkness: Studies in the Recovery of Manichaean Sources* (Brill, 1997), p. 94.
+
+**Tier B.** This is a real attestation in a peer-reviewed Brill volume — not a phonological hypothesis, but a documented naming practice. It demonstrates that at least *within the Manichaean synthesis tradition*, the identification of Maitreya with Mithra/Mihr was explicit. It does not prove that Buddhist Maitreya was genealogically derived from Mithra (the mainstream Buddhist scholarly consensus remains otherwise), but it confirms that Manichaean communities in the Central Asian corridor consciously identified the two figures.
+
+**What this does and does not show:**
+- It shows that the Iranian-Buddhist interface, mediated through Manichaeism, produced an explicit named conflation.
+- It does not establish this conflation as the origin of Maitreya — Nattier's work and the Bajaur manuscript evidence (see [Amitābha, Maitreya, and Gandhāra–Mahāyāna evidence](amitabha-maitreya-gandhara-transmission.md)) still support an internally Buddhist developmental trajectory.
+- The Manichaean synthesis may have *reinterpreted* Maitreya through an Iranian lens rather than transmitted an Iranian original.
+
+### Manichaeism as a transmission vector into East Asia
+
+Manichaeism's documented spread tracks closely with the regions where Maitreya Buddhism took its most syncretic forms:
+
+| Route | Evidence | Period |
+| --- | --- | --- |
+| **Uyghur Empire** | State religion under Khagan Boku Tekin (759–780 CE); attested in inscriptions and texts | 763–840 CE |
+| **China (Silk Road)** | Manichaean-Buddhist syncretism documented; Milo-ism (弥勒教) in popular religion | Tang onward |
+| **Tibet** | Possible Manichaean influence on native Bon-po tradition (debated; Tier B) | Pre-Buddhist Tibet |
+| **Medieval Europe** | Bogomils, Paulicians, Cathars — later echoes of Manichaean dualism | 9th–13th cent. CE |
+
+Lieu's *Manichaeism in Central Asia and China* (Brill) is the standard reference for this spread. The Uyghur state adoption is an established historical fact (Tier A); the Tibetan Bon-po connection is debated specialist territory (Tier B).
+
+### The Miroku / Mihrak hypothesis (Tier C — unverified, needs primary source)
+
+A more speculative hypothesis, associated with Japanese researcher Imoto, holds that Japanese **Miroku** (弥勒, the East Asian name for Maitreya) derives not from Sanskrit *Maitreya* via Chinese phonetic transcription, but from Middle Persian **Mihrak** — a diminutive/nickname form of *Mithra*. The proposed phonetic chain runs: Mihrak → Mi-l'әk (Sino-Tibetan transcription) → Miroku 弥勒 (Japanese).
+
+> "According to Prof. Imoto, the origin of the name Miroku is Middle Persian Mihrak, which is the nickname for Mithra."
+> — Imoto, "Influence of Iranian Culture to Japan," as summarized in secondary sources.
+
+**Caution:** This claim circulates primarily through secondary and popular-audience sources; Imoto's original Japanese-language paper ("Influence of Iranian Culture to Japan") has not been verified against standard Sino-Buddhist phonological studies or checked against the Sanskrit Maitreya → Old Chinese Mílè 彌勒 transmission chain (which is well-documented in Buddhist studies). The received scholarly account — that 弥勒 is a phonetic transcription of Sanskrit *Maitri-* via Gāndhārī *Metreya* — remains standard. Imoto's hypothesis needs primary-source verification before it can be accepted as anything stronger than a Tier C minority position. See backlog item R26.
+
+**What is independent of the Mihrak hypothesis:** Even without accepting the etymology, the general picture of Manichaean and Iranian-tinged religion reaching Japan during the Asuka era (592–710 CE) via the Central Asian corridor — through the three syncretic movements of Miroku Buddhism, Pure Land Buddhism, and Esoteric Buddhism — is a reasonable summary of the transmission history documented in mainstream scholarship, even if the "Mihrak = Miroku" etymology specifically is contested.
 
 ## Proto-Indo-European (PIE) vs Indo-Iranian specificity
 

@@ -29,6 +29,8 @@ This page is the hub for the **Mediterranean mysteries** section — the mystery
 | [Paul, Mithraism, and historicity](paul-mithraism-and-historicity-notes.md) | Mithra–Paul parallel debates; manuscript gaps; tiered assessment |
 | [Mediterranean mystery sources — appendix](mediterranean-mystery-sources-appendix.md) | Hymns, oracles, inscriptions, and chronological caveats for source use |
 | [Mediterranean figure glossary](mediterranean-figure-glossary.md) | Quick reference for figures, titles, and cult terms |
+| [Stoicism and the synthesis](stoicism-and-synthesis.md) | Stoic Logos, cosmopolitanism, and pneuma — the philosophical bridge language for the mystery-to-Christianity transition |
+| [Hermeticism and the Corpus Hermeticum](hermeticism-corpus-hermeticum.md) | The most explicit Egyptian-Greek-Jewish synthesis product; gnosis as salvation; the Thoth-Hermes figure |
 
 ---
 
