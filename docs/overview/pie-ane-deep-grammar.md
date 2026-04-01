@@ -38,6 +38,16 @@ The historically attested messianic traditions are not free-floating inventions.
 
 ## Pages in this zone
 
+### PIE origins and the Indian branch
+
+| Page | What it covers |
+| --- | --- |
+| [PIE origins, the Yamnaya expansion, and mechanisms of religious transmission](pie-origins-yamnaya-expansion.md) | The Pontic–Caspian steppe homeland, Yamnaya culture, core features of PIE religion (sky father, storm god, *mitra-* slot, tripartite cosmology, horse sacrifice), the shamanic substrate, expansion timeline (Sintashta → Andronovo → India), and the mechanisms of religious transmission (elite dominance, syncretism, oral tradition, trade) |
+| [Indo-Aryan migration and Vedic religion](vedic-religion-indo-aryan-migration.md) | The Sintashta–Andronovo trajectory into South Asia; BMAC contact; the Rigvedic pantheon (Indra, Agni, Varuṇa, Mitra, Soma, Uṣas, Aśvins); *ṛtá* as cosmic order; the Aśvamedha; the Indus Valley Civilization encounter; proto-Śiva and yogic substrates; transformation toward Hinduism |
+| [The Śramaṇa revolution and the Axial Age in India](sramana-revolution-axial-india.md) | The 800–300 BCE movements (Buddhism, Jainism, Upanishads) that transformed the Vedic inheritance; karma and *dharma* as universalized *ṛtá*; the Māra combat as PIE cosmic-combat in soteriological key; Bodhisattva/Maitreya as cosmic mediator; the Hindu synthesis (Bhagavad Gītā, bhakti); how this zone connects to the site's Gandhāran corridor arguments |
+
+### PIE myth and narrative grammar
+
 | Page | What it covers |
 | --- | --- |
 | [Two brothers, divine twins, and fraternal archetypes](pie-twin-and-brother-archetypes.md) | *\*Manu/\*Yemo* reconstruction; Cain & Abel, Romulus & Remus, Osiris & Set, Dioskouroi — full inventory |

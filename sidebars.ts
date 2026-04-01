@@ -158,6 +158,11 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'overview/pie-ane-deep-grammar'},
       collapsed: true,
       items: [
+        // ── PIE origins and the Indian branch ────────────────────────────
+        'overview/pie-origins-yamnaya-expansion',
+        'overview/vedic-religion-indo-aryan-migration',
+        'overview/sramana-revolution-axial-india',
+        // ── PIE myth and narrative grammar ───────────────────────────────
         'overview/pie-twin-and-brother-archetypes',
         'overview/primordial-cosmic-man',
         'overview/pie-cosmic-combat-myth',
