@@ -74,12 +74,12 @@ Mirecki and BeDuhn's sourcebook notes that Manichaean communities in Central Asi
 > "Manichaeism in Central Asia calls Maitreya Mitri-Burkhan (Mitra-Buddha)."
 > — Mirecki, Paul & Jason BeDuhn (eds.), *Emerging from Darkness: Studies in the Recovery of Manichaean Sources* (Brill, 1997), p. 94.
 
-**Tier B.** This is a real attestation in a peer-reviewed Brill volume — not a phonological hypothesis, but a documented naming practice. It demonstrates that at least *within the Manichaean synthesis tradition*, the identification of Maitreya with Mithra/Mihr was explicit. It does not prove that Buddhist Maitreya was genealogically derived from Mithra (the mainstream Buddhist scholarly consensus remains otherwise), but it confirms that Manichaean communities in the Central Asian corridor consciously identified the two figures.
+**Tier B.** This is a real attestation in a peer-reviewed Brill volume — not a phonological hypothesis, but a documented naming practice. These were not confused modern comparativists: they were people living and writing in the actual Central Asian transmission corridor who made the identification themselves and apparently found it self-evident. That the conflation was stable enough to become standard Manichaean terminology for the figure is itself meaningful evidence about how the milieu understood the relationship between the two figures.
 
 **What this does and does not show:**
-- It shows that the Iranian-Buddhist interface, mediated through Manichaeism, produced an explicit named conflation.
-- It does not establish this conflation as the origin of Maitreya — Nattier's work and the Bajaur manuscript evidence (see [Amitābha, Maitreya, and Gandhāra–Mahāyāna evidence](amitabha-maitreya-gandhara-transmission.md)) still support an internally Buddhist developmental trajectory.
-- The Manichaean synthesis may have *reinterpreted* Maitreya through an Iranian lens rather than transmitted an Iranian original.
+- It shows that the Iranian-Buddhist interface, mediated through Manichaeism, produced an explicit named conflation that persisted as standard terminology.
+- It does not establish this conflation as the genealogical *origin* of Maitreya — Nattier's work and the Bajaur manuscript evidence (see [Amitābha, Maitreya, and Gandhāra–Mahāyāna evidence](amitabha-maitreya-gandhara-transmission.md)) support an internally Buddhist developmental trajectory for Pure Land concepts.
+- But "internally Buddhist developmental trajectory" and "Iranian milieu influence on the elaboration of Maitreya's cosmic role" are not mutually exclusive. The Manichaeans selected Maitreya for this identification rather than any other Buddhist figure — which itself suggests the conceptual overlap was legible from within the Buddhist tradition, not merely imposed from outside it.
 
 ### Manichaeism as a transmission vector into East Asia
 
@@ -142,11 +142,53 @@ This table can **score claims** in annotated research notes:
 | **Buddhist-studies mainstream** | Often emphasizes **maitrī** etymology + **regional** Buddhist development; **Iranian** links as **optional** enrichment |
 | **Assertive Mithra–Maitreya** theses | Exist in older comparative religion; treat as **hypotheses** requiring **primary-text** defense |
 
+## Methodological note: what "specialists reject it" actually establishes
+
+The scholarly rejections of Mithra–Maitreya connection claims — Fujita (1970), Tanabe (2020), Nattier, Fussman — carry real weight, but they need to be read carefully for what they actually target and why they carry the weight they do.
+
+**What these rejections do target precisely:**
+- Fujita rejected specific Zoroastrian *triad* equations for the Amida triad — the claim that the three figures in the Amitābha triad (Amitābha, Avalokiteśvara, Mahāsthāmaprāpta) map onto a specific Zoroastrian divine triad. This is a targeted rejection of a structural equation, not a rejection of the broader milieu question.
+- Tanabe (2020) demolished the de Mallmann proposal (Avalokiteśvara = Mithra, Amitāyus = Zurvan) because Zurvan is not attested in Kushan Zoroastrianism at the relevant period. Again: this is a rejection of a specific mapping that uses wrong evidence.
+- Nattier argued that Pure Land has Indian developmental roots — specifically that Akṣobhya precedes Amitābha — which shows the *concept* does not require an Iranian import. But internal Buddhist development and Iranian milieu influence are not mutually exclusive.
+
+**What these rejections do not establish:**
+- That the shared *\*mitra-* root connecting *maitrī* and *Mithra* is irrelevant
+- That the Manichaean Mitri-Burkhan identification is not historically significant
+- That the Gandhāran milieu — where MIIRO and BODDO appeared on the same coins — did not shape how Buddhist concepts developed
+- That the escalation of Maitreya's cosmic importance in Mahāyāna, happening specifically in the northwest Indian/Gandhāran zone, owes nothing to the ambient Iranian conceptual vocabulary
+
+**The disciplinary bias problem:**
+Buddhist studies as a field developed partly in reaction to 19th-century comparative-religion frameworks that subordinated Buddhist development to outside influences, and it has a strong methodological tendency toward emphasizing the internal coherence and autonomous development of Buddhist doctrine. This is a legitimate corrective to earlier overclaiming — but it can produce its own bias: the a priori assumption that an internal explanation is always sufficient and that external milieu influences are secondary unless proven by a direct textual smoking gun. The problem is that milieu influence rarely produces a single smoking-gun text. It produces exactly what we have here: shared vocabulary, co-existing figures in the same cultural space, functional parallels, and — in the Manichaean case — an explicit ancient identification made by people who actually lived in the transmission corridor.
+
+Rejecting milieu influence because no single text proves direct derivation is a legitimate methodological position, but it is not the same as the evidence being absent. It is a methodological choice about what burden of proof is required. Different disciplinary communities make that choice differently.
+
+**The cumulative circumstantial case:**
+
+The argument for taking the *mitra-* connection seriously does not rest on any single point — it rests on the convergence of several independent lines:
+
+1. **Shared etymology**: *maitrī* and *Mithra* share the same Indo-Iranian root *\*mitra-* ("contract, bond, friendship"). This is not an analogy or a hypothesis — it is established comparative linguistics. The conceptual field of the root — covenant, reciprocal obligation, loving connection — is precisely the field both figures occupy.
+
+2. **Temporal and geographic escalation**: Maitreya in the Pāli canon (DN 26) is a relatively modest prophesy of a future Buddha. It is in the Mahāyāna literature, developing in Gandhāra and northwest India from the 1st century BCE onward, that Maitreya becomes a *major cosmic savior figure* waiting in Tuṣita heaven, descending at the end of a degenerate age to restore the Dharma. That escalation into cosmic savior language happens precisely in the zone of maximum Iranian conceptual exposure. Whether it *required* Iranian input or merely *happened* there is the open question — but the timing and location are not coincidental.
+
+3. **The Manichaean attestation**: Central Asian Manichaeans called Maitreya *Mitri-Burkhan* — "Mitra-Buddha." This is documented by Mirecki and BeDuhn (Brill, 1997, p.94). These were not confused modern scholars; they were people living in the actual transmission corridor who made the identification explicitly. That identification was presumably meaningful to them and to their audience. It shows at minimum that the conceptual overlap between the two figures was legible to people in the milieu — not just to modern comparativists.
+
+4. **The "waiting divine figure" motif**: The specific Mahāyāna elaboration of Maitreya — a divine being who presently dwells in a heavenly realm and will descend to earth at the end of the current age — is structurally very close to the Zoroastrian *fravashi* tradition and to the hidden Saoshyant. This motif is not prominent in early Indian Buddhist thought; it becomes prominent in exactly the texts that developed in the Gandhāran-Central Asian corridor.
+
+5. **The *xwarnah* / radiance parallel**: The Iranian concept of *xwarnah* (divine glory/radiance) as the marker of the rightful cosmic figure — carried originally by Mithra and transferred to each legitimate king — has a structural parallel in the Mahāyāna Buddha's *vyāmaprabhā* (six-foot radiance as one of the Thirty-Two Great Marks) and in Amitābha's "Infinite Light" name. Radiant luminosity as the primary marker of cosmic salvific authority appears in both traditions, in the same geographical zone, in overlapping centuries.
+
+**What tier does this constellation of evidence support?**
+
+The strong genealogical identity claim — "Maitreya IS Mithra, directly derived" — is not supported by a single direct textual witness, and the specific structural equations proposed (Zoroastrian triad = Amida triad, etc.) have been shown to use incorrect evidence. For that strong claim: Tier C at best, with specific variants rightly downgraded to Tier D.
+
+The milieu-influence claim — "Iranian *mitra-* conceptual vocabulary shaped how Maitreya was elaborated as a cosmic savior figure in the Gandhāran zone" — is supported by the convergent evidence above. No single line is conclusive; the cumulative case is substantial. This belongs at Tier B: a specialist debate with real evidence on both sides, not a minority hypothesis that can be dismissed by asserting internal Buddhist development is "adequate."
+
+The distinction matters for how the site frames the question. "Specialist consensus rejects it" and "the evidence settles it" are not the same statement.
+
 ## Bottom line
 
-The **most defensible** general claim for **Buddhism / Hinduism** is **mixed**: **shared Indo-Iranian** heritage, **possible** **areal** influence in **Central Asia** and **northwest India**, and **strong** **functional** analogies—without a **single** clean **transmission line** from **Saoshyant** to **Maitreya** or **Kalki**.
+For **Buddhism / Hinduism**, the honest position is not simply "mixed." The *mitra-* etymology, the Manichaean attestation, the Gandhāran milieu, and the temporal escalation of Maitreya's cosmic profile in the Iranian contact zone together constitute a genuine circumstantial case that deserves Tier B treatment. What has not been established is a direct textual mechanism for genealogical derivation — but that bar, required by some specialists, is higher than the milieu model demands or than the site's methodology requires.
 
-For the **Jewish–Christian** arc, **imperial Persian** contexts and **Second Temple** literature offer a **stronger** (still debated) **historical** setting for **thematic** transfer than most **Indic** cases—see [Saoshyant influence hypotheses](saoshyant-influence-hypotheses.md) and [Achaemenid empire and West Asian Judaism](achaemenid-and-west-asian-judaism.md).
+For the **Jewish–Christian** arc, **imperial Persian** contexts and **Second Temple** literature offer a **stronger** (still debated) **historical** setting for **thematic** transfer than most **Indic** cases — see [Saoshyant influence hypotheses](saoshyant-influence-hypotheses.md) and [Achaemenid empire and West Asian Judaism](achaemenid-and-west-asian-judaism.md).
 
 ## See also
 

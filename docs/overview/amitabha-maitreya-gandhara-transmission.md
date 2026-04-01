@@ -41,7 +41,7 @@ This positions **Akṣobhya — not Amitābha — as the likely earliest celesti
 
 :::note Azimia (2023)
 
-**Moein Azimia**, "Mithra in Light of Buddhism and Manichaean: Savior Figure" (2023) proposes that **Maitreya and Mithra are the same figure**, citing historical and linguistic similarities and the Manichaean Mihr as a light-bearer, judge, and guide. This is a **minority position** not accepted in mainstream Buddhist studies, Iranian studies, or comparative religion. The stronger evidence points to **independent Buddhist development** (Nattier; Strauch/Bajaur texts) with Iranian motifs as possible contextual backdrop, not identity. Treat Azimia (2023) as an orientation-only source.
+**Moein Azimia**, "Mithra in Light of Buddhism and Manichaean: Savior Figure" (2023) proposes that **Maitreya and Mithra are the same figure**, drawing on historical parallels, linguistic similarities, and the Manichaean Mihr as a light-bearer, judge, and cosmic guide. The strong identity claim — same figure, genealogical derivation — is not accepted by the specialist consensus in Buddhist or Iranian studies, and should not be presented as settled. But the evidence Azimia marshals — the shared *mitra-* root, the milieu convergences, the Manichaean identification — points at a real circumstantial case that deserves to be engaged directly rather than dismissed by asserting that internal Buddhist development is "adequate." The stronger claim (identity) is Tier C at best; the weaker claim (milieu influence on Maitreya's cosmic elaboration) is Tier B. Treat Azimia (2023) as a useful orientation to the circumstantial evidence cluster, with the identity conclusion held at arm's length.
 
 :::
 
@@ -132,7 +132,7 @@ This argument deserves careful calibration:
 | The ambient Kushan milieu (MIIRO + BODDO coins) shows co-existence of Iranian solar and Buddhist religiosity | A — Secure | Numismatic evidence |
 | Iranian solar vocabulary and imagery colored the Gandhāran Buddhist milieu within which Amitābha iconography crystallized | B — Specialist debate | Plausible cultural influence; mechanism unspecified; no direct textual evidence |
 | The sun contemplation was deliberately modeled on Iranian solar cult practice | C — Hypothesis | No textual evidence; structural parallel only |
-| Amitābha derives genealogically from Mithra/Mitra as a figure | D — Rejected by specialists | Fujita 1970; Tanabe 2020 explicitly; phonological evidence does not support it |
+| Amitābha derives genealogically from Mithra/Mitra as a figure | D — Rejected by specialists for the specific equation | Fujita 1970; Tanabe 2020 reject specific triad equations; these rejections target structural mappings (Avalokiteśvara = Mithra, Amitāyus = Zurvan) using evidence shown to be wrong, not the broader milieu-influence question |
 
 ---
 
@@ -163,6 +163,8 @@ Tanabe's central argument is that the Amida triad (Amitābha flanked by Avalokit
 **The triad is dated to approximately mid-2nd to 3rd century CE** at Gandhāra, associated with the reign of Kanishka I (127–151 CE) on the basis of the BODDO image on Kushan gold coins.
 
 ### Explicit rejection of Zoroastrian triad equations
+
+A note on scope before reading these rejections: Tanabe's target is the specific claim that the *three-figure Amida triad* maps onto a Zoroastrian divine triad. That is a structural equation using specific figures (Avalokiteśvara = Mithra, Amitāyus = Zurvan, etc.). His demolition of that equation is well-grounded. It does not address — and is not intended to address — the broader questions of whether the *mitra-* etymological root is relevant, whether Iranian solar vocabulary shaped the Gandhāran milieu, or whether the Manichaean Mitri-Burkhan identification reflects a real conceptual overlap. Those questions remain open even after the triad equations are disposed of.
 
 Tanabe directly addresses and rejects the three main proposals for Zoroastrian origin of the Amida triad:
 
