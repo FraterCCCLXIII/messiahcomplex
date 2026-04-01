@@ -74,6 +74,43 @@ The Buddhist ideal of the *cakravartin* (wheel-turning universal monarch who rul
 | Death through conspiracy | Killed by Darius's coordinated plot (Tier A) | Various assassination attempt stories in Pāli texts (Tier C: mostly later hagiography) |
 | Assessment | Tier C: "death through betrayal/conspiracy" is genre-conventional in ancient sacred biography |
 
+### 7. The Body–Speech–Mind Moral Triad (Tier B)
+
+One of the more specific and underappreciated cultural parallels between early Buddhism and Zoroastrianism is the shared **tripartite ethical framework**:
+
+| Tradition | Triad | Terms |
+|---|---|---|
+| Zoroastrian | Good Thought / Good Word / Good Deed | *Humata* / *Hūxta* / *Huvaršta* (Avestan) |
+| Buddhist | Actions of Mind / Speech / Body | *Manas* / *Vāk* / *Kāya* (Sanskrit/Pali) |
+
+The Zoroastrian triad is among the most ancient and central formulations in the Gāthās (the hymns attributed to Zarathustra himself). The Buddhist triad structures the analysis of karma — intentional action — across all major Pali canon texts. The **sequence and categories are identical**: thought precedes word, word precedes deed; and all three categories are the domain of moral evaluation and soteriological consequence.
+
+This parallel is **Tier B** in the general sense (documented by Boyce and others as evidence of Iranian-Buddhist cultural contact) and does not require Gaumata specifically — it reflects a deeper shared inheritance between the Zoroastrian and early Buddhist ethical frameworks, consistent with the Śākya-Saka cultural connection. The triad is sufficiently specific and structurally distinctive that independent invention seems less likely than cultural transmission, though the direction and mechanism are debated.
+
+### 8. Stūpa and Kurgan: Sacred Burial Architecture (Tier B)
+
+The Buddhist **stūpa** (a hemispherical mound built over the relics of the Buddha or a revered teacher, serving as a pilgrimage and veneration site) and the Scythian/Saka **kurgan** (an earthen burial mound constructed over the remains of a noble or sacred person, similarly serving as a focal point for continued veneration) are structurally analogous in form, function, and social significance:
+
+| Feature | Buddhist Stūpa | Saka Kurgan |
+|---|---|---|
+| Form | Hemispherical earthen/masonry mound | Hemispherical earthen mound |
+| Contents | Bodily relics of the Buddha or teachers | Remains of nobles, warriors, sacred persons |
+| Function | Pilgrimage and circumambulation site | Veneration and ancestral memory site |
+| Social role | Legitimates community; focus of merit-making | Legitimates lineage; focus of ancestral cult |
+| Geographic distribution | Northwest India, Gandhāra, Central Asia | Eurasian steppe, Central Asia, northwest India |
+
+The geographic overlap between kurgan-building Saka cultures and the earliest Buddhist stūpa traditions (both concentrated in the Gandhāra/northwest India zone, the Achaemenid satrapies) makes cultural exchange at minimum plausible. If the Śākyas had Saka-Iranian origins, the stūpa tradition may represent a Buddhicized form of the kurgan veneration practice already embedded in their cultural inheritance. This is **Tier B** for the general Iranian-Buddhist parallel; the specific Gaumata connection (could the first stūpas have commemorated a figure from the Iranian tradition?) remains **Tier C**.
+
+### 9. Śākya Sibling Marriage and Iranian Xvaētuuadaθa (Tier B)
+
+Śākya origin narratives in Buddhist texts describe sibling marriage within the royal family to preserve the clan's purity — specifically the founding brothers and sisters of the Śākya lineage intermarrying. This practice is **anomalous in Brahmanical Vedic culture**, which strongly prohibits close-kin marriage, but is consistent with the Zoroastrian practice of ***xvaētuuadaθa*** ("next-of-kin marriage"), which was practiced among Achaemenid and Sassanid royal families and Iranian priestly classes as a religiously meritorious act preserving lineage purity.
+
+The anomaly is culturally diagnostic: Brahmanical Indian culture has no tradition that would motivate or explain this founding narrative; Iranian royal culture has a well-documented practice that exactly matches it. If the Śākyas inherited the *xvaētuuadaθa* cultural pattern, they were likely of Iranian cultural origin — supporting the Śākya-Śaka hypothesis above and placing the Buddha's clan within the broader Iranian cultural sphere from which the Gaumata narrative also emerges.
+
+**Tier B** (Attwood 2012; Witzel): the cultural anomaly is real; the Iranian parallel is specific; the hypothesis is plausible but unconfirmed. **Reference:** Attwood, Jayarava. "Possible Iranian Origins for the Śākyas and Aspects of Buddhism." *Journal of the Oxford Centre for Buddhist Studies* 3 (2012): 47–69.
+
+
+
 ## The Geographic and Chronological Problem
 
 For the Buddhist parallels to reflect actual transmission from Gaumata's story:

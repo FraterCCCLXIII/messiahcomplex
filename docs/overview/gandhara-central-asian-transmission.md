@@ -518,6 +518,7 @@ The distribution is best interpreted as evidence of the **Roman trade network ac
 
 ## See also
 
+- [Greco-Buddhism](greco-buddhism.md) — detailed treatment of Greek–Buddhist contact, Menander I, Pyrrho, anthropomorphic Buddha, and the Western reception question
 - [The Parthian corridor](parthian-arsacid-corridor.md) — the Kushan empire's western neighbor
 - [Measuring influence: Mitra, Mithra, Maitreya](measuring-influence-mitra-maitreya.md)
 - [Evidence leads — Persian milieu and Mitra cluster](evidence-leads-persian-milieu-and-mitra-cluster.md)

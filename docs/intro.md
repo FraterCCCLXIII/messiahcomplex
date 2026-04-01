@@ -24,6 +24,37 @@ The site works through all four — separating look-alike from genealogy, naming
 
 ---
 
+## The structural thesis
+
+The evidence accumulated across these zones points toward an argument that goes beyond cataloguing parallels. It can be stated in three nested layers — each more specific and more contestable than the one before.
+
+### The porous milieu model
+
+Most cases of similarity between salvific traditions are best explained neither as "X borrowed from Y" nor as "mere coincidence." What actually happened in every zone the site covers — Achaemenid, Hellenistic, Kushan, Sasanian — is that **shared cultural environments made certain conceptual tools available simultaneously to multiple communities independently developing their own theology**. Cosmic dualism, the mediator figure, universal resurrection, heavenly ascent, and faith-based salvation were not the exclusive property of any single tradition. They were the operative vocabulary of a shared intellectual milieu. When Paul's communities recognized structural similarities between Christ and Mithras, or when Justin Martyr compared Christian and Mithraic ritual in real time, they were not confused about origins — they were recognizing figures occupying the same inherited role in the cosmic economy.
+
+This "porous milieu" model replaces the false binary between *direct borrowing* and *pure coincidence* with the more accurate category of *shared conceptual environment*. It is more sophisticated than transmission genealogy precisely because it does not require a single textual pathway for every parallel, and it is more historically honest because it matches how ancient peoples themselves understood the situation: through *interpretatio*, the routine equation of functional equivalents across traditions.
+
+### The two-level explanation for structural parallels
+
+The deep overlap between Iranian, Jewish, Christian, Buddhist, and Roman traditions operates at two distinct levels that **reinforce rather than compete with each other**.
+
+At the deeper level, Proto-Indo-European religion carried a specific **function-space**: a solar mediator figure standing between the sky father and humanity, associated with contract, light, and cosmic order — filled by Vedic *Mitra*, Avestan *Mithra*, Greek Apollo/Helios, Roman Mithras, and, in a different but structurally cognate way, Paul's "Light of the World." The structural parallels exist in the first instance because multiple traditions *inherited* this function-space from a common ancestor. At the historical level, the Achaemenid, Hellenistic, and Kushan empires provided specific contact nodes where the vocabulary for filling this role was exchanged, elaborated, and adapted. Historical contact therefore explains *specific content* (why the Jewish eschatological vocabulary looks Iranian, why the Gandhāran Buddha iconography has Greek halos); the PIE substrate explains *why certain types of figure keep appearing independently across traditions that never met*.
+
+### The Axial Age as universalization of the hero cult
+
+The site's evidence, read as a single corpus, suggests a reframing of the Axial Age itself. Across IE cultures before the Axial period, a broadly consistent format governed the honoring of exceptional dead: the Greek *heroon* at a specific tomb, the steppe kurgan, the Vedic fire ritual for ancestors. The structural assumption is consistent — the dead person of exceptional power remains *available to the living through the site of the body*. What the Axial Age transformations did, in every tradition the site covers, was **delocalize this contact point**:
+
+- The Greek hero bound to a specific tomb became the cosmic Dionysus accessible through initiation anywhere
+- The ancestor honored at a specific kurgan became the Saoshyant who would restore all humanity at the end of time
+- The particular dead teacher became the Buddha whose relic fragments, distributed to 84,000 stupas, made him universally accessible
+- The figure executed at a specific location became the cosmic Christ accessible through meal and baptism anywhere in the empire
+
+The Axial breakthrough, on this reading, is not primarily a philosophical event (Jaspers) or a social-structural response to urbanization (Bellah, Eisenstadt) — though both of those accounts contain truth. It is the **transformation of locally-bound hero honors into portable, universalizable cosmic soteriology**. And the Achaemenid empire appears to be the specific historical mechanism that forced this delocalization: communities whose deity was tied to a temple, a tomb, or a homeland were rendered theologically homeless by imperial displacement. The traditions that survived were the ones whose mediator became universally portable — not tied to any single place, accessible to anyone through a teaching, a text, a name, a meal.
+
+This three-layer thesis is Tier C as a unified claim. Each component has evidence at different tiers (the PIE substrate is Tier A for specific philological cognates; the porous milieu model is methodological; the hero-cult universalization is a hypothesis). The value of stating it is that it suggests which comparisons are most likely to be productive, and names the structural logic that would need to be falsified to show that the convergences are coincidental rather than connected. See [Soteriological convergence of empire — four meta-patterns](overview/soteriological-convergence-of-empire.md) for the extended argument.
+
+---
+
 ## Seven research zones
 
 ### 1. The Indo-Iranian substrate
@@ -45,6 +76,8 @@ What makes this zone's argument compelling beyond individual parallels is **clus
 Judaism received this eschatological architecture into a tradition that already carried its own **Canaanite combat imagery** (Leviathan, Rahab, Yam — the sea-dragon cycle from pre-exilic Syro-Palestinian tradition) and would later receive **Hellenistic philosophical vocabulary** through the LXX (Logos, Sophia, *christos* for *māšîaḥ*, *paradeisos* from *pardēs*). Three distinguishable layers — Canaanite combat imagery, Iranian eschatological architecture, Hellenistic philosophical vocabulary — together account for the texture of apocalyptic Judaism far better than single-source derivation.
 
 **Key pages:** [Achaemenid empire and West Asian Judaism](overview/achaemenid-and-west-asian-judaism.md) · [The Hellenistic corridor](overview/hellenistic-period-transmission.md) · [Apocalypticism — genre and social origins](overview/apocalyptic-genre-and-social-origins.md) · [Sophia and the Wisdom tradition](overview/sophia-wisdom-tradition.md) · [Sibylline Oracles](overview/sibylline-oracles.md) · [Shia Imamology and Zoroastrian parallels](overview/shia-imamology-zoroastrian-parallels.md)
+
+**Research dossier — the Gaumāta / Bardiya hypothesis (Tier C):** The site maintains a dedicated dossier examining one of the most contested minority hypotheses in this field: that the Gaumāta usurpation narrative — a figure who claims royal identity, rules briefly, is killed as an impostor, and whose memory is subsequently contested in Achaemenid propaganda (Behistun, 522 BCE) — may have provided a biographical template that was absorbed and universalized into both Buddhist narrative patterns and early Christian structural motifs, transmitted via Saka-Scythian oral networks. The core biographical identification is Tier C (speculative; unprovable by the standard of literary dependence). Its value as a dossier is that it functions as a test case for the broader hero-cult universalization thesis: if even a politically destroyed figure could have his story absorbed into the portable mythology of the Axial traditions, the mechanism of delocalization proposed above gains a concrete historical candidate. See the [Bardiya / Gaumāta research dossier](bardiya/introduction.md) for the full evidence assessment.
 
 ---
 
@@ -86,6 +119,29 @@ Within this zone, two specific data points move beyond hypothesis into establish
 
 ---
 
+## The cosmic mediator slot
+
+Across every zone, the same structural position recurs: a being who stands between the eternal divine order and the broken human world, whose function is to bridge or restore that gap. This table is not an argument that these figures are "really the same god with different names" — it is an observation that every major tradition in the Indo-Iranian and Semitic sphere generated a figure to fill this role, drawing on a shared inherited function-space and shaped by specific historical contacts.
+
+| Figure | Tradition | Zone | Mediating function |
+|---|---|---|---|
+| *Mitra* (Indo-Iranian) | Vedic / Avestan | PIE deep grammar | Contract-keeper between humanity and the divine; guarantor of cosmic order (*ṛtá* / *asha*) |
+| Saoshyant | Zoroastrian | Achaemenid / Sasanian | Eschatological restorer who defeats cosmic evil, sacrifices the bull Hadayānš, and presides over universal resurrection |
+| Enoch / Son of Man | Second Temple Judaism | Achaemenid / Hellenistic | Hidden heavenly figure who sits on God's throne and judges all nations at the end of time (1 En. 37–71) |
+| Logos | Hellenistic Judaism / early Christianity | Mediterranean | Pre-existent agent of creation who "became flesh"; mediates the divine-human gap (Philo; John 1:1) |
+| Parousia / Christ | Christian | Mediterranean | Cosmic judge returning to complete the eschatological sequence; *kyrios* and *sōtēr* against Caesar |
+| Mithras | Roman mystery | Mediterranean | Initiatory mediator; tauroctony; competitor for the same cosmic function-space as the Christ |
+| Maitreya | Buddhist | Gandhāra / Kushan | Future Buddha presently waiting in Tuṣita heaven; will descend to restore the Dharma |
+| Amitābha | Pure Land Buddhist | Central Asian Silk Road | Cosmic savior of infinite light (*amita* + *ābhā*) who accepts all who call his name into his pure land |
+| Mahdi / Hidden Imam | Twelver Shia Islam | Sasanian / Islamic | Hidden mediator in occultation since 941 CE; will return to restore justice at the end of time |
+| Kalki | Hindu | Indo-Iranian substrate | Viṣṇu's tenth avatar; arrives at the end of the Kali Yuga on a white horse to defeat cosmic evil and restore the golden age |
+
+The Zoroastrian Saoshyant is the earliest fully elaborated version of this figure. The Hindu Kalki and Buddhist Maitreya represent parallel developments from the shared **Indo-Iranian substrate** — not direct borrowings from Zoroastrianism — since the material is ancestrally shared before the traditions diverge. The Jewish, Christian, and Islamic versions develop in traditions with documented Achaemenid and post-Achaemenid contact with Iranian theology, which explains the specific eschatological content (resurrection, cosmic judgment, named angelic administrators, cosmic adversary) they share with the Iranian originals. Placing these figures in a single table exposes what gets lost when traditions are studied in isolation: every tradition in the Indo-Iranian sphere generated a named figure who arrives at the end of a degenerate age, defeats cosmic evil, and restores righteousness. That is not coincidence — it is the persistence of an inherited function-space across 2,500 years of theological elaboration.
+
+**See also:** [Messianic archetypes](overview/messianic-archetypes.md) · [Soteriological convergence of empire](overview/soteriological-convergence-of-empire.md) · [Saoshyant](figures/zoroastrian-saoshyant.md) · [Eurasian mediator figures assessment](overview/eurasian-mediator-figures-assessment.md) · [Solar saviors: Mithra and Maitreya](overview/solar-saviors-mithra-maitreya.md)
+
+---
+
 ## Figures covered
 
 | Figure | Tradition | Type |
@@ -124,6 +180,8 @@ Within this zone, two specific data points move beyond hypothesis into establish
 | See the **positive research program** | [Exploring transmission and deep narrative patterns](overview/exploring-transmission-and-deep-patterns.md) |
 | Survey the comparative **archetypes** | [Messianic archetypes](overview/messianic-archetypes.md) |
 | Understand **why similarities might be convergent** | [The Axial Age — analytical framework](overview/axial-age-framework.md) |
+| See the **four meta-patterns across all zones** | [Soteriological convergence of empire](overview/soteriological-convergence-of-empire.md) |
+| Read the **Gaumāta / Bardiya hypothesis** dossier | [Bardiya — introduction](bardiya/introduction.md) |
 | Understand **syncretism as a methodology** | [Syncretism — concepts and methodology](overview/syncretism-methodology.md) |
 | Understand the **Iranian–Jewish connection** | [Achaemenid empire and West Asian Judaism](overview/achaemenid-and-west-asian-judaism.md) (nav: *Achaemenid & Hellenistic contact*) |
 | Understand the **Hellenistic transformation** | [The Hellenistic corridor](overview/hellenistic-period-transmission.md) |
@@ -141,6 +199,10 @@ Within this zone, two specific data points move beyond hypothesis into establish
 ## Editorial approach
 
 A general pattern runs across every zone: **transmission happens when a concept travels into a crisis that makes it urgently useful.** Iranian eschatological concepts entered Judaism during the Maccabean persecution — the same theodicy question that drove them (*if YHWH is just and powerful, why do the righteous die under pagan rule?*) supplied the urgency for adopting Iranian answers. Jewish apocalyptic vocabulary entered Hellenistic Christianity during Roman occupation and the crisis of a crucified messiah. Iranian eschatological concepts entered early Islam as Persian administrative elites, carrying Zoroastrian intellectual inheritance, entered the Abbasid caliphate after 651 CE. The mechanisms vary — empire, diaspora, bilingual texts, urban pluralism — but the social logic is consistent: communities under pressure reach for conceptual tools that explain why the righteous suffer, who the cosmic adversary is, and how present disorder will be resolved. Understanding *when* a concept was needed helps evaluate whether transmission is plausible, and why it was adopted as a coherent whole rather than in scattered fragments.
+
+The **porous milieu model** — named explicitly at [Soteriological convergence of empire](overview/soteriological-convergence-of-empire.md) — is the site's preferred replacement for the identity-claim frame ("Christianity comes from Mithraism," "Buddhism is derived from Zoroastrianism"). Those claims are both too strong and too weak: too strong because they imply textual dependence that the evidence rarely supports; too weak because they miss the shared conceptual environment that makes multiple communities reach for similar solutions independently. The porous milieu model holds that a shared cultural environment — Achaemenid, Hellenistic, Kushan, Sasanian — makes certain conceptual tools available as common vocabulary. Communities are not copying each other; they are drawing from the same well, which is why their products look alike without requiring a single point of origin. When the 19th-century polemical tradition claimed "the Church stole its sacraments from Mithraism," it was pointing at a real phenomenon — structural convergence in a shared Mediterranean milieu — while explaining it with the wrong mechanism. The fabricated parallels (Mithras's virgin birth, twelve apostles, crucifixion) invented by Higgins (1836) and Doane (1882) have no ancient attestation. The real overlaps — shared Hellenistic solar cosmology, shared PIE function-space, shared Roman initiation social technology — are structural, subtle, and more interesting than simple borrowing.
+
+**Four meta-patterns** recur across the entire corpus when zones are read together: (1) empire as both the crisis-creator and the transmission chassis; (2) the persistent cosmic mediator slot (*mitra-* function) being refilled in every tradition; (3) the written word acquiring the material sacredness of the teacher's body; (4) a progressive interiorization of salvation from external cosmic drama toward inner transformation, catalyzed at multiple points by contact with Greek philosophical methods. These patterns are developed fully in [Soteriological convergence of empire — four meta-patterns](overview/soteriological-convergence-of-empire.md).
 
 Pages use four informal **tiers of claim**:
 

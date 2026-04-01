@@ -94,6 +94,7 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'overview/gandhara-central-asian-transmission'},
       collapsed: true,
       items: [
+        'overview/greco-buddhism',
         'overview/parthian-arsacid-corridor',
         'overview/saka-scythian-hypotheses',
         'overview/measuring-influence-mitra-maitreya',

@@ -303,3 +303,123 @@ The theodicy crisis is the most important and most underdeveloped. The same cris
 ---
 
 *Last updated: March 2026. See also: [Method: evidence, influence, and milieu](../overview/method-evidence-and-influence.md).*
+
+---
+
+---
+
+## Cross-zone pattern synthesis — emerging findings (April 2026)
+
+*Working notes. All claims are preliminary and require further checking against primary sources. See tiers assigned per claim.*
+
+---
+
+### Pattern 1: The Achaemenid empire is not the background — it is the mechanism
+
+The conventional framing treats the Persian Empire as precursor: the backdrop against which Alexander arrived, the contact window before Hellenism, the prelude to Second Temple eschatology. Reading across all zones simultaneously, a stronger reading emerges: **the Persian Empire built the infrastructure — physical, administrative, linguistic, and conceptual — without which every other transmission event on the site could not have occurred.**
+
+Evidence accumulates from independent directions:
+
+- Scylax of Caryanda navigated the Indus *under Darius I's commission*, c. 518 BCE — Greeks were working in the Indo-Pakistani corridor two centuries before Alexander
+- Indian soldiers served in Xerxes' army against Greece (480–479 BCE); they returned carrying direct knowledge of both cultures
+- Chandragupta Maurya consciously modeled his administrative system on Achaemenid provincial governance — the template Ashoka then inherited
+- Ashokan pillars are formally modeled on Persian royal inscription columns; the *impulse* to use stone inscription as ideological administration is a Persian invention
+- Brahmi script (Ashoka's southern pillars) was derived from Achaemenid Aramaic — the Buddhist oral tradition was eventually committed to writing using a script from the Persian chancery
+- The Greek communities in Kandahar who received Ashoka's Buddhist inscriptions were placed there by Persian resettlement policy, not by Alexander
+- The scribes who translated *dharma* as *eusebeia* were operating within a Persian-built bilingual administrative culture that pre-existed Alexander's arrival
+
+The Greek-Buddhist corridor was not *created* by Alexander; it was *revealed* by him. The Jewish eschatological transformation was not caused by Hellenism; it was *enabled* by the Persian period that preceded it. The porous milieu model is correct, but the **Achaemenid empire is the specific milieu** — not "ancient pluralism" in the abstract. This reframing matters: it shifts the most significant causal mechanism 200 years earlier than the conventional Hellenistic emphasis. *(Tier B: individual evidence items are Tier A; the synthetic reframing is interpretive.)*
+
+---
+
+### Pattern 2: Translation is the mechanism of universalization
+
+A recurring structure appears in every zone — identical in form, different in content:
+
+| Zone | Source concept | Target vocabulary | What gets dropped |
+|---|---|---|---|
+| Gandhara, 260 BCE | Buddhist *dharma* | Greek *eusebeia* | The Buddha's name; all Buddhist specifics |
+| Alexandria, ~250 BCE | Jewish *māšîaḥ* | Greek *christos* | Davidic genealogy; Israelite particulars |
+| Jewish apocalypticism, ~165 BCE | Zoroastrian Saoshyant | Second Temple resurrection / judgment | Zoroastrian divine names; cosmic dualism as such |
+| Gandhara, 1st–2nd c. CE | Heracles (Greek protector deity) | Vajrapani (Buddhist protector deity) | Heracles's mythology; Greek identity |
+| Rome, 1st–4th c. CE | Iranian Mithra | Roman Mithras mystery | Iranian ritual context; Zoroastrian theology |
+
+In each case, the transmission event is a **translation** event. And the translations share one structural feature: **the source figure's proper name and local specificity are removed**. The Kandahar inscriptions don't name the Buddha. The Septuagint's Sophia doesn't require knowledge of Israelite particulars. Mithras's tauroctony is stripped of its Zoroastrian eschatological context and reframed.
+
+The delocalization thesis — that the Axial Age universalizes locally-bound hero honors into portable cosmic soteriology — is visible here at the textual and iconographic level. Translation *is* the mechanism of delocalization. Converting a tradition's content into the target culture's own philosophical vocabulary is precisely what makes it portable and universally accessible. The Dalai Lama XIV's comment on Gandharan Buddhist art captures the dynamic: Greek artistic naturalism made enlightenment feel like something "people like us can achieve," not just what a specific individual from a specific place achieved. The same thing happens in the Kandahar inscriptions at the textual level: Buddhist ethics become legible as Greek *eusebeia* before the Buddha's name is introduced at all.
+
+---
+
+### Pattern 3: The universalized, anonymous version often precedes the canonical, named version in writing
+
+This is the most counterintuitive finding to emerge from the Greco-Buddhism work and deserves explicit tracking:
+
+- Buddhist ethics were in written Greek (*eusebeia*, no Buddha named) **by 260 BCE**
+- The Pali Canon was not committed to writing until **29 BCE** — 230 years later
+- The Greek-reading world had Buddhist content in written form before the Buddhist world had a written canonical tradition
+
+There is a structural parallel in early Christianity:
+- Paul's letters (~50–55 CE) describe a Christ who is primarily cosmic — pre-existent, enthroned, cosmic judge, agent of creation, identified with divine Light — with minimal interest in the earthly biography
+- The Synoptic Gospels (~70–100 CE) supply the Galilean teacher, the parables, the miracle stories, the earthly life
+- The *universalized, philosophically abstracted* version came first in writing; the *locally specific, founder-named* biography came later
+
+If this is a real pattern rather than coincidence, it suggests a transmission sequence: **anonymous ethics → philosophical abstraction → named founder → canonical biography**. A tradition that wants to propagate into foreign territory first presents its content in the target culture's philosophical vocabulary, without forcing recognition of the source figure. The audience becomes receptive first; the named founder follows. This could be called the **"anonymous missionary" pattern** — and the Kandahar inscriptions are its clearest single artifact. *(Tier C: the pattern is suggestive; causal inference about deliberate strategy requires more evidence.)*
+
+---
+
+### Pattern 4: Bidirectionality is the rule, not the exception
+
+The Mahāvaṃsa records not only Greek monks traveling to Sri Lanka but Sri Lankan Buddhists traveling *to* Alexandria of the Caucasus to study Buddhism. Across all zones, traffic moves in multiple directions:
+
+- Zarmanochegas (Indian ascetic) burns himself to death in Athens; his tomb is shown to visitors for over a century
+- Greek monks lead Buddhist processions to Sri Lanka; 30,000 monks travel from a Greek city
+- Dharma-wheel gravestones appear in Alexandria, Egypt, during the Ptolemaic period
+- Pyrrho brings something back *from* India to Greece, founding Western skepticism
+- Buddhist manuscripts in Greek script travel on the same corridors as Greek artistic motifs traveling east
+- Indian ascetics are known to Megasthenes, Clement, Strabo, Plutarch — simultaneously
+
+No zone shows a single-direction flow. Every node in the transmission network was simultaneously receiving and transmitting. **Alexandria of the Caucasus was not a passive recipient of Buddhist influence — it became a reference center that South Asian Buddhists traveled to.** This systematically undermines the diffusion model ("Buddhism/Zoroastrianism/Hellenism spread outward from a single source") in favor of the network model: a set of nodes, each shaped at multiple points of contact, with the content being adapted at every node.
+
+This has methodological consequences: asking "which tradition borrowed from which?" may be the wrong question for most of these cases. The better question is "what conceptual vocabulary was available in this shared milieu, and what specific crisis made which community reach for it?"
+
+---
+
+### Pattern 5: The crisis-demand pattern is structurally identical across every zone
+
+| Zone | Administrative infrastructure (supply) | Crisis (demand) | Concept transferred |
+|---|---|---|---|
+| Jewish exile, 587–165 BCE | Achaemenid imperial roads, Aramaic chancery, bilingual scribal culture | Babylonian destruction; Maccabean persecution; theodicy crisis | Resurrection, cosmic dualism, final judgment, named cosmic adversary |
+| Gandhara, 260–29 BCE | Persian/Seleucid/Mauryan networks; Greek administrative presence | Kalinga war conversion; famine threatening oral lineage | Buddhist ethics in Greek; Pali Canon written down |
+| Early Christianity, 30–100 CE | Roman roads, Greek administrative language, LXX already available | Roman occupation; crucified messiah; theodicy | Cosmic Christ vocabulary from Jewish apocalypticism; Roman titles inverted |
+| Mahayana expansion, 1st–3rd c. CE | Kushan trade routes; Greek alphabet for Bactrian | Competition between Buddhist communities; geographic expansion | Sanskrit translations; bodhisattva doctrine; Pure Land cosmology |
+| Islamic world, 7th–9th c. CE | Sasanian administrative inheritance; Persian-speaking court elite | Arab conquest of Persian ruling class | Zoroastrian eschatological vocabulary into Shia imamology |
+
+Three elements always appear together: (1) empire creates the *supply* of available concepts through administrative contact; (2) crisis creates the *demand* by raising theodicy questions the existing tradition can't resolve; (3) translation makes the foreign concept legible in local terms. Remove any one element and the transfer doesn't stick — or doesn't leave traces we can detect.
+
+This points toward a **predictive principle**: wherever there is an administrative corridor enabling contact AND a community in theological crisis, look for soteriological concept transfer. The content travels because it answers urgent questions in a vocabulary the receiving tradition can use without abandoning its own identity.
+
+---
+
+### Emerging higher-order model: empire–crisis–translation
+
+The accumulated evidence across all zones is consistent with a single three-part causal model that explains the Axial Age transmission events more specifically than either the porous milieu model (which names the environment but not the catalyst) or zone-by-zone genealogy (which risks an endless chain of "X influenced Y"):
+
+1. **Empire** creates the administrative infrastructure — it moves people, scripts, and vocabulary across long distances and places different religious communities in routine bureaucratic contact
+2. **Crisis** creates the demand for portable, universal soteriology — communities under imperial pressure cannot sustain locally-bound religious systems and reach for concepts that explain why the righteous suffer and promise cosmic vindication
+3. **Translation** is the mechanism — the imported concepts are rendered in the target culture's own philosophical vocabulary, typically with the source figure unnamed or universalized, making the content portable and the adoption culturally safe
+
+This model does not replace the porous milieu model — it specifies the mechanism *within* it. The milieu provides the available vocabulary; the crisis creates the demand; translation is the act of transmission. The Axial Age on this reading is not primarily a philosophical breakthrough (Jaspers) or a social-structural response to urbanization (Bellah) — it is the first large-scale empire-driven wave of translation events, in which locally-bound hero honors and tribal theodicy were converted into portable cosmic soteriology available to anyone, anywhere, through a text, a name, a meal, or an initiation.
+
+*(The individual evidence items supporting the three-part model are Tier A–B. The synthesis into a single model is Tier C — a working hypothesis that could be falsified if, for example, major transmission events were found to occur without either crisis conditions or translation mechanisms. It is stated here as a productive target for further investigation, not as a demonstrated conclusion.)*
+
+---
+
+### Open questions this synthesis raises
+
+1. **The Kandahar-to-Pyrrho gap.** Ashoka's Greek scribes were producing philosophically refined Buddhist ethics in Greek c. 260–258 BCE. Pyrrho returned from India c. 324 BCE with ideas structurally parallel to the Buddhist Three Marks of Existence. Is there a chain connecting Ashokan scribal culture to early Greek Buddhist philosophy, or are these independent events? The question has not been asked in these terms.
+
+2. **Why does the anonymous version precede the canonical version?** Is the "anonymous missionary" pattern a deliberate strategy, a structural property of cross-cultural translation (you strip local specifics to make content legible), or a selection effect (anonymous versions travel further and therefore survive while locally-named versions don't)? The Kandahar inscriptions are the only datable artifact of this decision.
+
+3. **The written word as reliquary — when does writing shift from missionary tool to preservation tool?** In the Gandharan corridor, writing was an *outward* missionary instrument (Ashoka's inscriptions, 260 BCE) *before* it was an inward preservation instrument (Pali Canon, 29 BCE). This sequence may be general: traditions use writing to propagate *before* they use it to preserve, and the preservation-crisis canon comes later. If so, the canonical texts we have may systematically underrepresent the missionary phase that preceded them.
+
+4. **Does the empire–crisis–translation model apply beyond the Indo-Iranian sphere?** The site's scope stops at the edges of Eurasia. Analogous cases — the Aztec adoption of Spanish Catholic vocabulary, the Silk Road spread of Nestorian Christianity into Tang dynasty China — might test whether the three-part model holds outside the PIE and Semitic cultural world, or whether it is specific to those traditions.

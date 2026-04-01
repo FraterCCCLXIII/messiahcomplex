@@ -71,8 +71,14 @@ One Messiah source proposed a connection between:
 - **Sikayauvatiš** (Old Persian): the place name where Gaumata was killed, per the Behistun Inscription
 - **Sukhāvatī** (Sanskrit): the Western Pure Land of Amitābha in Mahāyāna Buddhism
 
-**Assessment (Tier C)**:
-While both terms evoke a "place of bliss/happiness," there is no established etymological pathway between Old Persian *Sikayauvatiš* and Sanskrit *Sukhāvatī*. The terms have different linguistic structures, different derivations, and are geographically unrelated. The phonetic and semantic "resonance" noted in the source material is a matter of subjective impression, not documented linguistic relationship. This claim should be discarded as Tier C/unattested.
+**Assessment (Tier C — linguistic claim)**:
+While both terms evoke a "place of bliss/happiness," there is no established etymological pathway between Old Persian *Sikayauvatiš* and Sanskrit *Sukhāvatī*. The terms have different linguistic structures, different derivations, and are geographically unrelated. The phonetic and semantic "resonance" noted in the source material is a matter of subjective impression, not documented linguistic relationship. The direct name-derivation claim should be treated as Tier C/unattested.
+
+**A second, separate argument — the Western Direction of Sukhāvatī (Tier C)**:
+
+Even if the etymological claim fails, a structurally distinct observation deserves separate treatment. In Mahāyāna Buddhist cosmology, Sukhāvatī — the Pure Land of Amitābha Buddha — is explicitly located **in the West** (*paścima*). Canonical texts such as the *Larger Sukhāvatīvyūha Sūtra* are consistent and emphatic about this: the practitioner faces west to invoke Amitābha. Western paradises are unusual in Indian cosmology (which more commonly orients sacred geography to the east or north); the western orientation could reflect an **imported Iranian template**, since the Zoroastrian paradise (*garō.nmāna* — the House of Song, later *Bihisht*) is associated with the light/sun direction and the heavenly realm in Zurvano-Zoroastrian mapping.
+
+Gaumata's death site (Sikayauvatiš, located in Media, northwest/western Iran) could be read — within the hypothesis's own frame — as a geographic memory of an important western sacred place, later transposed into the mythic western orientation of the Pure Land. This is a **Tier C** interpretive argument: it is internally coherent as a hypothesis but has no direct attestation and depends on multiple unverified premises. It is worth noting precisely because it is a *different* and slightly more interesting argument than the direct name claim.
 
 ## Royal and Religious Titles
 
