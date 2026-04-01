@@ -15,6 +15,12 @@ description: The archaeological and linguistic evidence for Proto-Indo-European 
 
 **Question:** What can we reconstruct about the religion of the PIE-speaking communities before their dispersal, and how confident can we be?
 
+**Who the PIE speakers were:** Philologist Martin L. West's formulation is the most precise available:
+
+> "If there was an Indo-European language, it follows that there was a people who spoke it: not a people in the sense of a nation, for they may never have formed a political unity, and not a people in any racial sense... We should probably think of them as a loose network of clans and tribes, inhabiting a coherent territory of limited size." (*Indo-European Poetry and Myth*, 2007)
+
+This framing matters for the site's comparative argument: the PIE speakers were a **linguistic community**, not an ethnic bloc or a unified political entity. Their religion was carried not by state institutions but by the shared vocabulary and oral-poetic tradition of dispersed pastoral clans. This is why religious parallels survive across 3,000 years of separation — and why they should not be read as evidence of ethnic or racial continuity between modern populations.
+
 **Method:** PIE religion is recovered through two converging disciplines:
 - **Comparative linguistics** — reconstructing shared vocabulary for deities, rituals, and cosmological concepts from cognate words across IE daughter languages
 - **Comparative mythology** — identifying narrative patterns that recur across geographically separated traditions and cannot be explained by later contact
@@ -44,9 +50,58 @@ The **Yamnaya** ("Pit Grave") culture is the archaeological horizon most consist
 - **Social hierarchy** — elite burials with prestige goods (weapons, ornaments, wheeled vehicles)
 - **Wide geographic range** — from the Danube to the Ural River
 
-The massive Yamnaya expansion after ~3300 BCE is now confirmed by ancient genomics: Yamnaya-related ancestry contributed 50–75% of the genetic ancestry of later Corded Ware populations in northern Europe, and Yamnaya-related populations moved east toward Central Asia (the Afanasievo culture in Siberia and the Tarim Basin).
+The massive Yamnaya expansion after ~3300 BCE is now confirmed by ancient genomics: Yamnaya-related ancestry contributed approximately **75% of the genetic ancestry of Corded Ware populations** in northern Europe (Haak et al. 2015), and Yamnaya-related populations moved east toward Central Asia (the Afanasievo culture in Siberia and the Tarim Basin).
+
+### The genetic composition of the Yamnaya
+
+A key finding from Jones et al. (2015) and Haak et al. (2015) is that the Yamnaya themselves were a **secondary admixture population** — not an original steppe lineage but a blend of two earlier groups:
+
+- **Eastern European Hunter-Gatherers (EHG)** — the mesolithic population of the Russian steppe, themselves partly related to Ancient North Eurasian (ANE) populations from Siberia (~50% of Yamnaya ancestry)
+- **Caucasus Hunter-Gatherers (CHG)** — a distinct population from the South Caucasus who had been isolated during much of the last Ice Age (~50% of Yamnaya ancestry)
+
+As Andrea Manica (Cambridge) summarized the finding: "their genetic make-up is a mix of Eastern European hunter-gatherers and a population from this pocket of Caucasus hunter-gatherers who weathered much of the last Ice Age in apparent isolation." All Yamnaya individuals sampled by Haak et al. (2015) belonged to Y-haplogroup **R1b**; R1a (the other major IE marker, prominent in Eastern Europe and northern South Asia today) derives from the EHG component.
+
+The presence of a significant **Caucasus/Near Eastern genetic component** in the Yamnaya — which connects them distantly to the populations that introduced farming into Europe from the Middle East — is the basis for a minority "south of the Caucasus" PIE homeland hypothesis advocated by David Reich and Kristian Kristiansen. Anthony (2019) argues against this reading, noting that the Caucasian contribution in Yamnaya derives from an *earlier* hunter-gatherer mixture, not from a Bronze Age or late-Neolithic Caucasian population.
+
+**Downstream genetic evidence:**
+- **Bronze Age Greece** (Lazaridis et al. 2017): Mycenaean Greeks had **13–18% steppe ancestry** not present in the earlier Minoan population — confirming IE migration into Greece during the 2nd millennium BCE
+- **Ireland and Iberia**: ancient DNA studies confirm R1b introduction from the steppe in the same period, replacing most prior Neolithic ancestry in Britain within a few generations
+- **South Asia**: ancient DNA from the Swat Valley and Haryana shows increasing steppe ancestry contributions consistent with Indo-Aryan migration c. 1500 BCE
 
 *(Tier A for the archaeological and genetic evidence. Tier B for the equation "Yamnaya = PIE speakers" — the genetic and cultural continuity is strong but not directly proven by text.)*
+
+---
+
+## History of research and competing hypotheses
+
+The question of where PIE speakers originated — the *Urheimat* ("original homeland") question — has a contested two-century history that matters for how we evaluate the current consensus.
+
+### The 19th-century foundations
+
+Scholars of the 1800s who first recognized the IE language family had essentially only linguistic evidence. They attempted localization by reconstructing PIE vocabulary for plants, animals, and technology (the beech tree, the salmon, cattle, the wheel). This produced two competing camps: a **European hypothesis** (migration from Europe to Asia) and an **Asian hypothesis** (migration in the opposite direction). The field was then severely contaminated in the early 20th century when the question became associated with a hypothesized "Aryan race" — a now-discredited theory that was weaponized to justify European colonialism and, catastrophically, Nazi racial ideology. The term "Aryan" as a general label for PIE speakers has largely been abandoned in scholarship as a result.
+
+### The Kurgan hypothesis (Gimbutas; consensus since ~1956)
+
+**Marija Gimbutas** systematized the **Kurgan hypothesis** from 1956 onward — named for the kurgan burial mounds of the Eurasian steppes. The hypothesis places PIE origins in the Pontic–Caspian steppe and proposes that PIE-speaking populations expanded into Europe through several waves of migration beginning ~3500–3000 BCE, bringing a patriarchal, patrilinear, and mobile pastoral culture into contact with the previously egalitarian Neolithic farming cultures of "Old Europe." J. P. Mallory later modified the hypothesis to de-emphasize its earlier militaristic framing while preserving the steppe origin and migration chronology. The Kurgan hypothesis is "the most widely accepted theory" (Mallory 1989) and since the 2015 ancient DNA studies has moved from dominant hypothesis to near-consensus.
+
+### The Anatolian hypothesis (Renfrew; minority since 2015)
+
+**Colin Renfrew** (1987 onward) proposed that IE languages spread peacefully into Europe from Anatolia around 7000 BCE, with the Neolithic agricultural revolution. This would push the PIE period far earlier and attribute the spread to farming populations, not steppe pastoralists. The hypothesis faces a serious internal problem: PIE vocabulary securely reconstructs the horse, the wheel, and metal — all absent from Early Neolithic cultures. Renfrew disputed this, but after the 2015 ancient DNA papers demonstrated a massive steppe ancestry contribution to European Bronze Age populations that is absent from Anatolian Neolithic genomes, he acknowledged that "the DNA evidence had completely rejuvenated Marija Gimbutas' kurgan hypothesis." The Anatolian hypothesis in its original form is no longer the mainstream position, though a modified "Indo-Hittite" version (arguing for a very early Anatolia split before the main IE expansion) has some support.
+
+### The Armenian/Iranian hypothesis (Reich, Wang, Kristiansen; active minority debate)
+
+Following the 2015 ancient DNA findings, a more geographically nuanced proposal emerged. **David Reich** (2018) argued that because some IE languages (Hittite) existed in ancient Anatolia, "the most likely location of the population that first spoke an Indo-European language was south of the Caucasus Mountains, perhaps in present-day Iran or Armenia." **Kristian Kristiansen** suggested the Yamnaya culture may have had a predecessor in the Caucasus where "proto-proto-Indo-European" was spoken. Wang et al. (2018) noted that the Caucasus served as a corridor for gene flow between the steppe and southern populations, which "opens up the possibility of a homeland of PIE south of the Caucasus."
+
+**David Anthony (2019)** offers the most detailed rebuttal: the Yamnaya's Caucasian genetic component derives from an **earlier hunter-gatherer admixture** (pre-4000 BCE), not from a Bronze Age or late-Neolithic Caucasian population; the Yamnaya paternal lineages derive from the Eastern European steppe hunter-gatherers, not from the south; and the Anatolian farmer admixture common in the Caucasus by 5000 BCE is scarce in the Yamnaya. Anthony argues for a PIE origin in the Eastern European steppe north of the Caucasus, from the EHG + CHG admixture event. This remains the majority position.
+
+### The terminology problem: "Aryan"
+
+The PIE root *\*aryo-* (→ Sanskrit *ārya*, Avestan *airya*, Greek forms, Germanic names) originally designated what appears to have been a **socio-cultural concept of nobility** — plausibly an in-group designation used by IE-speaking elites. It was explicitly used as a self-designation for all of their people only in the Indo-Iranian branch (hence "Indo-Aryan" is still the correct technical term for the South Asian branch of PIE). Outside Indo-Iranian, the cognate forms seem to designate only a ruling elite, not an entire ethnic group.
+
+As a consequence:
+- **"Aryan"** as a general term for PIE speakers = **abandoned** in mainstream scholarship due to Nazi contamination
+- **"Indo-Aryan"** = still used specifically for the South Asian branch that settled the Indian subcontinent
+- **"Indo-European" / "IE"** = the standard neutral term for the language family and its speakers
 
 ---
 
@@ -113,6 +168,18 @@ Comparative linguistics reconstructs shared PIE ritual vocabulary with confidenc
 | *\*weydh-* | to bind, unite in contract | Vedic *Varuṇa* (possibly), various contract/oath vocabulary |
 
 The fire deity **\*H₁ngʷnis** → Vedic **Agni** → Latin **ignis** is particularly significant: both the Vedic and Roman ritual traditions center on a fire deity who receives sacrificial offerings. The cognate vocabulary suggests this is not parallel development but inherited practice.
+
+Two **formulaic phrases** reconstruct with particular clarity across branches (Watkins 1995; Beekes 2011):
+- ***\*ḱléwos n̥dʰgʷʰítom*** — "imperishable fame": Homer's *kléos áphthiton* (Iliad) and Vedic *śrávas... ákṣitam* (Rigveda) preserve the identical phrase in the same meter. This formula was probably the core purpose of the oral heroic poetry tradition — composing *kléos* for warriors was the primary social function of the IE poet class.
+- ***\*sh₂wéns kʷékʷlos*** — "wheel of the sun": a reconstructed PIE solar-wheel formula. The sun as a wheel rolling across the sky is a consistent image in Vedic, Greek, and Germanic traditions, and PIE wheel vocabulary (*\*kʷékʷlos*) allows the cosmological metaphor to be reconstructed to the steppe period.
+
+### Mythological evidence: the "Smith and the Devil" folktale
+
+A 2016 phylogenetic analysis of Indo-European folktales (da Silva and Tehrani, *Royal Society Open Science*) used computational phylogenetic methods to trace the distribution and evolutionary history of folktale types across the IE language family. Their most striking finding: the folktale type known as **"The Smith and the Devil"** can be reconstructed to the **Proto-Indo-European period**.
+
+The tale appears across modern IE folklore from Scandinavia to India: a blacksmith offers his soul to a malevolent being (devil, demon, death) in exchange for superhuman metalworking skill; he then uses his new ability to trap the devil (sticking him to an immovable object), avoiding the bargain. Da Silva and Tehrani argue that the reconstruction of this tale to PIE implies that **the Proto-Indo-Europeans had metallurgy** — since a tale about a smith requires a metalworking culture — which in turn provides a cultural context for the tale's origin.
+
+This is a modest but genuinely independent line of evidence: computational folkloristics reconstructing PIE culture from narrative distribution rather than from linguistic or archaeological data. It is consistent with the Bronze Age dates for the PIE expansion and with the metallurgical activity visible at Sintashta sites. *(Tier B: the phylogenetic method is contested for deep-time reconstruction; the result is plausible but not certain.)*
 
 ### The horse: sacrifice, prestige, and cosmological vehicle
 
@@ -239,7 +306,7 @@ The most sophisticated religious elaboration of the PIE substrate occurred in **
 
 ### Tier A (primary evidence)
 
-- **Ancient DNA studies**: Haak et al. (2015), "Massive migration from the steppe was a source for Indo-European languages in Europe," *Nature* 522; Mathieson et al. (2015). — Established Yamnaya ancestry contribution to European populations.
+- **Ancient DNA studies**: Haak et al. (2015), "Massive migration from the steppe was a source for Indo-European languages in Europe," *Nature* 522; Jones et al. (2015), "Upper Palaeolithic genomes reveal deep roots of modern Eurasians," *Nature Communications* 6; Lazaridis et al. (2017), "Genetic origins of the Minoans and Mycenaeans," *Nature* 548. — Established Yamnaya = EHG + CHG admixture; ~75% Yamnaya ancestry in Corded Ware; 13–18% steppe ancestry in Mycenaeans.
 - **Kikkuli horse-training text** (c. 1350 BCE, Hittite archive, Boğazköy): Indo-Iranian vocabulary for horse training in a non-IE-speaking context.
 - **Mitanni treaties** (c. 1380–1340 BCE): divine names Mitra, Varuṇa, Indra, Nāsatya as oath-witnesses. Published in Beckman, *Hittite Diplomatic Texts* (1999).
 - **Rigveda** (composition c. 1500–900 BCE; transmitted orally; first written manuscripts ~10th cent. CE): primary source for earliest attested IE religious vocabulary in South Asia.
@@ -248,11 +315,16 @@ The most sophisticated religious elaboration of the PIE substrate occurred in **
 ### Tier B (specialist analyses)
 
 - Anthony, David W. *The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World*. Princeton UP, 2007. — Standard archaeological synthesis of PIE homeland and expansion.
+- Anthony, David W. (2019). "Archaeology, Genetics, and Language in the Steppes: A Comment on Bomhard." *Journal of Indo-European Studies* 47 (1 & 2): 1–23. — Rebuttal of the southern / Armenian PIE homeland hypothesis.
 - Mallory, J.P., and D.Q. Adams. *The Oxford Introduction to Proto-Indo-European and the Proto-Indo-European World*. Oxford UP, 2006. — Standard linguistic reference.
-- Watkins, Calvert. *How to Kill a Dragon: Aspects of Indo-European Poetics*. Oxford UP, 1995. — Comparative formulaic poetry; demonstrates cognate oral-poetic tradition.
+- Mallory, J.P. *In Search of the Indo-Europeans: Language, Archaeology, and Myth*. Thames & Hudson, 1989. — Accessible overview of Urheimat debate; cites the Kurgan hypothesis as dominant.
+- Watkins, Calvert. *How to Kill a Dragon: Aspects of Indo-European Poetics*. Oxford UP, 1995. — Comparative formulaic poetry; demonstrates cognate oral-poetic tradition including *\*ḱléwos n̥dʰgʷʰítom*.
+- West, Martin L. *Indo-European Poetry and Myth*. Oxford UP, 2007. — Definition of PIE speakers as "a loose network of clans and tribes"; comprehensive treatment of poetic and mythological reconstruction.
+- Reich, David. *Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past*. Knopf, 2018. — The "south of the Caucasus" PIE hypothesis, pp. 120, 177.
 - Dumézil, Georges. *Mitra-Varuna: An Essay on Two Indo-European Representations of Sovereignty*. Zone Books, 1988. — Tripartite ideology framework.
 - Lincoln, Bruce. *Priests, Warriors, and Cattle: A Study in the Ecology of Religions*. UC Berkeley Press, 1981. — PIE horse sacrifice and tripartite social structure.
 - Parpola, Asko. *The Roots of Hinduism: The Early Aryans and the Indus Civilization*. Oxford UP, 2015. — BMAC contact and Indo-Aryan entry into South Asia.
+- da Silva, Sara Graça, and Jamshid J. Tehrani (2016). "Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales." *Royal Society Open Science* 3 (1): 150645. — Computational phylogenetic reconstruction of the "Smith and the Devil" folktale to the PIE period.
 
 ### Tier C (speculative hypotheses)
 
