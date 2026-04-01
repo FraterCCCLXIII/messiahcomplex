@@ -5,12 +5,6 @@ description: Daniel (~165 BCE) as the hinge text where the Zoroastrian eschatolo
 
 # Daniel and Iranian eschatology
 
-## Context
-
-- **Audience**: readers who want to understand where the Iranian eschatological concepts entered Jewish scripture most visibly, and why this text is the pivot of the site's transmission argument.
-- **Question**: what specific features of Daniel are best explained by contact with Iranian eschatological tradition, and what does the evidence actually show?
-- **Scope**: the canonical book of Daniel (Hebrew and Aramaic sections); its historical context; its eschatological innovations in relation to both prior Jewish literature and contemporary Zoroastrian tradition.
-
 The book of Daniel is the **hinge text** of the site's argument. It is where the Zoroastrian eschatological package — bodily resurrection, cosmic tribunal, named angelic administrators, world-ages leading to renovation — enters Jewish canonical literature most explicitly and in the most concentrated form. Understanding Daniel is not optional for evaluating whether Iranian influence on Second Temple Judaism is real.
 
 ---

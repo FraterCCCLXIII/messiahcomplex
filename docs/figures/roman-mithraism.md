@@ -5,12 +5,6 @@ description: Roman Mithras mystery cult—chronology, archaeology, sources, and 
 
 # Roman Mithraism: Mithras
 
-## Context
-
-- **Audience:** Readers who encounter **Mithras** in comparative religion or “pagan Christ” debates and need a **chronological** and **categorical** distinction from **Jewish/Christian messiah** discourse.
-- **Question:** What evidence survives for **Roman** *mithraea* and **tauroctony** religion, and how does it differ from **Avestan** / **Sasanian** Mithra materials?
-- **Scope:** Initiatory cult in the **imperial** period—not a full treatment of **Indo-Iranian** Mitra (see [Indo-Iranian Mitra and the contract complex](../overview/indo-iranian-mitra-contract.md)).
-
 **Mithraism** in the Roman Empire was a **mystery cult** centered on **Mithras** (not identical text-for-text with **Mitra** / **Mithra** in Iranian sources). Its **tauroctony** iconography and **initiatory** soteriology flourished from roughly the **1st–4th centuries CE**.
 
 ## Dating and sources

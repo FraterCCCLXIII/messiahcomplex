@@ -5,11 +5,7 @@ description: How water initiation, communal meals, and death-rebirth symbolism c
 
 # Baptism and initiation — the ritual bridge
 
-## Context
-
-- **Audience:** Readers who notice that early Christian baptism and the Eucharist look structurally similar to Greco-Roman mystery cult initiation rites, and who want to understand what the actual evidence is, where genuine parallels exist, and what conclusions that evidence can support.
-- **Question:** Is the structural similarity between Christian sacramental rites and mystery cult initiations a product of borrowing, shared cultural grammar, or independent convergence? What does the evidence actually show?
-- **Scope:** Greek mystery initiation terminology and structure; Mithraic grades and meal; John the Baptist and Qumran ritual baths; Mandaean baptism; Paul's baptismal theology; the Eucharist; Church Father comparisons; the scholarly debate.
+Early Christian baptism and the Eucharist bear a striking structural resemblance to the initiation rites of the Greek mystery cults: water passage, communal meal, death-and-rebirth symbolism, graduated access to sacred knowledge. Whether this resemblance reflects borrowing, shared cultural grammar, or independent convergence is a question with real scholarly stakes. This page examines the evidence systematically — Greek mystery initiation, Mithraic grades and meal, Qumran ritual baths, Mandaean baptism, Paul's baptismal theology, and the Church Fathers' own comparisons — before assessing what the data can and cannot support.
 
 ---
 

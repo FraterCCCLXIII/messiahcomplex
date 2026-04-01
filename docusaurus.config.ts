@@ -94,50 +94,17 @@ const config: Config = {
           label: 'Research',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          href: 'https://github.com/FraterCCCLXIII/messiahcomplex',
+          position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
+        },
       ],
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Research',
-          items: [
-            {
-              label: 'Introduction',
-              to: '/docs/intro',
-            },
-            {
-              label: 'Chronological map',
-              to: '/docs/overview/chronological-map',
-            },
-            {
-              label: 'Visual timeline',
-              to: '/docs/overview/visual-timeline',
-            },
-            {
-              label: 'Mithra cluster',
-              to: '/docs/mithras',
-            },
-            {
-              label: 'PIE twin archetypes',
-              to: '/docs/overview/pie-twin-and-brother-archetypes',
-            },
-            {
-              label: 'Greek initiation cults',
-              to: '/docs/overview/greek-wandering-gods-initiation',
-            },
-          ],
-        },
-        {
-          title: 'Site',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-          ],
-        },
-      ],
+      links: [],
       copyright: `Messiah Complex · ${new Date().getFullYear()}`,
     },
     prism: {

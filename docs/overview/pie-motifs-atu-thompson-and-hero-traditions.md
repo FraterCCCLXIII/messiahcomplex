@@ -6,11 +6,7 @@ description: How to use comparative IE mythology alongside Aarne–Thompson–Ut
 
 # PIE motifs, folktale indexes, and hero / ancestor traditions
 
-## Context
-
-- **Audience:** Readers who want a **single orientation map** for (1) **Proto-Indo-European** narrative reconstructions, (2) **folktale classification** (ATU, Stith Thompson motifs), and (3) **historically attested** epic, royal ideology, and **hero cult**—especially where those layers get mixed in popular summaries.
-- **Question:** How do these **toolkits** relate to each other, and how should this site use them next to [method: evidence, influence, and milieu](method-evidence-and-influence.md)?
-- **Scope:** **Not** a full motif catalogue or proof that a given PIE tale “became” a numbered ATU type. **Non-goals:** treating index numbers as historical events, or **Dumézil’s trifunctional model** as settled law for every society (it remains a **debated** heuristic).
+This page is an orientation map for three related but distinct toolkits: Proto-Indo-European narrative reconstructions, the Aarne–Thompson–Uther folktale classification system, and historically attested hero and ancestor cults. Popular summaries often blur these layers, treating a numbered ATU type as proof of PIE ancestry or equating a reconstructed IE narrative slot with a specific ancient text. The site uses these frameworks together while keeping them analytically separate: ATU numbers are bibliographic hooks, PIE reconstructions are hypotheses, and attested cult practice is evidence — and only the last constitutes direct proof of anything.
 
 ## Three layers (keep them separate)
 

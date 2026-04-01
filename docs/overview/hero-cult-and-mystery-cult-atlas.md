@@ -6,12 +6,6 @@ description: Chronological orientation to Greek hero cult, ecstatic and agrarian
 
 # Hero cults and mystery cults — Mediterranean atlas
 
-## Context
-
-- **Audience:** Readers situating Thracian, Dionysiac, Eleusinian, Isiac, and Mithraic material in time and type—not as proof of a single “pagan messiah” genealogy.
-- **Question:** What is attested where, and what is modern synthesis? Hero honors (tomb, festival) differ from initiatory mysteries (graded access, secret ritual).
-- **Scope:** Mediterranean and adjacent Anatolian/Egyptian complexes; Persian epic heroes and Gilgamesh appear only as comparative anchors for royal/warrior ideology—see [Method: evidence, influence, and milieu](method-evidence-and-influence.md).
-
 Hero cult (broadly): ritual attention to named mortals or demigods at tombs, shrines, or festivals—often local or panhellenic (e.g. Olympia). Mystery cults (broadly): restricted rites, initiation, and esoteric promises (afterlife, “salvation” language in imperial sources). Overlap with hero honors is partial (specialist debate per case).
 
 ---
@@ -102,7 +96,88 @@ Hero honors vary: tomb cult, *agônes*, relic translation (Theseus), oracle site
 
 ---
 
-## 5. Sources & dating (entrances)
+## 5. Competitive relic distribution as political-religious technology
+
+Across the ancient world, the moment when a universally revered figure dies is frequently followed by a structurally identical political-religious mechanism: his or her remains are contested among multiple communities, divided, and enshrined in individual monuments that each community treats as a local presence of the revered person. This is not merely a resemblance — it is a specific **functional technology** for simultaneously legitimating multiple power centers under a shared religious identity.
+
+Three well-attested instances in the same cultural corridor:
+
+| Figure | Primary source | Distribution mechanism | Monument type |
+| --- | --- | --- | --- |
+| **The historical Buddha** (d. c. 400 BCE) | Pali *Mahāparinibbāna Sutta* | Eight clans dispute the cremated remains; a mediator divides them equally | Each clan builds a **stupa** over their share |
+| **Menander I** (d. c. 130 BCE) | Plutarch, *Moralia* 821E | Menander dies in a military camp; cities of his realm compete for his ashes; ashes divided equally | Each city builds a **memorial** (*mnēmeion*) |
+| **Christian martyrs** (2nd–4th cent. CE) | Eusebius, *Ecclesiastical History*; martyrological literature | Relics distributed from central sites to newly founded communities | **Martyria** built over relic deposits; later relics placed in church altars |
+
+A fourth case — though not a relic story — structurally belongs here: **Alexander the Great** (d. 323 BCE), whose body was physically seized by Ptolemy and transported to Alexandria rather than Macedon, generating a political dispute among the Diadochi about whose territory would benefit from the legitimating presence of the dead conqueror's body.
+
+**What the pattern shows:** The competitive division and redistribution of a revered body is not accidental convergence — it is a recognizable form of political-religious statecraft. The person's distributed bodily presence legitimates each receiving community as a genuine heir of the tradition, while the shared object of veneration maintains solidarity across geographically dispersed communities. The Buddhist stupa, the Greco-Hellenistic *mnēmeion*, and the Christian *martyrium* are architecturally distinct but functionally identical: each is a **monument built over a distributed fragment of a salvific body**, generating merit or divine favor for those who venerate it.
+
+The Menander case is the most striking because it is attested in both directions: by Plutarch (who had no reason to model his account on Buddhist texts) and by the Shinkot reliquary (a roundstone container in northern Pakistan inscribed with a reference to "Maharaja Manendra" and claiming to hold the Buddha's bodily relics). Together they suggest that Menander's kingdom was one in which both the Buddhist relic-stupa logic and the Hellenistic funerary monument were simultaneously operating — and that the local population applied Buddhist categories to their Greek king's death.
+
+**Evidence tier:** The Buddha relic distribution is Tier A (canonical Pali text, corroborated by the Aśokan stupa-building tradition). The Menander case is Tier A primary source (Plutarch) with a Tier B attribution to Buddhist relic practice. The Christian martyr relic distribution is Tier A. The interpretive synthesis — that these represent a single recognizable political-religious technology — is Tier B.
+
+**See also:** [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md) — Plutarch on Menander's ashes; [Buddhism: Maitreya](../figures/buddhism-maitreya.md); [Christianity: Messiah and Parousia](../figures/christianity-parousia.md).
+
+---
+
+## 6. The written word as sacred relic — a cross-traditional pattern
+
+A related but distinct pattern emerges from the Gandhāran evidence and its parallels elsewhere: **the written transmission of a salvific teaching treated as materially sacred in the same way as the teacher's body.**
+
+The Gandhāri birchbark scrolls found in Afghanistan (first known collection surfacing on the antiquities market in the 1990s; studied by Richard Salomon at the University of Washington) were not deposited carelessly. They were sealed in **airtight clay caskets** — the same treatment given to the preserved relics of revered monks. A scribe was apparently commissioned to copy out a sūtra, not for reading and circulation, but for deposition as a **merit-generating relic**. The act of writing was itself a devotional act; the written object was the product.
+
+The same functional logic appears across the same broad cultural corridor within roughly the same centuries:
+
+| Tradition | Object | Deposition practice | Parallel |
+| --- | --- | --- | --- |
+| **Gandhāran Buddhist** (1st cent. BCE–CE) | Birchbark *sūtra* scrolls in Kharoshthi | Sealed in clay caskets; interred as merit-relics | Writing as devotional act; text as relic |
+| **Jewish** (2nd cent. BCE–1st cent. CE) | Scriptural scrolls (*megillot*) | Deposited in caves in ceramic jars (Dead Sea Scrolls, Qumran) | Sacred deposit of worn or superseded holy texts |
+| **Jewish genizah tradition** (continuous) | Worn Torah scrolls and documents containing God's name | Buried rather than destroyed; stored in *genizah* (storage room) | The written divine word cannot be discarded — it must be preserved |
+| **Early Christian** (2nd–4th cent.) | Gospel codices; martyrs' letters | Placed with or near physical relics; altar stones contain codex fragments | The text participates in the martyr's salvific power |
+
+The shared logic: if the **teaching** is what allows liberation, healing, or salvation, then the **written teaching** participates in the power of the teacher's body. The text is not merely a record; it is a **vehicle of the sacred**. This is why a worn-out Torah scroll cannot be thrown away, why Buddhist monks commissioned sūtra copies for deposit rather than use, and why early Christian communities placed gospel codices in reliquary contexts.
+
+This pattern also helps explain the extraordinary care with which Buddhist monks ultimately decided to write down the Pali canon (c. 20 BCE, Alu Vihāra, Sri Lanka): the act of writing was probably understood not only as a practical preservation measure but as a devotional practice in continuity with the relic-deposition tradition. See [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md) for the birchbark scroll evidence.
+
+**Evidence tier:** The Gandhāri birchbark casket evidence is Tier A (physical artifact; Salomon, *Ancient Buddhist Scrolls from Gandhāra*, 1999). The Dead Sea Scroll deposition is Tier A (archaeology). The functional parallel is Tier B.
+
+---
+
+## 7. Dura-Europos: a visual synthesis of Jewish, Christian, and Mithraic cult space
+
+The **Dura-Europos** excavations (Yale/French Academy, 1928–1937) on the Euphrates in eastern Syria uncovered, within a single insula of a Hellenistic garrison city, a **Mithraic *mithraeum***, a **Christian house-church** (the earliest identified Christian church building, c. 232–256 CE), and a **Jewish synagogue** (c. 244–245 CE with extensive painted murals). All three were in use simultaneously in the same block of a city whose population included Roman soldiers, Palmyrene merchants, Parthian traders, and Jewish and Christian communities.
+
+### The synagogue murals: Jewish narrative in Persian artistic vocabulary
+
+The Dura synagogue contained the most extensive surviving ancient Jewish pictorial program: three horizontal registers of narrative panels covering all four walls, with approximately sixty scenes from biblical narrative. It is the only pre-medieval example of Jewish figurative art on this scale.
+
+The artistic style is unambiguously **Parthian/Sassanid**: frontal figures, hierarchical scale (important figures larger), flat areas of color, no foreshortening, the formulaic "Parthian stance" (frontal torso, profile legs). This is not Jewish art that happens to be in Syria — it is **Jewish biblical narrative encoded in Persian imperial visual vocabulary**, made by artists working in the dominant art style of the Parthian-Sassanid world.
+
+The theological content is also significant: the murals depict scenes including:
+- The **Crossing of the Red Sea** — with the Egyptian army engulfed by clearly Persian-armored soldiers
+- The **Temple of Solomon** — rendered as a Hellenistic *naos* on a raised platform
+- **Ezekiel's vision of the dry bones** (Ezekiel 37) — the resurrection scene, rare in Jewish art of any period
+- The **anointing of David** — royal investiture depicted with Persian court ceremony parallels
+- **Mordecai and Esther** — the one biblical narrative set at a Persian court, given prominent placement
+
+The Ezekiel resurrection scene is particularly significant: it is the visual rendering of the text most closely associated with Zoroastrian-influenced Jewish eschatology, painted in Persian artistic vocabulary, in a synagogue operating a mile from the Roman-Sassanid frontier.
+
+### The mithraeum and the Christian house-church
+
+The **Dura mithraeum** (c. 168–256 CE) contains tauroctonies, planetary imagery, and initiatory iconography consistent with Roman Mithraism. It was the cult space of Roman soldiers garrisoned at the city. The **Christian building** (c. 232–256 CE) — the earliest identified Christian church structure — contains baptismal art: a woman carrying an oil lamp (the wise virgins parable?), the Good Shepherd, Adam and Eve. It was a converted private house.
+
+The three cult spaces' co-existence in the same block of the same city, destroyed simultaneously by the Sassanid siege of 256 CE, provides a unique cross-section of the religious landscape of the eastern frontier in the mid-3rd century — precisely the period when Mani was synthesizing these traditions at the Sassanid court 200 miles to the east.
+
+**Interpretive significance:** Dura-Europos is not evidence of direct Jewish-Christian-Mithraic synthesis (the communities were distinct). It is evidence that the **same cosmopolitan, multilingual, religiously plural environment** that we have documented at Gandhāra and Alexandria also operated at the Roman-Parthian frontier — and that Jewish communities in this environment naturally adopted the visual vocabulary of the surrounding Persian world even while maintaining distinctively Jewish theological content.
+
+**Tier A (archaeology):** The site, its buildings, and their contents are securely documented.  
+**Tier B (interpretation):** The significance of the Persian artistic vocabulary for understanding Jewish-Iranian theological contact is argued by scholars including Gutmann (*The Dura-Europos Synagogue: A Re-evaluation*, 1992) and Elsner (*Imperial Rome and Christian Triumph*, 1998).
+
+**Reference:** Kraeling, Carl H. *The Synagogue* (The Excavations at Dura-Europos, vol. VIII.1; Yale, 1956) — the definitive archaeological publication; Gutmann, Joseph (ed.). *The Dura-Europos Synagogue: A Re-evaluation (1932–1992)* (Scholars Press, 1992); White, L. Michael. *The Social Origins of Christian Architecture* (Trinity Press, 1990) — on the Christian house-church.
+
+---
+
+## 8. Sources & dating (entrances)
 
 | Type | Starting points |
 | --- | --- |

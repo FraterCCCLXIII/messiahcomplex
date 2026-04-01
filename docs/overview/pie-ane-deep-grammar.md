@@ -6,11 +6,7 @@ description: "Proto-Indo-European narrative reconstructions, Ancient Near Easter
 
 # PIE & ANE deep grammar
 
-## Context
-
-- **Audience:** Readers asking how the oldest recoverable narrative and linguistic layers — Proto-Indo-European reconstructions and Ancient Near Eastern religious literature — feed into the later, historically attested messianic traditions.
-- **Question:** How deep does the shared grammar go, and at what point does "parallel" become "inheritance"?
-- **Scope:** This zone covers (1) Proto-Indo-European narrative reconstructions; (2) Ancient Near Eastern mythology in the Hebrew Bible; (3) Paleo-Balkan horseman and hero cult. It is explicitly the **most hypothesis-heavy** part of the site — reconstructions require checking against philology and archaeology. See [Method: evidence, influence, and milieu](method-evidence-and-influence.md).
+The historically attested messianic traditions did not emerge in a vacuum. They draw on narrative grammar older than any of them — story slots, sacrificial logic, and cosmological structures that recur across cousin cultures for documentable reasons. This zone covers three layers: Proto-Indo-European narrative reconstructions, Ancient Near Eastern mythology in the Hebrew Bible, and Paleo-Balkan horseman and hero cult. It is explicitly the most hypothesis-heavy part of the site; reconstructions require checking against philology and archaeology before they move from analogy toward genealogy.
 
 ---
 

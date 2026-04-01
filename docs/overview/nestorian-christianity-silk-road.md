@@ -5,11 +5,7 @@ description: The Church of the East's eastward mission from the Council of Ephes
 
 # Nestorian Christianity and the Silk Road
 
-## Context
-
-- **Audience:** Readers interested in how Christianity spread eastward through Central Asia and into China along the Silk Road, and who want to understand the Nestorian theological context, the historical evidence, and why this matters for the site's transmission framework.
-- **Question:** How did the "Church of the East" spread through Sasanian Persia, Central Asia, and into Tang-dynasty China? What is the primary evidence? And what does this eastward transmission tell us about how religions moved through the late antique world?
-- **Scope:** Council of Ephesus (431 CE) to the Tang-dynasty evidence (~7th–9th cent. CE); Syriac translation centers; Silk Road communities; Xi'an Stele; Thomas Christians; interaction with Buddhism and Manichaeism.
+The history of Christianity's eastward spread — from the Council of Ephesus (431 CE) through Sasanian Persia, along the Silk Road into Central Asia, and finally into Tang-dynasty China — is less well-known than its western expansion but equally important for understanding how religions moved through the late antique and early medieval world. This page covers the Church of the East's theological origins, the Syriac translation centers that made eastward mission possible, the communities that left traces along the Silk Road, and the Xi'an Stele of 781 CE as the most important surviving primary evidence.
 
 ---
 

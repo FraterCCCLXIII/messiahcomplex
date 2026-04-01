@@ -5,13 +5,7 @@ description: "A cross-cultural history of the solar savior archetype tracing con
 
 # From Mithra to Maitreya: Solar Saviors and Cosmic Mediators
 
-## Context
-
-**Question addressed**: How are the Indo-Iranian deity Mithra, the Roman mystery god Mithras, and the Buddhist future Buddha Maitreya related — linguistically, functionally, and historically?
-
-**Scope**: Proto-Indo-European origins through Silk Road transmission, c. 2000 BCE to 500 CE.
-
-**Audience**: Readers following the Mithra transmission thread or the Bardiya hypothesis section.
+Mithra, Mithras, and Maitreya — three figures separated by centuries and thousands of miles — share a common linguistic ancestor: the Proto-Indo-Iranian root *\*mitra-*, meaning contract or binding bond. This page examines how the relation between them is understood at each level: linguistic inheritance (well-documented), functional overlap (debated), and historical transmission via the Silk Road (evidence assessed here). The question throughout is how far genuine connection runs, and where resemblance shades into coincidence.
 
 ## Consensus Snapshot
 

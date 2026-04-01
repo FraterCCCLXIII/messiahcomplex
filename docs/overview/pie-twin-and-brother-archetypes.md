@@ -159,6 +159,7 @@ Three brothers slay the primordial giant **Ymir** and fashion the world from his
 
 - **Not** a murder story in most versions — Yama "goes first" to death rather than being killed
 - The **Puruṣa Sūkta** (RV 10.90) gives the sacrificial cosmogony to Puruṣa, not directly to Yama — but the **structural slot** is related
+- For the Puruṣa cosmogony in depth—including its Brāhmaṇic elaboration as Prajāpati and the cross-traditional comparison with Phanes, Gayōmart, Adam Kadmon, and the Gnostic Anthropos—see [Vedic Puruṣa](../figures/vedic-purusha.md) and [Primordial Cosmic Man: dismemberment, world-making, and salvific reversal](primordial-cosmic-man.md)
 
 #### Yama and Yamī (RV 10.10)
 
@@ -246,6 +247,8 @@ Reconstructions also cite a **third** figure — **\*Trito** ("third") — as **
 
 ## See also
 
+- [Primordial Cosmic Man: dismemberment, world-making, and salvific reversal](primordial-cosmic-man.md) — hub page placing Puruṣa, Ymir, Phanes, Gayōmart, Adam Kadmon, and the Gnostic Anthropos in a unified soteriological argument
+- [Vedic Puruṣa](../figures/vedic-purusha.md) — dedicated figure page for the Puruṣa Sūkta (RV 10.90) and its Brāhmaṇic/Upaniṣadic elaborations
 - [PIE and Ancient Near Eastern traces in the Bible](pie-and-ane-traces-in-biblical-tradition.md) — divine names, storm gods, sea monsters, and the IE–Semitic interface
 - [PIE motifs, ATU / Thompson indexes, and hero traditions](pie-motifs-atu-thompson-and-hero-traditions.md) — folktale types and motif indexes
 - [Isis, Osiris, and Serapis](isis-osiris-serapis.md) — Set/Osiris in Egyptian and Hellenistic context

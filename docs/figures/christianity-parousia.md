@@ -6,12 +6,6 @@ description: NT layers, Parousia and judgment, Jewish messianic background, and 
 
 # Christianity: Messiah and Parousia
 
-## Context
-
-- **Audience:** Readers comparing Christian eschatology to other restorer figures; students who need a **source anchor** before reading influence claims elsewhere on this site.
-- **Question:** What do the **earliest Christian texts** say about **Jesus as Messiah** and **future return** (*parousia*), and how is that language heard against **Jewish** and **Greco-Roman** backgrounds?
-- **Scope:** This entry summarizes **motifs** and **textual layers**; it is not a full history of Christology or Trinitarian doctrine.
-
 Early **Christianity** reinterprets Jewish **messiah** expectation around **Jesus of Nazareth**: crucified and raised, **exalted Lord**, and—per much NT and later creedal theology—**expected to return** (**Parousia**, second coming).
 
 ## Dating and sources

@@ -5,11 +5,7 @@ description: The Twelver Shia doctrine of the Imamate, the Hidden Imam, and the 
 
 # Shia Imamology and Zoroastrian parallels
 
-## Context
-
-- **Audience:** Readers who want to understand the Twelver Shia doctrine of the Imam and the Hidden Imam, and who want to evaluate seriously — without either dismissing or over-claiming — the argument that this theology preserves transformed elements of pre-Islamic Persian Zoroastrian eschatology.
-- **Question:** Does the Shia Imamology represent a transformation of Zoroastrian concepts, or is the parallel structural only? What evidence exists for or against direct genealogy?
-- **Scope:** The Twelver Shia (Ithna-ashariyya) tradition specifically; the Imamology of the Imamate; Henry Corbin's thesis; the structural comparison with Saoshyant eschatology; the caveats required.
+Twelver Shia Islam's doctrine of the Hidden Imam — a divinely guided figure who has been in occultation since 874 CE and will return at the end of times to establish justice — bears remarkable structural parallels to Zoroastrian Saoshyant eschatology. Henry Corbin argued these parallels reflect genuine transformation of pre-Islamic Persian concepts through the Iranian conversion to Islam. This page examines the Twelver Shia Imamate doctrine, Corbin's thesis, the structural comparison with Saoshyant theology, and the evidentiary limits that separate genuine genealogy from typological analogy.
 
 ---
 

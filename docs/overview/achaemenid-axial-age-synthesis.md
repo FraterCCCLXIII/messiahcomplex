@@ -5,14 +5,7 @@ description: "A revisionist framework examining the Achaemenid Empire and Proto-
 
 # The Achaemenid Empire and the Origins of Axial Religions: A Historical Synthesis
 
-## Context
-
-**Question addressed**: Was the "Axial Age" (c. 800–200 BCE) a set of independent religious awakenings, or can unifying forces — especially Achaemenid imperial infrastructure and shared Proto-Indo-European heritage — explain the convergence?
-
-**Scope**: 6th century BCE to 1st century CE; covers Zoroastrianism, Judaism, Buddhism, and Greek philosophy in relation to Achaemenid political history.
-
-**Relation to other pages**: This page is a long-form synthesis. For the analytical framework of the Axial Age concept, see [The Axial Age — Analytical Framework](/docs/overview/axial-age-framework). For the Bardiya hypothesis specifically, see [The Bardiya Hypothesis](/docs/bardiya/).
-
+The standard account of the Axial Age treats it as independent parallel development: similar social pressures — urbanization, warfare, the emergence of literate intellectual classes — produced similar religious and philosophical breakthroughs in different regions with no direct connection. This long-form synthesis argues that two additional factors have been underweighted: the shared Proto-Indo-European narrative heritage that gave distant traditions a common deep grammar, and the Achaemenid empire’s administrative reach as a real historical mechanism for cross-traditional contact. These explanations are not alternatives to each other or to the standard account; they operate at different levels and together produce a more complete picture.
 ---
 
 ## I. Introduction: The Axial Age Reconsidered

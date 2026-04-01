@@ -60,6 +60,35 @@ Some informal reconstructions in the source compilation identify **Cyrus / Dariu
 
 **Editorial synthesis:** it is **responsible** to say that **Achaemenid** rule coincided with intense **Jewish reflection** on **covenant, law, and restoration**, and that **Iranian** cosmic religion **may** have **contributed motifs** (debated). It is **not** responsible to assert **proven** **cognate** etymology **Amidah ≅ Mithra** without evidence that would satisfy **Semitic** and **IE** phonology.
 
+---
+
+## The Asura/Ahura and Deva/Daeva inversion: a core datum of the Indo-Iranian split
+
+One of the most linguistically and theologically significant facts in comparative Indo-Iranian religion is the **semantic inversion** of two pairs of cognate words between Sanskrit and Avestan. The same Proto-Indo-European roots that mean **divine/god** in one branch mean **demonic/evil** in the other, and vice versa. This inversion is not a minor terminological quirk; it signals a profound theological divergence that is directly relevant to this site’s argument about the relationship between Iranian and Indian religious concepts.
+
+| PIE root | Sanskrit reflex | Avestan/Old Iranian reflex | Inversion |
+|---|---|---|---|
+| *\*asura-* (powerful lord) | *Asura* = **demon, evil being** (opposed to the *suras*, the good gods) | *Ahura* = **divine lord** (as in Ahura Mazdā, the supreme deity) | The supreme divine title in Iran is the demonic category in India |
+| *\*daiwa-* (shining one, celestial being) | *Deva* = **god, divine being** (the positive divine category) | *Daeva* = **demon, evil spirit** (the demonic category in Zoroastrian theology, actively hostile to Ahura Mazdā) | The generic word for god in India is the demonic category in Iran |
+
+**What this means theologically:** Zoroastrian theology specifically identifies the *daevas* — cognates of Sanskrit *devas* (gods) — as evil beings who should not be worshipped. The *Gāthās* (the oldest Zoroastrian texts, attributed to Zarathustra himself) explicitly condemn the worship of *daevas*. Conversely, the Sanskrit tradition’s *asuras* — cognates of Avestan *Ahuras* — were originally powerful divine beings in the Ṛgveda (Varuna is called an *asura* in the oldest layers) who were progressively demonized in the later Vedic and Epic traditions.
+
+**The historical implication.** This inversion was identified by 19th-century comparative philologists (notably James Darmesteter) as reflecting a genuine theological split between the ancestral Indo-Iranian religious community and its two daughter traditions. The most economical explanation is that at some point in the common Indo-Iranian period, there was a **theological reform or community schism** in which one group began venerating the *Ahura*-type deities and condemning the *Daeva*-type deities as evil — and this is exactly what Zoroastrianism’s founding texts describe: Zarathustra condemning the worship of the old polytheistic *daevas* in favor of exclusive devotion to Ahura Mazdā. The Sanskrit tradition, which did not undergo this reform, continued using the same roots with their original positive valences for both categories — though the *asuras* were progressively displaced from positive roles as Indian theology developed its own theistic hierarchies.
+
+**Key theological cognates with doctrinal significance.** Beyond the Asura/Ahura and Deva/Daeva inversions, several other Avestan-Sanskrit cognate pairs directly illuminate the theological vocabulary this site traces:
+
+| Avestan term | Sanskrit cognate | Shared meaning | Notes |
+|---|---|---|---|
+| *Amərətāt* (Amesha Spenta of immortality) | *Amṛta* (immortal, ambrosia) | Immortality / deathlessness | The Zoroastrian divine attribute of immortality has the exact same root as the Sanskrit/Hindu sacred drink conferring immortality |
+| *Vohū Manah* (Good Mind, first and greatest Amesha Spenta) | *manas* (mind, psyche, heart) | Mind / thought | The most important Zoroastrian divine emanation has the same root as the Sanskrit/Hindu concept of the human mind |
+| *Druj* (cosmic Lie, the principle of evil opposed to *Asha*/Truth) | *druh* (treachery, harm, injury) | Deception / harm | The Zoroastrian cosmic force of deception is the same PIE root as Sanskrit treachery; both have negative valence |
+| *Mazdā* (wisdom, as in Ahura Mazdā) | *medhā* (intellect, wisdom; name of the goddess Sarasvatī) | Wisdom / intelligence | The name of the supreme Zoroastrian deity’s defining attribute (“wisdom”) is cognate with the Sanskrit word for wisdom and a name of the goddess of knowledge |
+| *Vayu* / *Vāyu* (wind deity) | *Vāyu* (wind, air, the element of wind) | Wind / air | Identical name, nearly identical meaning — the wind god is one of the most stable Indo-Iranian divine figures |
+
+**Relevance to this site’s argument.** The Amesha Spenta *Vohū Manah* (“Good Mind/Thought”) — in Zoroastrianism, the divine emanation of Ahura Mazdā that represents the first divine thought and the cosmic principle of right-thinking — is etymologically identical to Sanskrit *manas* (mind). The Zoroastrian eschatological teaching that *Vohū Manah* (divine right-thinking) is what the righteous soul encounters after death, and what the Saoshyant embodies in restoring cosmic order, has a cognate in every Sanskrit-descended tradition that treats *manas* as the seat of spiritual discernment. This is not a doctrine borrowed across traditions; it is a shared vocabulary inherited from a common ancestor — which then diverged in specific ways as each tradition developed its own theology.
+
+**References:** Darmesteter, James. *The Zend-Avesta*, 3 vols. (Sacred Books of the East, vols. 4, 23, 31, 1880–1887) — foundational for Avestan-Sanskrit comparison; Thieme, Paul. “The “Aryan” Gods of the Mitanni Treaties.” *JAOS* 80 (1960): 301–317; Boyce, Mary. *History of Zoroastrianism*, vol. 1 (Brill, 1975), ch. 3 on the Daeva/Ahura distinction; Mayrhofer, Manfred. *Etymologisches Wörterbuch des Altindoarischen* (Winter, 1992–2001) — authoritative Indo-Iranian etymological reference.
+
 ## Haoma, Soma, and the elixir of immortality {#haoma-soma}
 
 The **Haoma** (Avestan) / **Soma** (Vedic) ritual substance is one of the most secure Indo-Iranian inheritances — an intoxicating or entheogenic preparation central to priestly ritual in both traditions. The linguistic equation is exact: Avestan *haoma* = Vedic *soma*, from a PIE root \**sewH-* ("to press, extract").

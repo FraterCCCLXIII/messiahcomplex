@@ -30,7 +30,7 @@ sidebar_position: 16
 | **Dismemberment (*sparagmos*)** | Torn apart by Thracian maenads (Dionysiac connection); head continues to sing/prophesy |
 | **Posthumous oracle** | Severed head prophesies on Lesbos; cult at oracle sites |
 | **Founder of mysteries** | Attributed with founding rites that promise initiates a blessed afterlife |
-| **Cosmic theogony** | Orphic cosmogony: primordial egg, Phanes/Eros, Dionysus Zagreus as dismembered and reborn god |
+| **Cosmic theogony** | Orphic cosmogony: primordial egg, **Phanes** (*Protogonos*, "Firstborn") / Eros, Dionysus Zagreus as dismembered and reborn god. **Phanes** is the cosmogonic deity whose body Zeus swallows to reconstitute creation—distinct from Orpheus the prophet-hero. See [Primordial Cosmic Man](../overview/primordial-cosmic-man.md) |
 
 ## Cross-tradition parallels
 
@@ -61,4 +61,5 @@ For this site, Orpheus matters as: (1) evidence that **Greek religion offered sa
 - [Demeter and Eleusis](../overview/demeter-eleusis-mysteries.md) — another Greek mystery tradition
 - [Hermes as mediator](../overview/hermes-mediator-and-initiation.md) — psychopomp overlap
 - [Thracian horseman and Paleo-Balkan Heros](../overview/thracian-horseman-paleo-balkan.md) — Thracian context
+- [Primordial Cosmic Man: dismemberment, world-making, and salvific reversal](../overview/primordial-cosmic-man.md) — Phanes and the Zagreus variant in the cross-traditional context; distinguished from Orpheus as prophet-figure
 - [Messianic archetypes](../overview/messianic-archetypes.md)

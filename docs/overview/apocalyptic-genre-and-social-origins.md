@@ -5,11 +5,7 @@ description: What apocalyptic literature is, why it emerged when it did, how it 
 
 # Apocalypticism — genre, social origins, and cross-traditional comparison
 
-## Context
-
-- **Audience:** Readers who encounter "apocalyptic" as a descriptor for Daniel, Revelation, Zoroastrian Bundahishn, or Islamic end-times traditions, and who want to understand how scholars define the genre, what social conditions produced it, and whether the similarities across traditions are genealogical.
-- **Question:** What is apocalypticism, where does it come from, and what does the cross-traditional comparison of apocalyptic texts actually show about transmission and borrowing?
-- **Scope:** Genre definition, major text corpora (Zoroastrian, Jewish, Christian, Islamic), social conditions, and the scholarly debate about Iranian influence on Jewish and Christian apocalypticism.
+Apocalyptic literature — Daniel, Revelation, the Zoroastrian *Bundahishn*, Islamic end-times traditions — shares enough structural features across traditions that scholars have long debated whether those similarities are genealogical. This page defines the genre using Collins' standard framework, surveys the major corpora, examines the social conditions that produced apocalyptic literature, and assesses the scholarly debate about Iranian influence on Jewish and Christian apocalypticism — one of the most contested questions in the field.
 
 ---
 

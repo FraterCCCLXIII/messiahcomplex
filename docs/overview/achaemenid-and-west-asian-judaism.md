@@ -17,6 +17,7 @@ This page is the hub for the **Achaemenid contact & Judaism** section — the 55
 | [Saoshyant influence hypotheses](saoshyant-influence-hypotheses.md) | The Zoroastrian eschatological savior (*saošyant*) — the Iranian concept that enters the contact window |
 | **Achaemenid empire and West Asian Judaism** (this page) | Imperial facts, Elephantine, Mithredath, Cyrus as *mashiach*, forms of evidence and their limits |
 | [Persian loanwords in Biblical Hebrew and Aramaic](persian-loanwords-in-biblical-tradition.md) | *pardēs*, *rāz*, *dāt* — vocabulary as a traceable channel of cultural contact |
+|| [Persian rulers and Persia in the Biblical texts](persian-rulers-in-biblical-texts.md) | Verse-by-verse quick reference: Cyrus, Darius, Xerxes, Artaxerxes, the *magoi*, Acts 2:9, and eschatological passages — with editorial notes on evidential significance |
 | [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) | When resurrection, dualism, final judgment, and paradise first appear in each tradition |
 | [Dead Sea Scrolls dualism and Iranian parallels](dead-sea-scrolls-dualism-and-iranian-parallels.md) | 1QS two-spirits, War Scroll — Qumran dualism measured against Zoroastrian doctrine |
 | [Jewish angelology and yazata parallels](jewish-angelology-and-yazata-parallels.md) | Michael, Gabriel vs. Mithra, Sraosha — angelic hierarchy comparisons and their limits |
@@ -133,6 +134,42 @@ Jewish scribes borrowed **legal**, **administrative**, and **conceptual** vocabu
 
 - **Al-Yahudu**-type tablets and **archives** documenting **Judahites** in **Mesopotamia** under **Neo-Babylonian**–**Persian** **succession**—**ground** for **long** **diaspora** **continuity** and **Persian-period** **social** **facts**. Consult **Pearce & Wunsch**, *Documents of Judean Exiles…*, and **current** **journal** **updates** for **readings**.
 
+## The Dead Sea Scrolls: primary-source evidence for Zoroastrian-influenced Jewish dualism
+
+The **Dead Sea Scrolls** (discovered 1947–1956 at Qumran, near the Dead Sea) include several texts that represent the strongest direct primary-source evidence for a Zoroastrian-influenced cosmic dualism within a Palestinian Jewish community. These are not speculative parallels but textual parallels: the specific theological vocabulary of the scrolls — two cosmic spirits, light vs. darkness, a pre-determined end — does not appear in earlier Hebrew Bible material and is structurally identical to Zoroastrian cosmological teaching.
+
+### The Community Rule (1QS) — the Two Spirits Teaching (cols. 3–4)
+
+The **Community Rule** (*Serekh ha-Yaḥad*, 1QS), dated paleographically to c. 100–75 BCE, contains in columns 3–4 a theological treatise on human nature and the cosmic order that scholars have called "the most extensive non-biblical statement of Jewish dualism from antiquity":
+
+> *"He created the spirits of light and darkness and founded every action upon them … In the hand of the Prince of Lights is dominion over all the sons of righteousness; they walk in the ways of light. And in the hand of the Angel of Darkness is all dominion over the sons of deceit; they walk in the ways of darkness … God has appointed these spirits as equals until the final age."* (1QS 3:25–4:1, Vermes trans.)
+
+The structural elements are precisely Zoroastrian:
+
+| 1QS Two Spirits | Zoroastrian parallel |
+|---|---|
+| **Prince of Lights** (*śar ha-'ûrîm*) vs. **Angel of Darkness** (*mal'ak ha-ḥōšek*) | **Ahura Mazda** (Lord of Light/Wisdom) vs. **Angra Mainyu** (Destructive Spirit) |
+| Two spirits created as equals by God for the cosmic period | Zoroastrian cosmic dualism: both principles operative in the current aeon |
+| Battle waged within each individual human soul | Zoroastrian inner moral combat: good and evil thoughts/words/deeds |
+| Pre-determined **"final age"** (*qēṣ*) when God's chosen prevail | Frashkart: the Zoroastrian eschatological renovation at the end of the cosmic period |
+| The community = "sons of light" (*benē 'ôr*); outsiders = "sons of darkness" | Zoroastrian self-identification of the *ashavan* (righteous) vs. *dregvant* (followers of the Lie) |
+
+**Tier B:** The parallel is compelling and the Qumran community's Persian-period context makes borrowing plausible; however, scholars including Lim (*The Dead Sea Scrolls: A Very Short Introduction*, Oxford, 2005) note the Qumran authors drew primarily on **biblical** antecedents (Ezekiel, Deutero-Isaiah, Zechariah) and that Iranian influence, while possible, cannot be proven through the scroll texts alone. The Two Spirits teaching has no obvious precedent in earlier Hebrew scripture, which is the strongest argument for an external (Iranian) input.
+
+### The War Scroll (1QM): eschatological battle
+
+The **War Scroll** (*Milhamah*, 1QM), dated c. 1st century BCE–1st century CE, describes a forty-year eschatological war between the **Sons of Light** (the Qumran community and heavenly armies) and the **Sons of Darkness** (the Kittim/Romans and their demonic allies), leading to the final victory of light. The military detail — battle formations, trumpet signals, standards, priestly orders — is extraordinary; but the cosmic framework is a direct extension of the 1QS dualism into an apocalyptic military narrative.
+
+This is structurally parallel to the Zoroastrian **War Scroll** equivalent: the *Bahman Yasht* and *Zand ī Wahman Yasn*, which describe a cosmic war at the end of the age in which the forces of Ahura Mazda finally defeat Angra Mainyu. The parallel does not require direct textual dependence — both may reflect a common Achaemenid-period eschatological template — but the existence of two closely contemporary Jewish texts (*c.* 100 BCE – 100 CE) and two Zoroastrian texts (*Bahman Yasht* in its final form is later but draws on Achaemenid-era material) with near-identical cosmic battle structures and terminology is significant.
+
+### 4Q521: the "Messianic Apocalypse"
+
+**4Q521** (c. 100–50 BCE) describes a figure anointed by God's spirit who will "heal the wounded, revive the dead, and bring good news to the poor" — vocabulary remarkably close to the Saoshyant's function in Zoroastrian eschatology (the world-renovator who raises the dead at the final renovation) and to Luke 4:18 / Isaiah 61 (Jesus's self-description in Nazareth). The document is fragmentary; its messianic expectations are debated. It demonstrates that the Qumran community held an eschatological mediator figure within a dualistic cosmic framework — the full package.
+
+**Reference:** Wise, Michael, Martin Abegg Jr., and Edward Cook. *The Dead Sea Scrolls: A New Translation* (Harper, 1996); Vermes, Géza. *The Complete Dead Sea Scrolls in English* (Penguin, 1997); Collins, John J. *The Scepter and the Star: Messianism in Light of the Dead Sea Scrolls* (Eerdmans, 2010).
+
+
+
 ## Key reference works (starting points)
 
 | Resource | Why use it |
@@ -152,6 +189,7 @@ See [Further reading](further-reading.md) for expanded links. For a **condensed 
 - [1 Enoch and the Son of Man](enoch-son-of-man.md) — the next step in the chain
 - [Septuagint as transmission mechanism](septuagint-transmission-mechanism.md) — how this tradition was rendered in Greek
 - [Persian loanwords in Biblical Hebrew and Aramaic](persian-loanwords-in-biblical-tradition.md) — *pardēs*, *rāz*, *dāt*, and the vocabulary of transmission
+- [Persian rulers and Persia in the Biblical texts](persian-rulers-in-biblical-texts.md) — verse-by-verse quick reference for all significant Biblical mentions of Persian kings and Persian-adjacent material
 - [Dead Sea Scrolls dualism and Iranian parallels](dead-sea-scrolls-dualism-and-iranian-parallels.md) — 1QS two spirits, War Scroll, 4Q521
 - [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) — resurrection, dualism, judgment, paradise across traditions
 - [The Parthian corridor](parthian-arsacid-corridor.md) — the missing 247 BCE–224 CE bridge

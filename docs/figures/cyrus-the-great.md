@@ -103,6 +103,22 @@ The Cyrus Cylinder has been used in the modern period for several purposes:
 
 The scholarly response is to contextualize the cylinder accurately while acknowledging that its *content* — the legitimizing of Cyrus through theological accommodation — is genuine evidence of Achaemenid statecraft.
 
+## Aśoka and the Persian template for imperial Buddhism
+
+Cyrus's legacy as a model for empire-building did not stop at the western Mediterranean. It traveled east — and it shaped the ruler who became Buddhism's greatest patron.
+
+**Chandragupta Maurya** (r. c. 321–297 BCE), founder of the Maurya empire, met Alexander the Great in person (the meeting nearly cost him his life) and drew from both Persian and Greek examples the concept of a unified, administratively coherent empire. India at the time was a patchwork of competing kingdoms; the Persian model of a single ruler governing through a network of provincial administrators (*satraps*) provided Chandragupta with the template he needed. His grandson **Aśoka** (r. 268–232 BCE), who converted to Buddhism after the devastation of the Kalinga war, extended this imperial framework into what became the largest empire in Indian history.
+
+The **Aśokan pillars** — free-standing stone columns erected across the empire, inscribed with edicts on ethics, religious tolerance, and administrative instruction — are directly modeled on the Persian Achaemenid inscription pillars of Cyrus and Darius. In every village and town of the Achaemenid empire, similar pillars had carried royal proclamations in the language of the local population. Cyrus's inscriptions were notable for framing conquest in the language of tolerance: restoring cults, repatriating peoples, improving the lives of subjects. Aśoka's edicts use strikingly similar rhetoric — non-violence (*ahiṃsā*), respect for all religious traditions, the welfare of subjects as the king's primary duty — and the same medium of public stone inscription to communicate it.
+
+The **script question** reinforces this genealogy. There is no secure evidence of a writing system in India before Aśoka's reign. The northern Aśokan pillar inscriptions use **Greek and Aramaic** — the existing scripts of the former Achaemenid east. The southern inscriptions use *Brāhmī*, a script developed specifically for Indian languages, almost certainly commissioned under Aśoka or shortly before. According to Richard Salomon and other specialists, Aśoka wanted a distinctly Indian script — not an imported foreign one — to project his own imperial authority. But the *impulse* to use writing as a tool of empire-wide ideological communication is the Persian model applied to an Indian context.
+
+**The transmission chain:** Cyrus (c. 559–530 BCE) → Achaemenid inscription pillars across the empire → Alexander learns from Persian statecraft → Chandragupta Maurya learns from Alexander and Persian precedent → Aśoka inscribes Buddhist dharma on pillars across India in the same format. Buddhism's first textual monument is, in part, a product of Persian imperial technique.
+
+**Evidence tier:** The parallel between Achaemenid and Aśokan pillars is **Tier A** (archaeological, directly observable). The causal chain through Alexander and Chandragupta is **Tier B** (documented in classical sources: Chandragupta's meeting with Alexander is recorded by Plutarch and Justin; his learning from Persian models is attested in the Maurya administrative system).
+
+**References:** Thapar, Romila. *Aśoka and the Decline of the Mauryas* (Oxford, 1961; rev. ed. 1997) — definitive study; Briant, Pierre. *From Cyrus to Alexander* (ET 2002), for Achaemenid precedents; Salomon, Richard. *Indian Epigraphy* (Oxford, 1998), for the Brāhmī script question; Trautmann, Thomas R. "Elephants and the Mauryas," in *India: History and Thought* (1984).
+
 ## Cyrus in this site's framework
 
 Cyrus is the most directly evidenced **single figure** at the interface of Iranian imperial power and Jewish messianic language:
@@ -122,6 +138,7 @@ Cyrus is the most directly evidenced **single figure** at the interface of Irani
 - [Indo-Iranian Mitra and the contract complex](../overview/indo-iranian-mitra-contract.md) — the Mithredath connection
 - [Evidence leads — Persian milieu and Mitra cluster](../overview/evidence-leads-persian-milieu-and-mitra-cluster.md)
 - [Zarathustra (figure page)](zoroaster-zarathustra.md) — the Iranian religious tradition Cyrus served
+- [Gandhara and Central Asian transmission](../overview/gandhara-central-asian-transmission.md) — Aśoka's pillars, Greek monks, and the Greco-Buddhist synthesis downstream of Persian imperial culture
 - [The Bardiya Hypothesis — Historical Context](/docs/bardiya/historical-context) — the Achaemenid succession crisis of 522 BCE and its proposed religious legacy
 - [Achaemenid Empire and the Origins of Axial Religions](/docs/overview/achaemenid-axial-age-synthesis) — long-form synthesis of Persian imperial influence on Axial Age religion
 

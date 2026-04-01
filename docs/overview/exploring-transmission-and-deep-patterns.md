@@ -6,11 +6,7 @@ description: The site’s positive program—testing how messianic and mediator 
 
 # Exploring transmission and deep narrative patterns
 
-## Context
-
-- **Audience:** Readers who want **testable** claims about shared **story grammar** and **historical pathways** across traditions—not automatic dismissal of parallels, and not proof-by-listing either.
-- **Question:** Where might **real connection** lie among structural similarity, regional diffusion, imperial contact, manuscript networks, and deeper linguistic or narrative inheritance?
-- **Scope:** This page states **how** the site **searches** for connections. [Method: evidence, influence, and milieu](method-evidence-and-influence.md) still governs **how** we argue (typology vs. genealogy, tiers). **Non-goals:** treating one “mega-myth” or ur-narrative as **established fact** without mechanisms and evidence.
+This page states the site's positive program: how it searches for real connections among messianic and mediator traditions, rather than either dismissing every parallel or treating similarity as automatic proof of borrowing. The question is where genuine connection might lie — among structural resemblance, regional diffusion, documented imperial contact, manuscript networks, and deeper linguistic or narrative inheritance. Every serious claim needs a mechanism and a falsifier; that constraint is what distinguishes exploration from speculation.
 
 ## Thesis of exploration
 

@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
         'overview/axial-age-framework',
         'overview/syncretism-methodology',
         'overview/interpretatio-and-divine-translatability',
+        'overview/soteriological-convergence-of-empire',
       ],
     },
 
@@ -47,6 +48,7 @@ const sidebars: SidebarsConfig = {
         'overview/saoshyant-influence-hypotheses',
         'overview/achaemenid-axial-age-synthesis',
         'overview/persian-loanwords-in-biblical-tradition',
+        'overview/persian-rulers-in-biblical-texts',
         'overview/eschatological-vocabulary-timeline',
         'overview/daniel-and-iranian-eschatology',
         'overview/enoch-son-of-man',
@@ -136,6 +138,10 @@ const sidebars: SidebarsConfig = {
       link: {type: 'doc', id: 'overview/sasanian-empire-transmission'},
       collapsed: true,
       items: [
+        'overview/zurvanism',
+        'overview/manichaeism-synthesis',
+        'overview/merkabah-mysticism',
+        'overview/therapeutae',
         'overview/neoplatonism-and-theurgy',
         'overview/nestorian-christianity-silk-road',
       ],
@@ -152,6 +158,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'overview/pie-twin-and-brother-archetypes',
+        'overview/primordial-cosmic-man',
         'overview/pie-cosmic-combat-myth',
         'overview/pie-and-ane-traces-in-biblical-tradition',
         'overview/pie-motifs-atu-thompson-and-hero-traditions',
@@ -197,6 +204,7 @@ const sidebars: SidebarsConfig = {
             'figures/cyrus-the-great',
             'figures/zoroastrian-saoshyant',
             'figures/roman-mithraism',
+            'figures/bardaisan-of-edessa',
           ],
         },
         {
@@ -225,6 +233,8 @@ const sidebars: SidebarsConfig = {
           label: 'Asian traditions',
           collapsed: true,
           items: [
+            'figures/vedic-purusha',
+            'figures/hindu-shiva-sadashiva',
             'figures/buddhism-maitreya',
             'figures/hinduism-kalki',
             'figures/taoism-li-hong',
@@ -319,7 +329,6 @@ const sidebars: SidebarsConfig = {
           collapsed: true,
           items: [
             'bardiya/bibliography',
-            'bardiya/timeline',
             'bardiya/glossary',
           ],
         },

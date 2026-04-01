@@ -5,11 +5,7 @@ description: Plotinus, Porphyry, Iamblichus, Julian — the philosophical synthe
 
 # Neoplatonism, theurgy, and solar theology (2nd–4th cent. CE)
 
-## Context
-
-- **Audience:** Readers who want to understand the philosophical-religious framework within which Mithraism, Roman solar religion, and early Christianity competed for educated adherents in the 2nd–4th centuries CE, and who want to understand why late antique intellectuals took mystery cult ritual theologically seriously.
-- **Question:** What is Neoplatonism, what is theurgy, and how do they relate to the site's themes of solar religion, initiatory ritual, and imperial theology?
-- **Scope:** Plotinus, Porphyry, Iamblichus, Julian the Apostate; Sol Invictus; the Christmas date question; Constantine's solar background.
+In the 2nd–4th centuries CE, Neoplatonic philosophy provided the intellectual grammar within which Mithraism, Roman solar religion, and early Christianity competed for educated adherents. This page explains what Neoplatonism is, what theurgy is, and why late antique thinkers could take mystery cult ritual as philosophically serious rather than mere superstition — a question directly relevant to understanding why the Mithraic, solar, and Christian traditions looked so structurally similar to contemporaries.
 
 ---
 
@@ -17,7 +13,13 @@ description: Plotinus, Porphyry, Iamblichus, Julian — the philosophical synthe
 
 ### Plotinus (204–270 CE) — the founding synthesis
 
-**Plotinus** was an Egyptian-born philosopher who studied under Ammonius Saccas in Alexandria and then taught in Rome (~244–270 CE). His lectures were collected and edited by his student Porphyry into the ***Enneads*** (*Enneas* = group of nine; six sets of nine treatises each). The *Enneads* are the primary Neoplatonic text.
+**Plotinus** was an Egyptian-born philosopher who studied under **Ammonius Saccas** in Alexandria and then taught in Rome (~244–270 CE).
+
+**Ammonius Saccas and the Indian origin hypothesis (Tier C — speculative but documented).** Ammonius Saccas (c. 175–242 CE), Plotinus’s teacher and the de facto founder of the Neoplatonic school in Alexandria, is one of antiquity’s most mysterious intellectual figures: he left no writings of his own, and everything we know about him comes from students and later reports. His surname “Saccas” is unexplained by Greek etymology. A minority of historians have proposed that Ammonius was of **Indian ethnic origin** — possibly from the region of modern Bihar (the heartland of Buddhist India) — and that this origin would explain both **Plotinus’s lifelong fascination with Indian philosophy** and the structural parallels that scholars have noted between **Vedānta** (the Hindu philosophical tradition of the *Upanisads* and Ādvaita Vedānta) and **Neoplatonism**.
+
+The structural parallels are genuine enough to warrant serious comparative analysis regardless of the origin question: the Vedāntic *Brahman* (the absolute, undifferentiated ground of being, beyond all predication) is functionally parallel to Plotinus’s *The One*; the *ātman* (individual soul) that is ultimately identical with *Brahman* parallels the Plotinian soul’s return to union with the One through contemplation; the *māyā* (cosmic illusion overlaying ultimate reality) has structural correspondence to Plotinus’s treatment of matter as non-being. These are not casual resemblances — they are the same metaphysical architecture. Whether this reflects Ammonius’s personal background, the more general influence of Indian merchants and scholars in the cosmopolitan intellectual world of Ptolemaic Alexandria, or independent convergence in a Platonic tradition that was already developing in this direction is not resolvable with current evidence.
+
+**Plotinus’s eastward journey.** Porphyry’s *Life of Plotinus* (ch. 3) records that Plotinus, after studying with Ammonius in Alexandria, **joined the military campaign of the Emperor Gordian III against Persia specifically in order to make contact with Persian and Indian philosophers**. The campaign was defeated (244 CE) and Plotinus barely escaped with his life from the retreat, never reaching India. That he was willing to risk his life on a military campaign to gain access to eastern philosophical sources is an extraordinary biographical datum — it demonstrates that for the founder of Neoplatonism, eastern philosophical wisdom was not an abstract curiosity but a living priority worth physical danger to pursue. **Reference:** Porphyry. *Life of Plotinus*, ch. 3 (Armstrong trans., Loeb Classical Library vol. 440). His lectures were collected and edited by his student Porphyry into the ***Enneads*** (*Enneas* = group of nine; six sets of nine treatises each). The *Enneads* are the primary Neoplatonic text.
 
 **The three hypostases (foundational realities):**
 

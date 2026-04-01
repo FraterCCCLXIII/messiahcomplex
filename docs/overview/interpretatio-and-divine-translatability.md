@@ -5,11 +5,7 @@ description: Ancient peoples routinely equated deities across traditions. This p
 
 # Interpretatio and divine translatability in the ancient world
 
-## Context
-
-- **Audience:** Readers who notice large structural overlaps between, say, Mithras and Christ, or Mithra and Amitābha, and wonder why modern scholars are reluctant to say these figures are "the same."
-- **Question:** Was the modern hesitancy to equate deities always the right posture — or is it partly a modern, post-Enlightenment assumption that ancient peoples did not share?
-- **Scope:** The concept of *interpretatio* as a general ancient practice; the Proto-Indo-European substrate that made many equations "work"; the Kushan coin evidence; Justin Martyr's comparison; and what this means for how we read the Mithras–Christ overlap and Paul's celestial Christ.
+Ancient peoples routinely equated deities across traditions. Herodotus identified the Egyptian pantheon with the Greek; Roman writers mapped Germanic gods onto their own; Justin Martyr explicitly compared the rites of Mithras to those of Christians. This ancient practice — *interpretatio* — reflects an assumption that modern scholars are often reluctant to share: that divine reality is translatable across cultures. This page examines what *interpretatio* was, why the Proto-Indo-European substrate made so many equations feel natural, what the Kushan coin evidence adds, and what this means for reading the Mithras–Christ overlap on this site.
 
 ---
 

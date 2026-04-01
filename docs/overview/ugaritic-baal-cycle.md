@@ -5,11 +5,7 @@ description: The KTU corpus from Ras Shamra (c. 1400–1200 BCE) — Baal Hadad,
 
 # The Ugaritic Baal Cycle and its biblical traces
 
-## Context
-
-- **Audience:** Readers who know that Canaanite religion is somehow "background" to the Hebrew Bible but want to understand what the actual primary sources are, what the Baal Cycle contains, and what specific traces of it can be identified in the Hebrew scriptures with scholarly confidence.
-- **Question:** What do the Ugaritic texts show about Canaanite religion, and what specific connections to the Hebrew Bible are regarded as secure vs. debated by mainstream scholarship?
-- **Scope:** The Ras Shamra discovery and corpus; the Baal Cycle narrative; El and the divine council; Asherah; specific biblical parallels; the dying-and-rising god debate as it applies to Baal.
+The Ugaritic tablets, discovered at Ras Shamra on the Syrian coast from 1929 onward, provide the most direct documentation of the Canaanite religious tradition that was the immediate cultural milieu of ancient Israel. The Baal Cycle — Baal Hadad's battles with Yamm and Mot, El's divine council, Asherah — is no longer a scholarly reconstruction; it is a primary source. This page covers the discovery and corpus, the narrative of the Baal Cycle, its specific parallels in the Hebrew Bible, and the scholarly debate about what those parallels mean.
 
 ---
 

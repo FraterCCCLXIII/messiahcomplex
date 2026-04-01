@@ -76,9 +76,9 @@ See the full chain — from Heraclitean Logos through Philo to Nicaea — in [Th
 
 **Kushan** **dynastic** **coinage** famously **braids** **Iranian**, **Indian**, and **Greco-Roman** **divine** **names** and **attributes** (e.g. **MIIRO** alongside **BODDO** on the same coin type). That corridor illustrates **solar** and **soteriological** **imagery** moving along **trade** and **army** routes treated elsewhere on this site — [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md), [Measuring influence: Mitra, Mithra, Maitreya](measuring-influence-mitra-maitreya.md). **Identity** claims ("this emperor's god equals that god") are **ruler strategies**; they do **not** by themselves demonstrate **doctrinal fusion** of **Roman Sol** and **Buddhist eschatology**.
 
-### Vairocana and the Greco-Bactrian synthesis
+### Vairocana, the Five Buddhas, and the five-directional schema
 
-The **Kushan period** (1st–4th cent. CE) was the crucible in which Greek, Iranian, Indian, and emerging Mahāyāna Buddhist traditions operated simultaneously. One downstream product is the emergence of **Vairocana** Buddha as a cosmic solar figure in early Mahāyāna texts (c. 2nd cent. CE) — "the Great Illuminator" whose name derives from Sanskrit *vairocana* ("belonging to the sun" / "shining"). Key comparative points:
+The **Kushan period** (1st–4th cent. CE) was the crucible in which Greek, Iranian, Indian, and emerging Mahāyāna Buddhist traditions operated simultaneously. One downstream product is the emergence of **Vairocana** Buddha as a cosmic solar figure in early Mahāyāna texts (c. 2nd cent. CE) — "the Great Illuminator" whose name derives from Sanskrit *vairocana* ("belonging to the sun" / "shining," cognate with Vedic *vivasvant*, a solar epithet). Key comparative points:
 
 | Function | Greek / Roman | Iranian | Buddhist (Vairocana) |
 | --- | --- | --- | --- |
@@ -87,6 +87,32 @@ The **Kushan period** (1st–4th cent. CE) was the crucible in which Greek, Iran
 | **Cosmic order** | Helios as all-seeing witness | Mithra as contract-keeper | Vairocana as *dharmadhātu* (cosmic truth-order) |
 
 This does **not** imply identity across these figures. The **radiate halo** in Gandhāran Buddha images draws on Hellenistic conventions, but Buddhist theology gave it a distinct referent: the *prabhāmaṇḍala* as emblem of *prajñā* (wisdom). Vairocana's fuller development in the *Mahāvairocana Sūtra* (7th–8th cent.) and esoteric *maṇḍala* systems lies well outside the Kushan horizon — a reminder that convergence of visual language is not convergence of doctrine. See [Amitābha, Maitreya, and Gandhāra](amitabha-maitreya-gandhara-transmission.md) for Kushan coin evidence and related discussion.
+
+**The Five Buddhas mandala** (*pañca tathāgata*): Vairocana is not only a solar figure — he is the center of a five-directional mandala in which each direction corresponds to a Buddha, a wisdom (*jñāna*), and a color. This schema first appears systematically in the *Guhyasamāja Tantra* (c. 5th–6th cent. CE) and is fully elaborated in the *Vajraśekhara Sūtra* and the Mahāyoga tantras of the 7th–8th cent. CE:
+
+| Direction | Buddha | Wisdom | Color |
+| --- | --- | --- | --- |
+| Center | **Vairocana** | *Dharmadhātu* wisdom | White |
+| East | **Akṣobhya** | Mirror-like wisdom | Blue |
+| South | **Ratnasambhava** | Wisdom of equality | Yellow |
+| West | **Amitābha** | Discriminating wisdom | Red |
+| North | **Amoghasiddhi** | All-accomplishing wisdom | Green |
+
+#### The Śaiva parallel: Sadāśiva's five faces
+
+The Five Buddhas mandala has a structural counterpart in the Śaiva tradition that was developing in the same South Asian milieu: **Sadāśiva** ("Ever-Auspicious Śiva") as the five-faced cosmic deity (*pañcamukha*), with each face assigned to a direction, a cosmic function, and an element. The five-face schema is first explicitly named in the ***Atharvāśiras Upaniṣad*** (c. 300 BCE–200 CE) and elaborated in the **Śaiva Āgamas** (c. 5th–10th cent. CE) and the **Elephanta cave sculptures** (c. 550–600 CE):
+
+| Direction | Sadāśiva face | Cosmic function (*kṛtya*) | Element |
+| --- | --- | --- | --- |
+| Center / Zenith | **Īśāna** | Grace / revelation (*anugraha*) | Space (*ākāśa*) |
+| East | **Tatpuruṣa** | Concealment (*tirobhāva*) | Air |
+| South | **Aghora** | Dissolution (*saṃhāra*) | Fire |
+| West | **Sadyojāta** | Creation (*sṛṣṭi*) | Earth |
+| North | **Vāmadeva** | Preservation (*sthiti*) | Water |
+
+Both schemas share: a supreme central/zenith figure (Vairocana / Īśāna) that embodies the whole cosmos, four directional figures each with a distinct function, and an underlying five-element matrix. The Śaiva schema is organized around five *cosmic acts*; the Buddhist schema around five *modes of enlightened knowing* — different organizing principles applied to the same directional framework.
+
+**On the question of borrowing:** Alexis Sanderson ("Śaivism and the Tantric Traditions," 1988; "The Śaiva Age," 2009) has documented extensive Śaiva → Vajrayāna textual borrowing in the Indian tantric period (6th–9th cent. CE), and argues the five-directional mandala structure in Vajrayāna is a Buddhist reworking of Śaiva *pañcaka* ("pentad") theology. Ronald Davidson (*Indian Esoteric Buddhism*, 2002) argues for bidirectional exchange and shared substrate. The evidence for direct Śaiva influence on *some* later Vajrayāna tantras is strong (Sanderson documents parallel texts); whether this applies to the five-buddha schema specifically is Tier B — specialist debate. The five elements and five directions are **pan-Indian cosmological conventions** that both traditions independently drew on, making complete genealogical tracing difficult. See [Śiva / Sadāśiva — the Five-Faced God](../figures/hindu-shiva-sadashiva.md) for the full first-attestation sequence and evidence tiers.
 
 ## Editorial note
 
@@ -98,6 +124,8 @@ Solar **syncretism** helps **explain** why **ancient** **audiences** could find 
 
 ## See also
 
+- [Śiva / Sadāśiva — the Five-Faced God](../figures/hindu-shiva-sadashiva.md) — first attestations of the five-directional Śaiva schema; comparison with the Five Buddhas mandala; Sanderson thesis
+- [Amitābha, Maitreya, and Gandhāra](amitabha-maitreya-gandhara-transmission.md) — Kushan coin evidence; Akṣobhya as the earliest Pure Land Buddha; rejection of Mithra-derivation
 - [The Logos doctrine: from Heraclitus and Apollo to Nicaea](logos-doctrine-neoplatonic-christology.md) — the full philosophical chain from Pythagorean Monad through Philo to John 1:1 and Nicaea
 - [Paul's celestial Christology and the solar mediator tradition](paul-celestial-christology.md) — the PIE solar-mediator function-space
 - [Interpretatio and divine translatability](interpretatio-and-divine-translatability.md) — why ancient deity equations felt natural

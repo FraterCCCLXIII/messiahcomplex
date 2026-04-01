@@ -5,11 +5,7 @@ description: The Parables of Enoch (1 En. 37–71) as the bridge between Daniel'
 
 # 1 Enoch and the Son of Man
 
-## Context
-
-- **Audience**: readers who want to understand how the "Son of Man" figure travels from Daniel through intertestamental Jewish literature into the New Testament — and what Iranian eschatological material is embedded in that transmission chain.
-- **Question**: does the Enochic literature preserve evidence of ongoing Iranian eschatological influence in Second Temple Judaism, and does the "Son of Man" of 1 Enoch explain New Testament Christology better than the Gospels alone?
-- **Scope**: the five books of 1 Enoch with primary focus on the *Book of Parables* (1 En. 37–71); the dating controversy; the Iranian substrate; the bridge to Paul and the Synoptics.
+The “Son of Man” — the figure enthroned in heaven and vindicated before the Ancient of Days in Daniel 7 — does not disappear after Daniel. It re-emerges, developed and elaborated, in the *Book of Parables* of 1 Enoch (chapters 37–71), where it becomes the image of a pre-existent, cosmic judge whose identity is revealed only at the end of days. This page traces that development: what the five books of 1 Enoch contain, why the dating of the Parables is so contested, what Iranian eschatological material appears embedded in the transmission chain, and what all of this means for understanding the origins of New Testament Christology.
 
 ---
 

@@ -5,11 +5,7 @@ description: Divine Wisdom (*Ḥokmāh* / *Sophia*) in Jewish scripture, Helleni
 
 # Sophia and the Wisdom tradition
 
-## Context
-
-- **Audience:** Readers tracing how a divine female figure called Wisdom moves from Hebrew biblical tradition through Hellenistic Jewish philosophy into the foundations of Christian theology and Gnostic cosmology.
-- **Question:** What is the Jewish Wisdom tradition, how does Sophia function within it, and how does she become structurally central to both Johannine Christology and Gnostic mythology?
-- **Scope:** Hebrew Bible Wisdom texts, Deuterocanonical Wisdom books, Philo of Alexandria, the Gospel of John, Gnostic Sophia, and the Isis parallel.
+The figure of divine Wisdom — *Ḥokmāh* in Hebrew, *Sophia* in Greek — traces a remarkable arc from the Wisdom literature of the Hebrew Bible, through Hellenistic Jewish philosophy, into the theological foundations of Christianity and Gnostic cosmology. This page follows that thread: what the biblical texts say, how Philo of Alexandria transformed Sophia into the Logos, how John 1:1 draws on that inheritance, and how Gnostic mythology made Sophia the central dramatic figure of the cosmic narrative — alongside the Isis parallel that operated in the same Hellenistic milieu.
 
 ---
 

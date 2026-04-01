@@ -5,11 +5,7 @@ description: Alexander's conquests, the Ptolemaic and Seleucid syntheses, the Se
 
 # The Hellenistic corridor (330–30 BCE)
 
-## Context
-
-- **Audience:** Readers who note that this site jumps from the Achaemenid empire (550–330 BCE) to Roman-era Mithraism and early Christianity, and who want to understand what happened in the intervening 300 years.
-- **Question:** How did the Hellenistic period transform the religious landscape of the eastern Mediterranean and Near East, and what specific mechanisms does it add to the site's transmission arguments?
-- **Scope:** 334–30 BCE, from Alexander's campaigns to the Battle of Actium; focus on religious and intellectual transmission rather than political history.
+Between the Achaemenid empire (550–330 BCE) and Roman-era Mithraism and early Christianity lies a three-hundred-year crucible: the Hellenistic world created by Alexander's conquests. This period transformed the religious landscape of the eastern Mediterranean through the Ptolemaic and Seleucid syntheses, the translation of the Hebrew scriptures into Greek (the Septuagint), the spread of Stoic Logos theology, Philo of Alexandria's Jewish-Platonist synthesis, and the formation of Diaspora Jewish communities across the Mediterranean. This page maps those developments and the specific transmission mechanisms they created.
 
 ## Pages in this section
 
@@ -104,6 +100,8 @@ The LXX translators faced choices about how to render Hebrew theological vocabul
 
 The LXX is therefore not simply a translation but a **conceptual interface** between Semitic religious vocabulary and the Greek intellectual world. Every early Christian writer who cites "scripture" is quoting the LXX, including Paul and the evangelists.
 
+**Note — the parallel translation project:** In the same century that the LXX was being produced in Alexandria, Aśoka's Greek translators in Kandahar (Afghanistan) were rendering Sanskrit *dharma* as **eusebeia** — the same Greek word for piety and right religious conduct used in Plato and Xenophon. This means the 3rd century BCE saw Hellenistic Greek vocabulary being used simultaneously as the medium for translating the Hebrew Torah and the Buddhist Dharma into culturally legible Greek idiom. Both traditions were filtered through the same lexicon; their structural resonances in Pauline ethics and early Mahāyāna philosophy may partly reflect this shared translational medium. See [The Septuagint as transmission mechanism](septuagint-transmission-mechanism.md) and [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md).
+
 ### The LXX text and the Hebrew text diverge
 
 In several eschatologically important passages, the LXX differs substantially from the Masoretic Hebrew text. Notable examples:
@@ -128,6 +126,16 @@ These divergences show the LXX as an independent textual tradition with its own 
 **Providence (pronoia):** The rational governance of the cosmos by the Logos/Zeus; a Stoic alternative to the older mythological view of arbitrary divine action. Diaspora Jews found this congenial to their monotheism.
 
 **Cosmopolitanism:** The Stoic teaching that all rational beings share in the Logos and are therefore *fellow citizens of the cosmos* (*cosmopolitai*) regardless of ethnicity or origin. This teaching was enormously useful for Diaspora Jewish apologetics and later for Pauline universalism ("neither Jew nor Greek" — Gal. 3:28).
+
+### Anti-caste universalism as a shared transmission mechanism (Tier B)
+
+A structural parallel that rarely receives direct comparison: both **Buddhism** and **early Christianity** spread through multicultural empires by exploiting the same social mechanism — offering full membership and status to people who were marginalized by the dominant ethnic or social hierarchy.
+
+In Gandhāra (the Greek-Buddhist contact zone), the descendants of Greek communities transplanted by the Persians were classified as **low-caste outcastes** by the Brahmanical system. They had no place in the *varṇa* hierarchy. Buddhism's explicit rejection of caste — the *saṅgha* granted status based on seniority in the robes, not birth — made it uniquely attractive to these Greek communities. They found in Buddhism what the Brahmanical system denied them: equal standing. This social logic explains why Greek monks became among the first non-Indian monks, and why Greek communities were disproportionately involved in the early transmission of Buddhism.
+
+In the Roman Empire, early Christianity spread most effectively among communities also excluded from or marginal to dominant social categories: non-Jews attending synagogues as "God-fearers" (*phoboumenoi ton theon*), freedpersons, women, and people from non-Roman ethnic backgrounds. Paul articulates this mechanism explicitly: *"There is neither Jew nor Greek, neither slave nor free, neither male nor female, for you are all one in Christ Jesus"* (Galatians 3:28).
+
+Both universalist movements thus spread through the same social mechanism in analogous imperial contexts: they offered **equal membership regardless of prior ethnic or social classification**, which was particularly compelling in multicultural empires (Mauryan, Roman) where large populations were structurally excluded from elite religious institutions. The parallel is structural, not genealogical — but it may partly explain why both traditions show convergent features in their ethics (universal moral concern, the dignity of the individual, critique of ritual hierarchy) despite arising in different cultural contexts. See [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md) for the Greek-Buddhist case; [Paul's celestial Christology](paul-celestial-christology.md) for the Pauline universalism analysis.
 
 ### Stoicism and Jewish theology: Philo of Alexandria
 

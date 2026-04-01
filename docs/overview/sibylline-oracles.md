@@ -5,11 +5,7 @@ description: Jewish and Christian eschatological material packaged in Greek orac
 
 # The Sibylline Oracles
 
-## Context
-
-- **Audience:** Readers who want to understand how Jewish (and later Christian) eschatological content reached non-Jewish Greek and Roman audiences, and how the *Oracula Sibyllina* function as a transmission artifact.
-- **Question:** What are the Sibylline Oracles, how were they composed, and what do they tell us about the packaging and transmission of Jewish messianic material?
-- **Scope:** The classical Sibyl tradition, the *Oracula Sibyllina* as a corpus, the primary Jewish books (3, 4, 5), the Christian redactions, and the methodological implications.
+The *Oracula Sibyllina* — a collection of fourteen books of oracular hexameter verse — are one of the most important transmission artifacts on this site. Jewish and later Christian communities packaged eschatological content inside a form that Greek and Roman audiences already trusted: prophecy attributed to the ancient oracular Sibyls. This page traces the classical Sibyl tradition, the composition of the *Oracula Sibyllina* corpus, the specifically Jewish books (3, 4, 5), the Christian redactions, and what these texts reveal about how messianic material crossed religious and ethnic boundaries in the Hellenistic and Roman world.
 
 ---
 

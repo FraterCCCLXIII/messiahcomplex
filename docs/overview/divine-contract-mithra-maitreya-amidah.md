@@ -5,13 +5,7 @@ description: "Historical and linguistic connections between the Indo-Iranian cov
 
 # The Divine Contract: Mithra, Maitreya, and the Amidah
 
-## Context
-
-**Question addressed**: Do the Indo-Iranian deity Mithra, the Buddhist Maitreya, and the Jewish Amidah prayer share more than surface-level conceptual overlap — specifically, a common framework of divine contract or sacred mutual obligation?
-
-**Scope**: From 14th century BCE Hittite-Mitanni treaty attestation through Silk Road transmission in the 1st millennium CE.
-
-**Relation to other pages**: This page extends [Indo-Iranian Mitra and the Contract Complex](/docs/overview/indo-iranian-mitra-contract) by examining the Jewish and Buddhist sides of the transmission question. For the broader solar savior narrative, see [Solar Saviors and Cosmic Mediators](/docs/overview/solar-saviors-mithra-maitreya).
+The Indo-Iranian deity Mithra, the Buddhist future Buddha Maitreya, and the Jewish Amidah prayer all invoke some form of sacred mutual obligation — and all draw, at various distances, on the same Proto-Indo-Iranian root *\*mitra-* (contract, binding bond). This page examines whether that convergence reflects genuine historical connection or typological analogy, tracing the evidence from the Hittite-Mitanni treaty attestation (~14th century BCE) through Silk Road transmission in the first millennium CE. It extends the [Indo-Iranian Mitra and Contract Complex](/docs/overview/indo-iranian-mitra-contract) page by bringing the Jewish and Buddhist sides into direct comparison.
 
 ## Consensus Snapshot
 

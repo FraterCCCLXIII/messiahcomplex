@@ -6,11 +6,7 @@ description: The Indo-Iranian *mitra-* "contract" complex traced from the Mitann
 
 # Mithra, contract, and transmission
 
-## Context
-
-- **Audience:** Readers tracing how one word — *\*mitra-*, "contract, covenant, bond" — moved through Indo-Iranian religion, Persian imperial administration, Roman mystery cult, Manichaean cosmology, and possibly Buddhist devotion, without collapsing all those receptions into one figure or one doctrine.
-- **Question:** What is securely attested at each step, what is contested, and where does resemblance shade into speculation?
-- **Scope:** This page summarizes the full thread. Child pages go deep on each segment. The thread runs roughly: PIE semantic field → Vedic Mitra → Avestan Miθra → Achaemenid onomastics → Roman Mithras → Manichaean Mihr → possible resonance in Buddhist Maitreya / Pure Land.
+One word — *\*mitra-*, Proto-Indo-Iranian for "contract, covenant, binding obligation" — threads through over three thousand years of religious history: from Vedic Mitra and Avestan Miθra, through Achaemenid imperial administration, into the Roman mystery cult of Mithras, Manichaean cosmology's Mihr, and possibly Buddhist Maitreya. This page summarizes the full thread and assesses what is securely attested at each step, what is contested, and where resemblance shades into speculation. Child pages go deep on each segment.
 
 ---
 

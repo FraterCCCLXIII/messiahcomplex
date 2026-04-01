@@ -5,11 +5,7 @@ description: Karl Jaspers' concept of simultaneous 800–200 BCE religious and p
 
 # The Axial Age — analytical framework
 
-## Context
-
-- **Audience:** Readers who notice that Zarathustra, the Buddha, Confucius, the Hebrew prophets, and Socrates seem to appear at roughly the same time across Eurasia, and who want to understand what scholars make of that coincidence.
-- **Question:** Does the "Axial Age" explain why cross-traditional similarities exist? Does it support or undermine transmission hypotheses?
-- **Scope:** The concept itself, its major scholarly articulations, its critiques, and its specific implications for this site's comparative program.
+The name "Axial Age" (*Achsenzeit*) describes the observation that Zarathustra, the Buddha, Confucius, the Hebrew prophets, and Socrates all appear within a few centuries of each other across civilizations with no documented contact — a convergence Karl Jaspers named in 1949 and scholars have debated ever since. This page examines the concept's history, its major scholarly articulations, the critiques that have sharpened it, and its specific implications for the site's transmission questions: does simultaneous emergence support or undermine the case for cross-traditional borrowing?
 
 The Axial Age is an **analytical framework**, not a proven historical mechanism. It neither proves nor disproves specific cases of transmission. Its main value is explanatory: it offers a reason why certain types of religious and philosophical breakthrough clustered in time without requiring them to be in direct contact.
 

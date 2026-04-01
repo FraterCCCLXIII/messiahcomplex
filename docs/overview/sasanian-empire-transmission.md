@@ -5,11 +5,7 @@ description: How the last Zoroastrian Persian empire codified Iranian religion, 
 
 # The Sasanian empire and Late Antique transmission (224–651 CE)
 
-## Context
-
-- **Audience:** Readers who notice that the site's research jumps from the Achaemenid contact zone (~550–330 BCE) and Roman Mithraism (1st–4th cent. CE) without covering the Sasanian Persian empire — the period when Zoroastrianism was institutionalized, Manichaeism was born, the Babylonian Talmud was compiled, and the Iranian cultural inheritance was transmitted to Islam.
-- **Question:** What happened religiously and intellectually during the Sasanian period, and what specific transmission mechanisms does it add to the site's framework?
-- **Scope:** 224–651 CE; Zoroastrian institutionalization; Manichaeism; Mazdakism; Babylonian Talmud; Academy of Gondishapur; the Islamic conquest and what it inherited.
+Between the Achaemenid contact zone (~550–330 BCE) and the Islamic conquests of the 7th century lies a gap in many popular accounts of religious transmission: the Sasanian Persian empire (224–651 CE). This is the period when Zoroastrianism was institutionalized into a state religion, Manichaeism was born and became a world religion, the Babylonian Talmud was compiled in Persian-administered Mesopotamia, and Greek learning was preserved in the Academy of Gondishapur before passing to Islam. This page maps those developments and their significance for the site's comparative program.
 
 ## Pages in this section
 
@@ -177,6 +173,9 @@ The Arab-Islamic conquest of Persia (636–651 CE) did not erase the Sasanian cu
 
 ## See also
 
+- [Zurvanism](zurvanism.md) — Zurvan as the Sassanid state theology and structural bridge to Gnostic cosmology
+- [Manichaeism: the most explicit ancient synthesis](manichaeism-synthesis.md) — Mani at the Sassanid court; conscious synthesis of Zoroastrianism, Buddhism, and Christianity
+- [Merkabah mysticism and the Persian seven-heaven cosmology](merkabah-mysticism.md)
 - [Neoplatonism and theurgy](neoplatonism-and-theurgy.md) — the contemporaneous philosophical synthesis in the Roman west
 - [Nestorian Christianity and the Silk Road](nestorian-christianity-silk-road.md) — the Christian dimension of Sasanian intellectual culture
 - [Manichaean Mihr and soteriology](manichaean-mihr-soteriology.md) — Manichaeism in detail

@@ -5,11 +5,7 @@ description: Paul's Christ is a pre-existent cosmic figure encountered through h
 
 # Paul's celestial Christology and the solar mediator tradition
 
-## Context
-
-- **Audience:** Readers who have noticed that Paul's Christ seems almost nothing like the earthly teacher in the Synoptic Gospels, and who want to understand what that means for the site's comparative program.
-- **Question:** Is Paul's Christ a solar, cosmic, pre-existent divine being — and if so, how does that relate to the Iranian/Mithraic solar mediator tradition?
-- **Scope:** Paul's authentic letters (~50–60 CE), the celestial-body language, the Damascus vision, the pre-existence texts, the cosmic powers framework, and the solar imagery chain. Then comparison with Mithraic theology and the PIE solar-mediator function-space.
+Paul's Christ is not the earthly teacher of the Synoptic Gospels. In Paul's authentic letters, Christ is a pre-existent cosmic being who descends into human form, defeats the powers governing the lower spheres, rises to celestial sovereignty, and will return to renovate the cosmos. This page examines what Paul actually wrote — the celestial-body language, the Damascus vision, the pre-existence texts, the cosmic powers framework — and then asks what that profile means alongside the Iranian solar mediator tradition and Roman Mithraism.
 
 ---
 
@@ -93,6 +89,8 @@ He then makes the key cosmological move:
 > "The first man was of the dust of the earth; **the second man is from heaven** (*ex ouranou*). As was the earthly man, so are those who are of the earth; and as is the heavenly man, so also are those who are of heaven." (1 Cor 15:47–49)
 
 Christ is the "**heavenly man**" — a cosmic archetype from the celestial realm whose image believers will bear through resurrection. This is the Platonic *anthropos* (heavenly man) concept, attested in Philo (*De Opificio Mundi* 134–135), where the "man in God's image" in Genesis 1 is a celestial archetype distinct from the earthly Adam of Genesis 2. It also resonates with Iranian cosmic anthropology: the soul's origin is celestial, its journey terrestrial, its destiny the return to celestial glory.
+
+The Second Adam / First Adam typology belongs to a broader cross-traditional pattern in which a **primordial cosmic person** is broken or scattered at the origin of the world, and a **savior figure** later gathers and restores what was lost. The pattern appears in the Zoroastrian Saoshyant's resurrection of Gayōmart, Lurianic *tikkun olam* (repair of Adam Kadmon's shattered vessels), and Manichaean Primal Man soteriology. See [Primordial Cosmic Man: dismemberment, world-making, and salvific reversal](primordial-cosmic-man.md) for the full cross-traditional survey.
 
 ---
 

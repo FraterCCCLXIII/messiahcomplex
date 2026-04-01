@@ -6,12 +6,6 @@ description: Divine names, storm gods, sea monsters, and shared mythic grammar a
 
 # PIE and Ancient Near Eastern traces in the Bible
 
-## Context
-
-- **Audience:** Readers who notice that biblical texts share divine names, cosmic-combat plots, and cultic vocabulary with both **Canaanite / Mesopotamian** and **Indo-European** traditions—and want to know what is established, what is debated, and what is speculation.
-- **Question:** Where do the Hebrew Bible's divine figures, adversaries, and narrative structures overlap with (a) well-documented **Ancient Near Eastern (ANE)** parallels and (b) reconstructed or attested **Proto-Indo-European (PIE)** mythic patterns?
-- **Scope:** A curated inventory, not a proof that "the Bible is copied from" any single tradition. Each entry notes the **evidence type** (ANE literary parallel, IE cognate, typological analogy) and **confidence level**.
-
 **Editorial stance:** The Hebrew Bible emerged in a **West Asian** milieu saturated with Canaanite, Mesopotamian, Egyptian, and (from the Iron Age onward) increasing contact with **Indo-European**–speaking peoples (Hittites, Philistines/Aegean peoples, Persians, Greeks). Tracing these overlaps is legitimate scholarship — flattening them into "the Bible stole everything" or "pure coincidence" are both failures of method. See [Method: evidence, influence, and milieu](method-evidence-and-influence.md).
 
 ---

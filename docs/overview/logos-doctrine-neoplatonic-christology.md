@@ -5,11 +5,7 @@ description: How the Greek philosophical Logos concept — rooted in Heraclitean
 
 # The Logos doctrine: from Heraclitus and Apollo to Nicaea
 
-## Context
-
-- **Audience:** Readers who want to understand how Paul's cosmic Christ (see [Paul's celestial Christology](paul-celestial-christology.md)) became the fully systematized "eternal Logos, God from God, Light from Light" of the Nicene Creed — and how that journey ran directly through Greek philosophy.
-- **Question:** Where does John 1:1 ("In the beginning was the Logos") come from, and why did it feel natural to its ancient readers?
-- **Scope:** Heraclitus → Pythagorean Monad → Plato's *Timaeus* → Stoic pneuma/Logos → Philo of Alexandria → John 1 → Justin Martyr → Origen → the Arian controversy → Nicaea. The Apollo/Monad connection is a specific thread running through several of these stages.
+"In the beginning was the Logos" is not a biblical formula — it is a philosophical one. When the author of John 1:1 wrote those words, they were invoking a concept with a five-hundred-year history in Greek thought: Heraclitean cosmic reason, Pythagorean Monad theology, Platonic mediation, and Stoic universal fire. This page traces the full path from Heraclitus to the Nicene Creed, showing how Paul's cosmic Christ became systematized into the "eternal Logos, God from God, Light from Light" — and why that journey ran directly through Greek philosophy rather than around it.
 
 ---
 
@@ -325,6 +321,7 @@ More contested:
 - [Neoplatonism and theurgy](neoplatonism-and-theurgy.md) — Plotinus, Porphyry, Iamblichus, Julian
 - [Helios, Apollo, and Sol — solar syncretism](helios-apollo-sol-syncretism.md) — the solar iconographic tradition
 - [Gnosticism and Mandaeanism](gnosticism-and-mandaeanism.md) — the Gnostic use of Logos/Sophia categories
+- [Primordial Cosmic Man: dismemberment, world-making, and salvific reversal](primordial-cosmic-man.md) — the Orphic Phanes and Gnostic Anthropos in the broader cross-traditional context of cosmogonic dismemberment and salvific reversal
 - [Baptism and initiation](baptism-initiation-ritual-bridge.md) — the ritual counterpart to Logos theology
 - [Mithra cluster hub](/docs/mithras)
 

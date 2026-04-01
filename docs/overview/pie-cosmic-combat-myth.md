@@ -5,12 +5,6 @@ description: The Proto-Indo-European storm-deity vs. cosmic-serpent myth atteste
 
 # The PIE cosmic combat myth
 
-## Context
-
-- **Audience**: readers who want to understand why cosmic adversary figures appear across so many traditions, and whether the development of Satan in Judaism requires direct Iranian influence or reflects something deeper.
-- **Question**: is the cosmic combat myth a Proto-Indo-European inheritance shared across traditions, an Iranian export, or something else — and what does the answer mean for the site's argument?
-- **Scope**: the reconstructed PIE cosmic combat pattern; its cognate attestations across IE traditions; the *deva/asura* developmental parallel; implications for the Satan problem.
-
 The cosmic combat myth — a supreme deity defeating a monstrous adversary that obstructs cosmic order — is one of the most widely distributed narrative patterns in the ancient world. Understanding its distribution is essential for the site's argument, because it determines whether the Satan figure in Second Temple Judaism reflects *Iranian transmission* or *shared PIE inheritance* or both.
 
 ---

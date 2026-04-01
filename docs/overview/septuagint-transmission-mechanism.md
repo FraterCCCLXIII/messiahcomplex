@@ -5,12 +5,7 @@ description: How the Greek translation of the Hebrew Bible (LXX, ~250–150 BCE)
 
 # The Septuagint as transmission mechanism
 
-## Context
-
-- **Audience**: readers who want to understand *how* Iranian-influenced Jewish eschatology became the theology of a Greco-Roman religion — the specific linguistic and conceptual bridge.
-- **Question**: what does the Septuagint translation do to Jewish eschatological vocabulary, and why does that make it the crucial mechanism in the Iran→Judaism→Christianity transmission chain?
-- **Scope**: the translation process, its Alexandrian context, the key vocabulary choices, Philo as the synthesis figure, and Paul's dependence on the LXX as his Bible.
-
+The Septuagint — the Greek translation of the Hebrew Bible produced in Alexandria from ~250 BCE onward — is the specific mechanism by which Iranian-influenced Jewish eschatological vocabulary entered the Greek-speaking world and became the theological language of early Christianity. When Paul writes about resurrection, cosmic mediation, divine judgment, and light-versus-darkness dualism, he is quoting the LXX, not the Hebrew. This page examines what the translation process did to Jewish eschatological vocabulary, why the Alexandrian context shaped those choices, and why Philo of Alexandria stands at the synthesis point of the full transmission chain.
 ---
 
 ## 1. What the Septuagint is
@@ -51,6 +46,15 @@ The table below traces the key theological terms from their Persian-era origins 
 3. Eventually became a *proper name* rather than a title ("Jesus Christ" rather than "Jesus the Anointed One")
 
 The chain runs: Persian imperial Cyrus called *māšîaḥ* (Isaiah 45:1) → *māšîaḥ* becomes an eschatological title → LXX renders it *christos* → "Jesus *Christos*" becomes the founding confession of Christianity. Persian imperial ideology, Jewish eschatology, and Greek vocabulary are all present in that two-word phrase.
+
+### The parallel translation project: LXX, Dharma, and the shared Greek ethical lexicon
+
+A striking and underappreciated observation: **in the same century** (the 3rd century BCE), Greek translators were using the same Hellenistic philosophical vocabulary for two geographically separate projects:
+
+- **Alexandria:** The LXX translates Hebrew *tôrâ*, *ḥesed*, *ṣedeq*, and *māšîaḥ* into Greek ethical terms — *nomos*, *eleos*, *dikaiosynē*, *christos*.
+- **Kandahar:** Aśoka's Greek translators render Sanskrit *dharma* as ***eusebeia*** (piety, reverence toward the gods, proper religious observance) in the Kandahar bilingual inscription and the Kandahar Greek-only edict (Schlumberger *et al.*, *Journal asiatique* 246, 1958).
+
+Both projects drew on the same Greek civic-philosophical vocabulary — *eusebeia*, *nomos*, *dikaiosynē* — as the natural medium for translating non-Greek systems of ethics into Hellenistic idiom. The implication is that early Christianity (which operated through LXX vocabulary) and early Mahāyāna Buddhism (filtered through Gandhāran Greek communities) were both being articulated through the **same Greek translational filter**. This is a specific observation about why Greek-Buddhist and Greek-Jewish-Christian ethical structures share deep structural resemblances: they share a common medium, not merely a common origin. Greek Hellenistic ethical vocabulary was the universal solvent through which multiple non-Greek traditions were being rendered intelligible in the 3rd–1st centuries BCE. See [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md) for the full Kandahar inscription analysis.
 
 ---
 

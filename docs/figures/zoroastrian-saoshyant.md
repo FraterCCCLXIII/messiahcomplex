@@ -6,11 +6,7 @@ description: Frashokereti, the three Saoshyants, eschatological tauroctony, and 
 
 # Zoroastrianism: Saoshyant
 
-## Context
-
-- **Audience:** Readers comparing **future restorer** figures (Maitreya, Mahdi, Parousia) who need a **textual** and **chronological** anchor for Zoroastrian eschatology.
-- **Question:** Where does **Saoshyant** language appear in the **Avesta**, how does it develop in **Pahlavi** tradition, and why is "savior" a risky translation?
-- **Scope:** Not a full history of Zoroastrianism — only the **eschatological** complex relevant to this site's comparisons.
+Among the traditions compared on this site, Zoroastrian eschatology is typically the earliest attested — and the Saoshyant is its central future-restorer figure. This page provides the textual and chronological anchor for that comparison: where Saoshyant language first appears in the Avesta, how it develops across Gatha, Younger Avesta, and Pahlavi strata, and why the common translation "savior" imports Christian theological associations that the Avestan term does not carry.
 
 ## Etymology and morphology
 

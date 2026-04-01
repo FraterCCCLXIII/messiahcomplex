@@ -47,7 +47,7 @@ The hypothesis is interdisciplinary, drawing on:
 - **[Zoroastrianism](religions-zoroastrianism.md)** · **[Buddhism](religions-buddhism.md)** · **[Judaism](religions-judaism.md)** · **[Christianity](religions-christianity.md)** · **[Greco-Roman](religions-greco-roman.md)**
 
 ### Reference
-- **[Bibliography](bibliography.md)** · **[Timeline](timeline.md)** · **[Glossary](glossary.md)**
+- **[Bibliography](bibliography.md)** · **[Glossary](glossary.md)**
 
 ## The Achaemenid Core
 

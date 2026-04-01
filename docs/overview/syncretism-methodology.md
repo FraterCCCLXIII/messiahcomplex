@@ -5,12 +5,6 @@ description: How the study of religious blending and borrowing has evolved from 
 
 # Syncretism — concepts and methodology
 
-## Context
-
-- **Audience:** Readers who encounter the word "syncretism" and want to know what scholars actually mean by it, how the concept has evolved, and how to apply it carefully without either dismissing all parallels or over-asserting borrowing.
-- **Question:** When religious traditions share vocabulary, images, or narrative patterns, does this constitute "syncretism"? Is syncretism a contamination, a creative achievement, or a methodological category that needs replacing?
-- **Scope:** The history of the concept, major scholarly debates, and its direct application to the transmission questions on this site.
-
 Syncretism is one of the most overused and underexamined words in comparative religious studies. It appears routinely in popular writing about ancient religion ("Christianity is just syncretized paganism") and just as routinely draws methodological fire from specialists. Understanding what is at stake sharpens every claim on this site.
 
 ---

@@ -5,13 +5,7 @@ description: "Theoretical frameworks for understanding how religious ideas, narr
 
 # Cultural Transmission Theory
 
-## Context
-
-**Question addressed**: How do religious ideas, narratives, and practices travel between different cultural contexts, and what methodological standards should govern claims of historical transmission?
-
-**Scope**: General theoretical framework applicable to the study of Axial Age religious traditions and specifically to the transmission questions at the heart of the Bardiya hypothesis and the Mithra transmission thread.
-
-**Relation to other pages**: This page provides the methodological foundation for evaluating claims on [Solar Saviors and Cosmic Mediators](/docs/overview/solar-saviors-mithra-maitreya), [Saka–Scythian Hypotheses](/docs/overview/saka-scythian-hypotheses), and [The Bardiya Hypothesis](/docs/bardiya/).
+Religious ideas do not travel by themselves. They move through specific mechanisms — trade networks, imperial administration, bilingual scribal communities, translation projects, converted intellectuals — and claims of transmission are only as strong as the evidence for those mechanisms. This page provides the theoretical framework for evaluating transmission claims across the site, covering the documented channels through which ideas, narratives, and practices moved between cultures, and the criteria that distinguish genuine genealogical connection from structural analogy or coincidence.
 
 ---
 
