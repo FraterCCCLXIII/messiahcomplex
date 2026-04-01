@@ -158,7 +158,7 @@ sidebar_position: 20
 
 The detailed spreadsheet data underlying this timeline is available:
 
-[Download Achaemenid-Bardiya Timeline CSV](/sources/achaemenid-bardiya-timeline.csv)
+[Download Bardiya Timeline CSV](/sources/bardiya-timeline.csv)
 
 ## See Also
 

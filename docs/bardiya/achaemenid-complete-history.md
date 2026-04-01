@@ -124,7 +124,7 @@ The Kushan Empire (1st–3rd centuries CE) united Central Asian, Iranian, and In
 
 The detailed timeline data used for this narrative is available for download:
 
-[Download Achaemenid-Bardiya Timeline CSV](/sources/achaemenid-bardiya-timeline.csv)
+[Download Bardiya Timeline CSV](/sources/bardiya-timeline.csv)
 
 The CSV contains periods, dates, regions, major events, cultural significance, and cross-tradition connections in structured format.
 
