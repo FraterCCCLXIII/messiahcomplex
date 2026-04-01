@@ -290,6 +290,44 @@ The most sophisticated religious elaboration of the PIE substrate occurred in **
 
 ---
 
+## Implications for the site's structural argument
+
+The material on this page has direct consequences for how the site's thesis should be stated:
+
+### The substrate was already synthetic — porous milieu is recursive
+
+The Yamnaya population that dispersed the PIE religious grammar across Eurasia was not an original pure source. They were a **secondary admixture** of Eastern European Hunter-Gatherer and Caucasus Hunter-Gatherer populations, each contributing roughly half the genetic and presumably cultural ancestry. The PIE religious package that spread in Wave 1 was already the product of a prior contact event — most likely in the 4th–5th millennium BCE, in the steppe-Caucasus border zone. This matters for the site's core argument: **the porous milieu model applies recursively at every level**. There is no clean original that later traditions mixed. Every layer the site discusses is a synthesis meeting another synthesis. The corollary: the PIE substrate cannot be invoked as an "Aryan original" that other traditions deviated from — it was constitutively composite from its formation.
+
+### Two waves, two mechanisms — do not conflate them
+
+The site's most specific causal argument (the empire–crisis–translation model) applies to the **Axial Age, ~600–300 BCE**. The PIE expansion (~3300–1500 BCE) predates this by 2,000 years and operated through a completely different mechanism:
+
+| Wave | Date | Population | Mechanism | What traveled |
+|---|---|---|---|---|
+| Wave 1: PIE dispersal | ~3300–1500 BCE | Yamnaya pastoralists and descendants | Mobile herding + formulaic oral tradition | Structural religious grammar: deity function-slots, ritual vocabulary, narrative patterns |
+| Wave 2: Axial Age | ~600–300 BCE | Urban, multi-ethnic imperial populations | Empire + crisis + translation | Named cosmic figures, universalized soteriology, written theological texts |
+
+Wave 1 explains *why* certain structural slots (sky father, thunder god, solar mediator, primal sacrifice) were available across traditions that never later met. Wave 2 explains *why specific content* was borrowed when and where it was — because communities under imperial pressure reached for the available vocabulary to answer urgent theodicy questions. Claiming that Zoroastrian influence explains a parallel structure is a Wave 2 claim and requires the empire–contact–translation machinery. Claiming that PIE inheritance explains a parallel structure is a Wave 1 claim and requires only that both traditions descend from the common ancestor. These are different burdens of evidence.
+
+### The Caucasus corridor runs continuously across the site's chronological scope
+
+The geographic corridor between the Pontic–Caspian steppe and the Semitic Near East appears as a contact zone at every chronological layer the site covers:
+
+- **Pre-4000 BCE**: Caucasus Hunter-Gatherers move north into the steppe, providing ~50% of Yamnaya ancestry and presumably cultural material
+- **PIE expansion period (~3000–2000 BCE)**: some IE populations moved south through the Caucasus into Anatolia (Hittites) and toward Iran
+- **Bronze Age (~2000–1200 BCE)**: the Caucasus zone mediates contact between steppe Indo-Iranian populations and Near Eastern urban cultures
+- **Achaemenid period (~550–330 BCE)**: Iranian eschatological vocabulary transmits into Second Temple Judaism — the site's Zone 2 core argument
+- **Hellenistic–Kushan period (~300 BCE–300 CE)**: the same corridor is the Silk Road's overland backbone
+- **Sasanian–Islamic period (~224–800 CE)**: Zoroastrian conceptual inheritance passes into Islamic theology through Persian administrators
+
+The Achaemenid empire did not create this corridor — it inherited and institutionalized one that had been geographically operative for millennia. This strengthens the site's Zone 2 argument: the transmission events of the 6th–4th centuries BCE occurred in a geographic zone that had been a contact channel since the pre-PIE period. The channel precedes the content.
+
+### Mycenaean steppe ancestry bridges genetics and Greek religious argument
+
+The site documents Greek religion's PIE-derived elements: Zeus as *\*Dyēus ph₂tḗr*, the cosmic combat myth, the hero cult as localized veneration of powerful dead, the *mitra-* slot in Apollo's solar-mediator function. The 13–18% steppe ancestry in Mycenaean Greeks (Lazaridis et al. 2017) that is absent from the earlier Minoan population confirms that these structural elements did not arrive in Greece purely through typological parallel — they arrived with people. The Greek tradition that eventually transmitted PIE structural grammar into the Hellenistic world was itself a synthesis of IE-descendent steppe ancestry (~13–18%), pre-Greek Aegean traditions (the Minoan substrate), and Near Eastern influence — the ratio the religious evidence would independently predict. Genetics and comparative religion converge on the same structural picture.
+
+---
+
 ## See also
 
 - [The PIE cosmic combat myth](pie-cosmic-combat-myth.md) — Indra-Vṛtra, Zeus-Typhon, Thor-Jörmungandr

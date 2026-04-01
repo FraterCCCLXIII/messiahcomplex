@@ -136,7 +136,24 @@ Integrate this material as **Western Mediterranean attestation** and **state cul
 
 ---
 
-## 5. How to integrate this data in practice
+## 5. A fourth layer: computational phylogenetics applied to narrative
+
+Alongside comparative linguistics (phonological cognates), comparative mythology (recurrent narrative slots), and ATU/Thompson indexing (distributional typology), a fourth method has recently produced results relevant to this site's scope: **computational phylogenetics applied to narrative distribution**.
+
+Da Silva and Tehrani (2016) used phylogenetic tree-building algorithms — the same family of methods used in evolutionary biology and historical linguistics — to reconstruct the evolutionary history of Indo-European folktale types from their present distribution across IE language branches. Their analysis recovered a **PIE-period origin** for the tale type "The Smith and the Devil" (ATU 330A-like): a blacksmith makes a pact with a devil-figure, gains supernatural metalworking ability, then traps the devil to avoid payment. The tale is attested from Scandinavia to India in IE traditions but not systematically in non-IE neighboring traditions, suggesting it was not borrowed laterally but inherited from a common ancestor. The reconstruction implies PIE-period metallurgy, which aligns with the Sintashta archaeology (c. 2100–1800 BCE).
+
+**What this method does that the others cannot:**
+- Does not require knowing the linguistic relationships in advance — recovers them from narrative feature distribution
+- Provides statistical confidence estimates for deep-time reconstructions, rather than the "judgment call" quality of comparative mythology
+- Is falsifiable: if a tale type with an apparently deep distribution turns out to be well-attested in non-IE traditions, the reconstruction collapses
+
+**Limitations:** The method works best for folklore, where the distribution data is dense. Sacred religious narrative is harder to sample systematically. Many IE religious texts are preserved in single traditions (the Rigveda, the Avesta) without the geographic breadth of folktales. The method also conflates oral transmission and written transmission in ways that matter for religious traditions specifically.
+
+**Why it matters for this site's methodology:** If this approach were applied to the structural religious patterns the site documents — the cosmic combat myth (storm deity vs. serpent), the primal twin sacrifice (*\*Manu/\*Yemo*), the solar mediator figure — it could either corroborate or challenge the comparative mythology arguments with a fully independent line of evidence. It represents the frontier of falsifiable testing for the PIE reconstruction claims this site makes at Tier B–C. See [Method: evidence, influence, and milieu](method-evidence-and-influence.md) for fuller discussion.
+
+---
+
+## 6. How to integrate this data in practice
 
 1. **Frame** comparison as **exploration with rules**—[Exploring transmission and deep narrative patterns](exploring-transmission-and-deep-patterns.md)—not only “evidence is partial.”
 2. **Anchor** long tables in **one** hub page (this page) + short **pointers** from [PIE twins](pie-twin-and-brother-archetypes.md), [hero cult atlas](hero-cult-and-mystery-cult-atlas.md), and [method](method-evidence-and-influence.md)—avoid duplicating full lists in ten files.

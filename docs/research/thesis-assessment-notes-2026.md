@@ -423,3 +423,58 @@ This model does not replace the porous milieu model — it specifies the mechani
 3. **The written word as reliquary — when does writing shift from missionary tool to preservation tool?** In the Gandharan corridor, writing was an *outward* missionary instrument (Ashoka's inscriptions, 260 BCE) *before* it was an inward preservation instrument (Pali Canon, 29 BCE). This sequence may be general: traditions use writing to propagate *before* they use it to preserve, and the preservation-crisis canon comes later. If so, the canonical texts we have may systematically underrepresent the missionary phase that preceded them.
 
 4. **Does the empire–crisis–translation model apply beyond the Indo-Iranian sphere?** The site's scope stops at the edges of Eurasia. Analogous cases — the Aztec adoption of Spanish Catholic vocabulary, the Silk Road spread of Nestorian Christianity into Tang dynasty China — might test whether the three-part model holds outside the PIE and Semitic cultural world, or whether it is specific to those traditions.
+
+---
+
+---
+
+## Refinements from PIE archaeogenetics (April 2026)
+
+*Working notes arising from integrating the Proto-Indo-Europeans Wikipedia article and its genetic evidence. See [PIE origins, the Yamnaya expansion, and mechanisms of religious transmission](../overview/pie-origins-yamnaya-expansion.md) for the full treatment.*
+
+---
+
+### Refinement 1: The porous milieu model is recursive — the substrate was never pure
+
+The empire–crisis–translation model and the porous milieu model describe the Axial Age layer (~600–300 BCE). But the PIE substrate that underlies that layer was itself already a synthesis. The Yamnaya — the archaeological population whose dispersal carried the PIE religious grammar across Eurasia — were genetically approximately 50% Eastern European Hunter-Gatherers (EHG) and 50% Caucasus Hunter-Gatherers (CHG). They were not an original pure source; they were the product of a prior contact event between two distinct populations in the steppe-Caucasus border zone in the 4th–5th millennium BCE.
+
+**Consequence for the thesis:** The porous milieu model applies at every level of the site's chronology, not just at the Axial Age. There is no clean original at any layer of the story. This rules out any essentialist reading of the PIE layer as an "Aryan original" and makes the site's anti-essentialist position structurally consistent across all time periods. The claim "the PIE substrate explains shared structural features" is actually *strengthened* by this finding: if even the substrate emerged from contact, then the entire tradition of mixing-and-transmission is as old as the tradition itself.
+
+**Consequence for the Aryan terminology problem:** The *\*aryo-* root designated a socio-cultural concept of nobility among IE-speaking elites — not an ethnic self-designation of all PIE speakers. Outside the Indo-Iranian branch, it only designates ruling elites. This aligns precisely with the elite-dominance transmission mechanism the site documents: PIE religious material traveled with a prestige-class identity, not an ethnic identity. "Indo-Aryan" remains the correct technical term for the South Asian branch; "Aryan" as a general PIE label is both historically inaccurate and irreparably contaminated by its Nazi-era usage.
+
+---
+
+### Refinement 2: Two waves, two mechanisms — the empire–crisis–translation model applies only to Wave 2
+
+The site currently runs together two distinct processes that need to be held apart:
+
+**Wave 1 (PIE dispersal, ~3300–1500 BCE):** Structural religious grammar spreads via mobile pastoralism and formulaic oral tradition. Small Yamnaya-related groups moved across Eurasia carrying a specialist poet-class whose social function was transmitting sacred narrative formulas in exactly metered verse — demonstrable from cognate phrases in Vedic and Greek (Watkins 1995). This mechanism requires no empire, no crisis, no translation — only mobility, prestige, and oral fidelity.
+
+**Wave 2 (Axial Age, ~600–300 BCE):** Named cosmic figures, universalized soteriology, and written theological texts spread via the empire–crisis–translation machinery. This requires imperial infrastructure, community in theodicy crisis, and deliberate cross-cultural translation that strips local specifics to make content portable.
+
+**The error to avoid:** Claiming that Zoroastrian influence on Judaism is a Wave 2 event, and simultaneously treating PIE structural parallels between Vedic and Norse traditions as the same kind of claim. They are not. Wave 1 claims require only shared ancestry plus linguistic cognates or narrative reconstruction. Wave 2 claims require a dateable contact mechanism, a crisis that created demand, and a translation event. The site's most contestable arguments are Wave 2 claims; the PIE structural parallels are Wave 1 claims with a substantially different and more secure evidence base.
+
+---
+
+### Refinement 3: The Caucasus corridor is the site's persistent geographic spine
+
+The Pontic–Caspian steppe and the Semitic Near East are connected by the Caucasus corridor. This corridor appears as an active contact zone at every chronological layer the site covers:
+
+| Period | Event in the corridor |
+|---|---|
+| Pre-4000 BCE | CHG populations move north into the steppe → ~50% of Yamnaya ancestry |
+| PIE expansion (~3000–2000 BCE) | Some IE populations move south through the Caucasus toward Anatolia (Hittites) |
+| Bronze Age (~2000–1200 BCE) | Steppe Indo-Iranian populations approach the Near East via the Iranian plateau |
+| Achaemenid (~550–330 BCE) | Iranian eschatological vocabulary → Second Temple Judaism (Zone 2 core argument) |
+| Hellenistic–Kushan (~300 BCE–300 CE) | Silk Road overland backbone; Gandhāran transmission (Zone 3) |
+| Sasanian–Islamic (~224–800 CE) | Zoroastrian eschatological inheritance → Shia imamology (Zone 5) |
+
+The Achaemenid empire did not create this corridor — it institutionalized one that had been operative for over 3,000 years before Cyrus. **The channel precedes the content.** This is a structural reinforcement of the Zone 2 plausibility argument: transmission events in the 6th–4th centuries BCE occurred in a geographic zone with a pre-existing multi-millennium contact history. The argument from plausibility is stronger when the corridor is ancient, not invented.
+
+---
+
+### Refinement 4: Computational phylogenetics as the frontier for falsifying the site's PIE claims
+
+The site's PIE structural claims are currently supported by two methods: comparative linguistics (phonological cognates) and comparative mythology (narrative pattern matching). Da Silva and Tehrani (2016) demonstrated a third independent method: **computational phylogenetics applied to narrative distribution**, which recovered a PIE-period origin for the "Smith and the Devil" folktale type purely from its distribution across IE language branches — without prior linguistic knowledge.
+
+If this method were applied to the structural religious patterns the site documents — the cosmic combat myth, the primal twin sacrifice, the mediator figure — it could corroborate or challenge those claims with a method that is neither linguistic nor impressionistic. This is the current frontier for making Tier B–C PIE claims falsifiable. It is noted here not as a task the site can perform now, but as the direction in which these arguments could be rigorously tested. See [PIE motifs, ATU / Thompson, and hero traditions](../overview/pie-motifs-atu-thompson-and-hero-traditions.md) for fuller discussion.
