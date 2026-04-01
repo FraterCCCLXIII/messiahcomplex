@@ -46,7 +46,7 @@ Curated **entry points** for **Achaemenid history**, **Jewish–Iranian** interf
 
 ## Mithraism and Manichaeism (topic hub)
 
-- **Site hub:** [Mithra cluster](/docs/mithras) — **curated** pages plus **[raw compilation](/docs/research/mithras-source-compilation)**
+- **Site hub:** [Mithra cluster](/docs/mithras) — **curated** pages on Indo-Iranian, Roman, Manichaean, and Buddhist Mithra-related material
 - **Cumont, Franz.** *The Mysteries of Mithra* — classic (**origins** thesis now debated)
 - **Beck, Roger.** Encyclopaedia Iranica, **“Mithraism”** (2002)
 - **New Mithraeum** — [Origins of Mithraism](https://www.mithraeum.eu/introductio/origins-of-mithraism) — lay **survey** of hypotheses
@@ -61,6 +61,14 @@ Curated **entry points** for **Achaemenid history**, **Jewish–Iranian** interf
 - **Secunda, Shai & Elman, Yaakov.** “Judaism,” in *Wiley-Blackwell Companion to the Study of Zoroastrianism* (2015) — often cited **starting point** for **Jewish–Zoroastrian** interface (see [Academia.edu](https://www.academia.edu/) or library catalog for full text)
 - **National Library of Israel (RAMBI)** — bibliographic record on **Persian Zoroastrianism and Judaism** (use as **index** to peer work): [NLI articles search](https://www.nli.org.il/en/articles/RAMBI990005311800705171/NLI)
 - **Elephantine papyri** — search **Aramaic papyri**, **Elephantine**, **Achaemenid** in **journals** (*Iran*, *Journal of Near Eastern Studies*, etc.) for **material** context of **Jewish–Persian** coexistence
+
+## The Bardiya Hypothesis and the Gaumata Episode
+
+- **Briant, Pierre.** *From Cyrus to Alexander: A History of the Persian Empire*. Eisenbrauns, 2002 — pp. 97–109 on the Gaumata crisis; best modern treatment
+- **Kuhrt, Amélie.** *The Persian Empire: A Corpus of Sources from the Achaemenid Period*. Routledge, 2007 — primary source collection with commentary
+- **Schmitt, Rüdiger.** "Bardiya." *Encyclopaedia Iranica* Vol. III/7, pp. 756–758 — authoritative reference on the historical Bardiya
+- **Attwood, Jayarava** (2012). "Possible Iranian Origins for the Śākyas and Aspects of Buddhism." *Journal of the Oxford Centre for Buddhist Studies* 3: 47–69 — scholarly foundation for the Saka–Śākya connection ([research notes](/docs/research/iranian-origins-sakyas))
+- Site pages — [The Bardiya Hypothesis (overview)](/docs/bardiya/); [Historical Context](/docs/bardiya/historical-context); [Key Figures](/docs/bardiya/key-figures)
 
 ## Gandhara, Sakas, Kushans, Central Asia
 

@@ -11,12 +11,21 @@ This page distills **solid comparative evidence** for **Mitra / Mithra** as an *
 
 | Datum | Why it matters |
 | --- | --- |
-| **Boğazköy / Mitanni** (second millennium BCE) | Treaties invoke **Mitra** alongside Indic-type gods as **divine guarantors** of oaths — the deepest **documentary** anchor for **contract** semantics. |
-| **Ṛgveda** | **Mitra** paired with **Varuṇa**; guardians of **ṛtá**; independent hymn **RV 3.59** lauds Mitra’s **order**, **truth**, **sustaining** power. |
-| **Younger Avestan / Miθra** | **Yasht** 10 (*Mihr Niyaish* / hymn to Mithra) presents Mithra as **wide-pastured lord**, thousand-eyed **witness**, tied to **covenant**-keeping and **truth**; calendrical honor on **day 16** and **month Mihr** (details vary by calendar tradition). |
-| **Avestan noun *miθra-*** | Often glossed **“contract, covenant, obligation”** in philological tradition (see **Encyclopaedia Iranica**, “Mithra”; **Benveniste** on vocabulary of the **Indo-European** institutional world). |
+| **Boğazköy / Mitanni** (14th cent. BCE) | Hittite–Mitanni treaties invoke **Mitra** alongside Indra, Varuṇa, and the Nāsatyas as **divine guarantors** of oaths — the deepest **documentary** anchor for **contract** semantics. |
+| **Ṛgveda** (c. 1500–1200 BCE) | **Mitra** paired with **Varuṇa**; guardians of **ṛtá**; independent hymn **RV 3.59** lauds Mitra's **order**, **truth**, **sustaining** power; "**marshaler of the people**" (*yātayáj-jana*); "**sustainer of all gods**" (RV 3.59.8c). |
+| **Younger Avestan / Miθra** (text corpus: second half 5th cent. BCE) | **Yasht 10** (*Mihr Niyaish*) presents Mithra as **"lord of broad pastures,"** thousand-eyed **witness**, tied to **covenant**-keeping; Ahura Mazda declares him **"worthy of sacrifice, as worthy of prayer as I myself."** Sixth day of the month and seventh month of the year consecrated to him. |
+| **Avestan noun *miθra-*** | Regularly glossed **"contract, covenant, obligation"** in philological tradition (see **Encyclopaedia Iranica**, "Mithra"; **Benveniste** on the vocabulary of the **Indo-European** institutional world). |
 
 **Editorial synthesis:** this cluster supports a **real Indo-Iranian inheritance**: a deity (or divine name) whose **job** includes **witnessing and enforcing mutual obligation**.
+
+### Zarathustrian and Zoroastrian layers; Achaemenid context
+
+Scholars distinguish two textual–theological layers relevant to Mithra's place in Iranian religion:
+
+- **Zarathustrianism** (the prophet's own teaching): monotheistic around Ahura Mazda; dualism of Truth / Falsehood; the Amesha Spentas as seven spiritual aspects of the one God.
+- **Zoroastrianism** (Younger Avesta, including Yasht 10): retains Zarathustra's framework but **acknowledges other yazatas**, with Mithra prominent among them.
+
+The **Behistun inscription** of Darius I (~520 BCE) illustrates the Achaemenid royal side: Darius proclaims adherence to Ahura Mazda without reference to Zarathustra by name, and does not invoke Mithra specifically — confirming that Achaemenid court religion was not identical to the Yasht tradition even when both are described as "Zoroastrian." In this modified framework the **Magi** continued to foster Mithraic cult alongside other Iranian practices. Yasht 10's core declaration — *"one cannot break a contract, even with a rogue"* (stanza 2) — gives the covenant theme a civic and cosmic force simultaneously. The Younger Avesta was composed in roughly the same period as late Achaemenid imperial consolidation and the earliest Persian-era contacts with Judean restoration communities (see [Achaemenid empire and West Asian Judaism](achaemenid-and-west-asian-judaism.md)).
 
 ## Additional forms of evidence (Indo-Iranian and reception)
 
@@ -35,6 +44,8 @@ For a **tabular** **catalog** of **Persian** **milieu** **and** **Mitra** **lead
 
 **Ezra** 1:8; 4:7 attest **Mithredath**, a Persian administrative name interpretable as **“given by Mithra”** (Iranian **theophoric** element **Mithra-** + **-dāta** “given”). This is **straightforward** evidence that **Achaemenid** court culture named officials after **Iranian** divine patronage — **not** proof that the **Amidah** prayer is “from Mithra,” but **proof** of **on-the-ground** Persian–Jewish interface in **temple restoration** narratives.
 
+Ezra 1:8 reads: *"Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah."* This verse is part of the restoration narrative in which Cyrus permits Jewish exiles to return to Jerusalem and rebuild the Temple — the same broad Achaemenid context that produced the Younger Avestan texts consecrating Mithra.
+
 :::caution
 
 Some informal reconstructions in the source compilation identify **Cyrus / Darius** with figures named **Mithradates** or conflate persons across centuries. **Standard historical chronology** distinguishes **Cyrus**, **Darius I**, and named officials in **Ezra–Nehemiah**; treat bold identity collapses as **hypotheses** requiring **primary-source** argument.
@@ -43,7 +54,7 @@ Some informal reconstructions in the source compilation identify **Cyrus / Dariu
 
 ### Amidah (“standing prayer”) and *\*mitra-*
 
-**Jewish** **Amidah** is recited **standing**; root **עמד** (*ʿ-m-d*) means **to stand, take a stand**. The **source compilation** suggests a **conceptual** parallel between **standing = establishing** covenant and **Indo-Iranian “binding.”**
+**Jewish** **Amidah** is recited **standing**; root **עמד** (*ʿ-m-d*) means **to stand, take a stand**. The prayer's core elements are standardly dated to the **Second Temple period** (516 BCE–70 CE), with codification attributed to the **Men of the Great Assembly** (c. 450 BCE), placing it in the same historical window as Achaemenid Persian governance of Judea (Hoffman, 2004). It is recited **three times daily** — institutionalizing the covenant relationship as ongoing rather than episodic.
 
 **Mainstream historical linguistics** does **not** treat Hebrew **ʿ-m-d** and Indo-Iranian *\*mitra-* as **cognates**; any parallel is **typological** (treaties, oath, **solemn posture**) or **cultural contact** at the level of **ideas**, not **shared inherited word**.
 
@@ -92,3 +103,6 @@ See [Measuring influence: Mitra, Mithra, Maitreya](measuring-influence-mitra-mai
 - **Encyclopaedia Iranica:** Mitanni / Mitra entries; Mithra (Old Indian / Old Iranian).
 - **I. Gershevitch**, *The Avestan Hymn to Mithra* (Cambridge, 1967).
 - **M. Boyce**, *History of Zoroastrianism* (multivolume) — imperial and Yasht context.
+- **A. A. Macdonell**, *A Vedic Reader for Students* (Oxford, 1917) — Mitra characteristics including "lord of broad pastures" and contract-keeping attributes.
+- **Hoffman, J.** (2004). *In the Beginning: A Short History of the Hebrew Language* — Amidah etymology and Second Temple context.
+- **Harvey, S. L., Lehmann, W. P., and Slocum, J.** — *Mithraism* educational resource (Linguistic Research Center) — Zarathustrian vs. Zoroastrian distinction; Yasht dating.

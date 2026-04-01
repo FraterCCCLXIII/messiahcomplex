@@ -44,9 +44,13 @@ Listing Mithras here highlights **family resemblances** in “savior” language
 ### Secondary entrances
 
 - **Beck, Roger.** “The Mysteries of Mithras: A New Account of Their Symbolism.” *Journal of Roman Studies* 88 (1998): 115–128 — influential symbolic reading.
-- **Clauss, Manfred.** *The Roman Cult of Mithras: The God and His Mysteries.* Routledge, 2000 (tr.) — handbook-style survey.
-- **Gordon, Richard L.** “Who Worshipped Mithras?” *Journal of Roman Archaeology* 7 (1994): 459–474 — social context.
+- **Beck, Roger.** *The Religion of the Mithras Cult in the Roman Empire.* Oxford University Press, 2006 — astral theology; companion to Clauss.
+- **Clauss, Manfred.** *The Roman Cult of Mithras: The God and His Mysteries.* Routledge, 2000 (tr.) — the primary modern handbook.
+- **Walsh, David.** Dissertation on Mithraic decline — multi-factor archaeological analysis of mithraeum abandonment (Constantine’s patronage of Christianity, anti-Persian sentiment, barbarian destruction of frontier sites, voluntary abandonment).
+- **Gordon, Richard L.** “Who Worshipped Mithras?” *Journal of Roman Archaeology* 7 (1994): 459–474 — social composition: male-only, military concentration, stratified grades.
 - **Ulansey, David.** *The Origins of the Mithraic Mysteries.* Oxford, 1989 — astrological thesis (debated).
+- **Higgins, Godfrey.** *Anacalypsis* (1836) — **not a source on Mithraism**; 19th-century pseudo-history; origin of the false “twelve disciples” claim with no ancient support.
+- **Doane, T. W.** *Bible Myths and Their Parallels in Other Religions* (1882) — **not a source on Mithraism**; origin of false Magi/Mithras claim with no ancient support.
 
 See [About research notes](../research/about-research-notes.md) for how **raw** notes relate to **curated** pages; [Curated page template](../overview/curated-page-template.md).
 

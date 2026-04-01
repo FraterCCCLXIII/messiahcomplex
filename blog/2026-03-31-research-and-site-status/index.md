@@ -14,7 +14,7 @@ Messiah Complex is a **Docusaurus** site for comparative work on **messiah figur
 
 **Curated** articles live under *Overview* and *Figures*. They aim for a consistent structure (context, consensus where it exists, debates with **tiers of claim**, and **Sources & dating** where the template applies). The guiding distinction is **typology versus genealogy**: parallel motifs are not automatic proof of historical dependence; when we sketch influence hypotheses, we try to label their strength honestly.
 
-**Raw** material—long collations and working notes—lives under *Research*. Treat those pages as **leads and quotations**, not as finished arguments. The large [Mithras source compilation](/docs/research/mithras-source-compilation) is the main example: useful for search and citation chasing, with ongoing curation into overview pages.
+**Raw** material—long collations and working notes—lives under *Research*. Treat those pages as **leads and quotations**, not as finished arguments. Raw compilations in the Research folder are useful for search and citation chasing; material has been curated into the [Mithra cluster overview pages](/docs/mithras) with tier labeling.
 
 The conceptual backbone is [Method: evidence, influence, and milieu](/docs/overview/method-evidence-and-influence). For day-to-day editing conventions, contributors can use the repo `AGENTS.md` and [About research notes](/docs/research/about-research-notes).
 
@@ -30,7 +30,7 @@ Work is tracked explicitly on the [research backlog](/docs/overview/research-bac
 
 - **Figure pages** still needing full **Context** plus **Sources & dating** (many entries under the Judaism, Buddhism, Islam, Hinduism, Norse, Arthurian, and Greco-Roman figure lists).
 - **Overview pages** where non-obvious claims should gain firmer citations—especially transmission and milieu hubs (Gandhāra, Achaemenid and West Asian Judaism, influence measurement, alternative Buddha–Jesus theories, Paul and Mithraism notes).
-- **Mithra dossier:** moving tier-labeled excerpts out of the raw compilation into overview pages, tightening cross-links on the hub, and optional navigation aids inside the long compilation file.
+- **Mithra dossier:** cross-links on the cluster hub have been tightened; the source compilation has been curated into overview pages with tier labeling.
 - **Depth topics** flagged as medium priority: Mahdi literature, Dioskouroi/Danubian twins, Kushan numismatics, Barlaam and Josaphat, Mahāyāna manuscript trails, celestial savior typologies, “horseback hero” iconography, and similar—each tied to existing overview anchors rather than starting from zero.
 
 Infrastructure items (CI, link checking, README/C CONTRIBUTING) are listed there as well for when the project priorities shift from content to tooling.

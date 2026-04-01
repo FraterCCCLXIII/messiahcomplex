@@ -54,7 +54,7 @@ Items tracked for **future** work—**not** commitments. Agents and humans: take
 
 | ID | Priority | Task | Notes |
 | --- | --- | --- | --- |
-| M1 | M | **Curate** excerpts from [mithras-source-compilation](../research/mithras-source-compilation.md) into overview pages | Tier-labeled moves; trim duplication. |
+| M1 | M | ~~**Curate** excerpts from Mithras source compilation into overview pages~~ **Done** — compilation curated and removed | Tier-labeled moves complete. |
 | M2 | L | **TOC / index** at top of raw compilation | ~800+ lines; anchor links to major sections. |
 | M3 | M | [Mithra hub](/docs/mithras): **coverage** pass | Every row in topic table still valid; add missing cross-refs (e.g. [alternative theories](alternative-buddha-jesus-transmission-theories.md), [Paul notes](paul-mithraism-and-historicity-notes.md)). |
 | M4 | L | **Figures** or **diagram** for Kushan / Gandhara timeline | Optional visual in [visual-timeline](visual-timeline.mdx) or map page. |

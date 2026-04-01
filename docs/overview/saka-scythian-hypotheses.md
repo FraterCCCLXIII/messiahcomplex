@@ -13,7 +13,7 @@ The **source compilation** foregrounds **steppe** peoples (**Saka / Śaka**, “
 | Author / work | Core idea |
 | --- | --- |
 | **Michael Witzel** (forum precis in compilation) | **Śākya** might reflect **Śaka**-type **incursions**; “**strange**” warrior-ethos passages; burial customs; **oath** culture tied to **Truth / Lie** dualism. |
-| **Christopher I. Beckwith** (*Greek Buddha*, 2015) | Argues Pyrrho encountered early Buddhist-like dialectic in Central Asia; reads **Śākyamuni** (“Sage of the Śākyas”) in light of **Śaka** / Scythian ethnonyms and situates the Buddha in a steppe-inflected philosophical sphere—**controversial**; downplays some standard Indian narratives (e.g. Lumbinī) in favor of linguistic–cultural argument. |
+| **Christopher I. Beckwith** (*Greek Buddha*, 2015; *The Scythian Empire*) | Argues Pyrrho (327–325 BCE in India with Alexander) encountered early Buddhist-like dialectic in Central Asia. Reads **Śākyamuni** as "the Scythian Sage" — marking the Buddha as "a foreigner from northwestern India or Central Asia, regions known to have been ruled by the Scythians, Scytho-Medes, and related peoples." Beckwith notes: "No other Indian philosopher has an epithet marking him as a foreigner." He further argues the **Trilakṣaṇa** (three characteristics: impermanence, imperfection, no-self) is quoted in reverse order by Pyrrho, offering the earliest datable testimony — **controversial**; critics argue he overreads etymology and sidelines Gangetic-plain evidence. |
 | **Jayarava Attwood (2012)** | Survey in *Journal of the Oxford Centre for Buddhist Studies* **3**:47–69 — collects **Iranian-origin** proposals for **Śākya** identity **without** endorsing all as **proven**. Later work (e.g. Gaumāta, *Dipankara Jātaka*) is more speculative and not mainstream Iranian history. |
 
 **Empirical limits:** **kurgan** burial mounds ≠ **Buddhist** **stūpas** in **function** or **chronology**; **similarity** of ethonyms **Śaka** / **Śākya** invites **caution** (homonymy, generic “**mighty**” semantics).
@@ -47,6 +47,13 @@ The **hypothesis** (advanced in speculative form by Attwood and others): the nam
 - **Beckwith:** critics argue he overreads etymology, conflates Prakrit / Sanskrit forms, or sidelines early Indian Buddhist texts that situate the Buddha in Greater Magadha / the Gangetic plain. See academic reviews (e.g. BMCR) and Indological responses.
 - **Attwood (Gaumāta / Achaemenid threads):** depends on interpretations of seals and narrative parallels that many historians of Persia treat as inconclusive for identifying the historical Buddha with specific Achaemenid figures.
 
+**Key evidence cited by Attwood (2012)** for Iranian features in the Śākya tradition:
+- Śākya tribes are largely **absent from Vedic literature** and, where noticed, their customs are described as "strange" (*Ambattha Sutta* D.i.90–91).
+- **Burial practices** in Magadha similar to Central Asian kurgan traditions (earth mounds around a central wooden pillar, compared to stūpa forms).
+- **Incest marriage** among the Śākya founders (Ambattha Sutta): brothers banished from a kingdom take their own sisters as wives — Witzel identifies this as an Iranian trait.
+- **Post-mortem judgment** of body, speech, and mind triad — echoing Zoroastrian eschatological patterns.
+- Early Buddhist **stūpas** structurally compared to **kurgan** burial mounds of Southern Russia and Central Asia (discussed by Werner 1987, 2002; Rawlinson; Przyluski 1935).
+
 ## Editorial synthesis
 
 - **High confidence:** **Achaemenid** and later **Saka** polities **did** connect **Iranian**, **Indic**, and **Central Asian** space — see [Gandhara and Central Asian transmission](gandhara-central-asian-transmission.md).
@@ -58,7 +65,9 @@ The **hypothesis** (advanced in speculative form by Attwood and others): the nam
 - [Alternative Buddha–Jesus transmission theories (critical survey)](alternative-buddha-jesus-transmission-theories.md) — Durant, Lost Tribes, Jesus-in-India/Japan literature, Theosophy, genetics
 - [Mithra cluster hub](/docs/mithras)
 - [Indo-Iranian Mitra and contract](indo-iranian-mitra-contract.md)
-- [Solar / Greco-Bactrian synthesis in compilation](research/mithras-source-compilation.md) — treat as **notes**, not conclusions
+- [Helios, Apollo, and Sol — solar syncretism](helios-apollo-sol-syncretism.md) — Greco-Bactrian solar deity synthesis
+- [Possible Iranian Origins for the Śākyas (research notes)](/docs/research/iranian-origins-sakyas) — detailed summary and annotation of Attwood (2012)
+- [The Bardiya Hypothesis](/docs/bardiya/) — speculative extension of the Saka–Buddhist connection
 
 ## Reference
 

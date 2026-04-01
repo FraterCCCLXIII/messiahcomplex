@@ -30,7 +30,7 @@ Handbooks often describe Gandhara as a “middle” between Greek and Indian sph
 - **bodhisattva** imagery (including **Maitreya**),
 - and **interreligious** visibility (Buddhist, Brahmanical, local, Iranian strata).
 
-The **Mithra dossier** and related collated sources also stress **Gāndhārī** spellings and **light / solar** halo conventions when discussing **Amitābha** / **Maitreya** sculpture — useful for **text–art** history, but **not** a license to collapse **Buddhist** and **Iranian** gods without evidence. See [Amitābha, Maitreya, and Gandhāra–Mahāyāna evidence](amitabha-maitreya-gandhara-transmission.md) and the [Mithra cluster hub](/docs/mithras).
+Research in this area also stresses **Gāndhārī** spellings and **light / solar** halo conventions when discussing **Amitābha** / **Maitreya** sculpture — useful for **text–art** history, but **not** a license to collapse **Buddhist** and **Iranian** gods without evidence. See [Amitābha, Maitreya, and Gandhāra–Mahāyāna evidence](amitabha-maitreya-gandhara-transmission.md) and [Mithra, contract, and transmission](../mithras.md).
 
 ## Saka / Scythians and “Iranian” background
 

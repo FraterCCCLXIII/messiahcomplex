@@ -19,7 +19,7 @@ New or heavily expanded **overview** and **figure** pages should follow **[Curat
 
 - **Separate** motif similarity from historical genealogy. Label **hypothesis** and **minority** views explicitly; do not state speculative chains as fact.
 - **Curated** pages live under `docs/overview/` and `docs/figures/`. They should match the site’s tone: precise, tier-aware, minimal decorative bolding (do **not** bold every word).
-- **Raw** compilations live under `docs/research/` (e.g. `mithras-source-compilation.md`). Treat claims there as **leads**, not verified conclusions.
+- **Raw** compilations live under `docs/research/`. Treat claims there as **leads**, not verified conclusions.
 
 ## When adding or changing docs
 

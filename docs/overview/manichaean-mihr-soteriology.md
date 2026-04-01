@@ -12,6 +12,7 @@ description: Mihr / Mithra as a light-being in Mani’s cosmos—sources, geogra
 
 - **Lieu**, *Manichaeism in Central Asia and China* (Brill) and **corpus** **editions** document **Mihr** in **salvific** **frameworks** across **Iranian** and **Turkic** **Manichaean** **communities**.
 - **Manichaeism** is **trans-regional**: **Mesopotamia**, **Iran**, **Central** **Asia**, **China**; **text** **survival** is **uneven** (often **anti**-**heretical** **filters** or **dry** **climates**).
+- **Azimia (2023)** — "Mithra in Light of Buddhism and Manichaean: Savior Figure" (*Royal College of Surgeons in Ireland*) — draws on the Manichaean Mihr figure as a light-bearer, judge, and guide to argue that **Maitreya and Mithra are the same figure**. This is a **minority / Tier C** position; it usefully maps the Manichaean Mihr's soteriological role but the identity claim is not accepted in mainstream scholarship. Use Lieu and primary Manichaean corpus editions as the reliable anchor; Azimia (2023) as orientation only.
 
 ## What to avoid
 

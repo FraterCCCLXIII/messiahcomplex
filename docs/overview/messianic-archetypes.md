@@ -17,6 +17,20 @@ For **how** this site sorts **evidence** and **influence** claims, see [Method: 
 
 Scholars use **messianism** in a broad sense for expectations that a **future agent** will decisively transform history—ending oppression, restoring justice, or renewing the cosmos. In the strictest etymological sense, *messiah* (*māšîaḥ*, “anointed one”) belongs to ancient Israelite and Jewish discourse; this site uses **messianic archetype** to name **cross-cultural family resemblances** without implying that all these figures are “the same” or that one tradition simply copied another.
 
+## Pages in this section
+
+This is the first of five foundational pages in the **Start here** section. Read these in order before diving into the research zones.
+
+| Page | Purpose |
+| --- | --- |
+| **Messianic archetypes** (this page) | Cross-traditional motifs: future arrival, cosmic judgment, sacrifice generating life, divine mediation |
+| [Method: evidence, influence, and milieu](method-evidence-and-influence.md) | How to tier claims; typology vs. genealogy; what makes a transmission argument stronger or weaker |
+| [Exploring transmission and deep narrative patterns](exploring-transmission-and-deep-patterns.md) | The site's positive program: mechanisms, evidence types, and falsifiers for connection claims |
+| [Eurasian mediator figures — coverage assessment](eurasian-mediator-figures-assessment.md) | Which Greco-Roman and Eurasian figures belong in the comparative frame, and at what priority |
+| [Mythic biography patterns — prophet and Buddha-schema analogy](mythic-biography-patterns-prophet-and-buddha-analogy.md) | Recurring story-shapes in prophet and teacher biographies — typology, not genealogy |
+
+---
+
 ## Recurring motifs
 
 Across the traditions surveyed here, several motifs appear in varying combinations:

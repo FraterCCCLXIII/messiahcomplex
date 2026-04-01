@@ -42,7 +42,20 @@ German and European scholarship (e.g. currents associated with comparing Christi
 
 **Tier:** “Paul derived core theology from Roman Mithraism” = hypothesis with serious chronological problems as usually stated; shared Mediterranean motifs (light, initiation language) = analogy / milieu (compare [Measuring influence](measuring-influence-mitra-maitreya.md)).
 
-## 5. Parallel lists: what is compared, and what to watch for
+## 5. Where the false parallels actually come from: Higgins and Doane
+
+The popular list of Mithras–Christ parallels — virgin birth, December 25 birthday, twelve disciples, crucifixion, a last supper, visitation by Magi — does not come from any ancient source or from Mithraic archaeology. It originates with **18th–19th century popular writers** who provided no primary evidence:
+
+- **Godfrey Higgins**, *Anacalypsis* (1836): claimed Mithras had twelve disciples — citing no ancient sources.
+- **Thomas William Doane**, *Bible Myths and Their Parallels in Other Religions* (1882): claimed Mithras was visited by Magi carrying gold, frankincense, and myrrh — again without any ancient source.
+
+These claims were assembled from speculation and mutual citation among popular writers, not from mithraeum inscriptions, tauroctony iconography, or any ancient text. There is **zero ancient textual or archaeological evidence** for a Mithraic virgin birth, twelve disciples, crucifixion, last supper, or Magi narrative. This point is not contested among scholars (Clauss, Beck, Walsh) — it is simply what the evidence shows.
+
+The one parallel with partial ancient basis is the December 25 date — but this relates to the feast of **Sol Invictus** declared by the emperor Aurelian in the 3rd century CE, which postdates the Roman Mithras cult and concerns competition among Roman cults for important calendrical dates, not shared mythological origins. See [Neoplatonism and theurgy](neoplatonism-and-theurgy.md) for the Sol Invictus context.
+
+**Tier A — Secure:** The specific false parallels are products of 19th-century pseudo-history with no ancient attestation. The December 25 parallel is real but concerns the Roman solar calendar, not Mithraic birth mythology specifically.
+
+## 6. Parallel lists: what is compared, and what to watch for
 
 Popular lists compare Paul to Mithraic themes: blood and sacrifice, spiritual rock and drink, military metaphors, light and darkness, cosmic struggle. Some observations:
 
@@ -96,6 +109,8 @@ This site does not treat reddit threads, polemical asides, or uncited synthesis 
 
 ## See also
 
+- [Paul's celestial Christology and the solar mediator tradition](paul-celestial-christology.md) — what Paul's letters actually say about the cosmic Christ; the PIE solar-mediator function-space
+- [Interpretatio and divine translatability](interpretatio-and-divine-translatability.md) — why ancient peoples equated deities and what that means for reading the Mithras–Christ overlap
 - [Roman Mithras and Manichaean Mithra](mithra-roman-manichaean.md)
 - [Mithra cluster hub](/docs/mithras)
 - [Christianity: Messiah and Parousia](../figures/christianity-parousia.md)

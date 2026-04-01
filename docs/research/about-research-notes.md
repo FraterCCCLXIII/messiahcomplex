@@ -9,7 +9,7 @@ The **research** folder under `docs/research/` holds **working** and **raw** mat
 ## Curated vs raw
 
 - **Curated** pages live under **overview** and **figures** in the docs plugin. They follow the site’s **editorial** tone and should **signal** **evidence** tier — see [Method: evidence, influence, and milieu](../overview/method-evidence-and-influence.md). For **archives, onomastics, and Persian–Jewish interface** leads (separate from raw Mithra notes), see [Evidence leads — Persian milieu and Mitra cluster](../overview/evidence-leads-persian-milieu-and-mitra-cluster.md).
-- **Raw** compilations (e.g. [mithras-source-compilation](mithras-source-compilation.md)) are **not** peer review. Treat **claims** there as **leads** until checked against **editions** and **specialist** literature.
+- **Raw** compilations are **not** peer review. Treat **claims** there as **leads** until checked against **editions** and **specialist** literature.
 
 ## Tools, gaps, and humility
 

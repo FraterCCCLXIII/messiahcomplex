@@ -16,6 +16,28 @@ Hero cult (broadly): ritual attention to named mortals or demigods at tombs, shr
 
 ---
 
+## Pages in this section
+
+This page is the hub for the **Mediterranean mysteries** section — the mystery ecology within which Roman Mithraism, civic savior language, and early Christianity all operated.
+
+| Page | Focus |
+| --- | --- |
+| **Hero cults and mystery cults — Mediterranean atlas** (this page) | Chronological spine from Eleusis to Mithraism; hero cult vs. mystery cult distinction |
+| [Helios, Apollo, and Sol — solar syncretism](helios-apollo-sol-syncretism.md) | Greek and Roman solar deities; Kushan-horizon Vairocana synthesis |
+| [Attis and Cybele](attis-and-cybele.md) | Phrygian mother goddess and her dying consort; Roman adoption |
+| [Isis, Osiris, and Serapis](isis-osiris-serapis.md) | Egyptian mystery traditions spread into the Hellenistic and Roman world |
+| [Demeter and Eleusis](demeter-eleusis-mysteries.md) | The oldest securely documented Greek mystery institution |
+| [Greek wandering gods and initiation](greek-wandering-gods-initiation.md) | Apollo, Dionysus, and initiatory wandering-god patterns |
+| [Hermes — mediator and initiation](hermes-mediator-and-initiation.md) | Psychopomp, divine messenger, and initiatory mediator |
+| [Philippi and Via Egnatia — religious milieu](philippi-via-egnatia-religious-milieu.md) | The mystery and civic-cult milieu of Paul's first European mission city |
+| [Messiah language in Greek civic context](messiah-language-greek-civic-context.md) | How *christos*, *sōtēr*, *kyrios* functioned in Hellenistic and Roman civic culture |
+| [Emperor cult and civic *sōtēr*](emperor-cult-and-civic-soter.md) | The imperial savior idiom — civic vocabulary, not Christian coinage |
+| [Paul, Mithraism, and historicity](paul-mithraism-and-historicity-notes.md) | Mithra–Paul parallel debates; manuscript gaps; tiered assessment |
+| [Mediterranean mystery sources — appendix](mediterranean-mystery-sources-appendix.md) | Hymns, oracles, inscriptions, and chronological caveats for source use |
+| [Mediterranean figure glossary](mediterranean-figure-glossary.md) | Quick reference for figures, titles, and cult terms |
+
+---
+
 ## 1. Chronological spine (institutions and movements)
 
 Dates are approximate; many Bronze Age claims rest on interpretation of tablets, frescoes, or later literary memory. Use handbooks before citing in scholarship.

@@ -1,0 +1,139 @@
+---
+title: "The Complete History of the Achaemenid Empire and Bardiya"
+description: "A detailed chronological account of the Achaemenid Empire from pre-Achaemenid background through Alexander's conquest, with focus on the Bardiya/Gaumata succession crisis and its transmission context."
+sidebar_position: 4
+---
+
+# The Complete History of the Achaemenid Empire and Bardiya
+
+:::info Long-Form Reference
+This page provides a detailed chronological narrative. For a focused analytical overview, see [Historical Context](historical-context.md).
+:::
+
+## Pre-Achaemenid Background (c. 2000–600 BCE)
+
+### Early Cultural Foundations
+
+#### Scythian Migrations (c. 1000–700 BCE)
+
+The Scythians — an Eastern Iranian people — began migrating from Central Asia into the Eurasian steppe around 1000 BCE. Their religious practices included animism, ancestor worship, sky gods, and fire rituals. By 900–800 BCE, Scythian populations had settled near the Black Sea, establishing distinctive cultural practices including horse sacrifices and kurgan burials.
+
+Climate scientists have documented an abrupt climate shift around 850 BCE that enabled rapid Scythian expansion across the steppe while also causing drought pressure in northwest India — creating conditions for Saka migration southward (van Geel et al. 2004; Parpola 2008). This climate-driven migration hypothesis is part of the scholarly background for the Śākya-Iranian origins theory (Tier B).
+
+#### Zoroaster and Religious Innovation (c. 700–600 BCE)
+
+Zoroaster (Zarathushtra) introduced ethical monotheism centered on Ahura Mazda, dualistic cosmology (good vs. evil), and a future savior figure (Saoshyant). The Gathas — his hymns — are linguistically among the oldest Indo-Iranian texts. His religious innovations established the theological framework that would shape Achaemenid imperial ideology.
+
+## The Rise of Cyrus the Great (600–530 BCE)
+
+### Cyrus's Conquests
+
+| Year | Event |
+|---|---|
+| 559 BCE | Cyrus becomes King of Anshan (vassal of the Medes) |
+| 550 BCE | Cyrus overthrows Astyages the Mede; founds the Achaemenid Empire |
+| 547 BCE | Cyrus captures Sardis; defeats Croesus of Lydia; controls Asia Minor |
+| 539 BCE | Cyrus conquers Babylon; issues Edict of Cyrus |
+| 538 BCE | Cyrus allows Jews (and others) to return from exile and rebuild temples |
+| 530 BCE | Cyrus dies in campaign against the Massagetae |
+
+Cyrus's policy of religious tolerance was politically pragmatic (maintaining loyalty from diverse subject peoples) but had lasting religious consequences. Isaiah 45:1's designation of Cyrus as *māšîaḥ* reflects this Judean perspective on Achaemenid benevolence (Tier A).
+
+### The Bardiya Family Position
+
+Cyrus's son **Bardiya** (Smerdis in Greek sources) was appointed governor of the eastern provinces — Bactria and adjacent regions — during Cambyses's reign. This placed a member of the royal family in the eastern satrapies, the regions where the hypothesis proposes story transmission into India could have occurred.
+
+## The Reign of Cambyses II (530–522 BCE)
+
+### Egyptian Conquest
+
+Cambyses II conquered Egypt in 525 BCE, establishing the world's first empire connecting three continents. His Egyptian policy is controversial: some Egyptian sources portray him as destructive; others suggest he may have shown conventional royal piety. The Greek sources (primarily Herodotus) are unsympathetic and may reflect propaganda.
+
+### Bardiya's Fate
+
+According to Darius I's Behistun account, Cambyses killed his brother Bardiya secretly before departing for Egypt. Ctesias's alternative account (preserved in Photius) states Bardiya survived and was hidden by his mother. This irresolvable contradiction in the sources is the historiographical foundation on which the Bardiya hypothesis rests — if Darius was lying about the murder, the "false Bardiya" was the real Bardiya.
+
+## The Succession Crisis of 522 BCE
+
+### The Gaumata Episode
+
+**(Tier A: documented in Behistun; propagandistic framing acknowledged)**
+
+The sequence of events in 522 BCE:
+
+| Month (approx.) | Event |
+|---|---|
+| March 522 BCE | Gaumata claims the throne as Bardiya while Cambyses is in Egypt |
+| The people accept the claim | No resistance reported; Gaumata rules unchallenged |
+| Summer 522 BCE | Cambyses dies (location uncertain; Herodotus: Syria/Hamath) |
+| September 29, 522 BCE | Darius and six Persian nobles kill Gaumata at Mount Nishaya in Media |
+| 522–520 BCE | Darius suppresses multiple revolts across the empire |
+
+**Behistun's description of Gaumata's reign**: He reportedly ceased military levies and tribute, restored some temples, and gained popular support. Darius reversed these policies after his coup — suggesting Gaumata's reforms may have had genuine popular appeal.
+
+### Darius's Legitimacy Campaign
+
+Darius was not the natural heir. His claim was through a more distant Achaemenid line. The Behistun Inscription's elaborate justification — divine mandate from Ahura Mazda, Gaumata as impostor, extensive genealogical claims — reflects the need to construct legitimacy. Modern Achaemenid scholarship (Briant, Kuhrt, Waters) treats this as political propaganda requiring critical evaluation.
+
+## Darius I's Consolidation (522–486 BCE)
+
+### Administrative Achievements
+
+**(Tier A)**
+
+Darius established the administrative infrastructure that made the empire functional:
+- Division into 20+ satrapies with standardized tax assessments
+- The Royal Road from Sardis to Susa (~2,700 km) with relay stations
+- Standardized coinage (daric gold coin, siglos silver)
+- Aramaic as the imperial administrative language across the empire
+- Achaemenid satrapy of Gandhara and Sindhu (India) documented in his inscriptions
+
+### The Behistun Inscription (c. 520 BCE)
+
+Darius carved his account in three languages (Old Persian, Elamite, Babylonian) on a cliff face at Bisotun. It was Henry Rawlinson's decipherment in the 1840s that enabled modern reading of Old Persian cuneiform — making Darius's account the primary lens through which we understand 522 BCE.
+
+### Contact with India
+
+**(Tier A)**
+
+Darius's satrapy lists (Persepolis Fortification Tablets, Behistun, Naqsh-e Rustam) document:
+- Gandhara (Gāndhāra) as a subject territory
+- Hindush (Sindh region) as a further eastern territory
+- Scylax of Caryanda's mission down the Indus River (~518 BCE)
+
+This establishes direct Achaemenid administrative presence in northwest India, providing a documented contact zone for cultural transmission.
+
+## Hellenistic Period and Religious Synthesis (330–30 BCE)
+
+### Alexander's Conquest
+
+Alexander the Great's conquest of the Achaemenid Empire (334–323 BCE) created the Hellenistic world:
+- Rapid spread of Greek administrative culture into Central Asia and India
+- Gandhara and Bactria became Hellenistic kingdoms (later Greco-Bactrian, Indo-Greek)
+- Greek artistic vocabulary merged with Buddhist iconography, producing Gandharan art
+
+The Hellenistic period is when the documented synthesis most relevant to the Bardiya hypothesis occurred — Buddhist traditions developing in a cultural zone shaped by both Iranian and Greek influences.
+
+### The Kushan Empire and Maitreya
+
+**(Tier B)**
+
+The Kushan Empire (1st–3rd centuries CE) united Central Asian, Iranian, and Indian cultural traditions. Kushan kings used titles ("Devaputra," Son of Heaven) blending Iranian divine kingship with Buddhist patronage. Under Kushan patronage, Maitreya belief developed its fully articulated form, and Gandharan art produced the earliest Buddha images with solar halos and Iranian iconographic features.
+
+## Download
+
+The detailed timeline data used for this narrative is available for download:
+
+[Download Achaemenid-Bardiya Timeline CSV](/sources/achaemenid-bardiya-timeline.csv)
+
+The CSV contains periods, dates, regions, major events, cultural significance, and cross-tradition connections in structured format.
+
+## See Also
+
+- [Historical Context](historical-context.md)
+- [Primary Historical Documents](evidence-primary-sources.md)
+- [Cyrus the Great](/docs/figures/cyrus-the-great)
+- [Saka–Scythian Hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
+- Briant, Pierre. *From Cyrus to Alexander: A History of the Persian Empire*. Eisenbrauns, 2002.
+- Kuhrt, Amélie. *The Persian Empire: A Corpus of Sources from the Achaemenid Period*. Routledge, 2007.
+- Waters, Matt. *Ancient Persia: A Concise History of the Achaemenid Empire*. Cambridge University Press, 2014.

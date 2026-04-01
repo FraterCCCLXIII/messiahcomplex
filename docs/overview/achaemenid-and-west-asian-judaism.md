@@ -8,6 +8,23 @@ description: Imperial context, forms of evidence, Elephantine and Babylonian arc
 
 The **Achaemenid** (Persian) empire (c. 550–330 BCE) united **Iran**, **Mesopotamia**, **Egypt**, and **the Levant** under administrative and linguistic systems that **moved people, scribes, and cultic vocabulary** across long distances. For **Judaism**, the **Persian period** is the era of **Yehud**, **temple restoration** traditions, and major **Diaspora** nodes (including **Elephantine**). This page collates **what historians agree on** and **what remains debated** regarding **Iranian / Zoroastrian** impact on **Jewish** eschatology and messianism.
 
+## Pages in this section
+
+This page is the hub for the **Achaemenid contact & Judaism** section — the 550–330 BCE Persian empire as the primary contact zone between Iranian religious culture and Second Temple Judaism.
+
+| Page | Focus |
+| --- | --- |
+| [Saoshyant influence hypotheses](saoshyant-influence-hypotheses.md) | The Zoroastrian eschatological savior (*saošyant*) — the Iranian concept that enters the contact window |
+| **Achaemenid empire and West Asian Judaism** (this page) | Imperial facts, Elephantine, Mithredath, Cyrus as *mashiach*, forms of evidence and their limits |
+| [Persian loanwords in Biblical Hebrew and Aramaic](persian-loanwords-in-biblical-tradition.md) | *pardēs*, *rāz*, *dāt* — vocabulary as a traceable channel of cultural contact |
+| [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) | When resurrection, dualism, final judgment, and paradise first appear in each tradition |
+| [Dead Sea Scrolls dualism and Iranian parallels](dead-sea-scrolls-dualism-and-iranian-parallels.md) | 1QS two-spirits, War Scroll — Qumran dualism measured against Zoroastrian doctrine |
+| [Jewish angelology and yazata parallels](jewish-angelology-and-yazata-parallels.md) | Michael, Gabriel vs. Mithra, Sraosha — angelic hierarchy comparisons and their limits |
+| [Evidence leads — Persian milieu and Mitra cluster](evidence-leads-persian-milieu-and-mitra-cluster.md) | Condensed catalog: PFT, onomastics, Royal Road, secondary literature starting points |
+| [Gnosticism and Mandaeanism](gnosticism-and-mandaeanism.md) | Syncretic soteriology at the Iranian–Jewish–Greek interface in late antiquity |
+
+---
+
 ## Established historical facts (minimal claims)
 
 - **Imperial rule:** Jewish communities in **Judah**, **Samaria**, **Babylonia**, and **Egypt** lived under **Achaemenid** law and taxation; **Aramaic** imperial chancellery language shaped documentary culture.
@@ -33,6 +50,36 @@ The **Achaemenid** (Persian) empire (c. 550–330 BCE) united **Iran**, **Mesopo
 **Claim:** the **Mashiach** ideal in some **Second Temple** trajectories becomes more **cosmic** and **eschatological**—a shift some scholars connect to broader **apocalyptic** currents in the **Persian–Hellenistic** world, including **Iranian** materials.
 
 **Counterpoint:** **biblical** messianic texts (Isaiah, Jeremiah, etc.) already provide a **native** trajectory; **Persian** influence is **additive** or **parallel** depending on the interpreter.
+
+## The Jewish crisis as reception condition
+
+The question of Iranian influence on Second Temple Judaism is often framed as a problem of *availability*: were Iranian concepts available to Jewish scribes during the Achaemenid period? The answer is clearly yes — the contact mechanisms are documented. But availability alone does not explain why specific concepts were adopted and others were not. A more important question is: why did Zoroastrian eschatology *stick*?
+
+The answer is that Second Temple Judaism received Iranian eschatological concepts at a moment of **acute theological crisis** — a crisis for which Zoroastrian theology offered exact and urgent answers.
+
+### The threefold theodicy problem
+
+**1. The Babylonian destruction (~587 BCE)**
+The destruction of the Jerusalem temple and the Babylonian exile shattered the foundational theology of pre-exilic Israel: that YHWH protected his people, that the Davidic dynasty was eternal, and that the temple was the permanent dwelling of God. The exile demanded an answer: *why did YHWH allow this?* The pre-exilic retribution theology (suffering = punishment for covenant violation) could not resolve the deeper problem — if the righteous suffer and die, does YHWH’s justice extend beyond death?
+
+**2. The disappointing return (post-538 BCE)**
+When Cyrus issued the decree allowing Jewish return (Ezra 1), the expected golden age did not materialize. The second temple was built, but smaller. Persian rule continued. The Davidic kingdom was not restored. The prophetic promises of national restoration (Deutero-Isaiah’s visions) remained unfulfilled. This generated a second problem: has YHWH’s promise failed?
+
+**3. The Maccabean persecution (~167–164 BCE)**
+Under Antiochus IV Epiphanes, the crisis reached its most acute form. The temple was desecrated, Jewish religious practice was banned, and observant Jews were killed for refusing to apostatize. The question became immediate: *will the righteous who die for their faith be vindicated?* Or is loyalty to YHWH simply a path to death with no future?
+
+### Why Zoroastrian eschatology answered these questions
+
+| The Jewish question | The Zoroastrian answer |
+| --- | --- |
+| Why does cosmic evil exist? | Cosmic evil has an agent (Angra Mainyu) — but it is *temporary*. The cosmos is in a state of mixture that will be resolved at the Renovation. |
+| Why do the righteous suffer while the wicked prosper? | This is the expected condition during the age of mixture. The righteous dead *will* be vindicated — bodily, individually, at the Frashokereti. |
+| Is death the end for those who die faithful? | No. The Saoshyant will preside over the resurrection of all the dead; the righteous will receive immortality. |
+| Will YHWH’s justice ultimately prevail? | Yes — the entire cosmos will be restored to its original perfection, evil permanently defeated. |
+
+Ideas spread not because they are available but because they are **urgently needed**. The Iranian eschatological framework provided the only available comprehensive answer to a crisis that Jewish theology, as it stood, could not resolve. This is why the six conceptual shifts documented in the [eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) arrive as a **cluster** — they are components of a single coherent theological system adopted to answer a single coherent set of urgent questions. See [Daniel and Iranian eschatology](daniel-and-iranian-eschatology.md) for the text where this reception is most visible, and [Zoroastrian primary texts](zoroastrian-primary-texts.md) for the source side.
+
+---
 
 ## Christianity’s downstream relationship
 
@@ -100,7 +147,11 @@ See [Further reading](further-reading.md) for expanded links. For a **condensed 
 
 ## See also
 
-- [Persian loanwords in Biblical Hebrew and Aramaic](persian-loanwords-in-biblical-tradition.md) — pardes, raz, dat, and the vocabulary of transmission
+- [Zoroastrian primary texts](zoroastrian-primary-texts.md) — the Iranian source side: Gathas, Yasht 19, Bundahišn, Bahman Yasht
+- [Daniel and Iranian eschatology](daniel-and-iranian-eschatology.md) — the Jewish hinge text where the eschatological package arrives
+- [1 Enoch and the Son of Man](enoch-son-of-man.md) — the next step in the chain
+- [Septuagint as transmission mechanism](septuagint-transmission-mechanism.md) — how this tradition was rendered in Greek
+- [Persian loanwords in Biblical Hebrew and Aramaic](persian-loanwords-in-biblical-tradition.md) — *pardēs*, *rāz*, *dāt*, and the vocabulary of transmission
 - [Dead Sea Scrolls dualism and Iranian parallels](dead-sea-scrolls-dualism-and-iranian-parallels.md) — 1QS two spirits, War Scroll, 4Q521
 - [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) — resurrection, dualism, judgment, paradise across traditions
 - [The Parthian corridor](parthian-arsacid-corridor.md) — the missing 247 BCE–224 CE bridge

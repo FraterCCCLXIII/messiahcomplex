@@ -6,6 +6,10 @@ description: Messianic and restorer figures, mediator-savior archetypes, imperia
 
 # Chronological map
 
+:::info Reference section
+This page is the first in the **Reference** section, which holds navigational and lookup tools: timelines, a visual timeline, a further-reading catalog, the research backlog, and the editorial template. For the main research, start at the [site introduction](/docs/intro) or one of the five research-zone hubs.
+:::
+
 This page presents **three** complementary tables:
 
 1. **Messianic and restorer figures** — the site's core comparison (future saviors, cosmic renovators)
