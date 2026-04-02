@@ -203,6 +203,7 @@ This is the actual Kushan Zoroastrian triad of relevance. It does not map onto t
 - [The Parthian corridor](parthian-arsacid-corridor.md) — the western neighbor's role in east-west transmission
 - [Measuring influence: Mitra, Mithra, Maitreya](measuring-influence-mitra-maitreya.md)
 - [Buddhism: Maitreya](../figures/buddhism-maitreya.md)
+- [Vairocana — The Cosmic Sun-Buddha](../figures/buddhist-vairocana.md) — the Dharmakāya Buddha and center of the five-buddha mandala; PIE solar etymology and Sadāśiva comparison
 - [Hinduism: Kalki](../figures/hinduism-kalki.md) — another celestial-age savior
 - [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) — when these concepts first appear
 - [Helios, Apollo, and Sol — solar syncretism](helios-apollo-sol-syncretism.md) — Kushan coin horizon (MIIRO + BODDO + HELIOS)

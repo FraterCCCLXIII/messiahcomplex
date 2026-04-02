@@ -17,7 +17,7 @@ Items tracked for **future** work—**not** commitments. Agents and humans: take
 | ID | Priority | Task | Notes |
 | --- | --- | --- | --- |
 | C1 | **done** | Replace stub **Sources & dating** on first three figure pages | [Christianity: Parousia](../figures/christianity-parousia.md), [Zoroastrian: Saoshyant](../figures/zoroastrian-saoshyant.md), [Roman Mithraism](../figures/roman-mithraism.md). |
-| C2 | H | **Context** + **Sources & dating** on **remaining figure pages** | Use [Curated page template](curated-page-template.md). See **§ Detailed checklists → Figure pages** below. |
+| C2 | **done** | **Context** + **Sources & dating** on **remaining figure pages** | All 9 pages completed: Mashiach, Maitreya, Mahdi, Kalki, Li Hong, Baldr, Arthur, Dionysus, Asclepius — each now has Sources & dating witness table, tier-statement table, and (for Baldr, Arthur) a new opening paragraph. |
 | C3 | **done** | Site-wide **Sources** guidance + template | [About research notes](../research/about-research-notes.md), [curated-page-template](curated-page-template.md), AGENTS. |
 | C4 | M | Overview pages: **non-obvious claims** need citations | Prioritize [Gandhara](gandhara-central-asian-transmission.md), [Achaemenid and West Asian Judaism](achaemenid-and-west-asian-judaism.md), [Measuring influence](measuring-influence-mitra-maitreya.md), [alternative Buddha–Jesus theories](alternative-buddha-jesus-transmission-theories.md), [Paul / Mithra notes](paul-mithraism-and-historicity-notes.md). |
 | C5 | M | **Overview pages: Context block** where missing | [Curated page template](curated-page-template.md) **Audience / Question / Scope** on major overviews (see **§ Overview pages** below). |
@@ -46,9 +46,9 @@ Items tracked for **future** work—**not** commitments. Agents and humans: take
 | R15 | M | **Mahāyāna emergence & Silk Road** | Expanded on [Amitābha page](amitabha-maitreya-gandhara-transmission.md); deeper treatment of Khotan, Kucha, and Turfan manuscript evidence. |
 | R16 | M | **Celestial savior motif** (Amitābha, Christ, Mithra, Osiris) | Comparative table added to Amitābha page; could become standalone typological article. |
 | R17 | M | **Horseback heroes** (Michael, Dioscuri, Kalki, George, Thracian) | Comparative section on [Thracian horseman](thracian-horseman-paleo-balkan.md); potential for standalone article with iconographic evidence. |
-| R18 | H | **More figures** | Added Heracles, Gilgamesh, Dumuzi/Tammuz, Orpheus, Elijah & Enoch. Still missing: Prometheus, Adonis, Baal (as figure page), Quetzalcoatl. |
-|| R19 | H | **Solar deities across Eurasia** — Apollo, Surya, Vairocana, Sol Invictus, solar YHWH / Merkabah, Farvahar; **Sadāśiva's five-face schema and the Five Buddhas** | Cross-traditional survey of solar iconography and directional cosmology. Sadāśiva page created ([figures/hindu-shiva-sadashiva](../figures/hindu-shiva-sadashiva.md)); Five Buddhas / Sadāśiva comparison integrated into [helios-apollo-sol-syncretism](helios-apollo-sol-syncretism.md). Remaining: standalone R19 survey page. |
-|| R20 | H | **Tomb veneration, relic cults, and sacred burial** — tumuli, stupas, martyria, hero cults, catacomb liturgy | Comparative analysis of cultic practices centered on tombs, bones, and the locus of the founder's death. See **§ Investigation notes → R20** below. |
+| R18 | **done** | **More figures** | Added Heracles, Gilgamesh, Dumuzi/Tammuz, Orpheus, Elijah & Enoch, Prometheus, Adonis, Baal, Quetzalcoatl. All four R18 figures now have pages: [greek-prometheus](../figures/greek-prometheus.md), [phoenician-adonis](../figures/phoenician-adonis.md), [canaanite-baal](../figures/canaanite-baal.md), [mesoamerican-quetzalcoatl](../figures/mesoamerican-quetzalcoatl.md). |
+|| R19 | **done** | **Solar deities across Eurasia** | Standalone synthesis page created: [solar-deities-eurasian-synthesis](solar-deities-eurasian-synthesis.md). Covers PIE substrate, Mediterranean solar cluster, Gandharan node (Kushan coins, Vairocana etymology), Sadashiva/Five Buddhas, and YHWH solar strand with explicit tier assessments throughout. |
+|| R20 | **done** | **Tomb veneration, relic cults, and sacred burial** | Page created: [tomb-veneration-relic-cults](tomb-veneration-relic-cults.md). Covers Greek hero cult, Buddhist stupas, kurgan–stupa parallel, Christian martyr cult, Islamic ziyāra, and Jewish tomb veneration with tier assessments and full Sources & dating section. |
 || R21 | M | **Unverified Greco-Buddhist claims from popular sources** — artifacts, quotes, and transmission claims requiring primary-source verification | Parked from transcript analysis. See **§ Investigation notes → R21** below. |
 || R22 | **done** | **The soteriological convergence of empire — four meta-patterns** | Synthesis page: [Soteriological convergence of empire](soteriological-convergence-of-empire.md). Pattern 1 expanded: [barbarian-inaugurator-pattern](barbarian-inaugurator-pattern.md). Pattern 2 expanded: [pie-mediator-slot-origins](pie-mediator-slot-origins.md). Pattern 4 expanded: [greek-vocabulary-translation-lens](greek-vocabulary-translation-lens.md). |
 || R23 | **done** | **Six hidden cross-traditional structural patterns** | Patterns 1+2 → [skepticism-mysticism-negative-grammar](skepticism-mysticism-negative-grammar.md). Pattern 4 → [greek-vocabulary-translation-lens](greek-vocabulary-translation-lens.md). Pattern 5 → [canon-as-imperial-artifact](canon-as-imperial-artifact.md). Pattern 6 → [synthesis-at-nodes](synthesis-at-nodes.md). Recluse paradox (Pattern 3) still in notes only. |
@@ -296,15 +296,15 @@ Patterns 1, 2, and 4 all point toward the same deeper hypothesis: the traditions
 
 Track in commits; remove lines here when done.
 
-- [ ] [Judaism: Mashiach](../figures/judaism-mashiach.md)
-- [ ] [Buddhism: Maitreya](../figures/buddhism-maitreya.md)
-- [ ] [Islam: Mahdi](../figures/islam-mahdi.md)
-- [ ] [Hinduism: Kalki](../figures/hinduism-kalki.md)
-- [ ] [Taoism: Li Hong](../figures/taoism-li-hong.md)
-- [ ] [Norse: Baldr](../figures/norse-baldr.md)
-- [ ] [Arthurian: King Arthur](../figures/arthurian-king-arthur.md)
-- [ ] [Dionysus / Bacchus](../figures/greco-roman-dionysus.md)
-- [ ] [Asclepius](../figures/greco-roman-asclepius.md)
+- [x] [Judaism: Mashiach](../figures/judaism-mashiach.md)
+- [x] [Buddhism: Maitreya](../figures/buddhism-maitreya.md)
+- [x] [Islam: Mahdi](../figures/islam-mahdi.md)
+- [x] [Hinduism: Kalki](../figures/hinduism-kalki.md)
+- [x] [Taoism: Li Hong](../figures/taoism-li-hong.md)
+- [x] [Norse: Baldr](../figures/norse-baldr.md)
+- [x] [Arthurian: King Arthur](../figures/arthurian-king-arthur.md)
+- [x] [Dionysus / Bacchus](../figures/greco-roman-dionysus.md)
+- [x] [Asclepius](../figures/greco-roman-asclepius.md)
 
 ### Overview pages — optional Context block (C5)
 

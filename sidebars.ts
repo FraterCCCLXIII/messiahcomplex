@@ -136,10 +136,12 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'overview/helios-apollo-sol-syncretism',
+        'overview/solar-deities-eurasian-synthesis',
         'overview/attis-and-cybele',
         'overview/isis-osiris-serapis',
         'overview/demeter-eleusis-mysteries',
         'overview/greek-wandering-gods-initiation',
+        'overview/tomb-veneration-relic-cults',
         'overview/hermes-mediator-and-initiation',
         'overview/philippi-via-egnatia-religious-milieu',
         'overview/messiah-language-greek-civic-context',
@@ -271,6 +273,7 @@ const sidebars: SidebarsConfig = {
             'figures/vedic-purusha',
             'figures/hindu-shiva-sadashiva',
             'figures/buddhism-maitreya',
+            'figures/buddhist-vairocana',
             'figures/hinduism-kalki',
             'figures/taoism-li-hong',
           ],
@@ -291,6 +294,14 @@ const sidebars: SidebarsConfig = {
           items: [
             'figures/norse-baldr',
             'figures/arthurian-king-arthur',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Mesoamerican',
+          collapsed: true,
+          items: [
+            'figures/mesoamerican-quetzalcoatl',
           ],
         },
       ],

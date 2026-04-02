@@ -165,11 +165,29 @@ Placed alongside Sadāśiva:
 
 **Where the parallel breaks down:** The functional mappings do not align cleanly. Aghora (dissolution/destruction) in the south does not correspond to Ratnasambhava (equality wisdom); Tatpuruṣa (concealment) in the east does not correspond to Akṣobhya (mirror-like clarity). The Śaiva schema is organized around five *cosmic acts*; the Buddhist schema is organized around five *modes of enlightened knowing*. These are different organizing principles applied to the same spatial framework.
 
+### Developmental timeline of the Buddhist pentad
+
+The comparison table above uses the Vairocana-centered schema as if it were a single stable entity, but the Buddhist five-buddha system assembled gradually over several centuries. Understanding this timeline matters for evaluating the Sanderson thesis:
+
+Individual celestial Buddhas are attested very early — Akṣobhya and Amitābha both appear in sūtras translated into Chinese by Lokakṣema around **179–180 CE**, implying Indian originals from roughly the **1st century CE**. The Bajaur Collection Gāndhārī manuscripts (palaeographically dated to the late 1st – early 2nd century CE) contain fragments mentioning Akṣobhya — the earliest known manuscript attestation of any celestial Buddha by name. These individual figures predate any systematic five-buddha grouping by three or four centuries.
+
+The **first systematic five-buddha mandala** appears in the *Guhyasamāja Tantra* (c. 5th–6th cent. CE) — but it places **Akṣobhya**, not Vairocana, at the center. The shift to Vairocana as the supreme central figure is a Yoga tantra development attested in two ~7th-century texts:
+
+| Text | Approx. date | Central figure | Significance |
+| --- | --- | --- | --- |
+| *Guhyasamāja Tantra* | c. 5th–6th cent. CE | **Akṣobhya** | First systematic five-buddha mandala |
+| *Mahāvairocana Tantra* (*Mahāvairocanābhisambodhi*) | c. 7th cent. CE | **Vairocana** | Cosmic Vairocana theology; two-realm mandala system; Chinese trans. 724–725 CE (Śubhākarasiṃha + Yixing) |
+| *Sarvatathāgatatattvasaṃgraha* (STTS) | c. 7th cent. CE | **Vairocana** | Most fully developed five-wisdom + five-direction + Vairocana-at-center schema |
+
+Vairocana's identity as the cosmic Buddha whose body *is* the universe derives primarily from the *Avatamsaka Sūtra* — a text translated into Chinese in 418–421 CE (Buddhabhadra's 60-fascicle version), with earlier sections possibly circulating from the 2nd–3rd century CE. The name *vairocana* ("the Illuminator") is a cognate of the Vedic *Vivasvant* (the sun-deity), making Vairocana's solar dimension etymologically rooted in the PIE solar lexicon.
+
+The chronological implication is important: the version of the five-buddha schema that most closely parallels Sadāśiva — Vairocana at the integrating center, five wisdoms mapped onto five directions — crystallizes in the **7th century CE**, which is *after* the Elephanta Sadāśiva relief (~550–600 CE) and contemporary with or later than the Kāmikāgama's Āgamic systematization. This actually **strengthens** the Sanderson argument rather than weakening it: the Buddhist version structurally most comparable to Sadāśiva appears after the full Śaiva five-face system is iconographically established.
+
 ### The Sanderson thesis: Śaiva influence on Vajrayāna
 
 The most rigorous scholarly argument for direct Śaiva influence on Vajrayāna's five-Buddha schema is **Alexis Sanderson**'s body of work on Śaiva-Buddhist interaction in the Indian tantric period (c. 6th–11th cent. CE). Sanderson's "Śaivism and the Tantric Traditions" (1988) and subsequent monographs document how **Vajrayāna Buddhist tantras systematically adapted material from Śaiva Vidyāpīṭha and Bhairava Āgama sources** — in some cases reproducing Śaiva ritual texts with Buddhist names substituted for Śaiva ones.
 
-Sanderson argues that the five-directional mandala structure in Vajrayāna (five Buddhas, five female consorts, five directions, five wisdoms) is a Buddhist reworking of the **Śaiva pañcaka** ("pentad") system. The *Guhyasamāja Tantra* (the earliest Buddhist text systematically deploying the five-buddha mandala, c. 5th–6th cent. CE) post-dates the Śaiva Āgamic pañcamukha theology.
+Sanderson argues that the five-directional mandala structure in Vajrayāna (five Buddhas, five female consorts, five directions, five wisdoms) is a Buddhist reworking of the **Śaiva pañcaka** ("pentad") system. The *Guhyasamāja Tantra* (the earliest Buddhist text systematically deploying the five-buddha mandala, c. 5th–6th cent. CE) post-dates the Śaiva Āgamic pañcamukha theology — and as noted above, the *Guhyasamāja* places **Akṣobhya** at the center, not Vairocana. The Vairocana-centered pentad that most closely parallels Sadāśiva is a 7th-century development (*Mahāvairocana Tantra*, STTS), emerging *after* Elephanta's five-faced relief (~550–600 CE). This chronological sequence favors Sanderson's direction-of-borrowing claim for the portion of the Vajrayāna corpus he analyzed.
 
 **Evidence tier: B — specialist debate.** Sanderson's argument is influential but not universally accepted. **Ronald Davidson** (*Indian Esoteric Buddhism*, 2002) and others argue for more complex and bidirectional borrowing, and for the importance of shared South Asian cosmological substrates (the five elements, five directions) that both traditions independently elaborated. The evidence for direct textual borrowing in some Vajrayāna tantras is strong (Sanderson has documented side-by-side parallels); the inference that the five-buddha schema *as such* derives from Sadāśiva's five faces is stronger for the later tantric corpus (7th–9th cent. CE) than for the earliest appearances of the five-buddha idea.
 
@@ -197,6 +215,7 @@ The question of direct Śaiva → Vajrayāna influence is therefore *separate* f
 | The pañcamukha *liṅga* and icon are established in temple sculpture by 5th–6th cent. CE | A — secure | Elephanta, Mathurā, Badami cave sculptures |
 | Sadāśiva's five-face schema structurally parallels Vajrayāna's Five Buddhas | B — typological parallel, shared substrate | Common South Asian five-element/five-direction cosmology |
 | Vajrayāna's five-Buddha mandala was directly borrowed from Śaiva Āgamic sources | B — specialist debate | Sanderson (1988+) vs. Davidson (2002); evidence is stronger for some later tantras than for the schema as a whole |
+| The Vairocana-centered five-buddha mandala (the version closest to Sadāśiva) post-dates Elephanta (~550–600 CE) | A — secure for relative chronology | *Guhyasamāja* (5th–6th c.) centers on Akṣobhya; Vairocana-centered schema first appears in *Mahāvairocana Tantra* and STTS, both c. 7th cent. CE |
 | The functional mappings (Aghora = Ratnasambhava, etc.) are genealogically connected | C — hypothesis | Structural parallel only; functions differ |
 
 ---
@@ -227,7 +246,13 @@ The question of direct Śaiva → Vajrayāna influence is therefore *separate* f
 | Elephanta caves Sadāśiva relief | — | c. 550–600 CE | Five-faced icon; Spink (2005); Collins (1988) |
 | *Kāmikāgama*, *Mṛgendraāgama* | Sanskrit | c. 6th–9th cent. CE | Āgamic systematization; RECON editions; Bhatt (IFP) editions |
 | *Śivapurāṇa*, *Vidyeśvara Saṃhitā* | Sanskrit | c. 5th–10th cent. CE (layers) | Narrative systematization; J.L. Shastri trans. (AITM series) |
-| *Guhyasamāja Tantra* | Sanskrit | c. 5th–6th cent. CE | Earliest Buddhist text with systematic five-buddha mandala |
+| *Guhyasamāja Tantra* | Sanskrit | c. 5th–6th cent. CE | Earliest Buddhist text with systematic five-buddha mandala; **Akṣobhya** at center (not Vairocana) |
+| Bajaur Collection Gāndhārī fragments | Gāndhārī (Kharoṣṭhī) | late 1st – early 2nd cent. CE | Earliest manuscript attestation of a celestial Buddha by name (Akṣobhya); Lenz (2010) |
+| *Akṣobhyavyūha Sūtra* | Sanskrit (Chinese trans. ~179–180 CE) | c. 1st cent. CE Indian original | Lokakṣema translation; earliest Chinese Buddhist canon attestation of a celestial Buddha |
+| *Sukhāvatīvyūha* (Shorter and Longer) | Sanskrit (Chinese trans. ~148/179 CE) | c. 1st cent. CE Indian original | Early attestation of Amitābha; paired with Akṣobhya in earliest celestial-Buddha corpus |
+| *Avatamsaka Sūtra* (*Buddhāvataṃsaka*) | Sanskrit (Chinese trans. 418–421 CE; 695–699 CE) | c. 2nd–3rd cent. CE for earlier portions | Vairocana as cosmic Buddha whose body is the universe; Buddhabhadra's 60-fasc. trans. |
+| *Mahāvairocana Tantra* (*Mahāvairocanābhisambodhi*) | Sanskrit (Chinese trans. 724–725 CE) | c. 7th cent. CE | First text centering the five-buddha mandala on Vairocana; Śubhākarasiṃha + Yixing trans. |
+| *Sarvatathāgatatattvasaṃgraha* (STTS) | Sanskrit (Chinese trans. 8th cent.) | c. 7th cent. CE | Most fully elaborated Vairocana-centered five-wisdom + five-direction mandala; Yoga tantra |
 | Abhinavagupta, *Tantrāloka* | Sanskrit | c. 975–1025 CE | Kashmir Śaivism; KSTS edition; Gnoli (1999) partial trans. |
 
 ### Secondary entrances
@@ -239,3 +264,5 @@ The question of direct Śaiva → Vajrayāna influence is therefore *separate* f
 - **Flood, Gavin.** *An Introduction to Hinduism* (Cambridge University Press, 1996), chs. 6–7. Accessible survey of Śaiva traditions, *Āgamas*, and the development of the five-face theology.
 - **Collins, Charles Dillard.** *The Iconography and Ritual of Śiva at Elephanta* (SUNY Press, 1988). Primary art-historical study of the Sadāśiva relief at Elephanta.
 - **Rosenfield, John M.** *The Dynastic Arts of the Kushans* (University of California Press, 1967). OESHO coins and Kushan Śiva iconography.
+- **Lenz, Timothy.** *Gandharan Manuscripts in the Schøyen and Senior Buddhist Collections* (Early Buddhist Manuscripts Project, 2010). Edition and analysis of the Bajaur Collection Gāndhārī fragments; establishes Akṣobhya as the earliest manuscript-attested celestial Buddha.
+- **Harrison, Paul.** "Searching for the Origins of the Mahāyāna: What Are We Looking For?" *Eastern Buddhist* 28/1 (1995): 48–69. Situates early celestial-Buddha sūtras (Akṣobhya, Amitābha) in the emerging Mahāyāna context; important for the gap between individual celestial Buddhas and the systematized pentad.
