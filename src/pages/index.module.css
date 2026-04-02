@@ -16,9 +16,12 @@
   color: inherit;
 }
 
-.heroBanner :global(.hero__subtitle) {
-  color: var(--home-hero-muted);
-  opacity: 1;
+.heroIntro {
+  margin: 0.75rem auto 2rem;
+  max-width: 38rem;
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  color: var(--home-hero-fg);
 }
 
 .heroBanner :global(.button.button--secondary) {
@@ -46,6 +49,51 @@
 
 .buttons {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  gap: 0.75rem 1rem;
+}
+
+/* Portrait row: extra images omitted when narrow (see HeroGallery in index.tsx) */
+.heroGallery {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 0.85rem;
+  margin-top: 2.25rem;
+  padding: 0.25rem 0 0.5rem;
+  overflow: hidden;
+}
+
+.heroGalleryItem {
+  flex: 0 0 auto;
+  width: clamp(8rem, 20vw, 12.5rem);
+  aspect-ratio: 2 / 3;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.12),
+    0 0 0 1px rgba(0, 0, 0, 0.06);
+}
+
+[data-theme='dark'] .heroGalleryItem {
+  box-shadow:
+    0 2px 12px rgba(0, 0, 0, 0.45),
+    0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+.heroGalleryImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+
+@media screen and (max-width: 996px) {
+  .heroGallery {
+    padding-left: max(0px, env(safe-area-inset-left));
+    padding-right: max(0px, env(safe-area-inset-right));
+  }
 }
