@@ -26,10 +26,16 @@
   --home-muted: #636366;
   --site-footer-bg: #ffffff;
   --site-footer-fg: #000000;
+
+  /* Must match the narrowed left column in .theme-doc-sidebar-container:has(.sidebar-drawer--collapsed) */
+  --mc-doc-sidebar-collapsed-width: 48px;
+  --mc-drawer-ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --mc-drawer-duration: 0.32s;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
+  --ifm-navbar-background-color: var(--ifm-background-color);
   --ifm-color-primary: #60a5fa;
   --ifm-color-primary-dark: #4d9af8;
   --ifm-color-primary-darker: #3d8ef6;
@@ -69,9 +75,15 @@
 
 /* ── Left sidebar ───────────────────────────────────────── */
 
+/* More breathing room inside the sidebar panel */
+.theme-doc-sidebar-menu {
+  padding: 1rem 0.75rem !important;
+}
+
 /* Smaller nav link text */
 .menu__link {
   font-size: 0.8rem;
+  padding: 0.35rem 0.6rem !important;
 }
 
 /* Smaller caret icons — override Infima's 2rem/1.25rem defaults */
@@ -88,11 +100,255 @@
   border-right: none !important;
 }
 
+/* Remove navbar bottom shadow and border */
+.navbar {
+  box-shadow: none !important;
+  border-bottom: none !important;
+}
+
+/* ── Color mode toggle icon ──────────────────────────────── */
+
+/*
+ * The toggle SVG uses fill="currentColor". Infima doesn't set an explicit
+ * `color` on .navbar itself, so the icon relies on body inheritance — which
+ * can silently resolve to white on a white navbar.  Pinning `color` here to
+ * the same value Infima uses for navbar links guarantees contrast in both themes.
+ */
+.navbar .clean-btn {
+  color: var(--ifm-navbar-link-color);
+}
+
+/*
+ * The search bar is absolutely centred (z-index 1).
+ * Right-side items (GitHub icon, toggle) need to stack above it so they
+ * remain clickable and aren't visually obscured by the search input.
+ */
+.navbar__items--right {
+  position: relative;
+  z-index: 2;
+}
+
 /* ── Right table-of-contents ────────────────────────────── */
 
 /* Remove left border on the ToC */
 .table-of-contents {
   border-left: none !important;
+  padding: 0.5rem 0.75rem !important;
+}
+
+/* ── Panel toggle buttons (left sidebar + right TOC) ─────── */
+
+/* Shared button style */
+.sidebar-panel-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 4px;
+  color: var(--ifm-color-emphasis-400);
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s;
+}
+
+.sidebar-panel-btn:hover {
+  color: var(--ifm-color-emphasis-700);
+  background: var(--ifm-color-emphasis-200);
+}
+
+/* Left sidebar: button at top-left.
+   The sidebar viewport starts at y=0 (behind the navbar) via a negative-margin
+   trick, so we push the toggle down by navbar-height to sit just below the bar. */
+.sidebar-top-toggle {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0.6rem 0.75rem 0.25rem;
+  margin-top: var(--ifm-navbar-height);
+}
+
+/* Sidebar drawer: fill the sticky viewport so internal scrolling still works */
+.sidebar-drawer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.sidebar-drawer__content {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+/* The inner Docusaurus .sidebar div already accounts for the navbar with its own
+   padding-top. Since our toggle now fills that gap, zero it out to avoid a
+   double-height blank space between the toggle and the first nav item. */
+.sidebar-drawer__content > div {
+  padding-top: 0 !important;
+}
+
+/* Hide content when collapsed (no slide animation — right TOC keeps its own motion) */
+.sidebar-drawer--collapsed .sidebar-drawer__content {
+  display: none;
+}
+
+/* Narrow the sidebar column to just the button when collapsed */
+.theme-doc-sidebar-container:has(.sidebar-drawer--collapsed) {
+  width: var(--mc-doc-sidebar-collapsed-width) !important;
+  min-width: var(--mc-doc-sidebar-collapsed-width) !important;
+}
+
+/*
+ * Docusaurus keeps main at max-width: calc(100% - 300px) while the real sidebar
+ * is only 48px here — leftover space sits on the right and the doc row + TOC
+ * column shift left. Match main to the actual aside width.
+ */
+@media (min-width: 997px) {
+  .theme-doc-sidebar-container:has(.sidebar-drawer--collapsed) + main {
+    max-width: calc(100% - var(--mc-doc-sidebar-collapsed-width)) !important;
+  }
+
+  /*
+   * Main already spans the area beside the 48px aside, but `.container` stays
+   * max-width ~1140px and centered — the extra width becomes empty margin on
+   * both sides (visible as a gap right of the TOC). Fill `main` so the doc
+   * row uses the full content column; horizontal padding still comes from Infima
+   * on `.container`.
+   */
+  .theme-doc-sidebar-container:has(.sidebar-drawer--collapsed) + main > .container {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
+
+/* Hide the built-in bottom "Collapse sidebar" button since we have a top one */
+button[aria-label="Collapse sidebar"],
+button[title="Collapse sidebar"],
+[class*="collapseSidebarButton"] {
+  display: none !important;
+}
+
+/* Right TOC: button at top-right */
+.toc-top-toggle {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.6rem 0.75rem 0.25rem;
+}
+
+/*
+ * Right TOC drawer (motion is driven by classes from src/theme/TOC/index.tsx):
+ * - Show: right→left (translateX(100%) → 0) via .toc-drawer--opening flip.
+ * - Hide: left→right (0 → translateX(100%)) via .toc-drawer--closing, then
+ *   .toc-drawer--collapsed removes the panel from layout (display:none) after
+ *   transitionend so the close transform can actually run.
+ */
+.toc-drawer {
+  overflow: hidden;
+}
+
+.toc-drawer__content {
+  transform-origin: right center;
+  transition:
+    transform var(--mc-drawer-duration) var(--mc-drawer-ease),
+    opacity calc(var(--mc-drawer-duration) * 0.85) ease;
+}
+
+/* Fully hidden after close animation (see TS: closing → transitionend → collapsed) */
+.toc-drawer--collapsed .toc-drawer__content {
+  display: none;
+}
+
+/* Closing: animate out (must not use max-height/flex collapse here — that skips the slide) */
+.toc-drawer--closing:not(.toc-drawer--collapsed) .toc-drawer__content {
+  transform: translateX(100%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Opening: start off-screen right; transition disabled until opening class drops (double rAF in TS) */
+.toc-drawer--opening:not(.toc-drawer--collapsed) .toc-drawer__content {
+  transform: translateX(100%);
+  opacity: 0;
+  transition: none !important;
+}
+
+.toc-drawer:not(.toc-drawer--collapsed):not(.toc-drawer--opening):not(.toc-drawer--closing)
+  .toc-drawer__content {
+  transform: translateX(0);
+  opacity: 1;
+  max-height: min(100vh, 3200px);
+}
+
+/* Sticky right TOC: pin the whole drawer (toggle + links) to the viewport */
+@media (min-width: 997px) {
+  .toc-drawer {
+    position: sticky;
+    top: calc(var(--ifm-navbar-height) + 0.5rem);
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - var(--ifm-navbar-height) - 1rem);
+  }
+
+  .toc-drawer__content {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+  }
+
+  /*
+   * Docusaurus TOC root uses a CSS-module class (not `.tableOfContents` in the DOM)
+   * and sets overflow-y:auto + max-height. Our wrapper also scrolls — two scrollbars.
+   * Single scroll: only `.toc-drawer__content` scrolls; inner box grows with content.
+   */
+  .toc-drawer__content > div {
+    position: static !important;
+    top: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .toc-drawer__content {
+    transition: none !important;
+  }
+}
+
+/* ── Main content area ──────────────────────────────────── */
+
+.theme-doc-markdown {
+  padding: 0 1.5rem;
+}
+
+@media (min-width: 997px) {
+  .theme-doc-markdown {
+    padding: 0 2.5rem;
+  }
+}
+
+/* ── Breadcrumbs: move to bottom of article ─────────────── */
+
+/* Breadcrumbs are a direct child of <article>; make it a flex column
+   so we can push them below the markdown content via order. */
+article:has(> .theme-doc-breadcrumbs) {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Push breadcrumbs below all siblings and match article side padding */
+.theme-doc-breadcrumbs {
+  order: 100;
+  padding: 0 1.5rem;
+  margin-top: 2rem;
+}
+
+@media (min-width: 997px) {
+  .theme-doc-breadcrumbs {
+    padding: 0 2.5rem;
+  }
 }
 
 /* ── Centered navbar search ─────────────────────────────── */
@@ -147,24 +403,35 @@
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23fff' d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E");
 }
 
-/* ── Main content scrollbar ─────────────────────────────── */
+/* ── Scrollbars: hidden until hover ─────────────────────── */
 
-.main-wrapper {
+/* Firefox */
+* {
+  scrollbar-width: none;
+}
+*:hover {
   scrollbar-width: thin;
   scrollbar-color: #888 transparent;
 }
 
-.main-wrapper::-webkit-scrollbar {
+/* WebKit / Blink */
+::-webkit-scrollbar {
   width: 5px;
+  height: 5px;
 }
 
-.main-wrapper::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
   background: transparent;
 }
 
-.main-wrapper::-webkit-scrollbar-thumb {
-  background-color: #888;
+::-webkit-scrollbar-thumb {
+  background-color: transparent;
   border-radius: 9999px;
+  transition: background-color 0.2s;
+}
+
+:hover::-webkit-scrollbar-thumb {
+  background-color: #888;
 }
 
 .footer {

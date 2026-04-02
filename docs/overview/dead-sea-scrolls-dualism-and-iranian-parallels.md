@@ -57,12 +57,14 @@ The DSS use the term **rāz nihyeh** (רז נהיה) as a technical term for the
 ### Arguments for Iranian influence
 
 - **Shaked, Shaul** ("Iranian Influence on Judaism," *CHJ*): Argues that the structural parallels are too close and too concentrated in the Persian/post-Persian period to be coincidental. The Qumran community's dualism is the strongest single case for Iranian → Jewish conceptual transmission.
-- **Hultgård, Anders** ("Persian Apocalypticism"): Documents specific parallels between Qumran eschatology and Zoroastrian apocalyptic texts.
-- **Widengren, Geo**: Earlier generation of scholars who argued for strong Iranian influence on Jewish apocalypticism (now treated as sometimes overstated but not refuted).
+- **Hultgård, Anders** ("Persian Apocalypticism," in Collins, ed., *Encyclopedia of Apocalypticism*, vol. 1, Continuum, 1998, pp. 39–83): Documents specific parallels between Qumran eschatology and Zoroastrian apocalyptic texts.
+- **Widengren, Geo; Hultgård, Anders; Philonenko, Marc** (eds.). *Apocalyptique iranienne et Dualisme Qoumrânien*. Paris: Maisonneuve, 1995 — the essential European collection making the positive case; Philonenko's contribution ("La Doctrine Qoumrânienne des Deux Esprits: Ses origines iraniennes," pp. 163–211) is specifically on the two-spirits doctrine and its Iranian roots in the Essene and early Christian traditions.
+- **García Martínez, Florentino.** "Iranian Influences in Qumran?" In M. McNamara (ed.), *Apocalyptic and Eschatological Heritage: The Middle East and Celtic Realms*. Dublin: Four Courts, 2003, pp. 37–49 — recent focused treatment; concludes Iranian influence is "undeniable" for the dualist framework.
+- **Collins, John J.** (*Apocalypticism and the Dead Sea Scrolls*, Routledge, 1997, pp. 41–43): In this focused book, Collins states directly: "It is widely recognized that the clear dualism of light and darkness in these scrolls reflects Zoroastrian influence."
 
 ### Arguments against or for caution
 
-- **Collins, John J.** (*The Apocalyptic Imagination*): Acknowledges parallels but stresses that Jewish apocalypticism has **indigenous** roots in prophetic and wisdom traditions. Iranian influence may be **one factor** among several.
+- **Collins, John J.** — Collins's position is nuanced rather than dismissive. In his *Oxford Handbook* survey (ch. 2, 2007), he writes: "While the importance of Persian dualism was exaggerated in the past, it is undeniably relevant to the discussion of the Dead Sea Scrolls." He maintains that Jewish apocalypticism also has **indigenous** roots in prophetic and wisdom traditions, and that Iranian influence is "one factor among several" rather than the whole explanation. The two positions — Zoroastrian influence is real, and Jewish apocalypticism is not simply imported — are compatible. *(Collins, *The Apocalyptic Imagination*, 3rd ed., Eerdmans, 2016.)*
 - **Barr, James**: Emphasizes the difficulty of dating Zoroastrian texts — if the Gathas are late (some minimalists argue ~600 BCE or later), the direction of influence becomes less clear.
 - **Hellenistic mediation**: Some scholars suggest Greek philosophical dualism (Platonic, Pythagorean) as an alternative or supplementary source for Qumran thinking.
 
@@ -98,11 +100,15 @@ The Qumran community is a **waypoint** on the road from Iranian eschatology to C
 - [Judaism: Mashiach](../figures/judaism-mashiach.md)
 - [Method: evidence, influence, and milieu](method-evidence-and-influence.md)
 
-## References (starting points)
+## References
 
-- **Shaked, Shaul.** "Iranian Influence on Judaism: First Century B.C.E. to Second Century C.E." in *Cambridge History of Judaism*, vol. 1.
-- **Hultgård, Anders.** "Persian Apocalypticism" in *The Encyclopedia of Apocalypticism*, vol. 1 (Continuum, 1998).
-- **Collins, John J.** *The Apocalyptic Imagination* (Eerdmans, 3rd ed., 2016) — ch. on Qumran.
-- **García Martínez, Florentino & Tigchelaar, Eibert** (eds.). *The Dead Sea Scrolls Study Edition* — standard English translation.
-- **Xeravits, Géza G.** *Dualism in Qumran* (T&T Clark, 2010) — focused study.
-- **VanderKam, James C.** *The Dead Sea Scrolls Today* (2nd ed., Eerdmans) — accessible introduction.
+- **Shaked, Shaul.** "Iranian Influence on Judaism: First Century B.C.E. to Second Century C.E." in *Cambridge History of Judaism*, vol. 1. Cambridge University Press, 1984.
+- **Hultgård, Anders.** "Persian Apocalypticism." In J. J. Collins (ed.), *The Encyclopedia of Apocalypticism*, vol. 1. Continuum, 1998, pp. 39–83.
+- **Collins, John J.** *Apocalypticism and the Dead Sea Scrolls.* London and New York: Routledge, 1997, pp. 41–43 — focused monograph on this topic; directly addresses the Zoroastrian influence question.
+- **Collins, John J.** *The Apocalyptic Imagination.* 3rd ed. Eerdmans, 2016 — ch. on Qumran; the broader framing.
+- **Collins, John J.** "Apocalyptic Eschatology in the Ancient World." Ch. 2 in Jerry L. Walls (ed.), *The Oxford Handbook of Eschatology*. Oxford University Press, 2007 — surveys the origins debate; statement that Iranian influence on the DSS dualism is "widely recognized."
+- **Widengren, Geo; Hultgård, Anders; Philonenko, Marc** (eds.). *Apocalyptique iranienne et Dualisme Qoumrânien.* Paris: Maisonneuve, 1995 — the key French collection; Philonenko's essay (pp. 163–211) is the standard treatment of the two-spirits doctrine and its Iranian roots.
+- **García Martínez, Florentino.** "Iranian Influences in Qumran?" In M. McNamara (ed.), *Apocalyptic and Eschatological Heritage: The Middle East and Celtic Realms*. Dublin: Four Courts, 2003, pp. 37–49.
+- **García Martínez, Florentino & Tigchelaar, Eibert** (eds.). *The Dead Sea Scrolls Study Edition.* Brill, 1997–1998 — standard English translation.
+- **Xeravits, Géza G.** *Dualism in Qumran.* T&T Clark, 2010 — focused study.
+- **VanderKam, James C.** *The Dead Sea Scrolls Today.* 2nd ed. Eerdmans, 2010 — accessible introduction.

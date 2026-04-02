@@ -80,6 +80,8 @@ Regional iconographic variants show Maitreya's adaptability across Buddhist cult
 - **Tibetan Vajrayāna**: Esoteric forms portray Maitreya with **three faces, four arms, and a red hue**, wielding a **cakra** (dharma wheel) to evoke his future teaching role or a **lotus** for purity. The dharma wheel can replace the kundika as his central attribute in tantric iconographic programs.
 - **Silla Korea**: Meditating Maitreya (*pangas sayu sang*, "half-lotus contemplative pose") is among the most iconic forms in Korean Buddhist art, emphasizing the "there/now" contemplative access over eschatological waiting.
 
+The most direct evidence for the Kushan milieu as a zone of cross-traditional contact is iconographic: Maitreya's image "can be found, together with that of Śākyamuni (and a broad array of Greek and Iranian deities), on the coins of the Kushan king Kanishka, who ruled northwestern India and adjacent regions in the first or second century CE" (Nattier, "Buddhist Eschatology," ch. 8 in Walls, *Oxford Handbook of Eschatology*, OUP, 2007). That a single coin series places Maitreya alongside Iranian divine figures is not proof of doctrinal dependence, but it is direct archaeological evidence that the audiences of early Maitreya devotionalism were the same people who venerated Iranian deities — exactly the porous milieu the transmission argument requires.
+
 The prominence of Maitreya in Gandhāra specifically is one of the data points for the *empire–crisis–translation* model: the Kushan court, operating at the intersection of Iranian, Indian, and Hellenistic cultural currents, provided the porous milieu in which Maitreya's messianic eschatology grew from a modest Pāli canon prophecy into a major devotional and iconographic program. The possible Iranian background (Saoshyant, Mithra's future-savior dimensions) would have been most relevant precisely in this region and period.
 
 ---
@@ -196,6 +198,7 @@ The **Asaṅga–Maitreya relationship** illustrates the "cosmic mediator" slot 
 
 - **Sponberg, Alan & Helen Hardacre (eds.).** *Maitreya, the Future Buddha.* Cambridge University Press, 1988. The essential essay collection; includes Nattier's four-type typology (pp. 25–26) and Spongberg on millenarianism.
 - **Nattier, Jan.** "The Meanings of the Maitreya Myth: A Typological Analysis," in Sponberg & Hardacre (1988), pp. 23–47. Foundation for the four-mode typology.
+- **Nattier, Jan.** "Buddhist Eschatology." Ch. 8 in Jerry L. Walls (ed.), *The Oxford Handbook of Eschatology*. Oxford University Press, 2007 — covers Maitreya's attestation and the Kushan coin evidence (Maitreya depicted alongside Greek and Iranian deities on Kanishka's coins); confirms his absence from the earliest Buddhist scriptures and his emergence by the beginning of the Common Era.
 - **Ritzinger, Justin.** *Anarchy in the Pure Land: Reinventing the Cult of Maitreya in Modern Chinese Buddhism.* Oxford University Press, 2017. Best modern treatment of Chinese Maitreya millenarianism.
 - **Scott, David Alan.** "The Iranian Face of Buddhism." *East and West* 40/1–4 (1990): 43–77. Careful case against direct Mitra → Maitreya genealogy.
 - **Lamotte, Étienne.** *Histoire du bouddhisme indien.* Louvain, 1958 (repr. 1976). Classical philological framing; French.

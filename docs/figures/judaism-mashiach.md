@@ -64,6 +64,7 @@ See [Method: evidence, influence, and milieu](../overview/method-evidence-and-in
 - **Collins, John J.** *The Scepter and the Star: Messianism in Light of the Dead Sea Scrolls.* 2nd ed., Eerdmans — the standard survey of Second Temple diversity.
 - **Horsley, Richard A.** *Messianism among Jews and Christians.* Fortress — social and political angles on messianic movements.
 - **Schiffman, Lawrence H.** *Reclaiming the Dead Sea Scrolls.* JPS / Yale — Qumran messianic texts in context.
+- **Novak, David.** "Jewish Eschatology." Ch. 6 in Jerry L. Walls (ed.), *The Oxford Handbook of Eschatology*. Oxford University Press, 2007 — covers the Davidic patrimony of the Messiah-king, the distinction between "projective" (political restoration) and "apocalyptic" (heavenly descent) messianism in rabbinic sources, Bar Kokhba as a failed messianic claimant endorsed by Rabbi Akiva (~135 CE), and Reform Judaism's transformation of the personal Messiah into the "messianic age" (*olam ha-ba* → collective redemption). Useful for tracing messianic doctrine from Second Temple through modern Jewish movements.
 - **Encyclopaedia Judaica** (2nd ed.) — *Messiah* — encyclopedic overview with full bibliography.
 
 ### Standard reference works

@@ -77,6 +77,13 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
+    docs: {
+      // Custom collapse control lives in src/theme/DocSidebar/Desktop (top toggle).
+      // Keep Docusaurus’s built-in bottom “Collapse sidebar” button disabled.
+      sidebar: {
+        hideable: false,
+      },
+    },
     navbar: {
       title: 'Messiah Complex',
       logo: {

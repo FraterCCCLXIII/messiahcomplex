@@ -404,6 +404,7 @@ const sidebars: SidebarsConfig = {
         'overview/further-reading',
         'overview/curated-page-template',
         'research/about-research-notes',
+        'research/oxford-handbook-eschatology-notes',
         'research/thesis-assessment-notes-2026',
         'research/iranian-origins-sakyas',
       ],

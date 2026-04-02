@@ -129,7 +129,9 @@ This schema has a striking parallel in the **Zand-i Wahman Yasn** (see [Zoroastr
 | Direction | Progressive corruption | Progressive corruption |
 | Culmination | Eternal divine kingdom after the crisis | Frashokereti after the iron-age tribulation |
 
-The direction of influence between the Bahman Yasht and Daniel is debated (the Pahlavi text is late in its written form; the schema may be common ancient Near Eastern rather than specifically Iranian). What is not debated is that both texts share a **four-part degeneration schema** that ends in divine renovation, and that Daniel is the earliest Jewish attestation of this genre.
+The direction of influence between the Bahman Yasht and Daniel is debated. The Pahlavi text is late in its written form, and Gignoux has argued that the Bahman Yasht is a late compilation itself influenced by Daniel rather than a source for it (Gignoux, *Acta Antiqua* 31, 1988). Collins reviews the debate and summarizes the evidential position: scholars such as Widengren and Boyce defend the antiquity of the apocalypticism in the Bahman Yasht; Cohn follows Boyce in arguing that "the Persians invented the linear view of history" (*Cosmos, Chaos and the World to Come*, Yale, 1993, pp. 77–104). What is not debated is that both texts share a **four-part degeneration schema** that ends in divine renovation, and that Daniel is the earliest Jewish attestation of this genre.
+
+A key external datum that Collins highlights: the Greek historian **Theopompus** (writing c. 300 BCE) explicitly described Persian belief in both the **division of history into millennia** and the **resurrection of the dead** — documenting these as living Persian traditions before Daniel's composition (apud Plutarch, *De Iside et Osiride* 47; Diogenes Laertius, *Proem.* 9; see DeJong, *Traditions of the Magi*, Brill, 1997, pp. 164–65). This Greek attestation sidesteps the dating problem of the Pahlavi compilations: it demonstrates that the Persian concepts were publicly known in the Mediterranean world by the early Hellenistic period, before Daniel was written, and therefore available to the Maccabean author. Collins's summary verdict: "Some influence of Persian ideas on Jewish apocalypticism seems very likely. It would be far too simple, however, to say that the whole phenomenon of apocalypticism was imported to Judea from Persia" (Collins, "Apocalyptic Eschatology in the Ancient World," ch. 2 in Walls, *Oxford Handbook of Eschatology*, OUP, 2007). *(Tier B: specialist debate; directional evidence for Persian influence; Theopompus attestation is Tier A for the existence of Persian beliefs by ~300 BCE.)*
 
 ---
 
@@ -162,11 +164,18 @@ All six features appear in the **same book**, within roughly the **same century*
 
 ## References
 
+### Primary and standard scholarly works
 - **Collins, John J.** *Daniel: A Commentary on the Book of Daniel.* Hermeneia. Fortress, 1993 — the standard critical commentary; essential starting point.
 - **Collins, John J.** *The Apocalyptic Imagination: An Introduction to Jewish Apocalyptic Literature.* 3rd ed. Eerdmans, 2016 — contextualizes Daniel within Jewish apocalypticism.
+- **Collins, John J.** "Apocalyptic Eschatology in the Ancient World." Ch. 2 in Jerry L. Walls (ed.), *The Oxford Handbook of Eschatology*. Oxford University Press, 2007 — surveys the origins debate; covers the Bahman Yasht parallel, the dating problem, and the Theopompus attestation; concludes Persian influence on Jewish apocalypticism is "very likely."
 - **Hartman, Louis F., and Alexander A. Di Lella.** *The Book of Daniel.* Anchor Bible. Doubleday, 1978.
 - **Boyce, Mary.** *A History of Zoroastrianism.* vol. 2. Brill, 1982 — the Iranian context for the eschatological concepts Daniel parallels.
-- **Hultgård, Anders.** "Persian Apocalypticism." In *The Encyclopedia of Apocalypticism*, vol. 1. Continuum, 1998 — the most direct treatment of Daniel–Bahman Yasht parallels.
+- **Boyce, Mary.** "On the Antiquity of Zoroastrian Apocalyptic." *Bulletin of the School of Oriental and African Studies* 47 (1984): 57–75 — defends the antiquity of Persian apocalyptic material against the late-compilation objection.
+- **Hultgård, Anders.** "Persian Apocalypticism." In *The Encyclopedia of Apocalypticism*, vol. 1. Continuum, 1998, pp. 39–83 — the most direct treatment of Daniel–Bahman Yasht parallels; cited by Collins as the essential survey.
+- **Kreyenbroek, Philip G.** "Millennialism and Eschatology in the Zoroastrian Tradition." In Abbas Amanat & Magnus Bernhardsson (eds.), *Imagining the End: Visions of Apocalypse from the Ancient Middle East to Modern America*. Tauris, 2002, pp. 33–55 — accessible overview of Zoroastrian eschatological chronology.
 - **Shaked, Shaul.** "Iranian Influence on Judaism: First Century B.C.E. to Second Century C.E." In *The Cambridge History of Judaism*, vol. 1. Cambridge, 1984.
+- **DeJong, Albert.** *Traditions of the Magi: Zoroastrianism in Greek and Latin Literature.* Brill, 1997, pp. 164–65 — covers the Theopompus attestation of Persian resurrection belief (~300 BCE) via Plutarch and Diogenes Laertius.
+- **Cohn, Norman.** *Cosmos, Chaos and the World to Come: The Ancient Roots of Apocalyptic Faith.* Yale University Press, 1993, pp. 77–104 — argues the Persians invented the linear-historical worldview; follows Boyce; not an Iranologist but influential synthesis.
+- **Gignoux, Philippe.** "L'apocalyptique iranienne est-elle vraiment la source d'autres apocalypses?" *Acta Antiqua Academiae Scientiarum Hungaricae* 31 (1988): 67–78 — the counterargument; argues the Bahman Yasht is a late compilation influenced by Daniel rather than a source for it.
 - **Drawnel, Henryk.** *The Aramaic Astronomical Book (4Q208–4Q211) from Qumran.* Oxford, 2011 — for the *rāz* vocabulary in Qumran Aramaic.
 - **Portier-Young, Anathea.** *Apocalypse Against Empire: Theologies of Resistance in Early Judaism.* Eerdmans, 2011 — the Maccabean crisis as the composition context; ideological analysis.

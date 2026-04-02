@@ -154,6 +154,7 @@ John's Gospel replaces "Son of Man" with "Logos" — a Greek philosophical term 
 - **Nickelsburg, George W. E.** *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1–36, 81–108.* Hermeneia. Fortress, 2001.
 - **VanderKam, James C.** *An Introduction to Early Judaism.* Eerdmans, 2001 — accessible overview of Enochic literature with bibliography.
 - **Collins, John J.** *The Apocalyptic Imagination.* 3rd ed. Eerdmans, 2016 — contextualizes all five Enochic books; key on the dating debate.
+- **Collins, John J.** "Apocalyptic Eschatology in the Ancient World." Ch. 2 in Jerry L. Walls (ed.), *The Oxford Handbook of Eschatology*. Oxford University Press, 2007 — summarizes the relationship between 1 Enoch, Daniel, and the Dead Sea Scrolls in the context of the origins-of-apocalypticism debate; notes Boccaccini's argument that the Qumran sect was "an offshoot of Enochic Judaism" and discusses the interplay between apocalyptic and legal/sapiential traditions at Qumran.
 - **Hurtado, Larry W.** *One God, One Lord: Early Christian Devotion and Ancient Jewish Monotheism.* Fortress, 1988 — how the Enochic "chief angel" tradition feeds early Christology.
 - **Boyarin, Daniel.** *The Jewish Gospels: The Story of the Jewish Christ.* New Press, 2012 — argues that "Son of Man" Christology is rooted in Daniel and intertestamental Judaism, not in Hellenistic influence; accessible and scholarly.
 - **Chialà, Sabino.** *Libro delle parabole di Enoc.* Brescia, 1997 — major argument for pre-Christian dating of the Parables.
