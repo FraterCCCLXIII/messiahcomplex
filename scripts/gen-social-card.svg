@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0d1f"/>
+      <stop offset="100%" stop-color="#181208"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1156" height="586" fill="none" stroke="#c9a84c" stroke-width="1.5" opacity="0.65"/>
+  <rect x="30" y="30" width="1140" height="570" fill="none" stroke="#c9a84c" stroke-width="0.5" opacity="0.25"/>
+
+  <!-- Wheel logo -->
+    <circle cx="200" cy="315" r="100" stroke="#c9a84c" stroke-width="3.0" fill="none"/>
+    <circle cx="200" cy="315" r="25" stroke="#c9a84c" stroke-width="3.0" fill="none"/>
+    <line x1="200.00" y1="215.00" x2="200.00" y2="290.00" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="270.71" y1="244.29" x2="217.68" y2="297.32" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="300.00" y1="315.00" x2="225.00" y2="315.00" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="270.71" y1="385.71" x2="217.68" y2="332.68" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="200.00" y1="415.00" x2="200.00" y2="340.00" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="129.29" y1="385.71" x2="182.32" y2="332.68" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="100.00" y1="315.00" x2="175.00" y2="315.00" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+    <line x1="129.29" y1="244.29" x2="182.32" y2="297.32" stroke="#c9a84c" stroke-width="3.0" stroke-linecap="round"/>
+
+  <!-- Vertical divider -->
+  <line x1="362" y1="55" x2="362" y2="575" stroke="#c9a84c" stroke-width="1" opacity="0.4"/>
+
+  <!-- Site title -->
+  <text x="418" y="272"
+        font-family="Palatino,Georgia,serif"
+        font-size="94"
+        font-weight="normal"
+        fill="#f0ead6">Messiah</text>
+  <text x="418" y="385"
+        font-family="Palatino,Georgia,serif"
+        font-size="94"
+        font-weight="normal"
+        fill="#f0ead6">Complex</text>
+
+  <!-- Rule -->
+  <line x1="418" y1="413" x2="1150" y2="413" stroke="#c9a84c" stroke-width="1" opacity="0.45"/>
+
+  <!-- Tagline (shorter to fit) -->
+  <text x="420" y="458"
+        font-family="Palatino,Georgia,serif"
+        font-size="20"
+        fill="#c9a84c"
+        letter-spacing="2">MESSIANIC ARCHETYPES  -  EURASIAN TRANSMISSION</text>
+</svg>
