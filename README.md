@@ -26,13 +26,15 @@ This command generates static content into the `build` directory and can be serv
 
 ## Viewing CSV data on a page
 
-CSV files under `static/` (for example `static/sources/foo.csv`) can be shown as an HTML table in any doc page with the `CsvTable` MDX component:
+CSV files under `static/` (for example `static/sources/foo.csv`) can be shown as an HTML table with the `CsvTable` component. Add an import so the component is in MDX scope:
 
 ```mdx
+import {CsvTable} from '@site/src/components/CsvTable';
+
 <CsvTable src="/sources/foo.csv" caption="Optional caption." />
 ```
 
-The first row is treated as the header. See [`docs/overview/contributing.md`](docs/overview/contributing.md) for details and [Achaemenid complete history](docs/bardiya/achaemenid-complete-history.md#view-the-timeline-table) for a live example.
+The first row is treated as the header. See [`docs/overview/contributing.md`](docs/overview/contributing.md) for details and [Achaemenid complete history](docs/bardiya/achaemenid-complete-history.mdx#view-the-timeline-table) for a live example.
 
 ## Deployment (GitHub Actions)
 

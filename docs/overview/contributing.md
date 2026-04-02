@@ -106,7 +106,15 @@ AI agents excel at the specific kinds of work this backlog needs most:
 
 The `static/sources/` directory contains CSV data files used by some pages (timelines, source tables). If you want an agent to extend or review these:
 
-- To **show a CSV as a table on a doc page**, put the file under `static/` (for example `static/sources/foo.csv`) and add `<CsvTable src="/sources/foo.csv" />` (optional `caption="…"`) in the Markdown file. The first row is used as the table header. See [Achaemenid complete history](../bardiya/achaemenid-complete-history.md#view-the-timeline-table) for a live example.
+- To **show a CSV as a table on a doc page**, put the file under `static/` (for example `static/sources/foo.csv`). In the doc, add an import and the component (after frontmatter, before the body is fine):
+
+  ```mdx
+  import {CsvTable} from '@site/src/components/CsvTable';
+
+  <CsvTable src="/sources/foo.csv" caption="Optional caption." />
+  ```
+
+  The first CSV row is used as the table header. Use a **`.mdx`** file extension for that page so the import stays in scope in dev (same pattern as [Visual timeline](visual-timeline.mdx)). See [CSV viewer test](csv-viewer-test.mdx) and [Achaemenid complete history](../bardiya/achaemenid-complete-history.mdx#view-the-timeline-table) for live examples.
 - The column structure of each CSV is described in comments or in the page that embeds it.
 - Additions to CSV data should carry the same source discipline as prose — every row should have a verifiable source reference.
 - The `Bardiya Timeline` CSV in particular has a detailed chronological schema; additions should preserve the date-format and source-column conventions.

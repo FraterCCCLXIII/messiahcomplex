@@ -1,0 +1,70 @@
+/* Bleed to the doc column edges (matches .theme-doc-markdown horizontal padding). */
+.root {
+  margin-left: calc(-1 * 1.5rem);
+  margin-right: calc(-1 * 1.5rem);
+  width: calc(100% + 3rem);
+  max-width: none;
+  box-sizing: border-box;
+}
+
+@media (min-width: 997px) {
+  .root {
+    margin-left: -2.5rem;
+    margin-right: -2.5rem;
+    width: calc(100% + 5rem);
+  }
+}
+
+.toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0.5rem;
+}
+
+.scroll {
+  overflow-x: auto;
+  margin-bottom: var(--ifm-paragraph-margin-bottom);
+}
+
+.figure {
+  margin: 0;
+}
+
+/* Viewport overlay (tab/window only — not OS fullscreen). Opaque fill: see custom.css .csv-table-overlay* */
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--ifm-z-index-overlay);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  max-height: 100dvh;
+  min-height: 100vh;
+  min-height: 100dvh;
+  overflow: hidden;
+}
+
+.overlayHeader {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--ifm-table-border-color);
+  background-color: var(--ifm-background-surface-color);
+}
+
+.overlayTitle {
+  font-weight: var(--ifm-font-weight-semibold);
+  font-size: var(--ifm-h5-font-size);
+  color: var(--ifm-color-content);
+}
+
+.overlayScroll {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  padding: 1rem 1.25rem;
+  -webkit-overflow-scrolling: touch;
+}

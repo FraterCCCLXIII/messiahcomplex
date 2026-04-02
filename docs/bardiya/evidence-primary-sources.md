@@ -105,7 +105,7 @@ Darius's inscriptions at Naqsh-e Rustam (DNb) and Persepolis (DPd, DPe) repeat t
 ## See Also
 
 - [Historical Context](historical-context.md)
-- [Complete Achaemenid History](achaemenid-complete-history.md)
+- [Complete Achaemenid History](achaemenid-complete-history.mdx)
 - [Cyrus the Great](/docs/figures/cyrus-the-great)
 - Briant, Pierre. *From Cyrus to Alexander: A History of the Persian Empire*. Eisenbrauns, 2002.
 - Kuhrt, Amélie. *The Persian Empire: A Corpus of Sources from the Achaemenid Period*. Routledge, 2007.

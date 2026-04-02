@@ -401,6 +401,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'overview/chronological-map',
         'overview/visual-timeline',
+        'overview/csv-viewer-test',
         'overview/further-reading',
         'overview/curated-page-template',
         'research/about-research-notes',

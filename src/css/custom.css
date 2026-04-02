@@ -344,16 +344,39 @@ button[title="Collapse sidebar"],
 /* ── Main content area ──────────────────────────────────── */
 
 /* CSV embedded via <CsvTable /> (see src/components/CsvTable.tsx) */
-.csv-table-scroll {
-  overflow-x: auto;
-  max-width: 100%;
-  margin-bottom: var(--ifm-paragraph-margin-bottom);
-}
-
 .csv-table-figure figcaption {
   margin-top: 0.5rem;
   font-size: var(--ifm-font-size-small);
   color: var(--ifm-color-emphasis-700);
+}
+
+/*
+ * Expanded table overlay is portaled to document.body. Global rules ensure an
+ * opaque theme background (CSS modules alone can fail to paint behind the table).
+ *
+ * Light theme: Infima sets --ifm-background-color to transparent (page shows through
+ * body); using it here would override fallbacks and hide the overlay. Use
+ * --ifm-background-surface-color for an opaque light canvas (same as navbar/cards).
+ */
+html .csv-table-overlay {
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-family: var(--ifm-font-family-base);
+  font-size: var(--ifm-font-size-base);
+  line-height: var(--ifm-line-height-base);
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+html[data-theme='dark'] .csv-table-overlay {
+  background-color: var(--ifm-background-color);
+}
+
+html .csv-table-overlay-scroll {
+  background-color: var(--ifm-background-surface-color);
+}
+
+html[data-theme='dark'] .csv-table-overlay-scroll {
+  background-color: var(--ifm-background-color);
 }
 
 .theme-doc-markdown {

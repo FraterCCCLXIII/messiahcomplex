@@ -109,7 +109,7 @@ The historical context of the 6th century BCE is genuinely rich with interconnec
 
 ## See Also
 
-- [Complete Achaemenid History](achaemenid-complete-history.md)
+- [Complete Achaemenid History](achaemenid-complete-history.mdx)
 - [Primary Historical Documents](evidence-primary-sources.md)
 - [Saka–Scythian Hypotheses](/docs/overview/saka-scythian-hypotheses)
 - [Achaemenid Empire and West Asian Judaism](/docs/overview/achaemenid-and-west-asian-judaism)
