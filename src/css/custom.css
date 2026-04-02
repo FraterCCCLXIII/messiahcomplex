@@ -343,6 +343,19 @@ button[title="Collapse sidebar"],
 
 /* ── Main content area ──────────────────────────────────── */
 
+/* CSV embedded via <CsvTable /> (see src/components/CsvTable.tsx) */
+.csv-table-scroll {
+  overflow-x: auto;
+  max-width: 100%;
+  margin-bottom: var(--ifm-paragraph-margin-bottom);
+}
+
+.csv-table-figure figcaption {
+  margin-top: 0.5rem;
+  font-size: var(--ifm-font-size-small);
+  color: var(--ifm-color-emphasis-700);
+}
+
 .theme-doc-markdown {
   padding: 0 1.5rem;
 }

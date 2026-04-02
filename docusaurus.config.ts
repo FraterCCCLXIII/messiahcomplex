@@ -62,6 +62,12 @@ const config: Config = {
   // when it is only listed under `themes` with certain cache / dev-server states.
   plugins: [
     [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-8H2389T2CZ',
+      },
+    ],
+    [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         hashed: true,

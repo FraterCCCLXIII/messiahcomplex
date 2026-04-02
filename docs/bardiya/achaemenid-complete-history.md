@@ -128,6 +128,13 @@ The detailed timeline data used for this narrative is available for download:
 
 The CSV contains periods, dates, regions, major events, cultural significance, and cross-tradition connections in structured format.
 
+### View the timeline (table)
+
+<CsvTable
+  src="/sources/bardiya-timeline.csv"
+  caption="Same structured data as the CSV download above."
+/>
+
 ## See Also
 
 - [Historical Context](historical-context.md)
