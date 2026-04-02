@@ -61,12 +61,16 @@ const config: Config = {
   // `@theme/SearchPage` / `@theme/SearchBar`. Some setups fail to resolve `@theme/SearchPage`
   // when it is only listed under `themes` with certain cache / dev-server states.
   plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-8H2389T2CZ',
-      },
-    ],
+    ...(process.env.NODE_ENV === 'production'
+      ? [
+          [
+            '@docusaurus/plugin-google-gtag',
+            {
+              trackingID: 'G-8H2389T2CZ',
+            },
+          ] as [string, object],
+        ]
+      : []),
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {

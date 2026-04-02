@@ -1,0 +1,222 @@
+Biblical Texts Comprehensive Index,,,,,,,,,
+ID,Title,Category,Canonical Status,Traditional Author,Date Written (Approx.),Oldest Manuscript (Approx.),Main Topics/Themes,Religious Traditions,Notes
+1.0,Genesis,Old Testament,Canonical,Moses (tradition),1400-500 BCE,200-100 BCE (DSS),"Creation, patriarchs, covenant","Judaism, Christianity, Islam",First book of Torah/Pentateuch
+2.0,Exodus,Old Testament,Canonical,Moses (tradition),1400-500 BCE,200-100 BCE (DSS),"Exodus from Egypt, Ten Commandments","Judaism, Christianity, Islam",Second book of Torah/Pentateuch
+3.0,Leviticus,Old Testament,Canonical,Moses (tradition),1400-500 BCE,200-100 BCE (DSS),"Priestly laws, rituals, holiness","Judaism, Christianity, Islam",Third book of Torah/Pentateuch
+4.0,Numbers,Old Testament,Canonical,Moses (tradition),1400-500 BCE,200-100 BCE (DSS),"Census, wilderness journey","Judaism, Christianity, Islam",Fourth book of Torah/Pentateuch
+5.0,Deuteronomy,Old Testament,Canonical,Moses (tradition),1400-500 BCE,200-100 BCE (DSS),"Law recapitulation, covenant renewal","Judaism, Christianity, Islam",Fifth book of Torah/Pentateuch
+6.0,Joshua,Old Testament,Canonical,Joshua/Unknown,1200-600 BCE,200-100 BCE (DSS),Conquest of Canaan,"Judaism, Christianity",First of the Historical Books
+7.0,Judges,Old Testament,Canonical,Samuel (tradition),1050-600 BCE,200-100 BCE (DSS),Cycles of apostasy and deliverance,"Judaism, Christianity",Historical Book
+8.0,Ruth,Old Testament,Canonical,Unknown,1000-500 BCE,200-100 BCE (DSS),"Loyalty, kinsman-redeemer","Judaism, Christianity",Historical Book
+9.0,1 Samuel,Old Testament,Canonical,Samuel/Others,900-600 BCE,200-100 BCE (DSS),"Samuel, Saul, David","Judaism, Christianity",Historical Book
+10.0,2 Samuel,Old Testament,Canonical,Unknown,900-600 BCE,200-100 BCE (DSS),David's reign,"Judaism, Christianity",Historical Book
+11.0,1 Kings,Old Testament,Canonical,Jeremiah (tradition),600-500 BCE,200-100 BCE (DSS),"Solomon, divided kingdom","Judaism, Christianity",Historical Book
+12.0,2 Kings,Old Testament,Canonical,Jeremiah (tradition),600-500 BCE,200-100 BCE (DSS),"Divided kingdom, exile","Judaism, Christianity",Historical Book
+13.0,1 Chronicles,Old Testament,Canonical,Ezra (tradition),400-300 BCE,200-100 BCE (DSS),"Genealogies, David","Judaism, Christianity",Historical Book
+14.0,2 Chronicles,Old Testament,Canonical,Ezra (tradition),400-300 BCE,200-100 BCE (DSS),Solomon to exile,"Judaism, Christianity",Historical Book
+15.0,Ezra,Old Testament,Canonical,Ezra,400-300 BCE,200-100 BCE (DSS),"Return from exile, temple","Judaism, Christianity",Historical Book
+16.0,Nehemiah,Old Testament,Canonical,Nehemiah/Ezra,400-300 BCE,200-100 BCE (DSS),Rebuilding Jerusalem,"Judaism, Christianity",Historical Book
+17.0,Esther,Old Testament,Canonical,Unknown,400-300 BCE,200-100 BCE (DSS),Jewish deliverance in Persia,"Judaism, Christianity",Historical Book
+18.0,Job,Old Testament,Canonical,Unknown,1000-400 BCE,200-100 BCE (DSS),"Suffering, divine justice","Judaism, Christianity",Wisdom Literature
+19.0,Psalms,Old Testament,Canonical,"David, others",1000-400 BCE,200-100 BCE (DSS),"Praise, lament, thanksgiving","Judaism, Christianity",Poetic/Wisdom Literature
+20.0,Proverbs,Old Testament,Canonical,"Solomon, others",900-600 BCE,200-100 BCE (DSS),"Wisdom, practical living","Judaism, Christianity",Wisdom Literature
+21.0,Ecclesiastes,Old Testament,Canonical,Solomon (tradition),500-200 BCE,200-100 BCE (DSS),"Meaning of life, vanity","Judaism, Christianity",Wisdom Literature
+22.0,Song of Solomon,Old Testament,Canonical,Solomon (tradition),900-300 BCE,200-100 BCE (DSS),"Love, marriage","Judaism, Christianity",Poetic Literature
+23.0,Isaiah,Old Testament,Canonical,"Isaiah, others",700-400 BCE,200-100 BCE (DSS),"Judgment, messianic prophecies","Judaism, Christianity",Major Prophet
+24.0,Jeremiah,Old Testament,Canonical,Jeremiah,600-500 BCE,200-100 BCE (DSS),"Judgment, new covenant","Judaism, Christianity",Major Prophet
+25.0,Lamentations,Old Testament,Canonical,Jeremiah (tradition),586-500 BCE,200-100 BCE (DSS),Mourning for Jerusalem,"Judaism, Christianity",Poetic Literature
+26.0,Ezekiel,Old Testament,Canonical,Ezekiel,600-500 BCE,200-100 BCE (DSS),"Visions, restoration","Judaism, Christianity",Major Prophet
+27.0,Daniel,Old Testament,Canonical,Daniel (tradition),600-165 BCE,200-100 BCE (DSS),"Apocalyptic visions, faithfulness","Judaism, Christianity",Prophetic/Apocalyptic
+28.0,Hosea,Old Testament,Canonical,Hosea,750-700 BCE,200-100 BCE (DSS),"Unfaithfulness, God's love","Judaism, Christianity",Minor Prophet
+29.0,Joel,Old Testament,Canonical,Joel,800-400 BCE,200-100 BCE (DSS),Day of the Lord,"Judaism, Christianity",Minor Prophet
+30.0,Amos,Old Testament,Canonical,Amos,760-750 BCE,200-100 BCE (DSS),"Social justice, judgment","Judaism, Christianity",Minor Prophet
+31.0,Obadiah,Old Testament,Canonical,Obadiah,586-400 BCE,200-100 BCE (DSS),Judgment of Edom,"Judaism, Christianity",Minor Prophet
+32.0,Jonah,Old Testament,Canonical,Unknown,700-400 BCE,200-100 BCE (DSS),"Mercy, repentance","Judaism, Christianity",Minor Prophet
+33.0,Micah,Old Testament,Canonical,Micah,740-700 BCE,200-100 BCE (DSS),"Justice, messianic prophecy","Judaism, Christianity",Minor Prophet
+34.0,Nahum,Old Testament,Canonical,Nahum,650-600 BCE,200-100 BCE (DSS),Judgment of Nineveh,"Judaism, Christianity",Minor Prophet
+35.0,Habakkuk,Old Testament,Canonical,Habakkuk,600-586 BCE,200-100 BCE (DSS),"Faith, divine justice","Judaism, Christianity",Minor Prophet
+36.0,Zephaniah,Old Testament,Canonical,Zephaniah,640-612 BCE,200-100 BCE (DSS),"Day of the Lord, judgment","Judaism, Christianity",Minor Prophet
+37.0,Haggai,Old Testament,Canonical,Haggai,520 BCE,200-100 BCE (DSS),Temple rebuilding,"Judaism, Christianity",Minor Prophet
+38.0,Zechariah,Old Testament,Canonical,Zechariah,520-400 BCE,200-100 BCE (DSS),"Visions, messianic prophecy","Judaism, Christianity",Minor Prophet
+39.0,Malachi,Old Testament,Canonical,Unknown,450-400 BCE,200-100 BCE (DSS),Covenant faithfulness,"Judaism, Christianity",Minor Prophet
+40.0,Matthew,New Testament,Canonical,Matthew/Levi,70-90 CE,200 CE (P45),"Jesus' life, teachings for Jewish audience",Christianity,Gospel
+41.0,Mark,New Testament,Canonical,John Mark,65-75 CE,200 CE (P45),"Jesus' life, action-oriented narrative",Christianity,Gospel
+42.0,Luke,New Testament,Canonical,Luke,80-90 CE,"200 CE (P45, P75)","Jesus' life, universal message",Christianity,Gospel
+43.0,John,New Testament,Canonical,John,90-100 CE,125-150 CE (P52),"Jesus' divinity, signs",Christianity,Gospel
+44.0,Acts,New Testament,Canonical,Luke,80-90 CE,200 CE (P45),"Early church, spread of Christianity",Christianity,Historical
+45.0,Romans,New Testament,Canonical,Paul,55-58 CE,200 CE (P46),"Justification by faith, Christian living",Christianity,Pauline Epistle
+46.0,1 Corinthians,New Testament,Canonical,Paul,53-54 CE,200 CE (P46),"Church problems, spiritual gifts",Christianity,Pauline Epistle
+47.0,2 Corinthians,New Testament,Canonical,Paul,55-56 CE,200 CE (P46),"Paul's ministry, reconciliation",Christianity,Pauline Epistle
+48.0,Galatians,New Testament,Canonical,Paul,48-55 CE,200 CE (P46),"Faith vs. law, Christian freedom",Christianity,Pauline Epistle
+49.0,Ephesians,New Testament,Canonical,Paul,60-62 CE,200 CE (P46),"Church unity, spiritual warfare",Christianity,Pauline Epistle
+50.0,Philippians,New Testament,Canonical,Paul,60-62 CE,200 CE (P46),"Joy, Christ's humility",Christianity,Pauline Epistle
+51.0,Colossians,New Testament,Canonical,Paul,60-62 CE,200 CE (P46),"Christ's supremacy, false teaching",Christianity,Pauline Epistle
+52.0,1 Thessalonians,New Testament,Canonical,Paul,50-51 CE,200 CE (P46),"Christ's return, encouragement",Christianity,Pauline Epistle
+53.0,2 Thessalonians,New Testament,Canonical,Paul,50-52 CE,200 CE (P46),"End times, discipline",Christianity,Pauline Epistle
+54.0,1 Timothy,New Testament,Canonical,Paul,62-66 CE,200 CE,"Church leadership, sound doctrine",Christianity,Pastoral Epistle
+55.0,2 Timothy,New Testament,Canonical,Paul,66-67 CE,200 CE,"Endurance, Scripture",Christianity,Pastoral Epistle
+56.0,Titus,New Testament,Canonical,Paul,62-66 CE,200 CE,"Church order, good works",Christianity,Pastoral Epistle
+57.0,Philemon,New Testament,Canonical,Paul,60-62 CE,200 CE (P46),"Forgiveness, reconciliation",Christianity,Pauline Epistle
+58.0,Hebrews,New Testament,Canonical,Unknown,60-70 CE,200 CE (P46),"Christ's superiority, faith",Christianity,General Epistle
+59.0,James,New Testament,Canonical,James (brother of Jesus),45-50 CE,200 CE,"Faith and works, practical wisdom",Christianity,General Epistle
+60.0,1 Peter,New Testament,Canonical,Peter,60-64 CE,200 CE,"Suffering, hope",Christianity,General Epistle
+61.0,2 Peter,New Testament,Canonical,Peter (disputed),65-68 CE,200 CE,"False teachers, Christ's return",Christianity,General Epistle
+62.0,1 John,New Testament,Canonical,John,85-95 CE,200 CE,"Assurance, love, antichrists",Christianity,General Epistle
+63.0,2 John,New Testament,Canonical,John,85-95 CE,200 CE,"Truth, false teachers",Christianity,General Epistle
+64.0,3 John,New Testament,Canonical,John,85-95 CE,200 CE,"Hospitality, church leadership",Christianity,General Epistle
+65.0,Jude,New Testament,Canonical,Jude (brother of Jesus),65-80 CE,200 CE,"False teachers, apostasy",Christianity,General Epistle
+66.0,Revelation,New Testament,Canonical,John,90-95 CE,250 CE (P47),"Apocalyptic visions, Christ's return",Christianity,Apocalyptic
+67.0,Tobit,Deuterocanonical,Deuterocanonical,Unknown,225-175 BCE,150 BCE (DSS),"Righteousness, angels, family","Catholic, Orthodox",Jewish novel
+68.0,Judith,Deuterocanonical,Deuterocanonical,Unknown,150-100 BCE,150 BCE (DSS),"Heroism, faithfulness","Catholic, Orthodox",Historical fiction
+69.0,1 Maccabees,Deuterocanonical,Deuterocanonical,Unknown,100 BCE,100 CE,"Jewish independence, Maccabean revolt","Catholic, Orthodox",Historical
+70.0,2 Maccabees,Deuterocanonical,Deuterocanonical,Unknown,100 BCE,100 CE,"Martyrdom, resurrection","Catholic, Orthodox","Historical, theological"
+71.0,Wisdom of Solomon,Deuterocanonical,Deuterocanonical,Unknown,100-50 BCE,100 CE,"Wisdom, immortality","Catholic, Orthodox",Wisdom literature
+72.0,Sirach (Ecclesiasticus),Deuterocanonical,Deuterocanonical,Jesus ben Sira,180 BCE,150 BCE (DSS),"Practical wisdom, ethics","Catholic, Orthodox",Wisdom literature
+73.0,Baruch,Deuterocanonical,Deuterocanonical,Baruch (disputed),200-100 BCE,100 CE,"Exile, repentance","Catholic, Orthodox",Prophetic
+74.0,Letter of Jeremiah,Deuterocanonical,Deuterocanonical,Unknown,300-100 BCE,100 CE,Idolatry,"Catholic, Orthodox",Often part of Baruch
+75.0,Additions to Daniel,Deuterocanonical,Deuterocanonical,Unknown,200-100 BCE,100 CE,Faithfulness under persecution,"Catholic, Orthodox","Includes Prayer of Azariah, Susanna, Bel and the Dragon"
+76.0,Additions to Esther,Deuterocanonical,Deuterocanonical,Unknown,150-100 BCE,100 CE,Divine providence,"Catholic, Orthodox",Religious elements added to Esther
+77.0,Prayer of Manasseh,Deuterocanonical,Deuterocanonical,Unknown,200-100 BCE,100 CE,"Repentance, mercy","Orthodox, some Catholic",Penitential prayer
+78.0,1 Enoch,Pseudepigrapha,Non-canonical,Unknown,300-100 BCE,200 BCE (DSS),"Angels, apocalyptic visions",Ethiopian Orthodox,Jewish apocalyptic
+79.0,Jubilees,Pseudepigrapha,Non-canonical,Unknown,160-150 BCE,150-100 BCE (DSS),"Rewritten Bible, calendar",Ethiopian Orthodox,Jewish reinterpretation
+80.0,Testament of the Twelve Patriarchs,Pseudepigrapha,Non-canonical,Unknown,200 BCE-200 CE,900 CE,"Ethics, messianism",None,Jewish ethical teaching
+81.0,Psalms of Solomon,Pseudepigrapha,Non-canonical,Unknown,63-45 BCE,900 CE,"Messiah, righteousness",None,Jewish psalms
+82.0,4 Ezra (2 Esdras),Pseudepigrapha,Non-canonical,Unknown,70-100 CE,800 CE,Apocalyptic visions,Appendix in some Bibles,Jewish apocalyptic
+83.0,2 Baruch,Pseudepigrapha,Non-canonical,Unknown,100 CE,600 CE,"Apocalyptic visions, messianic hope",None,Jewish apocalyptic
+84.0,3 Baruch,Pseudepigrapha,Non-canonical,Unknown,100-300 CE,1100 CE,"Cosmology, afterlife",None,Jewish-Christian apocalyptic
+85.0,Gospel of Thomas,Pseudepigrapha,Non-canonical,Unknown,100-150 CE,340 CE (Nag Hammadi),Sayings of Jesus,None,Gnostic gospel
+86.0,Gospel of Peter,Pseudepigrapha,Non-canonical,Unknown,100-150 CE,800 CE,Passion narrative,None,Apocryphal gospel
+87.0,Gospel of Mary,Pseudepigrapha,Non-canonical,Unknown,120-180 CE,500 CE,Jesus' teachings to Mary,None,Gnostic gospel
+88.0,Infancy Gospel of James,Pseudepigrapha,Non-canonical,Unknown,150 CE,400 CE,"Mary's life, Jesus' birth",None,Apocryphal gospel
+89.0,Infancy Gospel of Thomas,Pseudepigrapha,Non-canonical,Unknown,150-200 CE,400 CE,Jesus' childhood miracles,None,Apocryphal gospel
+90.0,Acts of Paul,Pseudepigrapha,Non-canonical,Unknown,160-180 CE,300 CE,Paul's adventures,None,Apocryphal acts
+91.0,Acts of Peter,Pseudepigrapha,Non-canonical,Unknown,150-200 CE,300 CE,"Peter's miracles, martyrdom",None,Apocryphal acts
+92.0,Acts of John,Pseudepigrapha,Non-canonical,Unknown,150-200 CE,300 CE,John's miracles,None,Apocryphal acts
+93.0,Acts of Thomas,Pseudepigrapha,Non-canonical,Unknown,200-225 CE,300 CE,Thomas in India,None,Apocryphal acts
+94.0,Shepherd of Hermas,Apocrypha,Non-canonical,Hermas,100-150 CE,200 CE,"Visions, repentance",None,Early Christian apocalyptic
+95.0,Didache,Apocrypha,Non-canonical,Unknown,50-120 CE,1056 CE,"Church order, ethics",None,Early Christian manual
+96.0,1 Clement,Pseudepigrapha,Non-canonical,Clement of Rome,95-96 CE,400 CE,"Church unity, obedience",None,Apostolic Father
+97.0,Epistle of Barnabas,Apocrypha,Non-canonical,Unknown,70-132 CE,300 CE,Allegorical interpretation,None,Apostolic Father
+98.0,Apocalypse of Peter,Pseudepigrapha,Non-canonical,Unknown,100-150 CE,700 CE,"Afterlife, punishment, reward",None,Christian apocalyptic
+99.0,Gospel of the Egyptians,Apocrypha,Non-canonical,Unknown,150 CE,Fragmentary,Asceticism,None,Lost gospel
+100.0,Apocalypse of Paul,Apocrypha,Non-canonical,Unknown,380-400 CE,500 CE,Heavenly journey,None,Christian apocalyptic
+101.0,Book of Adam,Pseudepigrapha,Non-canonical,Unknown,100-400 CE,900 CE,Adam's life after Eden,None,"Also known as ""Testament of Adam"" in some traditions"
+102.0,Book of Lamech,Pseudepigrapha,Non-canonical,Unknown,Unknown,Lost,Ancestral narratives,None,Mentioned in some lists but lost
+103.0,Eldad and Modad,Pseudepigrapha,Non-canonical,Unknown,Unknown,Fragmentary,Prophecy,None,Mentioned in Numbers 11:26-29
+104.0,Assumption of Moses,Pseudepigrapha,Non-canonical,Unknown,1st century CE,Fragmentary,"Moses' death, succession",None,Different from Testament of Moses
+105.0,Ascension of Isaiah,Pseudepigrapha,Non-canonical,Unknown,100-300 CE,500 CE,"Isaiah's heavenly journey, martyrdom",None,Jewish-Christian apocalyptic
+106.0,Apocalypse of Zechariah,Pseudepigrapha,Non-canonical,Unknown,Unknown,Lost,Apocalyptic visions,None,Different from canonical Zechariah
+107.0,Apocalyptic Ezra,Pseudepigrapha,Non-canonical,Unknown,Unknown,Lost,Apocalyptic visions,None,Possibly refers to 4 Ezra/2 Esdras
+108.0,History of James,Pseudepigrapha,Non-canonical,Unknown,200-300 CE,Fragmentary,"James' life, ministry",None,Different from Infancy Gospel of James
+109.0,Itinerary and Teaching of the Apostles,Pseudepigrapha,Non-canonical,Unknown,100-300 CE,Lost,"Apostolic travels, teachings",None,May refer to a collection of apostolic teachings
+110.0,2 Clement,Pseudepigrapha,Non-canonical,Unknown (not Clement),140-160 CE,1056 CE,"Christian living, judgment",None,Early Christian homily
+111.0,Didascalia of Clement,Pseudepigrapha,Non-canonical,Unknown (not Clement),200-300 CE,Fragmentary,Church order,None,Church instructions attributed to Clement
+112.0,Didascalia of Ignatius,Pseudepigrapha,Non-canonical,Unknown (not Ignatius),200-300 CE,Fragmentary,Church order,None,Church instructions attributed to Ignatius
+113.0,Didascalia of Polycarp,Pseudepigrapha,Non-canonical,Unknown (not Polycarp),200-300 CE,Fragmentary,Church order,None,Church instructions attributed to Polycarp
+114.0,Gospel of Barnabas,Pseudepigrapha,Non-canonical,Unknown (not Barnabas),14th-16th century CE,16th century,Islamic view of Jesus,None,Medieval composition with Islamic themes
+115.0,Acts of Andrew,Pseudepigrapha,Non-canonical,Unknown,150-200 CE,300 CE,Andrew's missionary journeys,None,Apocryphal acts
+116.0,Acts of Andrew and Matthias,Apocrypha,Non-canonical,Unknown,200-300 CE,400 CE,Andrew and Matthias in Anthropophagi,None,Apocryphal acts
+117.0,Acts of Barnabas,Pseudepigrapha,Non-canonical,Unknown,300-500 CE,500 CE,Barnabas in Cyprus,None,Apocryphal acts
+118.0,Acts of Bartholomew,Pseudepigrapha,Non-canonical,Unknown,300-500 CE,500 CE,Bartholomew's mission,None,Apocryphal acts
+119.0,Acts of Matthias,Pseudepigrapha,Non-canonical,Unknown,300-500 CE,500 CE,Matthias' ministry,None,Apocryphal acts
+120.0,Acts of Philip,Pseudepigrapha,Non-canonical,Unknown,300-400 CE,500 CE,Philip's missionary activities,None,Apocryphal acts
+121.0,Acts of Thaddaeus,Pseudepigrapha,Non-canonical,Unknown,200-400 CE,500 CE,Thaddaeus and King Abgar,None,Apocryphal acts
+122.0,Acts of the Martyrs,Pseudepigrapha,Non-canonical,Various,100-500 CE,Various,Martyrdom accounts,None,Collection of martyrdom narratives
+123.0,Apocalypse of Abraham,Pseudepigrapha,Non-canonical,Unknown,70-150 CE,1300 CE (Slavonic),"Abraham's vision, idolatry",None,Jewish apocalyptic
+124.0,Apocalypse of Adam,Apocrypha,Non-canonical,Unknown,100-400 CE,350 CE (Nag Hammadi),Adam's revelation to Seth,None,Gnostic apocalyptic
+125.0,Apocalypse of James (First),Apocrypha,Non-canonical,Unknown,100-300 CE,350 CE (Nag Hammadi),Jesus' teachings to James,None,Gnostic text
+126.0,Apocalypse of James (Second),Apocrypha,Non-canonical,Unknown,100-300 CE,350 CE (Nag Hammadi),Jesus' teachings to James,None,Gnostic text
+127.0,Apocalypse of Moses,Pseudepigrapha,Non-canonical,Unknown,1st century CE,1000 CE,Adam and Eve's life after Eden,None,Greek version of Life of Adam and Eve
+128.0,Apocalypse of Stephen,Pseudepigrapha,Non-canonical,Unknown,Unknown,Lost,Stephen's visions,None,May refer to parts of Acts or later composition
+129.0,Book of Jasher,Pseudepigrapha,Non-canonical,Unknown,Medieval (modern version),1625 CE (printed),Elaborated biblical narratives,None,"Referenced in Joshua 10:13, 2 Samuel 1:18"
+130.0,Correspondence of Paul and Seneca,Pseudepigrapha,Non-canonical,Unknown,300-400 CE,900 CE,Letters between Paul and Seneca,None,Forged correspondence
+131.0,Epistle of the Apostles,Apocrypha,Non-canonical,Unknown,150-180 CE,500 CE,Jesus' post-resurrection teachings,None,Anti-gnostic polemic
+132.0,Epistle to the Laodiceans,Apocrypha,Non-canonical,Unknown (not Paul),200-300 CE,546 CE,Pauline-style exhortation,None,Referenced in Colossians 4:16
+133.0,Gospel of the Ebionites,Apocrypha,Non-canonical,Unknown,100-200 CE,Fragmentary,Harmonized synoptic gospels,None,Used by Jewish-Christian sect
+134.0,Gospel of the Nazarenes,Apocrypha,Non-canonical,Unknown,100-200 CE,Fragmentary,Hebrew/Aramaic Matthew,None,Used by Jewish-Christian sect
+135.0,Gospel of the Twelve,Apocrypha,Non-canonical,Unknown,100-200 CE,Lost,Apostolic teaching,None,May be same as Gospel of the Ebionites
+136.0,History of Joseph the Carpenter,Pseudepigrapha,Non-canonical,Unknown,400-500 CE,600 CE,Joseph's life and death,None,Later Christian composition
+137.0,Joseph and Aseneth,Pseudepigrapha,Non-canonical,Unknown,100 BCE-200 CE,1000 CE,Joseph's marriage to Aseneth,None,Jewish romance
+138.0,Letter of Aristeas,Pseudepigrapha,Non-canonical,Pseudo-Aristeas,200-100 BCE,1000 CE,Origin of Septuagint,None,Hellenistic Jewish work
+139.0,Letter of Peter to Philip,Apocrypha,Non-canonical,Unknown,200 CE,350 CE (Nag Hammadi),"Peter's letter, gnostic teaching",None,Gnostic text
+140.0,Lives of the Prophets,Pseudepigrapha,Non-canonical,Unknown,1st century CE,900 CE,Biographies of prophets,None,Jewish hagiography
+141.0,Martyrdom and Ascension of Isaiah,Pseudepigrapha,Non-canonical,Unknown,100-300 CE,500 CE,"Isaiah's martyrdom, visions",None,Composite work
+142.0,Odes of Solomon,Pseudepigrapha,Non-canonical,Unknown,100-200 CE,900 CE,Christian hymns,None,Early Christian poetry
+143.0,Pseudo-Philo,Pseudepigrapha,Non-canonical,Unknown,70-100 CE,1100 CE,Biblical retellings,None,"Also called ""Biblical Antiquities"""
+144.0,Pseudo-Phocylides,Pseudepigrapha,Non-canonical,Unknown,100 BCE-100 CE,1000 CE,Ethical maxims,None,Hellenistic Jewish ethics
+145.0,Sibylline Oracles,Pseudepigrapha,Non-canonical,Various,200 BCE-500 CE,500 CE,Prophetic verses,None,Jewish and Christian prophecies
+146.0,Testament of Abraham,Apocrypha,Non-canonical,Unknown,100 BCE-100 CE,900 CE,Abraham's tour of judgment,None,Jewish-Christian apocalyptic
+147.0,Testament of Isaac,Apocrypha,Non-canonical,Unknown,100-300 CE,900 CE,"Isaac's final words, visions",None,Jewish-Christian apocalyptic
+148.0,Testament of Jacob,Apocrypha,Non-canonical,Unknown,100-300 CE,900 CE,"Jacob's final words, visions",None,Jewish-Christian apocalyptic
+149.0,Testament of Job,Apocrypha,Non-canonical,Unknown,100 BCE-100 CE,1000 CE,"Job's sufferings, testament",None,Jewish hagiography
+150.0,Testament of Solomon,Apocrypha,Non-canonical,Unknown,100-300 CE,1100 CE,"Solomon's magic, demonology",None,Jewish-Christian magical text
+151.0,Testament of the Three Patriarchs,Pseudepigrapha,Non-canonical,Unknown,100-500 CE,1000 CE,"Abraham, Isaac, Jacob testaments",None,Collection of individual testaments
+152.0,Acts of Peter and the Twelve,Apocrypha,Non-canonical,Unknown,200-300 CE,350 CE (Nag Hammadi),Peter and apostles meet Jesus disguised,None,Gnostic Christian text
+153.0,Prayer of Joseph,Pseudepigrapha,Non-canonical,Unknown,1st century CE,Fragmentary,Joseph's prayer,None,Referenced by Origen
+154.0,3 Maccabees,Apocrypha,Deuterocanonical,Unknown,100-50 BCE,200-300 CE,Jewish persecution under Ptolemy IV,Eastern Orthodox,Not about Maccabean revolt despite name
+155.0,4 Maccabees,Apocrypha,Appendix,Unknown,20-50 CE,300 CE,"Martyrdom, reason vs. passion",Eastern Orthodox (appendix),Philosophical treatise on martyrdom
+156.0,Psalm 151,Poetic,Deuterocanonical,David (tradition),Unknown,100 BCE (DSS),David's selection by God,Eastern Orthodox,"Found in Septuagint, DSS"
+157.0,Prayer of Azariah,Deuterocanonical,Deuterocanonical,Unknown,200-100 BCE,100 BCE,Prayer in fiery furnace,"Catholic, Orthodox",Insertion in Daniel 3
+158.0,Song of the Three Holy Children,Deuterocanonical,Deuterocanonical,Unknown,200-100 BCE,100 BCE,Praise in fiery furnace,"Catholic, Orthodox",Follows Prayer of Azariah in Daniel
+159.0,3 Esdras (1 Esdras),Apocrypha,Varying status,Unknown,200-100 BCE,100 CE,Temple rebuilding,"Orthodox, appendix in Catholic","Parallels parts of Ezra, Nehemiah, Chronicles"
+160.0,4 Esdras (2 Esdras),Apocrypha,Non-canonical,Unknown,70-100 CE,800 CE,Apocalyptic visions,Appendix in some Bibles,Already included in previous list as 4 Ezra
+161.0,5 Ezra,Apocrypha,Non-canonical,Unknown,100-200 CE,800 CE,Divine judgment,None,Chapters 1-2 of Latin 2 Esdras
+162.0,6 Ezra,Apocrypha,Non-canonical,Unknown,100-200 CE,800 CE,Apocalyptic visions,None,Chapters 15-16 of Latin 2 Esdras
+163.0,Additions to Esther (detailed),Deuterocanonical,Deuterocanonical,Unknown,150-100 BCE,100 CE,"Dreams, prayers, edicts","Catholic, Orthodox",Six passages inserted into Esther
+164.0,Rest of Esther,Deuterocanonical,Deuterocanonical,Unknown,150-100 BCE,100 CE,Divine providence,"Catholic, Orthodox",Alternative name for Additions to Esther
+165.0,Epistle to the Hebrews (Ethiopic),Apocrypha,Non-canonical,Unknown,Unknown,1400 CE,Theological arguments,Ethiopian Orthodox,Different from canonical Hebrews
+166.0,Gospel of the Hebrews,Apocrypha,Non-canonical,Unknown,100-150 CE,Fragmentary,Jesus traditions,None,Jewish-Christian gospel
+167.0,1 Enoch (detailed parts),Pseudepigrapha,Deuterocanonical (Ethiopia),Unknown,300-100 BCE,200 BCE (DSS),"Fallen angels, cosmology, judgment",Ethiopian Orthodox,Five distinct sections with different origins
+168.0,Book of Giants,Pseudepigrapha,Non-canonical,Unknown,100 BCE,DSS fragments,Nephilim legends,None,Related to Enochic literature
+169.0,Syriac Apocalypse of Baruch,Pseudepigrapha,Non-canonical,Unknown,100 CE,600 CE,"Fall of Jerusalem, messianic hope",None,Same as 2 Baruch in previous list
+170.0,Greek Apocalypse of Baruch,Pseudepigrapha,Non-canonical,Unknown,100-200 CE,1100 CE,Cosmological journey,None,Same as 3 Baruch in previous list
+171.0,Gospel of Judas,Gnostic,Non-canonical,Unknown,150-200 CE,300 CE,Jesus-Judas relationship,None,Gnostic text discovered in 1970s
+172.0,Gospel of Philip,Gnostic,Non-canonical,Unknown,150-300 CE,350 CE (Nag Hammadi),"Sacraments, spiritual marriage",None,Gnostic collection of teachings
+173.0,Gospel of Truth,Gnostic,Non-canonical,Valentinus (possibly),140-180 CE,350 CE (Nag Hammadi),Salvation through gnosis,None,Valentinian homily or meditation
+174.0,Pistis Sophia,Gnostic,Non-canonical,Unknown,250-350 CE,500-800 CE,Jesus' post-resurrection teachings,None,Complex Gnostic cosmology
+175.0,Book of Thomas the Contender,Gnostic,Non-canonical,Unknown,150-225 CE,350 CE (Nag Hammadi),Jesus-Thomas dialogues,None,Gnostic ascetic teaching
+176.0,Trimorphic Protennoia,Gnostic,Non-canonical,Unknown,200-300 CE,350 CE (Nag Hammadi),Divine revelation,None,Sethian Gnostic text
+177.0,On the Origin of the World,Gnostic,Non-canonical,Unknown,200-300 CE,350 CE (Nag Hammadi),Gnostic cosmogony,None,Creation account with Sophia
+178.0,Hypostasis of the Archons,Gnostic,Non-canonical,Unknown,200-300 CE,350 CE (Nag Hammadi),"Creation, archons",None,Gnostic exegesis of Genesis
+179.0,Apocryphon of John,Gnostic,Non-canonical,Unknown,120-180 CE,350 CE (Nag Hammadi),Secret teachings to John,None,Central Sethian Gnostic text
+180.0,Apocalypse of Moses,Pseudepigrapha,Non-canonical,Unknown,1st century CE,1000 CE,Adam and Eve narrative,None,Greek Life of Adam and Eve
+181.0,Vita Adae et Evae,Pseudepigrapha,Non-canonical,Unknown,100-400 CE,900 CE,Adam and Eve narrative,None,Latin Life of Adam and Eve
+182.0,Cave of Treasures,Pseudepigrapha,Non-canonical,Ephrem Syrus (attributed),400-600 CE,600 CE,"Biblical history, cave as tomb",Syriac Christianity,History from Creation to Christ
+183.0,Conflict of Adam and Eve with Satan,Pseudepigrapha,Non-canonical,Unknown,400-600 CE,1400 CE,Adam and Eve's trials,Ethiopian Christianity,Adam and Eve's post-Eden life
+184.0,Questions of Bartholomew,Apocrypha,Non-canonical,Unknown,200-400 CE,500 CE,Jesus answering Bartholomew,None,Revelation dialogue
+185.0,Book of the Resurrection of Jesus Christ by Bartholomew,Apocrypha,Non-canonical,Unknown,200-400 CE,500 CE,Resurrection appearances,None,Resurrection narrative
+186.0,Protevangelium of James,Pseudepigrapha,Non-canonical,Unknown,140-170 CE,300 CE,"Mary's childhood, Jesus' birth",None,Same as Infancy Gospel of James
+187.0,History of the Rechabites,Pseudepigrapha,Non-canonical,Unknown,100-400 CE,900 CE,Blessed island community,None,"Also called ""Narrative of Zosimus"""
+188.0,Apocalypse of Pseudo-Methodius,Pseudepigrapha,Non-canonical,Unknown,690-700 CE,800 CE,"End times, Islamic conquests",None,Influential medieval apocalypse
+189.0,Vision of Ezra,Pseudepigrapha,Non-canonical,Unknown,400-600 CE,800 CE,Afterlife journey,None,Short apocalyptic vision
+190.0,Questions of Ezra,Pseudepigrapha,Non-canonical,Unknown,400-700 CE,900 CE,Theological dialogues,None,Ezra questioning an angel
+191.0,Revelation of Ezra,Pseudepigrapha,Non-canonical,Unknown,400-800 CE,1000 CE,Apocalyptic revelation,None,Different from 4 Ezra
+192.0,Coptic Apocalypse of Elijah,Pseudepigrapha,Non-canonical,Unknown,150-250 CE,400 CE,"Antichrist, end times",None,Christian revising of Jewish work
+193.0,Armenian Gospel of the Infancy,Pseudepigrapha,Non-canonical,Unknown,600 CE,1000 CE,Jesus' childhood,Armenian Christianity,Later infancy narrative
+194.0,Arabic Infancy Gospel,Pseudepigrapha,Non-canonical,Unknown,400-600 CE,1000 CE,Jesus' childhood miracles,None,Composite infancy narrative
+195.0,Gospel of Pseudo-Matthew,Pseudepigrapha,Non-canonical,Unknown,600-700 CE,900 CE,"Mary's life, Jesus' childhood",None,Medieval Latin composition
+196.0,Discourse on Abbaton,Pseudepigrapha,Non-canonical,Timothy of Alexandria (attr.),400-600 CE,1000 CE,Death angel's origin,Coptic Christianity,Angel of death narrative
+197.0,Legend of Aphroditianus,Pseudepigrapha,Non-canonical,Unknown,400-600 CE,1000 CE,"Persian wise men, nativity",None,Persian magi narrative
+198.0,Vision of Paul,Pseudepigrapha,Non-canonical,Unknown,400 CE,500 CE,Heaven and hell visions,None,Same as Apocalypse of Paul
+199.0,Book of the Cock,Pseudepigrapha,Non-canonical,Unknown,500-700 CE,1400 CE,Passion narrative,Ethiopian Christianity,Jesus raising a clay cock
+200.0,Questions of Mary,Gnostic,Non-canonical,Unknown,200-300 CE,Lost,Jesus-Mary dialogues,None,Known only from mentions
+201.0,Greater Questions of Mary,Gnostic,Non-canonical,Unknown,200-300 CE,Lost,Secret teachings to Mary,None,Gnostic text mentioned by Epiphanius
+202.0,Lesser Questions of Mary,Gnostic,Non-canonical,Unknown,200-300 CE,Lost,Jesus-Mary dialogues,None,Gnostic text mentioned by Epiphanius
+203.0,Book of Noah,Pseudepigrapha,Non-canonical,Unknown,Unknown,Fragmentary in other works,"Noah's life, flood",None,"Mentioned in Jubilees, fragments in 1 Enoch"
+204.0,Apocalypse of Daniel,Pseudepigrapha,Non-canonical,Unknown,700-800 CE,900 CE,Byzantine prophecies,None,Byzantine apocalyptic work
+205.0,Apocalypse of Samuel of Kalamoun,Pseudepigrapha,Non-canonical,Unknown,700-800 CE,1200 CE,"Islamic rule, tribulation",Coptic Christianity,Coptic apocalyptic work
+206.0,Eighth Book of Moses,Magical,Non-canonical,Unknown,100-400 CE,300-400 CE,Magical formulas,None,Greco-Egyptian magical text
+207.0,Assumption of the Virgin,Pseudepigrapha,Non-canonical,Unknown,400-600 CE,900 CE,Mary's death and assumption,None,Various versions exist
+208.0,Investiture of Abbaton,Pseudepigrapha,Non-canonical,Unknown,400-700 CE,1000 CE,Death angel's appointment,Coptic Christianity,Related to Discourse on Abbaton
+209.0,Book of the Rolls,Pseudepigrapha,Non-canonical,Clement of Rome (attr.),800-1000 CE,1200 CE,Biblical history,Syriac Christianity,"Also called ""Kitab al-Magall"""
+210.0,Wisdom of Jesus ben Sirach,Deuterocanonical,Deuterocanonical,Jesus ben Sirach,200-175 BCE,150 BCE (DSS),Practical wisdom,"Catholic, Orthodox",Same as Sirach/Ecclesiasticus
+211.0,2 Enoch,Pseudepigrapha,Non-canonical,Unknown,1st century CE,1400 CE (Slavonic),"Cosmology, heavenly journey, ethical teachings","Slavonic tradition, some Orthodox","Also called ""Slavonic Enoch"" or ""Book of the Secrets of Enoch"""
+212.0,3 Enoch,Pseudepigrapha,Non-canonical,Rabbi Ishmael (attributed),5th-6th century CE,1200 CE,"Metatron, heavenly ascent, angelology",Jewish mystical tradition,"Also called ""Hebrew Book of Enoch"" or ""Sefer Hekhalot"""
+213.0,Apocryphon of Jannes and Jambres,Pseudepigrapha,Non-canonical,Unknown,1st-3rd century CE,Fragmentary,Egyptian magicians who opposed Moses,None,Referenced in 2 Timothy 3:8
+214.0,Book of Gad the Seer,Pseudepigrapha,Non-canonical,Gad (attributed),Unknown,1500 CE,"Prophecies, visions",None,Referenced in 1 Chronicles 29:29
+215.0,Genesis Apocryphon,Pseudepigrapha,Non-canonical,Unknown,1st century BCE,100-50 BCE (DSS),Retellings of Genesis narratives,None,Found among Dead Sea Scrolls (1Q20)
+216.0,History of the Captivity in Babylon,Pseudepigrapha,Non-canonical,Unknown,Medieval period,1000-1500 CE,Babylonian exile narratives,None,Medieval composition on exile themes
+217.0,Psalms 152-155,Poetic,Non-canonical,David (attributed),Unknown,100-50 BCE (DSS),"Praise, thanksgiving",Syriac tradition,Found in Syriac manuscripts
+218.0,Testament of Qahat,Pseudepigrapha,Non-canonical,Qahat (attributed),100 BCE-100 CE,100-50 BCE (DSS),"Priestly lineage, ethical exhortations",None,Found among Dead Sea Scrolls (4Q542)
+219.0,Visions of Amram,Pseudepigrapha,Non-canonical,Amram (attributed),200-100 BCE,100-50 BCE (DSS),"Visionary experiences, angelology",None,Found among Dead Sea Scrolls (4Q543-548)
+220.0,Gabriel's Revelation,Pseudepigrapha,Non-canonical,Unknown,1st century BCE,1st century BCE,"Messianic prophecy, resurrection",None,"Also called ""Hazon Gabriel,"" stone tablet discovered in 2000s"

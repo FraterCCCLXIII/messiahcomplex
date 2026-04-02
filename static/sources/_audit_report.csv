@@ -1,0 +1,208 @@
+file,rows,data_rows,cols,blank_rows,note_rows,sub_tables,fill_pct,verdict
+kindex-persian-battles.csv,231,134,8,97,81,3,39.4,MULTI-TABLE(3) | NOTES(81) | SPARSE | LOW-FILL(39.4%)
+kindex-sources.csv,629,430,8,199,419,2,13.3,MULTI-TABLE(2) | NOTES(419) | SPARSE | LOW-FILL(13.3%)
+kvol2-ai-research-notes.csv,107,77,6,30,43,2,38.7,MULTI-TABLE(2) | NOTES(43) | SPARSE | LOW-FILL(38.7%)
+kvol2-demons-and-angels.csv,313,204,12,109,94,5,35.7,MULTI-TABLE(5) | NOTES(94) | SPARSE | LOW-FILL(35.7%)
+kvol2-mithras-in-bible.csv,117,86,13,31,26,2,39.1,MULTI-TABLE(2) | NOTES(26) | SPARSE | LOW-FILL(39.1%)
+kvol2-yama-satan-devil-timeline.csv,350,262,8,88,142,3,37.0,MULTI-TABLE(3) | NOTES(142) | SPARSE | LOW-FILL(37.0%)
+kvol2-thracian-horseman.csv,0,,0,0,0,0,0,EMPTY
+kindex-turans-and-danavas.csv,287,195,5,92,66,3,42.1,MULTI-TABLE(3) | NOTES(66) | SPARSE
+kvol2-baal-cycle.csv,106,79,11,27,22,3,46.1,MULTI-TABLE(3) | NOTES(22) | SPARSE
+kvol2-dionysus-timeline.csv,180,118,9,62,54,3,45.5,MULTI-TABLE(3) | NOTES(54) | SPARSE
+kvol2-elements-timeline.csv,317,185,11,132,87,2,42.9,MULTI-TABLE(2) | NOTES(87) | SPARSE
+kvol2-apollonius-of-tyana.csv,51,47,6,4,14,2,55.0,MULTI-TABLE(2) | NOTES(14)
+kvol2-sudhodhana.csv,152,134,5,18,44,2,69.6,MULTI-TABLE(2) | NOTES(44)
+christodex-critical-theory.csv,83,54,26,29,15,0,13.9,NOTES(15) | SPARSE | LOW-FILL(13.9%)
+christodex-introduction.csv,25,9,3,16,9,0,33.3,NOTES(9) | SPARSE | LOW-FILL(33.3%)
+daimonologia-celestial-pairs.csv,398,285,26,113,39,1,18.7,NOTES(39) | SPARSE | LOW-FILL(18.7%)
+daimonologia-realms.csv,44,15,7,29,3,2,54.3,MULTI-TABLE(2) | SPARSE
+daimonologia-two-brothers-chart.csv,18,8,7,10,2,2,46.4,MULTI-TABLE(2) | SPARSE
+greek-phil-supplemental.csv,36,19,2,17,2,2,94.7,MULTI-TABLE(2) | SPARSE
+kindex-apocrypha.csv,278,198,6,80,16,1,38.2,NOTES(16) | SPARSE | LOW-FILL(38.2%)
+kindex-magic-and-necromancy.csv,915,573,26,342,71,0,22.5,NOTES(71) | SPARSE | LOW-FILL(22.5%)
+kvol2-achaemenid-kings.csv,46,32,8,14,25,0,31.6,NOTES(25) | SPARSE | LOW-FILL(31.6%)
+kvol2-apollo-timeline.csv,270,177,19,93,21,1,34.7,NOTES(21) | SPARSE | LOW-FILL(34.7%)
+kvol2-bardiya-2.csv,329,218,26,111,79,0,15.2,NOTES(79) | SPARSE | LOW-FILL(15.2%)
+kvol2-bible-tables.csv,415,228,26,187,18,0,16.5,NOTES(18) | SPARSE | LOW-FILL(16.5%)
+kvol2-lotus-7-parables-compared-bible.csv,52,36,7,16,28,0,33.3,NOTES(28) | SPARSE | LOW-FILL(33.3%)
+kvol2-mystery-ritual.csv,275,176,5,99,140,0,35.0,NOTES(140) | SPARSE | LOW-FILL(35.0%)
+kvol2-tantric-practice-index.csv,61,40,26,21,24,0,12.3,NOTES(24) | SPARSE | LOW-FILL(12.3%)
+kvol2-tantric-sex-index.csv,73,50,6,23,41,0,31.7,NOTES(41) | SPARSE | LOW-FILL(31.7%)
+christodex-early-church-fathers.csv,125,121,26,4,5,0,23.2,NOTES(5) | LOW-FILL(23.2%)
+greek-phil-works-index.csv,51,45,2,6,0,6,100.0,MULTI-TABLE(6)
+kvol2-achaemenid-dynasty.csv,56,54,26,2,7,0,17.2,NOTES(7) | LOW-FILL(17.2%)
+kvol2-bardiya.csv,196,174,26,22,46,0,15.8,NOTES(46) | LOW-FILL(15.8%)
+kvol2-buddha-jesus-bardiya-table.csv,67,64,26,3,19,0,9.3,NOTES(19) | LOW-FILL(9.3%)
+kvol2-fables-and-myths.csv,268,211,26,57,124,0,13.5,NOTES(124) | LOW-FILL(13.5%)
+kvol2-golden-chain.csv,343,336,26,7,30,0,28.4,NOTES(30) | LOW-FILL(28.4%)
+kvol2-jewish-hellenization-timeline.csv,163,138,26,25,38,0,12.9,NOTES(38) | LOW-FILL(12.9%)
+kvol2-phrygian-cap-and-ushnisha.csv,41,33,26,8,11,0,16.7,NOTES(11) | LOW-FILL(16.7%)
+kvol2-pie-myths.csv,74,66,26,8,27,0,15.1,NOTES(27) | LOW-FILL(15.1%)
+kvol2-saka-religion.csv,156,147,26,9,11,0,18.2,NOTES(11) | LOW-FILL(18.2%)
+kvol2-shakya-saka-scythian-evidence.csv,124,114,26,10,14,0,14.0,NOTES(14) | LOW-FILL(14.0%)
+kvol2-tantric-lineages.csv,169,169,7,0,130,0,34.1,NOTES(130) | LOW-FILL(34.1%)
+kvol2-temples.csv,390,373,26,17,19,0,23.5,NOTES(19) | LOW-FILL(23.5%)
+christodex-alt-authors.csv,31,29,12,2,2,0,29.3,LOW-FILL(29.3%)
+christodex-inquisitions.csv,138,138,26,0,1,0,22.9,LOW-FILL(22.9%)
+christodex-life-of-paul.csv,61,61,26,0,1,0,29.9,LOW-FILL(29.9%)
+christodex-prophets.csv,45,44,26,1,2,0,29.5,LOW-FILL(29.5%)
+christodex-roman-emperors.csv,119,119,26,0,0,0,13.7,LOW-FILL(13.7%)
+christodex-vampire-history.csv,63,57,26,6,1,0,17.9,LOW-FILL(17.9%)
+christodex-witch-trials.csv,92,92,26,0,1,0,22.9,LOW-FILL(22.9%)
+daimonologia-americas.csv,99,85,13,14,3,1,19.4,LOW-FILL(19.4%)
+kindex-fraternal-orders.csv,118,92,26,26,2,0,18.6,LOW-FILL(18.6%)
+kindex-roman-battles.csv,142,142,22,0,0,0,24.1,LOW-FILL(24.1%)
+kindex-sacred-architecture.csv,179,179,26,0,1,0,21.2,LOW-FILL(21.2%)
+kvol2-nonduality-development-timeline.csv,83,81,26,2,2,0,22.6,LOW-FILL(22.6%)
+kvol2-vision-motifs.csv,10,10,26,0,0,0,15.4,LOW-FILL(15.4%)
+kindex-bardiya.csv,115,75,7,40,13,0,59.4,NOTES(13) | SPARSE
+kindex-indexes.csv,17,8,2,9,8,0,50.0,NOTES(8) | SPARSE
+kindex-mithridates.csv,342,229,4,113,17,0,61.0,NOTES(17) | SPARSE
+kindex-past-buddhas.csv,59,38,1,21,38,0,100.0,NOTES(38) | SPARSE
+kvol2-avatamsaka-sutra-contents.csv,76,55,5,21,30,1,50.5,NOTES(30) | SPARSE
+kvol2-bible-lights.csv,46,31,9,15,16,0,54.1,NOTES(16) | SPARSE
+kvol2-mithras-timeline.csv,402,267,10,135,90,1,55.3,NOTES(90) | SPARSE
+kvol2-seljuks.csv,152,113,5,39,34,0,75.9,NOTES(34) | SPARSE
+kvol2-sex-rites-timeline.csv,180,133,6,47,78,0,45.6,NOTES(78) | SPARSE
+kvol2-three-sisters-and-prince-fables.csv,35,26,8,9,7,1,76.4,NOTES(7) | SPARSE
+kvol2-tree-of-life.csv,128,92,7,36,52,0,47.0,NOTES(52) | SPARSE
+christodex-large-time-scales.csv,188,173,9,15,27,0,78.6,NOTES(27)
+kindex-baal-and-other-names.csv,274,230,7,44,29,0,58.6,NOTES(29)
+kindex-bardiya-notes.csv,138,115,5,23,36,1,69.0,NOTES(36)
+kindex-brennus.csv,341,330,3,11,33,0,93.3,NOTES(33)
+kindex-crimean-tartars.csv,231,229,3,2,33,0,64.5,NOTES(33)
+kindex-danube-region-timeline.csv,51,46,3,5,14,1,79.7,NOTES(14)
+kindex-england.csv,145,116,9,29,14,0,54.8,NOTES(14)
+kindex-freemasonry.csv,463,453,5,10,8,0,96.0,NOTES(8)
+kindex-jewish-battles.csv,63,56,5,7,17,1,75.7,NOTES(17)
+kindex-master.csv,432,355,5,77,13,1,97.0,NOTES(13)
+kindex-roman-cults-and-early-christian.csv,336,275,9,61,31,1,54.0,NOTES(31)
+kindex-roman-emperors.csv,180,136,5,44,5,0,66.8,NOTES(5)
+kindex-saint-collections.csv,25,23,6,2,4,0,85.5,NOTES(4)
+kindex-tartaria.csv,180,180,2,0,10,0,97.2,NOTES(10)
+kvol2-227-patimokkha.csv,240,238,1,2,238,0,100.0,NOTES(238)
+kvol2-48-vows-of-amitabha.csv,58,54,3,4,5,0,93.8,NOTES(5)
+kvol2-52-bodhisattva-stages-avatamsaka.csv,114,88,4,26,30,1,74.4,NOTES(30)
+kvol2-53-teachers-lamp-list.csv,68,63,6,5,9,0,75.4,NOTES(9)
+kvol2-613-mitzvot.csv,653,651,1,2,651,0,100.0,NOTES(651)
+kvol2-72-angels.csv,81,78,7,3,5,1,94.5,NOTES(5)
+kvol2-all-bible-and-medieval-parables.csv,107,106,8,1,14,0,88.4,NOTES(14)
+kvol2-aramaic-timeline.csv,215,205,5,10,54,1,77.6,NOTES(54)
+kvol2-avatamsaka-sutra.csv,403,362,6,41,79,1,45.3,NOTES(79)
+kvol2-avestan-ancient-language-timeline.csv,76,70,4,6,23,0,75.4,NOTES(23)
+kvol2-avestan-language-timeline.csv,121,106,4,15,37,0,73.8,NOTES(37)
+kvol2-bard-prophet-list.csv,41,40,7,1,14,0,70.0,NOTES(14)
+kvol2-beckwith-notes.csv,212,194,6,18,25,1,71.2,NOTES(25)
+kvol2-biblical-parables.csv,56,47,5,9,22,1,54.0,NOTES(22)
+kvol2-buddhas-life-in-parables.csv,136,132,4,4,34,0,77.5,NOTES(34)
+kvol2-buddhas-life-timeline.csv,107,107,4,0,9,0,89.7,NOTES(9)
+kvol2-buddhist-hindu-tables.csv,59,57,3,2,9,0,67.3,NOTES(9)
+kvol2-celestial-rivers.csv,130,128,7,2,37,0,66.5,NOTES(37)
+kvol2-christian-comparison-tables.csv,88,76,14,12,22,1,42.1,NOTES(22)
+kvol2-civilization-timeline.csv,64,56,5,8,18,1,74.3,NOTES(18)
+kvol2-comparison-table.csv,41,32,7,9,19,1,49.1,NOTES(19)
+kvol2-dharma-numbers-2.csv,394,388,5,6,71,0,47.5,NOTES(71)
+kvol2-dharma-numbers.csv,136,107,4,29,40,0,63.8,NOTES(40)
+kvol2-dionysus-christ-parallels.csv,140,132,3,8,28,0,82.1,NOTES(28)
+kvol2-divine-twins.csv,67,59,8,8,20,0,62.9,NOTES(20)
+kvol2-draft-unproofed.csv,161,143,5,18,53,0,50.5,NOTES(53)
+kvol2-dyads-triads-more.csv,102,102,7,0,6,0,95.0,NOTES(6)
+kvol2-early-buddhist-schools.csv,53,44,7,9,18,1,64.9,NOTES(18)
+kvol2-east-asian-buddhist-schools.csv,115,107,5,8,18,1,86.5,NOTES(18)
+kvol2-eurasian-cult-timeline.csv,57,44,9,13,29,0,41.4,NOTES(29)
+kvol2-flavians.csv,37,36,4,1,7,0,60.4,NOTES(7)
+kvol2-hekhalot-stages.csv,60,56,4,4,8,0,78.6,NOTES(8)
+kvol2-hekhalot.csv,30,29,2,1,5,0,91.4,NOTES(5)
+kvol2-indexes.csv,36,34,5,2,7,0,57.6,NOTES(7)
+kvol2-islam-tables.csv,253,241,9,12,26,0,47.6,NOTES(26)
+kvol2-jesus-life-parables.csv,63,63,7,0,7,0,90.5,NOTES(7)
+kvol2-jewish-practices.csv,80,66,5,14,22,1,73.3,NOTES(22)
+kvol2-koran-tables.csv,270,263,4,7,22,0,88.9,NOTES(22)
+kvol2-lamps-of-dzogchen.csv,46,36,6,10,13,1,53.2,NOTES(13)
+kvol2-lotus-sutra.csv,228,206,5,22,46,0,45.4,NOTES(46)
+kvol2-mithras-maitreya.csv,92,77,8,15,22,0,61.2,NOTES(22)
+kvol2-mixed-timeline.csv,767,604,9,163,253,0,54.0,NOTES(253)
+kvol2-nagarjuna-doctrines-mind-only.csv,61,56,3,5,10,0,64.9,NOTES(10)
+kvol2-pelagios-network-resources.csv,36,34,5,2,7,0,57.6,NOTES(7)
+kvol2-prophet-visions.csv,54,44,9,10,12,1,59.1,NOTES(12)
+kvol2-sacred-text-indexes.csv,205,173,6,32,59,0,65.2,NOTES(59)
+kvol2-saka-scythian-timeline.csv,244,198,6,46,49,1,68.1,NOTES(49)
+kvol2-sibylline-oracles.csv,169,146,6,23,59,0,59.9,NOTES(59)
+kvol2-steppe-cult-timeline.csv,102,83,5,19,41,0,60.5,NOTES(41)
+kvol2-tantric-traditions-timeline.csv,57,57,7,0,24,0,63.9,NOTES(24)
+kvol2-two-brothers.csv,159,156,8,3,92,0,48.4,NOTES(92)
+kvol2-workbook-index.csv,423,404,5,19,217,1,57.0,NOTES(217)
+kvol2-world-stories-and-creatures.csv,213,172,8,41,82,1,45.2,NOTES(82)
+kvol2-zor-gods.csv,64,55,5,9,32,1,53.5,NOTES(32)
+kindex-wallachia.csv,184,97,3,87,3,0,97.9,SPARSE
+bardiya-timeline.csv,83,69,6,14,0,0,83.8,OK
+christodex-all-christian-sects.csv,78,78,11,0,0,0,63.6,OK
+christodex-apocryphon.csv,222,222,10,0,1,0,99.6,OK
+christodex-biblical-prophecies.csv,382,379,7,3,0,1,60.2,OK
+christodex-biblical-textual-history.csv,65,65,26,0,0,0,42.3,OK
+christodex-canon.csv,31,31,7,0,1,0,97.2,OK
+christodex-development-stage-theories.csv,19,19,8,0,0,0,100.0,OK
+christodex-dst-2.csv,111,111,8,0,1,0,99.2,OK
+christodex-early-religion-timeline.csv,161,161,12,0,0,0,74.9,OK
+christodex-gods-of-light.csv,30,30,8,0,1,0,90.0,OK
+christodex-heresies.csv,22,22,8,0,0,0,100.0,OK
+christodex-judaism-christianity-timeline.csv,134,134,13,0,0,0,92.0,OK
+christodex-life-and-places-of-jesus.csv,39,39,9,0,1,0,97.7,OK
+christodex-muslim-names-of-god.csv,101,100,4,1,0,0,100.0,OK
+christodex-muslim-texts.csv,102,102,10,0,1,0,99.1,OK
+christodex-schisms.csv,47,47,7,0,1,0,98.2,OK
+christodex-variations-index.csv,24,24,4,0,1,0,96.9,OK
+daimonologia-ages.csv,13,13,3,0,0,0,100.0,OK
+daimonologia-all-traditions.csv,106,106,30,0,3,0,53.0,OK
+daimonologia-cult-timeline.csv,26,26,5,0,0,0,100.0,OK
+daimonologia-giants.csv,11,11,4,0,0,0,100.0,OK
+daimonologia-pie-2.csv,15,13,28,2,2,1,61.8,OK
+daimonologia-pie-comparisons.csv,46,46,28,0,0,0,43.9,OK
+daimonologia-primordial-man.csv,15,15,4,0,0,0,100.0,OK
+daimonologia-sources.csv,40,31,7,9,1,1,78.3,OK
+daimonologia-two-brothers-pie-table-a.csv,116,98,6,18,1,1,95.7,OK
+daimonologia-two-brothers-pie-table-b.csv,72,63,11,9,0,1,51.7,OK
+greek-phil-ai-enabled-list.csv,388,388,6,0,0,0,66.3,OK
+greek-phil-chatgpt-list.csv,102,102,4,0,0,0,100.0,OK
+greek-phil-female-philosophers.csv,31,31,4,0,0,0,100.0,OK
+kindex-apocrypha-2.csv,84,84,2,0,0,0,100.0,OK
+kindex-early-christians.csv,78,78,4,0,0,0,100.0,OK
+kindex-early-church.csv,20,20,5,0,0,0,100.0,OK
+kindex-east-asian-ancestors.csv,32,32,6,0,0,0,92.7,OK
+kindex-hellenic-judaism-timeline.csv,33,33,5,0,0,0,100.0,OK
+kindex-hermetic-texts.csv,27,27,6,0,0,0,100.0,OK
+kindex-inquisitions.csv,138,138,6,0,1,0,99.4,OK
+kindex-schools.csv,39,37,6,2,1,1,92.3,OK
+kindex-semitic-saints.csv,131,131,7,0,0,0,72.1,OK
+kindex-tenet-systems.csv,31,31,3,0,0,0,100.0,OK
+kindex-vampire-history.csv,63,57,6,6,1,1,77.5,OK
+kindex-witches.csv,92,92,6,0,1,0,99.1,OK
+kvol2-7-halls-of-hekhalot.csv,9,9,6,0,1,0,90.7,OK
+kvol2-aladdin-hidden-prince.csv,42,42,6,0,1,0,98.0,OK
+kvol2-all-bible-visions.csv,32,32,11,0,0,0,73.3,OK
+kvol2-all-greek-texts.csv,822,822,5,0,0,0,80.0,OK
+kvol2-all-prophets.csv,105,104,10,1,2,0,98.3,OK
+kvol2-bible-figures.csv,99,99,7,0,1,0,99.1,OK
+kvol2-bible-prophet-and-villains.csv,20,20,7,0,1,0,95.7,OK
+kvol2-biblical-law-timeline.csv,11,11,3,0,2,0,87.9,OK
+kvol2-biblical-messiahs.csv,32,32,26,0,1,0,41.1,OK
+kvol2-buddhist-schools.csv,26,26,7,0,0,0,100.0,OK
+kvol2-contemporary-jewish-leaders.csv,22,22,8,0,1,0,96.0,OK
+kvol2-core-myths.csv,35,33,7,2,1,0,97.4,OK
+kvol2-dream-sleep-and-darkness.csv,27,27,5,0,1,0,97.0,OK
+kvol2-dream-yogas.csv,27,27,5,0,1,0,97.0,OK
+kvol2-flood-babel-myths.csv,98,95,6,3,0,0,100.0,OK
+kvol2-healing-serpent-staff-and-pillar.csv,28,28,6,0,0,0,92.3,OK
+kvol2-hellenic-hymns.csv,58,58,6,0,2,0,97.1,OK
+kvol2-historical-problems-of-prophets.csv,18,18,5,0,0,0,100.0,OK
+kvol2-lucid-dreaming.csv,26,26,5,0,0,0,100.0,OK
+kvol2-maitreya-timeline.csv,28,28,5,0,1,0,97.1,OK
+kvol2-meditation-timeline.csv,42,42,7,0,1,0,98.0,OK
+kvol2-mithras-2.csv,37,37,6,0,0,0,80.2,OK
+kvol2-muslim-illuminationism.csv,11,11,7,0,1,0,92.2,OK
+kvol2-nagas.csv,112,110,6,2,3,0,97.7,OK
+kvol2-pan-timeline.csv,13,13,9,0,0,0,100.0,OK
+kvol2-petosyris-and-hermeticism.csv,19,19,5,0,1,0,88.4,OK
+kvol2-saka-scythian.csv,46,46,7,0,0,0,40.1,OK
+kvol2-serpent-deities.csv,41,41,5,0,1,0,98.0,OK
+kvol2-zoroastrian-prophets.csv,44,44,10,0,1,0,98.0,OK
