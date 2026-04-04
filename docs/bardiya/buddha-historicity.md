@@ -111,6 +111,6 @@ This uncertainty is a legitimate historical finding. It does not specifically su
 
 - [Key Figures: Gaumata, Buddha, and Christ](key-figures.md)
 - [Buddhist Parallels](buddhist-parallels.md)
-- [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)
+- [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - [Saka–Scythian Hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - Gombrich, Richard. *Theravada Buddhism: A Social History*. Routledge, 2006.

@@ -1,0 +1,147 @@
+,,,,,,,,
+StageID,StageName,StartTime (Years BP),EndTime (Years BP),Description,KeyCharacteristics,PrecedingStageID,NextStageID,
+C1,Planck Epoch,13.8 billion,13.8 billion - 10^-43 seconds,Period immediately after Big Bang when quantum effects dominated,"Extreme energy density, four fundamental forces unified",NULL,C2,
+C2,Grand Unification Epoch,13.8 billion - 10^-43 seconds,13.8 billion - 10^-36 seconds,Period when strong force separated from electroweak force,Three fundamental forces unified,C1,C3,
+C3,Inflationary Epoch,13.8 billion - 10^-36 seconds,13.8 billion - 10^-32 seconds,Rapid exponential expansion of space,"Massive expansion, smoothing of universe",C2,C4,
+C4,Quark Epoch,13.8 billion - 10^-12 seconds,13.8 billion - 10^-6 seconds,Formation of quarks and gluons,Quark-gluon plasma,C3,C5,
+C5,Hadron Epoch,13.8 billion - 10^-6 seconds,13.8 billion - 1 second,Formation of hadrons (baryons and mesons),Protons and neutrons formed,C4,C6,
+C6,Lepton Epoch,13.8 billion - 1 second,13.8 billion - 10 seconds,Leptons dominated energy density,Electron-positron pairs abundant,C5,C7,
+C7,Nucleosynthesis,13.8 billion - 10 seconds,13.8 billion - 20 minutes,Formation of light atomic nuclei,"Hydrogen, helium, and lithium formed",C6,C8,
+C8,Atomic Era,"13.8 billion - 380,000 years",13.8 billion - 150 million years,Formation of neutral atoms,Cosmic microwave background radiation released,C7,C9,
+C9,Dark Ages,13.8 billion - 150 million years,13.8 billion - 1 billion years,Period before first stars,No visible light sources,C8,C10,
+C10,Stellar Formation Era,13.8 billion - 1 billion years,Present,Formation of stars and galaxies,"Reionization of universe, continuing star formation",C9,NULL,
+StageID,StageName,StartTime (Years BP),EndTime (Years BP),Description,KeyCharacteristics,PrecedingStageID,NextStageID,
+S1,Solar Nebula,4.6 billion,4.57 billion,Molecular cloud collapse,Rotating disk of gas and dust,NULL,S2,
+S2,Protoplanetary Disk,4.57 billion,4.56 billion,Formation of Sun and planetary disk,"T Tauri phase of Sun, planetesimal formation",S1,S3,
+S3,Planetary Accretion,4.56 billion,4.5 billion,Growth of planets,"Heavy bombardment, planet migration",S2,S4,
+S4,Late Heavy Bombardment,4.1 billion,3.8 billion,Intense asteroid impacts,Reshaping of planetary surfaces,S3,S5,
+S5,Middle Solar System,3.8 billion,700 million,Relative stability,Gradual evolution of planetary systems,S4,S6,
+S6,Recent Solar System,700 million,Present,Modern configuration,Current orbital arrangements,S5,NULL,
+EonID,EonName,StartTime (Years BP),EndTime (Years BP),Description,KeyCharacteristics,PrecedingEonID,NextEonID,
+G1,Hadean,4.5 billion,4.0 billion,Earth's formation,"Formation of crust, intense meteorite bombardment, no preserved rocks",NULL,G2,
+G2,Archean,4.0 billion,2.5 billion,First life,"Primitive bacteria, anoxic atmosphere, cratonization",G1,G3,
+G3,Proterozoic,2.5 billion,541 million,Oxygen revolution,"Oxygenation of atmosphere, early multicellular life, snowball Earth events",G2,G4,
+G4,Phanerozoic,541 million,Present,Complex life,"Animals, plants, fungi, humans",G3,NULL,
+EraID,EraName,EonID,StartTime (Years BP),EndTime (Years BP),Description,KeyCharacteristics,PrecedingEraID,NextEraID
+GE1,Paleoarchean,G2,4.0 billion,3.6 billion,Early Archean,First prokaryotic life,NULL,GE2
+GE2,Mesoarchean,G2,3.6 billion,3.2 billion,Middle Archean,Stromatolites appear,GE1,GE3
+GE3,Neoarchean,G2,3.2 billion,2.5 billion,Late Archean,First continental masses,GE2,GE4
+GE4,Paleoproterozoic,G3,2.5 billion,1.6 billion,Early Proterozoic,Great Oxygenation Event,GE3,GE5
+GE5,Mesoproterozoic,G3,1.6 billion,1.0 billion,Middle Proterozoic,First eukaryotes,GE4,GE6
+GE6,Neoproterozoic,G3,1.0 billion,541 million,Late Proterozoic,"Snowball Earth, Ediacaran fauna",GE5,GE7
+GE7,Paleozoic,G4,541 million,252 million,Ancient life,"First complex animals, land plants, mass extinctions",GE6,GE8
+GE8,Mesozoic,G4,252 million,66 million,Middle life,"Dinosaurs, first mammals, Pangaea breakup",GE7,GE9
+GE9,Cenozoic,G4,66 million,Present,Recent life,"Mammal diversification, human evolution",GE8,NULL
+TransitionID,TransitionName,ApproxTime (Years BP),Description,Significance,PrecedingTransitionID,NextTransitionID,,
+E1,Origin of Life,3.8-4.0 billion,Formation of first self-replicating molecules,Beginning of biological evolution,NULL,E2,,
+E2,Prokaryotic Cells,3.5-3.8 billion,First cellular life,First true organisms,E1,E3,,
+E3,Photosynthesis,3.4 billion,Development of photosynthetic capability,"Energy from sunlight, oxygen production",E2,E4,,
+E4,Eukaryotic Cells,2.1-1.6 billion,Cells with nuclei and organelles,Complex cellular structure,E3,E5,,
+E5,Sexual Reproduction,1.2 billion,Genetic recombination,Increased genetic diversity,E4,E6,,
+E6,Multicellularity,1.0 billion,Cells cooperating in organism,Division of cellular functions,E5,E7,,
+E7,Bilateral Symmetry,600 million,Organisms with two symmetric sides,"Directional movement, cephalization",E6,E8,,
+E8,Vertebrate Formation,525 million,Development of notochord/spine,Internal skeletal structure,E7,E9,,
+E9,Land Colonization,500-400 million,Plants and animals move to land,New ecological niches,E8,E10,,
+E10,Amniotic Eggs,340 million,Eggs with membranes and shells,Reproduction away from water,E9,E11,,
+E11,Endothermy,252 million,Warm-blooded animals,Temperature regulation,E10,E12,,
+E12,Flowering Plants,140 million,Angiosperms,"Efficient reproduction, coevolution with animals",E11,E13,,
+E13,Mammalian Dominance,66 million,Rise of mammals after dinosaur extinction,Diverse mammal adaptations,E12,E14,,
+E14,Primate Evolution,55 million,Early primates,"Grasping hands, forward-facing eyes",E13,E15,,
+E15,Bipedalism,7-6 million,Upright walking hominids,Free hands for tool use,E14,E16,,
+E16,Tool Creation,3.3 million,Systematic tool manufacturing,Technology begins,E15,E17,,
+E17,Brain Expansion,2.5-0.5 million,Increasing cranial capacity,Enhanced cognitive abilities,E16,E18,,
+E18,Control of Fire,1.5-0.2 million,Harnessing fire,"Cooking, protection, extending day",E17,E19,,
+E19,Complex Language,"100,000-50,000",Sophisticated symbolic communication,"Cultural transmission, abstract thought",E18,E20,,
+E20,Agriculture,"12,000-10,000",Deliberate cultivation of plants and animals,"Settled populations, food surplus",E19,E21,,
+E21,Writing,"5,500-5,000",Symbolic record-keeping,"Knowledge preservation, administration",E20,E22,,
+E22,Scientific Method,400-300,Systematic empirical investigation,Reliable knowledge accumulation,E21,E23,,
+E23,Industrial Revolution,250-200,Machine-based manufacturing,"Mass production, fossil fuel use",E22,E24,,
+E24,Digital Information,80-40,Electronic computing and networks,Global information exchange,E23,E25,,
+E25,Artificial Intelligence,In progress,Machine learning and autonomous systems,Cognitive tasks by machines,E24,NULL,,
+BranchID,BranchName,EmergenceTime (Years BP),ParentBranchID,Description,KeyCharacteristics,ExampleTaxa,,
+P1,Domain: Bacteria,3.8-3.5 billion,NULL,Prokaryotic cells,"No nucleus, simple structure","E. coli, Cyanobacteria",,
+P2,Domain: Archaea,3.8-3.5 billion,NULL,Prokaryotic cells,"No nucleus, distinct biochemistry","Methanogens, Thermophiles",,
+P3,Domain: Eukarya,2.1-1.6 billion,NULL,Eukaryotic cells,"Nucleus, organelles","All plants, animals, fungi",,
+P4,Kingdom: Protista,2.1-1.6 billion,P3,Simple eukaryotes,Diverse single-celled organisms,"Amoeba, Paramecium",,
+P5,Kingdom: Fungi,1.5 billion,P3,Heterotrophic eukaryotes,"Absorptive nutrition, chitin walls","Mushrooms, yeasts",,
+P6,Kingdom: Plantae,1.2 billion,P3,Photosynthetic eukaryotes,"Cell walls, chloroplasts","Mosses, ferns, trees",,
+P7,Kingdom: Animalia,800-600 million,P3,Heterotrophic multicellular,"Motile, specialized tissues",Sponges to humans,,
+P8,Phylum: Chordata,530 million,P7,Animals with notochord,"Dorsal nerve cord, pharyngeal slits","Fish, amphibians, mammals",,
+P9,Class: Mammalia,225 million,P8,Warm-blooded vertebrates,"Hair, mammary glands","Rodents, primates, whales",,
+P10,Order: Primates,65 million,P9,Advanced mammals,"Grasping hands, binocular vision","Lemurs, monkeys, apes",,
+P11,Family: Hominidae,20 million,P10,Great apes,"Large size, no tail","Orangutans, gorillas, humans",,
+P12,Genus: Homo,2.8 million,P11,Humans and close relatives,"Bipedal, large brains","H. erectus, H. sapiens",,
+P13,Species: Homo sapiens,300000.0,P12,Modern humans,"Language, complex culture",All modern humans,,
+StructureID,ModelName,StageName,ApproxEmergence,Description,KeyCharacteristics,CollectiveExpressions,PrecedingStructureID,NextStructureID
+C1,Gebser,Archaic,"2 million - 500,000 BCE",Identity with nature,"No self-reflection, instinctual, no distinction between self and world","Survival bands, simple tool use",NULL,C2
+C2,Gebser,Magical,"500,000 - 10,000 BCE","Spaceless, timeless","Pre-personal, magical connections, sympathetic rituals","Tribal structures, cave art, totemism",C1,C3
+C3,Gebser,Mythical,"10,000 - 800 BCE",Cyclical time awareness,"Imagination, storytelling, polarities, emotional","Early civilizations, mythology, polytheism",C2,C4
+C4,Gebser,Mental,800 BCE - 1950 CE,"Linear time, spatial perspective","Rational, dualistic, analytical, ego-centered","Philosophy, science, monotheism, nationalism",C3,C5
+C5,Gebser,Integral,1950 CE - Present,"Time-freedom, transparency","Trans-personal, integration of previous structures, aperspectival","Systems thinking, ecological awareness, integral arts",C4,NULL
+StageID,Color,Name,EmergenceTime,WorldviewDescription,ValuesSystem,SocialStructures,PrecedingStageID,NextStageID
+SD1,Beige,Survival Sense,"100,000+ BCE","Survival-oriented, instinctual","Physical survival, immediate needs","Small bands, survival clusters",NULL,SD2
+SD2,Purple,Magical/Animistic,"50,000+ BCE","Magical, tribal","Safety, tradition, kinship bonds","Tribes, clan structures, ethnic tribes",SD1,SD3
+SD3,Red,Power/Impulsive,"10,000+ BCE","Egocentric, exploitative","Power, dominance, conquest, immediate gratification","Empires, feudal kingdoms, warlord states",SD2,SD4
+SD4,Blue,Conformist/Absolutistic,"5,000+ BCE","Purposeful, authoritarian","Order, stability, righteousness, obedience","Traditional nations, rigid hierarchies, theocracies",SD3,SD5
+SD5,Orange,Achievement/Materialistic,1000+ CE (Renaissance),"Strategic, individualistic","Success, competition, progress, innovation","Constitutional states, corporations, meritocracies",SD4,SD6
+SD6,Green,Relativistic/Sociocentric,1850+ CE,"Communitarian, egalitarian","Harmony, equality, consensus, sharing","Social democracies, NGOs, communities",SD5,SD7
+SD7,Yellow,Systemic/Integrative,1950+ CE,"Flexible, natural","Functionality, knowledge, competence, synthesis","Integrated flexible systems, adaptive organizations",SD6,SD8
+SD8,Turquoise,Holistic/Global,1980+ CE,"Holistic, experiential","Global awareness, compassion, sustainability","Holarchies, global networks, integrated systems",SD7,NULL
+AgeID,AgeName,StartTime,EndTime,Description,DefiningTechnologies,SocialImpacts,PrecedingAgeID,NextAgeID
+T1,Early Stone Age (Paleolithic),3.3 million BCE,"12,000 BCE",Simple stone tools,"Hand axes, scrapers, spear points","Hunter-gatherer bands, nomadic lifestyle",NULL,T2
+T2,Late Stone Age (Neolithic),"12,000 BCE","3,300 BCE",Agricultural tools,"Polished stone tools, pottery, textiles","Settled villages, farming, domestication",T1,T3
+T3,Bronze Age,"3,300 BCE","1,200 BCE",Metal working,"Bronze weapons, tools, irrigation systems","Cities, kingdoms, writing, specialization",T2,T4
+T4,Iron Age,"1,200 BCE",500 CE,Advanced metallurgy,"Iron weapons, tools, improved agriculture","Empires, trade networks, philosophical systems",T3,T5
+T5,Medieval Age,500 CE,1450 CE,Agricultural innovations,"Moldboard plow, horse collar, water mills","Feudalism, guilds, monasticism",T4,T6
+T6,Age of Discovery,1450 CE,1760 CE,"Navigation, printing","Compass, printing press, ships","Colonialism, scientific revolution, mercantilism",T5,T7
+T7,Industrial Age,1760 CE,1950 CE,Machine production,"Steam engine, factories, railroads, electricity","Urbanization, mass production, class conflict",T6,T8
+T8,Information Age,1950 CE,2010 CE,Digital computing,"Computers, internet, mobile phones","Globalization, network society, knowledge economy",T7,T9
+T9,AI & Biotech Age,2010 CE,Present,"Machine learning, genetic engineering","AI systems, CRISPR, quantum computing","Human enhancement, automation, intelligent systems",T8,NULL
+ScaleID,ScaleName,ApproxEmergence,MaxPopulationSize,Leadership,Integration Mechanism,Decision Making,ResourceDistribution,ExampleSocieties
+SO1,Band,"100,000+ BCE",25-50 individuals,"Informal, situational",Face-to-face interaction,Consensus,Immediate sharing,"!Kung San, Mbuti Pygmies"
+SO2,Tribe,"20,000+ BCE","100-1,000","Big man, council of elders","Kinship, shared rituals","Consensus, elder decisions",Kinship obligations,"Yanomami, Aboriginal Australians"
+SO3,Chiefdom,"7,500+ BCE","1,000-10,000","Hereditary chief, priests","Ritual center, tribute systems",Hierarchical consultation,Redistribution by chief,"Polynesian islands, Mississippian culture"
+SO4,Early State,"3,500+ BCE","10,000-100,000","King, aristocracy","Bureaucracy, standing army","Royal decree, law codes","Taxation, corvée labor","Sumer, Old Kingdom Egypt"
+SO5,Classical Empire,800 BCE+,"100,000-50 million","Emperor, extensive bureaucracy","Religion, law, military",Imperial bureaucracy,"Tribute, taxation","Roman Empire, Han China"
+SO6,Feudal System,500+ CE,Variable,"Monarch, nobles, vassals",Fealty relationships,Lord-vassal obligations,"Manorial system, tithes","Medieval Europe, Edo Japan"
+SO7,Nation-State,1500+ CE,1 million+,"Elected officials, career bureaucrats","Nationalism, citizenship",Parliamentary/representative,"Markets, taxation",Modern nations since Peace of Westphalia
+SO8,Global Networks,1950+ CE,Billions,International institutions,"Treaties, trade, communication",Multi-level governance,"Global markets, aid","UN system, EU, digital networks"
+CivID,CivilizationName,Region,FormationDate,EndDate,PrimaryLanguages,DominantReligions,PoliticalSystems,SpiralDynamicsStages
+CIV1,Mesopotamian,Middle East,3500 BCE,539 BCE,"Sumerian, Akkadian, Aramaic",Polytheistic pantheon,"City-states, empires",Red to Blue
+CIV2,Egyptian,North Africa,3100 BCE,30 BCE,Ancient Egyptian,Complex polytheism,Divine monarchy,Purple to Blue
+CIV3,Indus Valley,South Asia,3300 BCE,1300 BCE,Unknown,Unknown,Possible oligarchy,Purple to Blue
+CIV4,Chinese,East Asia,1600 BCE,Present,Chinese (various),"Confucianism, Taoism, Buddhism",Imperial bureaucracy,Blue to Orange
+CIV5,Greek,Mediterranean,800 BCE,146 BCE,Greek,Olympian pantheon,"City-states, democracy",Blue to Orange
+CIV6,Roman,Mediterranean,753 BCE,476 CE,Latin,"Roman polytheism, Christianity","Republic, empire",Blue to Orange
+CIV7,Maya,Mesoamerica,2000 BCE,1697 CE,Mayan languages,Polytheistic,City-states,Purple to Blue
+CIV8,Persian,Middle East,550 BCE,651 CE,"Old Persian, Aramaic",Zoroastrianism,Imperial,Blue
+CIV9,Indian,South Asia,322 BCE,Present,"Sanskrit, Prakrit, many others","Hinduism, Buddhism, Jainism","Kingdoms, empires",Purple to Orange
+CIV10,Byzantine,Eastern Mediterranean,330 CE,1453 CE,Greek,Eastern Orthodox Christianity,Imperial autocracy,Blue
+CIV11,Islamic,"Middle East, N. Africa",622 CE,Present,"Arabic, Persian, Turkish",Islam,"Caliphates, sultanates",Blue to Orange
+CIV12,Western,"Europe, Americas",800 CE,Present,"Latin, Germanic and Romance languages","Christianity, secular","Feudal, democratic",Blue to Green/Yellow
+CIV13,Mesoamerican,Central America,1200 BCE,1521 CE,"Nahuatl, Mayan languages",Polytheistic,"Empire, city-states",Purple to Blue
+CIV14,Andean,South America,2500 BCE,1572 CE,"Quechua, Aymara",Polytheistic,Empire,Purple to Blue
+CIV15,African (multiple),Sub-Saharan Africa,Various,Various,Multiple,"Traditional, Christianity, Islam","Kingdoms, empires",Purple to Blue
+SystemID,SystemName,FirstAppearance,CorePrinciples,DecisionMakingProcess,PowerDistribution,KeyExamples,PrecedingSystemIDs,SpiralDynamicsStage
+PS1,Tribal Council,Prehistoric,"Kinship, tradition","Consensus, elder authority",Relatively egalitarian,Indigenous tribes worldwide,NULL,Purple
+PS2,Chiefdom,7000 BCE,"Hereditary leadership, tribute",Chief's decisions with advisors,Centralized but limited,Early Polynesian societies,PS1,Purple/Red
+PS3,Absolute Monarchy,3000 BCE,"Divine right, hereditary",Royal decree,Centralized in monarch,"Ancient Egypt, France under Louis XIV",PS2,Red/Blue
+PS4,Aristocracy,800 BCE,"Rule by ""best"" families",Noble council,Distributed among elite,"Sparta, medieval nobility",PS3,Blue
+PS5,Oligarchy,800 BCE,Rule by wealthy few,Elite council,Concentrated in wealthy class,Many merchant republics,PS4,Blue/Orange
+PS6,Classical Democracy,508 BCE,Citizen participation,Assembly voting,Distributed among citizens,Athens,"PS4, PS5",Blue/Orange
+PS7,Republic,509 BCE,"Representative rule, citizenship",Elected officials,Mixed with checks,"Roman Republic, early United States","PS5, PS6",Blue/Orange
+PS8,Feudalism,800 CE,Hierarchical obligation,Lord-vassal chains,Distributed by rank,"Medieval Europe, Japan",PS3,Blue
+PS9,Theocracy,Various,Religious authority,Religious leaders,Centralized in religious elite,"Vatican, Iran","PS3, PS4",Blue
+PS10,Constitutional Monarchy,1215 CE,Limited royal power,Shared king/parliament,Divided by institution,"United Kingdom, Sweden","PS3, PS7",Blue/Orange
+PS11,Liberal Democracy,1776 CE,"Individual rights, representation","Election, majority rule",Distributed with protections,Modern Western democracies,"PS7, PS10",Orange/Green
+PS12,Fascism,1922 CE,"Ultranationalism, dictatorship",Leader's will,Extremely centralized,"Nazi Germany, Fascist Italy","PS3, PS7",Blue/Red
+PS13,Communism (Soviet),1917 CE,"Collective ownership, party rule",Party hierarchy,Centralized in party,"Soviet Union, Cuba","PS7, PS11",Red/Blue
+PS14,Social Democracy,1945 CE,"Mixed economy, welfare state",Elected parliament,Distributed with regulation,Scandinavian countries,PS11,Orange/Green
+PS15,Digital Democracy,Emerging,"Direct participation, transparency","Digital voting, deliberation",Highly distributed,"Experiments in Estonia, blockchain governance","PS11, PS14",Green/Yellow
+StageID,StageName,NatureOfRegime,TransitionMechanism,ExampleSocieties,PrecedingStageID,NextStageID,,
+A1,Monarchy,Rule by one (virtuous),Hereditary corruption,Early kingships,NULL,A2,,
+A2,Tyranny,Rule by one (corrupt),Overthrow by nobles,Many Greek poleis after kingship,A1,A3,,
+A3,Aristocracy,Rule by few (virtuous),Wealth corruption,Early Roman Republic,A2,A4,,
+A4,Oligarchy,Rule by few (corrupt),Popular uprising,Late Roman Republic,A3,A5,,
+A5,Democracy,Rule by many (virtuous),Populist corruption,Classical Athens,A4,A6,,
+A6,Ochlocracy (Mob Rule),Rule by many (corrupt),"Collapse, strongman emerges",Late Roman Republic to Empire,A5,A1,,

@@ -61,6 +61,10 @@ The **Mandaeans** are a living Gnostic community (historically in southern Iraq/
 
 **Significance for this site:** Mandaeanism may preserve elements of **pre-Christian** or **non-mainstream Jewish** traditions that interacted with Iranian religion in Mesopotamia. Their Aramaic liturgy and Mesopotamian homeland place them squarely in the **Parthian corridor**.
 
+**Seven-heaven ascent system:** The Mandaeans have a fully developed **seven-*matartā*** (watch-house) cosmology in which the post-death soul ascends through seven password-guarded heavenly stations back to the Lightworld. The structural identity with the Hekhalot seven-palace ascent is precise and specific (named wardens, passwords required, planetary-sphere correspondence). This parallel is the strongest evidence that the seven-palace / seven-heaven cosmological structure has deep roots in the Aramaic-speaking Mesopotamian world — older than the Hekhalot texts and possibly pre-Christian. The Mandaean **stauros** (pillar of light) functions as the cosmic axis of the Lightworld — structurally equivalent to the Buddhist *yasti* pillar and the Tantric *sushumna*.
+
+For the full structural argument and the pre-Christian dating case, see the dedicated page: **[Mandaean stauros and the pre-Christian seven-heaven system](mandaean-stauros-and-merkabah-origins.md)**.
+
 ---
 
 ## 4. The "Gnostic redeemer myth" debate

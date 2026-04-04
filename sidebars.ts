@@ -33,6 +33,7 @@ const sidebars: SidebarsConfig = {
         'overview/interpretatio-and-divine-translatability',
         'overview/soteriological-convergence-of-empire',
         'overview/synthesis-at-nodes',
+        'overview/emergent-patterns-synthesis',
         'overview/canon-as-imperial-artifact',
         'overview/skepticism-mysticism-negative-grammar',
       ],
@@ -50,6 +51,8 @@ const sidebars: SidebarsConfig = {
       items: [
         'overview/indus-valley-bronze-age-matrix',
         'overview/babylonian-astral-religion',
+        'overview/assyrian-tree-sefirot-parpola',
+        'overview/substitute-king-ritual-and-atonement',
         'overview/egyptian-solar-theology-and-wisdom',
       ],
     },
@@ -76,6 +79,7 @@ const sidebars: SidebarsConfig = {
         'overview/angelomorphic-christology-michael-mithra',
         'overview/evidence-leads-persian-milieu-and-mitra-cluster',
         'overview/gnosticism-and-mandaeanism',
+        'overview/mandaean-stauros-and-merkabah-origins',
         // ── Hellenistic expansion (330–30 BCE) ──
         'overview/alexandria-synthesis-hub',
         'overview/hellenistic-period-transmission',
@@ -118,6 +122,7 @@ const sidebars: SidebarsConfig = {
         'overview/greco-buddhism',
         'overview/parthian-arsacid-corridor',
         'overview/saka-scythian-hypotheses',
+        'overview/saka-steppe-mithras-route',
         'overview/measuring-influence-mitra-maitreya',
         'overview/alternative-buddha-jesus-transmission-theories',
         'overview/greek-vocabulary-translation-lens',
@@ -139,6 +144,7 @@ const sidebars: SidebarsConfig = {
         'overview/solar-deities-eurasian-synthesis',
         'overview/attis-and-cybele',
         'overview/isis-osiris-serapis',
+        'overview/shiva-dionysus-ecstatic-outsider-gods',
         'overview/demeter-eleusis-mysteries',
         'overview/greek-wandering-gods-initiation',
         'overview/tomb-veneration-relic-cults',
@@ -149,6 +155,10 @@ const sidebars: SidebarsConfig = {
         'overview/paul-mithraism-and-historicity-notes',
         'overview/paul-celestial-christology',
         'overview/paul-iranian-mediator',
+        'overview/historical-jesus-critical-scholarship',
+        'overview/christ-myth-theory',
+        'overview/jesus-comparative-mythology',
+        'overview/book-of-revelation-scholarship',
         'overview/stoicism-and-synthesis',
         'overview/hermeticism-corpus-hermeticum',
         'overview/logos-doctrine-neoplatonic-christology',
@@ -170,6 +180,8 @@ const sidebars: SidebarsConfig = {
         'overview/zurvanism',
         'overview/manichaeism-synthesis',
         'overview/merkabah-mysticism',
+        'overview/hekhalot-kundalini-vision-timeline',
+        'overview/eurasian-graded-ascent-systems',
         'overview/therapeutae',
         'overview/neoplatonism-and-theurgy',
         'overview/nestorian-christianity-silk-road',
@@ -192,11 +204,14 @@ const sidebars: SidebarsConfig = {
         'overview/sramana-revolution-axial-india',
         // ── PIE myth and narrative grammar ───────────────────────────────
         'overview/pie-twin-and-brother-archetypes',
+        'overview/jesus-thomas-twin-tradition',
         'overview/pie-mediator-slot-origins',
         'overview/primordial-cosmic-man',
         'overview/pie-cosmic-combat-myth',
         'overview/pie-and-ane-traces-in-biblical-tradition',
         'overview/pie-motifs-atu-thompson-and-hero-traditions',
+        'overview/cosmic-axis-world-tree-stupa',
+        'overview/menorah-asherah-tree-of-life',
         'overview/thracian-horseman-paleo-balkan',
         'overview/ugaritic-baal-cycle',
       ],
@@ -381,6 +396,18 @@ const sidebars: SidebarsConfig = {
       ],
     },
 
+    // ── CONCLUSIONS & SYNTHESIS ──────────────────────────────────────────────
+    // Cross-zone summary of what the project establishes, debates, and cannot
+    // yet resolve — organized by confidence tier.
+    {
+      type: 'category',
+      label: 'Conclusions & synthesis',
+      collapsed: false,
+      items: [
+        'overview/preliminary-conclusions',
+      ],
+    },
+
     // ── CONTRIBUTE ────────────────────────────────────────────────────────────
     // How to add evidence, expand pages, and run AI agents against the backlog.
     {
@@ -390,6 +417,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'overview/contributing',
         'overview/research-backlog',
+        'overview/missing-cults-and-traditions',
       ],
     },
 
@@ -404,10 +432,11 @@ const sidebars: SidebarsConfig = {
         'overview/csv-viewer-test',
         'overview/further-reading',
         'overview/curated-page-template',
+        'overview/intro-archive-2026',
         'research/about-research-notes',
+        'research/apollo-name-in-early-christianity',
         'research/oxford-handbook-eschatology-notes',
         'research/thesis-assessment-notes-2026',
-        'research/iranian-origins-sakyas',
       ],
     },
   ],

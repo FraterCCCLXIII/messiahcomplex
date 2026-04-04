@@ -109,6 +109,7 @@ This site does not treat reddit threads, polemical asides, or uncited synthesis 
 
 ## See also
 
+- [Jesus in Comparative Mythology](jesus-comparative-mythology.md) — detailed tier-labeled survey of all major parallels: Mithraism (tauroctony, ritual meal, water symbolism), iconographic syncretism, Dionysian influence on John, dying-and-rising gods (full Frazer/Smith critique)
 - [Paul's celestial Christology and the solar mediator tradition](paul-celestial-christology.md) — what Paul's letters actually say about the cosmic Christ; the PIE solar-mediator function-space
 - [Interpretatio and divine translatability](interpretatio-and-divine-translatability.md) — why ancient peoples equated deities and what that means for reading the Mithras–Christ overlap
 - [Roman Mithras and Manichaean Mithra](mithra-roman-manichaean.md)

@@ -1,0 +1,38 @@
+Order,Location/Region,Biblical Book(s) & Passage(s),Event/Activity,Companions (Mentioned),Approx. Latitude/Longitude,Approx. Year/Month CE,Duration,"Significance & Notes (incl. variations, Judas)"
+1.0,Nazareth,Luke 1:26-38,Annunciation: Angel Gabriel announces Jesus’ birth to Mary,"Mary, Gabriel","32.697°N, 35.304°E",~6–5 BCE,Single event,Fulfillment of prophecy; divine conception. Only in Luke.
+2.0,Judea (Hill Country),Luke 1:39-56,Mary visits Elizabeth (John the Baptist’s mother),"Mary, Elizabeth","~31.7°N, 35.2°E",~6–5 BCE,~3 months,Mary’s Magnificat. Only in Luke.
+3.0,Bethlehem,Matthew 1:18–2:12; Luke 2:1-20,"Birth of Jesus; Angels, shepherds, Magi visit","Mary, Joseph, shepherds, Magi","31.705°N, 35.201°E",~6–4 BCE,Weeks–months,"Luke: shepherds, manger; Matthew: Magi, house."
+4.0,Jerusalem,Luke 2:21-38,Presentation at the Temple; Simeon and Anna’s prophecies,"Mary, Joseph, Simeon, Anna","31.778°N, 35.235°E",~6–4 BCE,Days,"Only in Luke; fulfills law, prophetic recognition."
+5.0,Bethlehem/Judea,Matthew 2:13-18,Herod’s massacre of infants; Flight to Egypt,"Mary, Joseph, Jesus","31.705°N, 35.201°E",~6–4 BCE,Days–years,Only in Matthew; fulfills prophecy.
+6.0,Egypt,Matthew 2:13-15,Flight to Egypt to escape Herod’s massacre,"Mary, Joseph, Jesus","~30.033°N, 31.235°E",~6–4 BCE,Months–years,Only in Matthew; “Out of Egypt I called my son.”
+7.0,Nazareth,Matthew 2:19-23; Luke 2:39-40,Return to Nazareth; Jesus’ childhood,"Mary, Joseph","32.697°N, 35.304°E",~4 BCE onward,Years,Both Gospels agree on Nazareth as home.
+8.0,Jerusalem,Luke 2:41-52,Jesus at age 12 in the Temple,"Mary, Joseph, teachers","31.778°N, 35.235°E",~8 CE,Days,Only in Luke; Jesus’ awareness of divine mission.
+9.0,Nazareth,Luke 2:51-52; Mark 6:3,Jesus’ youth and early adulthood as carpenter,"Mary, siblings","32.697°N, 35.304°E",~8–27 CE,~18 years,Preparation for ministry.
+10.0,Jordan River,Matt 3:13-17; Mark 1:9-11; Luke 3:21-22; John 1:29-34,Baptism by John the Baptist,John the Baptist,"~31.950°N, 35.550°E",~27–29 CE,Day,"All Gospels; voice from heaven, Spirit descends."
+11.0,Wilderness of Judea,Matt 4:1-11; Mark 1:12-13; Luke 4:1-13,Temptation by Satan (40 days),Alone,"~31.500°N, 35.000°E",~27–29 CE,40 days,All Synoptics; order of temptations varies.
+12.0,Bethany (Jordan),John 1:28; 1:35-51,"First disciples called (Andrew, Peter, Philip, Nathanael)","John, Andrew, Peter, Philip, Nathanael","~32.1°N, 35.6°E",~27–29 CE,Days,Only in John; Synoptics describe call by Sea of Galilee.
+13.0,Cana of Galilee,John 2:1-12,First miracle: water to wine at wedding,"Mary, disciples","32.771°N, 35.378°E",~27–29 CE,Days,Only in John; first “sign.”
+14.0,Capernaum,Matt 4:13; Mark 1:21-34; Luke 4:31-41; John 2:12,"Ministry headquarters; teaching, healings","Peter, Andrew, James, John, others","32.885°N, 35.514°E",~27–30 CE,Extended,All Gospels; many miracles and teachings.
+15.0,Jerusalem,John 2:13-25,First Passover; Cleansing the Temple,"Disciples, merchants","31.778°N, 35.235°E",~27–29 CE,Days,John: early in ministry; Synoptics: at end.
+16.0,Judea (General),John 3:1-21; 4:1-3,Night meeting with Nicodemus; early Judean ministry,"Nicodemus, disciples","~31.5°N, 35.0°E",~27–29 CE,Weeks–months,Only in John; teaching on new birth.
+17.0,Samaria,John 4:4-42,Woman at the well; Samaritan revival,"Samaritan woman, townspeople","~32.2°N, 35.3°E",~27–29 CE,Days,Only in John; first major outreach beyond Jews.
+18.0,Galilee (General),Matt 4:17-25; Mark 1:14-15; Luke 4:14-15,"Teaching, healing, calling disciples","Disciples, crowds","~32.8°N, 35.4°E",~27–30 CE,Intermittent,All Gospels; “Kingdom of God” theme.
+19.0,Sea of Galilee,Matt 4:18-22; Mark 1:16-20; Luke 5:1-11; John 6,"Call of Peter, Andrew, James, John; miracles on the lake","Disciples, crowds","~32.8°N, 35.55°E",~27–30 CE,Various,"Synoptics: call of fishermen; John: feeding 5,000, walking on water."
+20.0,Various (Galilee/Judea),Matt 5–7; Luke 6:17-49,Sermon on the Mount/Plain; teaching parables,"Disciples, crowds","~32.8°N, 35.4°E",~27–30 CE,Days,"Synoptics: ethical teaching, Beatitudes."
+21.0,Nain,Luke 7:11-17,Raises widow’s son,"Disciples, crowd","32.690°N, 35.337°E",~27–30 CE,Single event,Only in Luke; authority over death.
+22.0,Decapolis,Mark 5:1-20; 7:31-37,"Healing demoniac, deaf mute","Disciples, crowds","~32.6°N, 35.7°E",~28–30 CE,Short visits,Mark: Gerasene/Gadarene demoniac; regional variation.
+23.0,"Magdala, Dalmanutha",Matt 15:39; Mark 8:10,"Encounters with Pharisees, teaching",Disciples,"~32.833°N, 35.500°E",~29–30 CE,Short,Synoptics; variations in location names.
+24.0,Bethsaida,Mark 8:22-26,Healing blind man,Disciples,"32.908°N, 35.613°E",~29–30 CE,Short,Only in Mark; unique two-stage healing.
+25.0,Caesarea Philippi,Matt 16:13-20; Mark 8:27-30,Peter’s confession; Jesus foretells death,Disciples,"33.250°N, 35.700°E",~29–30 CE,Short,All Synoptics; first open acknowledgment of Messiahship.
+26.0,Mount of Transfiguration,Matt 17:1-8; Mark 9:2-8; Luke 9:28-36,Transfiguration; Moses and Elijah appear,"Peter, James, John","~32.650°N, 35.500°E",~29–30 CE,Single event,All Synoptics; divine confirmation of Jesus’ identity.
+27.0,Jericho,Matt 20:29-34; Luke 19:1-10,Healing blind men; Zacchaeus,"Disciples, crowds","31.850°N, 35.450°E",~30 CE,Short,All Synoptics; Zacchaeus only in Luke.
+28.0,Bethany,John 11:1-44; 12:1-11,Raising Lazarus; anointing by Mary,"Mary, Martha, Lazarus, disciples","31.783°N, 35.246°E",~30 CE,Various visits,Only in John; triggers plot to kill Jesus.
+29.0,Ephraim,John 11:54,Withdrawal after raising Lazarus,Disciples,"~31.9°N, 35.3°E",~30 CE,Days–weeks,Only in John; safety from Pharisees’ plot.
+30.0,Bethphage,Matt 21:1-2; Mark 11:1,Prepares for Triumphal Entry,Disciples,"~31.780°N, 35.250°E",~30 CE,Very short,All Synoptics; fulfillment of Zech. 9:9.
+31.0,Jerusalem,Matt 21–27; Mark 11–15; Luke 19–23; John 12–19,"Triumphal Entry, temple cleansing, teaching, Last Supper, betrayal, trial, crucifixion","Disciples, crowds, religious leaders, Romans","31.768°N, 35.234°E",~30 CE,~1 week (Passion),All Gospels; John’s chronology differs (Passover timing).
+32.0,Garden of Gethsemane,Matt 26:36-56; Mark 14:32-52; Luke 22:39-53; John 18:1,"Prayer, agony, arrest","Peter, James, John, Judas, guards","31.766°N, 35.240°E",~30 CE,Hours,All Gospels; Judas leads arresting party; Synoptics: “kiss of betrayal.”
+33.0,"Jerusalem (Sanhedrin, Pilate, Herod)",Matt 26:57–27:31; Mark 14:53–15:20; Luke 22:54–23:25; John 18:12–19:16,Trials before Jewish and Roman authorities,"Peter, Sanhedrin, Pilate, Herod, soldiers","31.768°N, 35.234°E",~30 CE,Overnight–morning,All Gospels; Peter’s denials; Pilate/Herod variations (Herod only in Luke1).
+34.0,Jerusalem (Judas’ fate),Matt 27:3-10; Acts 1:16-20,"Judas returns silver, hangs himself (Matthew); falls headlong, dies (Acts)","Judas, priests","31.768°N, 35.234°E",~30 CE,Hours–days,"Matthew: Judas hangs himself, priests buy field; Acts: Judas falls, bursts open; field called Akeldama."
+35.0,Golgotha (Calvary),Matt 27:33; Mark 15:22; Luke 23:33; John 19:17,Crucifixion,"Roman soldiers, Mary, disciples, women","~31.775°N, 35.228°E",~30 CE,Hours,"All Gospels; details vary (e.g., words from cross, order of events)."
+36.0,Tomb (Jerusalem),Matt 27:57-60; Mark 15:42-46; Luke 23:50-53; John 19:38-42,Burial,"Joseph of Arimathea, Nicodemus, women","~31.776°N, 35.232°E",~30 CE,Days,All Gospels; guards at tomb only in Matthew.
+37.0,"Jerusalem, Emmaus, Galilee",Matt 28; Mark 16; Luke 24; John 20–21; Acts 1,"Resurrection appearances, Great Commission, Ascension","Disciples, Mary Magdalene, others",Various,~30 CE,~40 days,"All Gospels; appearances differ in number, location, sequence. Ascension: Luke/Acts: Bethany/Mount of Olives; Matthew: Galilee."

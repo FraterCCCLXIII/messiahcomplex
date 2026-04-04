@@ -1,0 +1,65 @@
+Book / Text,Year Composed,Era (BCE/CE),Era (Composition),Original Language(s),Traditional Author,Earliest Known Work,Earliest Known Date,Era (BCE/CE),Era (Manuscript),Scholarly Notes / Problems / Evidence
+Genesis,1400.0,BCE,Late Bronze Age,Hebrew,Moses,Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,Multiple sources (JEDP); DSS fragments; significant textual variants; composite authorship.
+Exodus,1400.0,BCE,Late Bronze Age,Hebrew,Moses,Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,DSS fragments; composite authorship; some narrative/historical disputes.
+Leviticus,1400.0,BCE,Late Bronze Age,Hebrew,Moses,Nash Papyrus/DSS fragments,150.0,BCE,Second Temple Period,Nash Papyrus (Decalogue) 2nd c. BCE; priestly source; ritual details debated.
+Numbers,1400.0,BCE,Late Bronze Age,Hebrew,Moses,Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,DSS fragments; composite authorship.
+Deuteronomy,1300.0,BCE,Late Bronze Age,Hebrew,Moses,Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,Some scholars date final form to 7th c. BCE (Josianic reforms); DSS fragments; textual variants.
+Joshua,1200.0,BCE,Settlement,Hebrew,Joshua (trad.),Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,DSS fragments; likely later compilation; historicity debated.
+Judges,1100.0,BCE,Settlement,Hebrew,Samuel (trad.),Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,DSS fragments; composite; some early poetry (Song of Deborah) may be older.
+Ruth,1000.0,BCE,Early Monarchy,Hebrew,Samuel (trad.),Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; possibly post-exilic; authorship debated.
+1 Samuel,1000.0,BCE,United Monarchy,Hebrew,"Samuel, Gad, Nathan",Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; textual differences with LXX; composite authorship.
+2 Samuel,950.0,BCE,United Monarchy,Hebrew,"Samuel, Gad, Nathan",Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,See above; numerical discrepancies with Chronicles (textual error examples).
+1–2 Kings,600.0,BCE,Divided Monarchy,Hebrew,Jeremiah (trad.),Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; Deuteronomistic history; significant textual variants.
+1–2 Chronicles,400.0,BCE,Post-exilic,Hebrew,Ezra (trad.),Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; priestly focus; discrepancies with Samuel/Kings.
+Ezra–Nehemiah,400.0,BCE,Post-exilic,"Hebrew, Aramaic","Ezra, Nehemiah",Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; composite; Aramaic sections.
+Esther,350.0,BCE,Persian,Hebrew,Unknown,Septuagint (Greek),100.0,BCE,Hellenistic Period,Not found in DSS; Greek additions; historicity and canonicity debated.
+Job,1000.0,BCE,Early Monarchy,Hebrew,Unknown,Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,DSS fragments; poetic structure; authorship and date highly debated.
+Psalms,1000–400,BCE,Monarchy–Post-exilic,Hebrew,"David (many), others",Dead Sea Scrolls (scrolls),150.0,BCE,Second Temple Period,"DSS includes many psalms, some not in later canon; composite; textual variants."
+Proverbs,950–700,BCE,Monarchy,Hebrew,"Solomon, others",Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; composite; some late additions.
+Ecclesiastes,300.0,BCE,Post-exilic,Hebrew,Solomon (trad.),Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; language suggests post-exilic; authorship debated.
+Song of Solomon,950.0,BCE,Monarchy,Hebrew,Solomon (trad.),Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; allegorical interpretations; authorship debated.
+Isaiah,700.0,BCE,Divided Monarchy,Hebrew,Isaiah,DSS 1QIsa<sup>a</sup> (full),125.0,BCE,Second Temple Period,"1QIsa<sup>a</sup> nearly complete; multiple authorship theory (Proto-, Deutero-, Trito-Isaiah)."
+Jeremiah,600.0,BCE,Late Monarchy,Hebrew,Jeremiah,Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS/LXX show major differences; some Aramaic; editorial layers.
+Lamentations,586.0,BCE,Exilic,Hebrew,Jeremiah (trad.),Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; poetic form; authorship debated.
+Ezekiel,570.0,BCE,Exilic,Hebrew,Ezekiel,Dead Sea Scrolls (fragments),50.0,BCE,Second Temple Period,DSS fragments; apocalyptic imagery.
+Daniel,165.0,BCE,Hellenistic,"Hebrew, Aramaic",Daniel (trad.),Dead Sea Scrolls (fragments),125.0,BCE,Second Temple Period,DSS fragments; Aramaic/Hebrew split; most scholars date composition to 2nd c. BCE (Maccabean period).
+Hosea–Malachi (Minor Prophets),800–400,BCE,Monarchy–Post-exilic,Hebrew,Various,Dead Sea Scrolls (fragments),150.0,BCE,Second Temple Period,DSS fragments for each; some textual variants; composite.
+Tobit,200.0,BCE,Hellenistic,"Aramaic, Hebrew",Unknown,Dead Sea Scrolls (fragments),100.0,BCE,Second Temple Period,DSS Aramaic/Hebrew; Greek versions; original debated.
+Judith,150.0,BCE,Hellenistic,"Hebrew (lost), Greek",Unknown,Greek (Septuagint),100.0,BCE,Hellenistic Period,Greek extant; Hebrew original lost; historicity debated.
+Wisdom of Solomon,150.0,BCE,Hellenistic,Greek,Solomon (pseudo.),Greek (Septuagint),100.0,BCE,Hellenistic Period,Greek original; pseudonymous; Hellenistic philosophy.
+Sirach (Ecclesiasticus),180.0,BCE,Hellenistic,Hebrew,Jesus ben Sirach,Greek (Septuagint); Hebrew fragments,100; 50,BCE,Hellenistic Period,Hebrew fragments found at Masada; Greek translation by grandson.
+Baruch,150.0,BCE,Hellenistic,"Hebrew (lost), Greek",Baruch (pseudo.),Greek (Septuagint),100.0,BCE,Hellenistic Period,Greek extant; Hebrew original lost; canonicity debated.
+1 Maccabees,110.0,BCE,Hellenistic,"Hebrew (lost), Greek",Unknown,Greek (Septuagint),100.0,BCE,Hellenistic Period,Greek extant; Hebrew original lost; historical value.
+2 Maccabees,120.0,BCE,Hellenistic,Greek,Unknown,Greek (Septuagint),100.0,BCE,Hellenistic Period,Greek original; epitome of earlier work; theological focus.
+Additions to Daniel,100.0,BCE,Hellenistic,"Greek, Hebrew/Aramaic",Unknown,Greek (Septuagint),100.0,BCE,Hellenistic Period,"Greek additions (Susanna, Bel and the Dragon); not in Hebrew Bible."
+Additions to Esther,100.0,BCE,Hellenistic,Greek,Unknown,Greek (Septuagint),100.0,BCE,Hellenistic Period,Not in Hebrew Bible; Greek additions.
+Prayer of Manasseh,0.0,CE,Early Roman,Greek,Unknown,Greek (Septuagint),50.0,CE,Early Roman Period,Greek original; sometimes included in Apocrypha.
+1 Esdras,150.0,BCE,Hellenistic,Greek,Unknown,Greek (Septuagint),100.0,BCE,Hellenistic Period,Greek original; overlaps with Ezra/Nehemiah.
+2 Esdras (4 Ezra),100.0,CE,Early Roman,"Hebrew (lost), Latin/Greek",Unknown,"Latin, Greek versions",200.0,CE,Early Roman Period,"Complex composition; portions in Latin, Greek, possible Hebrew original."
+Matthew,60.0,CE,Early Roman,Greek (Koine),Matthew,"Papyrus 1, 64",200.0,CE,Early Roman Period,"Some argue Aramaic/Hebrew original; P1, P64 are Greek."
+Mark,65.0,CE,Early Roman,Greek (Koine),Mark,Papyrus 45,250.0,CE,Early Roman Period,Ending disputed (Mark 16:9–20); Greek original.
+Luke,70.0,CE,Early Roman,Greek (Koine),Luke,Papyrus 75,200.0,CE,Early Roman Period,Greek original; P75 matches Vaticanus closely.
+John,90.0,CE,Early Roman,Greek (Koine),John,Papyrus 52,125.0,CE,Early Roman Period,P52 is oldest NT fragment; some Aramaic substratum debated.
+Acts,70.0,CE,Early Roman,Greek (Koine),Luke,Papyrus 45,250.0,CE,Early Roman Period,Greek original; textual variants in Western text.
+Romans,57.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 46,200.0,CE,Early Roman Period,Generally accepted as authentic; P46 contains last 8 chapters.
+1 Corinthians,55.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 46,200.0,CE,Early Roman Period,Generally accepted as authentic; P46 contains nearly all.
+2 Corinthians,57.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 46,200.0,CE,Early Roman Period,Generally accepted as authentic; P46 contains nearly all.
+Galatians,50.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 46,200.0,CE,Early Roman Period,Generally accepted as authentic; P46 contains all.
+Ephesians,80.0,CE,Early Roman,Greek (Koine),Paul (disputed),Papyrus 46,200.0,CE,Early Roman Period,Disputed authorship; P46 contains all.
+Philippians,60.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 46,200.0,CE,Early Roman Period,Generally accepted as authentic; P46 contains all.
+Colossians,80.0,CE,Early Roman,Greek (Koine),Paul (disputed),Papyrus 46,200.0,CE,Early Roman Period,Disputed authorship; P46 contains all.
+1 Thessalonians,50.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 46,200.0,CE,Early Roman Period,Generally accepted as authentic; P46 contains most.
+2 Thessalonians,90.0,CE,Early Roman,Greek (Koine),Paul (disputed),Later papyri,300.0,CE,Early Roman Period,Widely disputed authorship.
+Philemon,60.0,CE,Early Roman,Greek (Koine),Paul,Papyrus 87,250.0,CE,Early Roman Period,Generally accepted as authentic; earliest fragmentary evidence.
+1 Timothy,100.0,CE,Early Roman,Greek (Koine),Paul (disputed),Papyrus 32,200.0,CE,Early Roman Period,Widely disputed authorship; fragmentary.
+2 Timothy,100.0,CE,Early Roman,Greek (Koine),Paul (disputed),Papyrus 32,200.0,CE,Early Roman Period,Widely disputed authorship; fragmentary.
+Titus,100.0,CE,Early Roman,Greek (Koine),Paul (disputed),Papyrus 32,200.0,CE,Early Roman Period,Widely disputed authorship; fragmentary.
+Hebrews,70.0,CE,Early Roman,Greek (Koine),Unknown (not Paul),Papyrus 46,200.0,CE,Early Roman Period,Authorship disputed; P46 contains all.
+James,60.0,CE,Early Roman,Greek (Koine),James,Papyrus 23,250.0,CE,Early Roman Period,Authorship debated; fragmentary evidence.
+1 Peter,65.0,CE,Early Roman,Greek (Koine),Peter,Papyrus 72,300.0,CE,Early Roman Period,Authorship debated; P72 is earliest.
+2 Peter,80.0,CE,Early Roman,Greek (Koine),Peter (disputed),Papyrus 72,300.0,CE,Early Roman Period,Authorship widely disputed; P72 is earliest.
+1 John,90.0,CE,Early Roman,Greek (Koine),John,Papyrus 9,200.0,CE,Early Roman Period,Authorship debated; fragmentary.
+2 John,90.0,CE,Early Roman,Greek (Koine),John,Papyrus 74,700.0,CE,Early Medieval Period,Authorship debated; very late papyrus.
+3 John,90.0,CE,Early Roman,Greek (Koine),John,Papyrus 74,700.0,CE,Early Medieval Period,Authorship debated; very late papyrus.
+Jude,70.0,CE,Early Roman,Greek (Koine),Jude,Papyrus 72,300.0,CE,Early Roman Period,Authorship debated; fragmentary.
+Revelation,95.0,CE,Early Roman,Greek (Koine),John (disputed),Papyrus 98,200.0,CE,Early Roman Period,Authorship and date debated; P98 is earliest.

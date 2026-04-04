@@ -48,7 +48,7 @@ Key features relevant to Axial Age transmission:
 
 ### India
 
-The northwest Indian Mahajanapada kingdoms fell within or adjacent to Achaemenid influence. Gandhara (Gāndhāra) and Sindhu (Sindh) were documented Achaemenid satrapies. The Śākya clan and other non-Vedic tribes in the northern frontier region may have had Iranian/Saka cultural connections (see [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)).
+The northwest Indian Mahajanapada kingdoms fell within or adjacent to Achaemenid influence. Gandhara (Gāndhāra) and Sindhu (Sindh) were documented Achaemenid satrapies. The Śākya clan and other non-Vedic tribes in the northern frontier region may have had Iranian/Saka cultural connections (see [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)).
 
 ### The Greek World
 

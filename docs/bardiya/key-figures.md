@@ -118,4 +118,4 @@ All three scenarios are **Tier C**. None is supported by direct historical evide
 - [Buddhist Parallels](buddhist-parallels.md)
 - [Christian Parallels](christian-parallels.md)
 - [Linguistic Evidence](evidence-linguistics.md)
-- [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)
+- [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)

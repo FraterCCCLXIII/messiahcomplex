@@ -94,15 +94,39 @@ The Iranian seven-heaven cosmological vocabulary entered Judaism through Babylon
 
 ---
 
+## Mandaean parallel and the pre-Christian question
+
+The **Mandaean** tradition (an Aramaic-speaking Gnostic-baptismal community in lower Mesopotamia) has a seven-heaven ascent system structurally identical to the Hekhalot literature: seven *matartā* (watch-houses), named angelic wardens requiring passwords at each level, culminating in the Lightworld (*Alma d-Nhura*). The password-gating mechanism is sufficiently specific that independent invention is unlikely — either the Mandaean and Hekhalot systems share a common Babylonian/Aramaic ancestor, or one influenced the other.
+
+The Mandaean tradition reveres **John the Baptist** as its primary prophet. If the Mandaean seven-heaven cosmology is pre-Christian (or at least pre-rabbinic in origin), then the seven-palace architecture was present in the Jordan Valley / lower Mesopotamian milieu *before* the Rabbis formalized the Hekhalot texts. This would make Merkabah-type mysticism not a rabbinic response to or parallel with Christianity, but a **pre-Christian Jewish inheritance** — part of the substrate from which both Christianity and the Hekhalot tradition emerged independently.
+
+This question is unresolved: the Mandaean community's earliest datable texts are no earlier than c. 3rd cent. CE; community origins are debated. See the dedicated page: [Mandaean stauros and the pre-Christian seven-heaven system](mandaean-stauros-and-merkabah-origins.md). (Tier B for the pre-Christian dating argument; Tier A for the structural identity of the two systems.)
+
+---
+
+## Babylonian antecedent: the Parpola layer
+
+Before the Babylonian exile, the Neo-Assyrian sacred tree diagram (c. 1243 BCE) already encoded a ten-attribute divine structure with a tripartite organization that Simo Parpola argues is the structural predecessor of the Kabbalistic Sefirotic Tree (Parpola, *JNES* 52/3, 1993). The biblical evidence — 1 Chronicles 29:11 listing five Sefirotic names in diagram order — suggests that Jewish theological culture was absorbing this structured divine-powers theology *before* the Achaemenid contact window.
+
+This means the Iranian seven-heaven cosmology did not enter Jewish culture as a blank slate. It entered a Jewish culture that was already organized around a structured divine-attribute theology derived from Mesopotamian sources. The Achaemenid encounter amplified and clarified the seven-heaven schema; it did not create the theological infrastructure from scratch. See: [Parpola and the Assyrian roots of the Sefirot](assyrian-tree-sefirot-parpola.md). (Tier B.)
+
+---
+
 ## Debates and tiers
 
 **Tier A:** Merkabah and Hekhalot texts are genuine; their content is well-established; Scholem's foundational work is accepted with modifications.
 
 **Tier A:** The structural parallel between the Hekhalot seven-palace ascent, Mithraic seven grades, and Gnostic seven Archons is documented.
 
+**Tier A:** The Mandaean seven-*matartā* system with named angelic password-gatekeepers is structurally identical to the Hekhalot seven halls; the specificity of the password-gating mechanism makes independent invention unlikely.
+
 **Tier B:** The Persian/Iranian origin of the seven-heaven cosmology (as opposed to Babylonian or Greek) is argued by Scholem and others; the relative weight of each source tradition remains debated.
 
 **Tier B:** The genealogical connection between Hekhalot practice and the Gnostic seven-Archon system (which direction did the borrowing go, or are both drawing on a common source?) is debated.
+
+**Tier B:** The pre-Christian dating of the Mandaean community's core cosmological structure; plausible but not proven.
+
+**Tier B:** Parpola's Mesopotamian antecedent for the Sefirotic structure; the 1 Chr 29:11 datum is textually solid; the full argument is a scholarly hypothesis.
 
 ---
 
@@ -115,6 +139,10 @@ The Iranian seven-heaven cosmological vocabulary entered Judaism through Babylon
 - [Paul's celestial Christology](paul-celestial-christology.md)
 - [Enoch and the Son of Man](enoch-son-of-man.md)
 - [Hero cult and mystery cult atlas](hero-cult-and-mystery-cult-atlas.md) — Mithraic seven grades
+- [Mandaean stauros and the pre-Christian seven-heaven system](mandaean-stauros-and-merkabah-origins.md) — the Aramaic parallel tradition and the pre-Christian dating argument
+- [Parpola and the Assyrian roots of the Sefirot](assyrian-tree-sefirot-parpola.md) — the Mesopotamian divine-tree antecedent
+- [Eurasian graded-ascent systems](eurasian-graded-ascent-systems.md) — comparative map of ~25 traversal traditions
+- [The cosmic axis: world tree, pillar, and stupa](cosmic-axis-world-tree-stupa.md) — the vertical axis tradition underlying the palace-ascent cosmology
 
 ---
 

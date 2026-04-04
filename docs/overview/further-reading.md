@@ -55,6 +55,22 @@ Curated **entry points** for **Achaemenid history**, **Jewish–Iranian** interf
 - **Nattier, Jan.** *The Indian Roots of Pure Land Buddhism* — **internal** Mahāyāna development
 - **Attwood, Jayarava** (2012). “Possible Iranian Origins for the Śākyas …” *JOCBS* 3:47–69
 
+## NT critical scholarship and the historical Jesus
+
+- **Ehrman, Bart D.** *The New Testament: A Historical Introduction to the Early Christian Writings*. Oxford University Press (multiple editions) — standard academic textbook; covers source criticism, authorship, textual variants, and competing early Christianities; see [NT Critical Scholarship hub](/docs/overview/historical-jesus-critical-scholarship)
+- **Ehrman, Bart D.** *Lost Christianities: The Battles for Scripture and the Faiths We Never Knew*. Oxford, 2003 — Gnosticism, Marcionites, Ebionites, and the diversity of early Christianity before the canon was fixed
+- **Sanders, E. P.** *The Historical Figure of Jesus*. Penguin, 1993 — sober consensus-oriented reconstruction; Jesus firmly within Second Temple Judaism
+- **Crossan, John Dominic.** *The Historical Jesus: The Life of a Mediterranean Jewish Peasant*. HarperSanFrancisco, 1991 — social-scientific and economic reading; peasant Cynic-style portrait
+- **Schweitzer, Albert.** *The Quest of the Historical Jesus* (1906; ET 1910; repr. Augsburg Fortress, 2001) — classic survey of 19th-century lives of Jesus; established the apocalyptic reading
+- **Fredriksen, Paula.** *When Christians Were Jews: The First Generation*. Yale University Press, 2018 — first-generation Christianity as a Jewish movement; excellent on Paul and the Gentile mission
+- **Brown, Raymond E.** *An Introduction to the New Testament*. Doubleday, 1997 — comprehensive critical scholarship from a Catholic perspective; particularly strong on John and the Johannine tradition
+- **Wrede, William.** *The Messianic Secret* (1901; ET 1971) — foundational argument that the secrecy motif in Mark is a literary-theological device, not historical memory
+- **Metzger, Bruce M. & Ehrman, Bart D.** *The Text of the New Testament: Its Transmission, Corruption, and Restoration*. 4th ed. Oxford, 2005 — standard introduction to NT textual criticism; variants, manuscripts, gematria
+- **Koester, Craig R.** *Revelation and the End of All Things*. Eerdmans, 2001 — most accessible scholarly account of Revelation as first-century resistance literature; see [Book of Revelation scholarship](/docs/overview/book-of-revelation-scholarship)
+- **Aune, David E.** *Revelation* (Word Biblical Commentary, 3 vols.). Thomas Nelson, 1997–1998 — most comprehensive critical commentary on Revelation; excellent on genre and Roman context
+- **Friesen, Steven J.** *Imperial Cults and the Apocalypse of John*. Oxford, 2001 — best treatment of emperor cult as background for Revelation's "mark of the beast" and Beast imagery
+- **Boyarin, Daniel.** *Border Lines: The Partition of Judaeo-Christianity*. University of Pennsylvania Press, 2004 — canon formation as heresiological boundary-making; complements [Canon as imperial artifact](/docs/overview/canon-as-imperial-artifact)
+
 ## Achaemenid empire, Judaism, Christianity
 
 - **Cambridge History of Judaism** — volume covering the **Persian period**; chapter **“Persian religion in the Achaemenid age”** (Cambridge Core). Search: [Cambridge Core](https://www.cambridge.org/core/search?q=Persian+religion+in+the+Achaemenid+age)
@@ -67,7 +83,7 @@ Curated **entry points** for **Achaemenid history**, **Jewish–Iranian** interf
 - **Briant, Pierre.** *From Cyrus to Alexander: A History of the Persian Empire*. Eisenbrauns, 2002 — pp. 97–109 on the Gaumata crisis; best modern treatment
 - **Kuhrt, Amélie.** *The Persian Empire: A Corpus of Sources from the Achaemenid Period*. Routledge, 2007 — primary source collection with commentary
 - **Schmitt, Rüdiger.** "Bardiya." *Encyclopaedia Iranica* Vol. III/7, pp. 756–758 — authoritative reference on the historical Bardiya
-- **Attwood, Jayarava** (2012). "Possible Iranian Origins for the Śākyas and Aspects of Buddhism." *Journal of the Oxford Centre for Buddhist Studies* 3: 47–69 — scholarly foundation for the Saka–Śākya connection ([research notes](/docs/research/iranian-origins-sakyas))
+- **Attwood, Jayarava** (2012). "Possible Iranian Origins for the Śākyas and Aspects of Buddhism." *Journal of the Oxford Centre for Buddhist Studies* 3: 47–69 — scholarly foundation for the Saka–Śākya connection (see [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses))
 - Site pages — [The Bardiya Hypothesis (overview)](/docs/bardiya/); [Historical Context](/docs/bardiya/historical-context); [Key Figures](/docs/bardiya/key-figures)
 
 ## Gandhara, Sakas, Kushans, Central Asia

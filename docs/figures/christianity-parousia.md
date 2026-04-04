@@ -26,6 +26,8 @@ Themes include **final judgment**, **resurrection**, **new creation**, and **cos
 
 **Supersessionist** readings of Judaism are **theologically and ethically contested**; this entry maps **Christian** self-understanding and **textual** motifs. Comparative work often pairs **Parousia** with other **future redeemer** figures while noting **Trinitarian** and **Christological** particularity.
 
+**Revelation as political resistance literature:** The scholarly consensus treats the Book of Revelation not as a prediction of distant future events but as coded first-century resistance literature directed at Roman imperial power. "Babylon the great" (Rev 17–18) is Rome (identified explicitly by the seven hills, Rev 17:9); 666 is Nero Caesar via Hebrew gematria (confirmed by the variant reading "616" in some manuscripts). The text expected *imminent* divine action ("the time is near," Rev 1:3). Popular futurist readings (Dispensationalism) are a 19th-century interpretive framework with no scholarly consensus support. See [Book of Revelation: Scholarly Consensus](/docs/overview/book-of-revelation-scholarship) for full treatment. For the broader critical-scholarly picture of early Christianity, including authorship problems, the Synoptic Problem, textual variants, and competing early Christianities, see [Historical-Critical Scholarship on the NT](/docs/overview/historical-jesus-critical-scholarship).
+
 ## Sources & dating
 
 | Witness / corpus | Language | Approx. date | Notes |
@@ -50,6 +52,8 @@ Earliest **Christian** communities—those addressed in **Pauline** letters such
 
 ## See also
 
+- [Historical-Critical Scholarship on the NT](../overview/historical-jesus-critical-scholarship.md) — twelve major problems: Synoptic Problem, authorship, canon formation, textual variants, competing Christianities
+- [Book of Revelation: Scholarly Consensus](../overview/book-of-revelation-scholarship.md) — Babylon = Rome; 666 = Nero; genre and first-century context
 - [Evidence leads — Persian milieu and Mitra cluster](../overview/evidence-leads-persian-milieu-and-mitra-cluster.md) — Second Temple / Iranian interface (for *genealogy* claims, not default Christian origins)
 - [Exploring transmission and deep narrative patterns](../overview/exploring-transmission-and-deep-patterns.md)
 - [Paul, Mithraism, and historicity (tiered notes)](../overview/paul-mithraism-and-historicity-notes.md) — Pauline letters, Acts, Mithra parallels, historicity (tiered)

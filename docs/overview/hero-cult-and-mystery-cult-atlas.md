@@ -191,6 +191,26 @@ The three cult spaces' co-existence in the same block of the same city, destroye
 
 ---
 
+## Preliminary conclusions
+
+What the Mediterranean mystery ecology establishes, what remains debated, and where the porous milieu model does and does not apply.
+
+- **Tier A — The shared initiatory structure.** The death/descent/rebirth/illumination sequence is documented across Eleusis, Orphic gold tablets, Isis-Osiris initiations, and Roman Mithraism within the same cultural environment and overlapping centuries. This is not a typological inference — it is an attested structural convergence in a set of traditions that were simultaneously present in the same cities, knew of each other, and competed for the same initiands.
+
+- **Tier A — Dura-Europos.** A Mithraic *mithraeum*, a Christian house-church, and a Jewish synagogue were in simultaneous operation in the same city block at Dura-Europos (c. 232–256 CE). The synagogue was painted in Parthian/Sassanid artistic vocabulary. This is physical documentation of the shared cosmopolitan environment — not inference.
+
+- **Tier B — The porous milieu model.** Ancient observers performing *interpretatio* equated Christ with Mithras, Mithras with Sol, and various mysteries with each other not because they were confused about genealogy, but because they were recognizing figures occupying the same inherited function-space. The milieu model explains the structural convergences without requiring direct borrowing, and is more historically accurate than either "Christianity stole from Mithraism" or "all similarities are coincidence."
+
+- **Tier B — Paul's celestial Christology.** Paul's cosmic Christ — exalted above principalities and powers, pre-existent, accessible through a ritual meal anywhere in the empire — stands closer to the Enochic Son of Man and to Hellenistic solar cosmology than to the Galilean teacher of the Synoptics. The structural position Paul assigns to Christ maps onto the same function-space occupied by universal Dionysus and Roman Mithras within the mystery ecology. This is a milieu argument, not a borrowing argument.
+
+- **Tier C — and what it is not.** Mithras's virgin birth, twelve apostles, and crucifixion have no ancient attestation. These were fabricated in 19th-century polemical literature and have no bearing on the genuine overlaps documented here. The real overlaps — shared solar cosmology, shared PIE function-space, shared Roman initiation social technology — are structural and subtle, and more historically interesting than simple borrowing would be.
+
+- **What the mystery ecology cannot explain.** The mystery ecology explains *structural* convergence and *milieu* sharing. It cannot by itself explain specific doctrinal content — why Jewish eschatology acquired precisely these six Iranian concepts, or why the Gandhāran Buddha specifically adopted Hellenistic solar-crown iconography. Those questions require the Achaemenid and Kushan corridor evidence addressed in other zones.
+
+- **See also:** [Preliminary conclusions — full project synthesis](preliminary-conclusions.md) · [Soteriological convergence of empire](soteriological-convergence-of-empire.md) · [Paul's celestial Christology](paul-celestial-christology.md)
+
+---
+
 ## See also
 
 - [Greek wandering gods and initiation](greek-wandering-gods-initiation.md)

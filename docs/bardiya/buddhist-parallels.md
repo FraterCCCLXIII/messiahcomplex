@@ -39,7 +39,7 @@ For methodological issues with this biography, see [Buddha's Historicity](buddha
 
 This is the strongest scholarly thread in the Buddhist parallels section.
 
-**(Tier B: see [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas))**
+**(Tier B: see [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses))**
 
 - Jayarava Attwood (2012) and Michael Witzel propose that the Śākya clan may have Iranian or Saka-related origins
 - Evidence: sibling marriage in Śākya origin stories (consistent with Iranian xvaētuuadaϑa); √śak root shared by both names; cultural distinctiveness from surrounding Vedic culture
@@ -140,6 +140,6 @@ The Saka-Scythian networks provide a *plausible* transmission route (Tier B for 
 
 - [Key Figures](key-figures.md)
 - [Buddha's Historicity](buddha-historicity.md)
-- [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)
+- [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - [Saka–Scythian Hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - [Amitābha, Maitreya, and Gandhāra–Mahāyāna Evidence](/docs/overview/amitabha-maitreya-gandhara-transmission)

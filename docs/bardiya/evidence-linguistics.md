@@ -118,7 +118,7 @@ Claims that fail these standards are labeled Tier C and should be treated as hyp
 
 ## See Also
 
-- [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)
+- [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - [Indo-Iranian Mitra and the Contract Complex](/docs/overview/indo-iranian-mitra-contract)
 - [PIE and ANE Deep Grammar](/docs/overview/pie-ane-deep-grammar)
 - [Persian Loanwords in Biblical Tradition](/docs/overview/persian-loanwords-in-biblical-tradition)

@@ -1,0 +1,28 @@
+"Pelagios Network: Methods, Tools, and Resources",,,,
+Method/Standard,Description,Links/Resources,,
+Annotation Method,"A lightweight method for linking diverse online materials by annotating place references with gazetteer URIs, making data more discoverable, reusable, and interoperable",https://www.w3.org/TR/annotation-model/ (W3C Web Annotation Data Model),,
+Linked Places Format,"An extension to GeoJSON with temporal scoping capability and RDF compatibility, used to describe attestations of places in a standard way",https://github.com/LinkedPasts/linked-places-format,,
+Linked Traces Format,"An initiative based on the W3C Annotation Model, used to annotate attestations of historical phenomena with relevant places",https://github.com/LinkedPasts/linked-traces-format,,
+Infrastructures White Paper,"Addresses how datasets can be managed and published in flexible, scalable, interoperable, and sustainable ways",Not specified - open for contributions,,
+Web Maps-T White Paper,"A standardized, inclusive approach to visualizing geospatial and temporal Linked Open Data",Not specified,,
+Tool,Category,Description,Developer(s),Project Website
+Recogito Studio,Annotation,"Platform for annotating texts and images, enabling users to map places and link references to other web data",Rainer Simon,https://github.com/recogito/recogito-client-core
+Annotorious,Annotation,"JavaScript image annotation library for adding drawing, commenting, and labeling functionality to websites",Rainer Simon,https://annotorious.github.io/
+Recogito.js,Annotation,JavaScript library for text annotation,Rainer Simon,https://github.com/recogito/recogito-js
+Numishare,Annotation,"Open source suite of applications for managing digital cultural heritage artifacts, focusing on coins and medals",Ethan Gruber,http://numishare.org/
+Peripleo,Visualization,JavaScript library for implementing maps of things related to place using shared formats,"Rainer Simon, Gethin Rees",https://github.com/pelagios/peripleo
+World Historical Gazetteer (WHG),Gazetteers,Open-source linked data platform aggregating place data from historical sources,Karl Grossner,http://whgazetteer.org/
+PeriodO,Time,"Public domain gazetteer of scholarly definitions of historical, art-historical, and archaeological periods",Ryan Shaw,https://perio.do/
+Name,Role,Expertise/Responsibilities,,
+Rainer Simon,Independent Software Developer,"Maintainer of Annotorious, RecogitoJS, and Peripleo libraries",,
+Jamie Folsom,Partner at Performant Software Solutions,Expert in developing open source software tools for research and teaching,,
+Gethin Rees,Lecturer at King's College London,Specializes in web mapping and helping people use Peripleo,,
+Karl Grossner,Geographer and Digital Humanities Developer,Technical director and lead developer of World Historical Gazetteer,,
+Ethan Gruber,"Director of Data Science, American Numismatic Society",Developer of Numishare and chief software developer of Nomisma.org,,
+Ryan Shaw,Associate Professor at UNC Chapel Hill,Builds and maintains tools for the Periodo period gazetteer,,
+Resource,Link/Information,,,
+Contact,officers@pelagios.org,,,
+Pelagios Network Website,https://pelagios.org/,,,
+Special Issue,International Journal of Humanities and Arts Computing,,,
+Github Repository,https://github.com/pelagios,,,
+Social Media,"Blue Sky, YouTube",,,

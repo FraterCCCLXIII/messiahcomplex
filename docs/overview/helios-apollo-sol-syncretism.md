@@ -114,6 +114,38 @@ Both schemas share: a supreme central/zenith figure (Vairocana / Īśāna) that 
 
 **On the question of borrowing:** Alexis Sanderson ("Śaivism and the Tantric Traditions," 1988; "The Śaiva Age," 2009) has documented extensive Śaiva → Vajrayāna textual borrowing in the Indian tantric period (6th–9th cent. CE), and argues the five-directional mandala structure in Vajrayāna is a Buddhist reworking of Śaiva *pañcaka* ("pentad") theology. Ronald Davidson (*Indian Esoteric Buddhism*, 2002) argues for bidirectional exchange and shared substrate. The evidence for direct Śaiva influence on *some* later Vajrayāna tantras is strong (Sanderson documents parallel texts); whether this applies to the five-buddha schema specifically is Tier B — specialist debate. The five elements and five directions are **pan-Indian cosmological conventions** that both traditions independently drew on, making complete genealogical tracing difficult. See [Śiva / Sadāśiva — the Five-Faced God](../figures/hindu-shiva-sadashiva.md) for the full first-attestation sequence and evidence tiers.
 
+## The 12-fold solar retinue: a template for the 12 apostles?
+
+One of the structurally underexamined patterns in the solar-deity complex is the consistent appearance of a **central solar figure attended by exactly 12 associates** across multiple independent traditions. This 12-fold retinue appears to be a recurring structural feature of solar theology — not a borrowing in each case, but a pattern that may provide a documented template for similar structures in religious communities.
+
+### Attested 12-fold solar retinues
+
+| Tradition | Central figure | 12 associates | Source | Date |
+|---|---|---|---|---|
+| **Vedic** | Vivasvant (solar deity); later, Vishnu as Surya | **12 Ādityas** — the twelve solar deities governing the twelve months | Ṛgveda (8 Ādityas initially); expanded to 12 in the Śatapatha Brāhmaṇa and Mahābhārata | c. 1200–500 BCE |
+| **Greek** | Helios / Apollo | **12 Olympians** — with Apollo as the solar figure among them; earlier traditions note 12 gods of the year | Homeric tradition; 12-god altars in Athens; Pindar | c. 700–400 BCE |
+| **Buddhist** | Vairocana (cosmic Buddha) or the historical Buddha as sun-symbol | **12 Nidānas** (links of dependent origination); or **12 solar Devas** in the *Mahāvaipulya* sūtras | Pali Canon; later Mahāyāna sutras | c. 500 BCE–200 CE |
+| **Mesopotamian** | Shamash (sun-god) | 12 zodiacal gods, one for each month; the sun-god traverses all 12 | MUL.APIN compendium; Babylonian zodiac calendar | c. 1000–700 BCE |
+| **Roman** | Sol Invictus | **12 months personified** as Sol's passage; the 12 Olympians reinterpreted in the Sol synthesis | Late antique calendar; Julian's theology | c. 200–400 CE |
+
+The 12-Ādityas model is particularly well-documented. In the Ṛgveda, 8 Ādityas govern 8 months of the active ritual year. By the Śatapatha Brāhmaṇa and Mahābhārata period, this had expanded to 12 — one Āditya for each month of the solar year, with different names in different lists (Viṣṇu, Aryaman, Mitra, Varuṇa, Indra, Dhātṛ, Tvaṣṭṛ, Pūṣan, Bhaga, Sūrya, Parjanya, Aṃśu in one standard list). Each governs a month but collectively they constitute the totality of the solar year. The central sun-god (Surya, Vivasvant, or later Vishnu) presides over all 12. This is the "solar council" structure.
+
+### The 12 apostles of Jesus as solar retinue?
+
+The **twelve apostles** of Jesus (Mark 3:14–19 and parallels) have been interpreted in several frameworks:
+
+- **Twelve tribes of Israel** — the most commonly cited Jewish background; the 12 represent the eschatological restoration of all Israel
+- **Zodiacal / cosmic symbolism** — noted in the early 3rd century CE: Origen (*Against Celsus* 1.60) records that his opponent Celsus equated the 12 apostles with the 12 months and the zodiac; Origen defensively denies it, which confirms that the comparison was current in his milieu
+- **Solar retinue** — the pattern of a central solar/divine figure with exactly 12 associates was the dominant numerical structure of solar theology across the Babylonian zodiac, Vedic Ādityas, and Greek 12-god traditions
+
+The 12-apostle structure is documented in Mark (the earliest Gospel) and amplified in Matthew (10:1–4). The number is symbolic-structural, not incidental — when Judas defects, the community *immediately* elects a replacement to restore the 12 (Acts 1:21–26), suggesting that the completeness of the number was theologically essential. The number's significance was not just "Israel's tribes" but also the cosmic completeness of a 12-part year / 12-part zodiac / 12-fold divine retinue.
+
+Both backgrounds (the Jewish tribal restoration and the Babylonian/solar 12-fold structure) can be simultaneously active. The **Matthean magi** narrative (Matthew 2) already deploys Babylonian astrological language; the same document that preserves the 12-apostle list is aware of the astrological framework. The audience for Matthew's Gospel — drawn from Jewish and Gentile communities in the eastern Mediterranean — would have had both interpretive frames available. (Tier B for the symbolic significance of the number 12; Tier C for direct derivation from the solar retinue template; Collins, *The Twelve Prophets and Apostolic Lists*, 2008.)
+
+The 12-Āditya → 12-Olympians → 12 apostles chain is not a genealogical claim but a structural observation: the same **cosmic completeness logic** (one for each unit of the solar year) underlies each case, and the Babylonian zodiacal 12-fold structure was the shared cosmological vocabulary of the eastern Mediterranean by the 1st century CE. See [Babylonian astral religion and the universal transmission language](babylonian-astral-religion.md).
+
+---
+
 ## Editorial note
 
 Solar **syncretism** helps **explain** why **ancient** **audiences** could find **radiance**, **dawn**, and **witness** motifs **intelligible** across **traditions**. It does **not** substitute for **text-critical** study of **Jewish** or **Christian** **eschatology**.

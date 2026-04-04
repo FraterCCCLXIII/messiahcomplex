@@ -32,7 +32,7 @@ The Behistun Inscription is the primary record of these events. Critically, it i
 
 The hypothesis points to **Saka-Scythian peoples** as the primary cultural carriers. These Indo-Iranian nomads dominated the Eurasian steppe from Ukraine to Central Asia and served in Achaemenid armies. Their mobility, their presence in Gandhara and the Indus region, and their known role as cultural intermediaries make them plausible vectors for the spread of stories originating in the Persian court.
 
-Jayarava Attwood's research (2012) and Michael Witzel's earlier proposals lend partial scholarly support to the idea that the Śākya clan — the Buddha's clan — may have Iranian or Saka-related origins, though this remains debated (see [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)).
+Jayarava Attwood's research (2012) and Michael Witzel's earlier proposals lend partial scholarly support to the idea that the Śākya clan — the Buddha's clan — may have Iranian or Saka-related origins, though this remains debated (see [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)).
 
 ## The Challenge of Historical Reconstruction
 

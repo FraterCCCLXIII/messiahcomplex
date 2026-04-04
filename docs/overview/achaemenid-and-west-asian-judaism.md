@@ -172,6 +172,26 @@ This is structurally parallel to the Zoroastrian **War Scroll** equivalent: the 
 
 
 
+## Preliminary conclusions
+
+What this research area establishes, what remains debated, and what it cannot yet resolve.
+
+- **Tier A — Loanword evidence.** *Pardēs*, *rāz*, and *dāt* embedded in Biblical Hebrew are direct linguistic fossils of cultural absorption during Achaemenid administration. The theophoric name *Mithredath* (Ezra 1:8) places the Iranian divine name inside the Jewish temple-restoration narrative. These cannot be argued away by appeal to typological parallel; they are textual deposits of contact.
+
+- **Tier A — Cluster coherence.** Six eschatological concepts — resurrection, cosmic dualism, final judgment, paradise vocabulary, a named cosmic adversary, and angelic hierarchies — are logically interdependent in Zoroastrian theology, forming a unified system. They appear in Jewish literature as a coherent cluster in the same Persian-period century. The six arriving together as a system is more parsimonious as adoption of a theological package than as six independent parallel developments. This is the strongest argument in the whole corpus for actual transmission rather than typology.
+
+- **Tier A — Achaemenid administrative contact.** Al-Yahudu cuneiform, Elephantine papyri, and the *Ezra–Nehemiah* narrative all document Jewish communities operating within Achaemenid administrative and religious culture for two centuries. Contact is not inferred — it is the documented situation.
+
+- **Tier B — Dead Sea Scrolls dualism.** The Two Spirits doctrine in 1QS 3–4 ("the most extensive non-biblical statement of Jewish dualism from antiquity") maps directly onto the Zoroastrian Ahura Mazda / Angra Mainyu structure, including the specific temporal frame (both principles operative until a pre-determined final age). The Two Spirits teaching has no precedent in earlier Hebrew scripture; this absence strengthens rather than undermines the case for Iranian input.
+
+- **Tier B — Philo's Logos.** Philo of Alexandria's Logos theology provides the most direct intellectual parallel for John 1:1 and is the mainstream scholarly position on the Fourth Gospel's background, not a minority hypothesis. The Septuagint's importation of Platonic and Stoic vocabulary into a Semitic theological tradition is the mechanism; Alexandria is the node.
+
+- **Limit.** The argument does not establish that any specific Zoroastrian text was read by any specific Jewish author. What it establishes is that the eschatological vocabulary of Second Temple Judaism is best explained by sustained engagement with a tradition whose system these concepts form, in a period when that engagement is independently documented by administrative and linguistic evidence.
+
+- **See also:** [Preliminary conclusions — full project synthesis](preliminary-conclusions.md) · [Eschatological vocabulary timeline](eschatological-vocabulary-timeline.md) · [Dead Sea Scrolls dualism and Iranian parallels](dead-sea-scrolls-dualism-and-iranian-parallels.md)
+
+---
+
 ## Key reference works (starting points)
 
 | Resource | Why use it |

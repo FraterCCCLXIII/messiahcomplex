@@ -36,7 +36,23 @@ This structural tension — how do you honor a mediating figure at near-divine s
 
 ---
 
-## 2. Michael's name as the encoded answer to the same question
+## 2. The Canaanite precursor: Reshef Mikal → Apollo Mikal
+
+Before the Zoroastrian parallel, there is an older iconographic strand that the Michael chain passes through.
+
+**Reshef** (Canaanite, c. 2000 BCE) was a plague-warrior deity associated with fire, arrows, and apotropaic protection — structurally similar to Apollo's plague-averting role in Greek tradition. A Beth Shan stele (c. 1400 BCE) attests Reshef under the epithet **Mikal** (*Mika'il* in the Semitic form). Reshef Mikal was a warrior-protector who stood between the community and destructive forces: pestilence, enemy armies, chaos.
+
+Phoenician-Greek bilingual inscriptions at **Kition and Idalion** (Cyprus, 5th–4th centuries BCE) fuse this figure into **Apollo Mikal** — a Hellenistic Apollo who inherits Reshef's apotropaic, martial, and healing functions under a name that preserves the Semitic epithet. The continuity is not metaphorical: the same sanctuary tradition, the same epithets, a different linguistic register.
+
+From here the chain runs directly to the Second Temple archangel: **Michael** (מִיכָאֵל, *mî kā-ʾēl*, "Who is like God?") appears in Daniel (mid-2nd century BCE) as Israel's warrior-protector, and the name transparently descends from the Mikal epithet that Reshef had carried for more than a millennium. The archangel's functions — plague-averting protection, cosmic battle, standing between the community and destruction — are precisely Reshef Mikal's functions, now expressed in Jewish apocalyptic vocabulary.
+
+**Evidence tier: Tier A** for the epigraphic chain (Beth Shan stele; Kition bilinguals are published primary sources). **Tier B** for the functional continuity argument (warrior-protector template moving from Reshef Mikal through Apollo Mikal to the archangel Michael).
+
+This Canaanite strand and the Iranian strand (Mithra, §1 above) are **complementary**, not competing. Michael as the Jewish archangel may have been simultaneously shaped by both: the onomastic and iconographic substrate from the Levantine Reshef-Mikal tradition, and the theological elevation-template from Zoroastrian Mithra as co-venerated cosmic lieutenant.
+
+---
+
+## 3. Michael's name as the encoded answer to the same question
 
 The Hebrew archangel **Michael** (מִיכָאֵל) means **"Who is like God?"** (*mî kā-ʾēl*). The name is a rhetorical question with an implied answer: *no one is like God — except that Michael is the closest any being comes.*
 
@@ -50,7 +66,7 @@ Both formulations solve the same problem in the same way: they establish a figur
 
 ---
 
-## 3. Michael's functions: the Iranian template re-expressed in Hebrew
+## 4. Michael's functions: the Iranian template re-expressed in Hebrew
 
 The [angelology page](jewish-angelology-and-yazata-parallels.md) documents the broad structural parallel between the Jewish archangels and the Zoroastrian yazata system. The Michael–Mithra parallel is the sharpest point in that comparison:
 
@@ -68,7 +84,7 @@ The **"Prince of Lights"** designation in the Dead Sea Scrolls is particularly s
 
 ---
 
-## 4. The Melchizedek variant: another occupant of the same slot
+## 5. The Melchizedek variant: another occupant of the same slot
 
 The fluidity of the "principal angel" slot is visible in the **11Q13 (Melchizedek) scroll** from Qumran — one of the most remarkable documents from the Dead Sea corpus.
 
@@ -133,13 +149,14 @@ The Revelation passages deserve special attention. **Revelation 12** has Michael
 
 | Link | Claim | Tier | Key evidence |
 |---|---|---|---|
+| **Reshef Mikal = Canaanite precursor** | The warrior-protector epithet *Mikal* attested at Beth Shan (c. 1400 BCE); fused into Apollo Mikal at Kition | **A** | Beth Shan stele; Kition and Idalion bilingual inscriptions (published primary sources) |
 | **Mithra = Ahura Mazdā's co-venerated lieutenant** | Ahura Mazdā declares Mithra worthy of sacrifice equal to himself | **A** | Yasht 10:1 (attested primary text) |
 | **Michael = Jewish equivalent of this role** | Michael holds the same structural position in Second Temple Judaism | **B** | Daniel 10–12; 1QM "Prince of Lights"; timing and function match |
-| **Michael's name encodes the same theological tension** | "Who is like God?" = near-divine but subordinate, mirroring Yasht 10's formulation | **B** | Linguistic analysis; structural parallel |
+| **Michael's name encodes the same theological tension** | "Who is like God?" = near-divine but subordinate, mirroring Yasht 10's formulation | **B** | Linguistic analysis; structural parallel; Mikal epithet as onomastic substrate |
 | **The "principal angel slot" is prior to any single occupant** | Multiple Second Temple figures (Michael, Melchizedek, Son of Man) fill the same role | **A** | Attested in Daniel, 11Q13, 1 Enoch Parables, Qumran texts |
 | **Melchizedek as slot-occupant → Jesus** | Heb 7 explicitly assigns the Melchizedek role to Christ | **A** | Hebrews 7:17; 11Q13 (Qumran Melchizedek) |
 | **Michael's functions transfer to Jesus in NT** | The archangel's eschatological role is re-assigned to Christ | **A–B** | Rev 12 vs 19; 1 Thess 4:16; 2 Cor 4:6; documented in Hurtado, Gieschen |
-| **Mithra → Michael → Jesus as a continuous chain** | The full genealogical thread | **C** | Plausible as three separately documented structural homologies; not provable as a single genetic transmission |
+| **Reshef Mikal → Apollo Mikal → Michael → Jesus as a continuous chain** | The full genealogical thread including Canaanite origin | **C** | Plausible as four separately documented structural homologies; not provable as a single genetic transmission |
 
 ---
 

@@ -58,7 +58,7 @@ The Achaemenid incorporation of Saka peoples is well-documented (Tier A):
 
 ## Iranian Cultural Influence and the Śākya Question
 
-Scholarly work by Michael Witzel and Jayarava Attwood (see [Iranian Origins of the Śākyas](/docs/research/iranian-origins-sakyas)) proposes that the Śākya tribe — the Buddha's clan — may have had Iranian or Saka-connected origins. The evidence cited includes:
+Scholarly work by Michael Witzel and Jayarava Attwood (see [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)) proposes that the Śākya tribe — the Buddha's clan — may have had Iranian or Saka-connected origins. The evidence cited includes:
 
 **Cultural practices (Tier B)**
 - Śākya origin stories feature sibling marriage, consistent with the Iranian xvaētuuadaϑa tradition but anomalous in Brahmanical Indian culture

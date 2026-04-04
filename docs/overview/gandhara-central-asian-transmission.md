@@ -516,6 +516,28 @@ The distribution is best interpreted as evidence of the **Roman trade network ac
 
 
 
+## Preliminary conclusions
+
+What the Gandhāra and Central Asian corridor establishes, what remains debated, and where the evidence runs out.
+
+- **Tier A — Kharoshthi from Aramaic.** The script of the earliest Buddhist manuscripts is derived from the Achaemenid administrative script. *Lipi* ("writing") is a Persian loanword in Indian languages (Salomon 1999). These are not analogies; they are direct material evidence that Achaemenid administrative infrastructure shaped the physical substrate of early Buddhist textual transmission.
+
+- **Tier A — Kushan coin co-evidence.** *MIIRO* (Mithra) and *BODDO* (Buddha) struck by the same Kushan mint are dated material proof of religious co-existence in a single political milieu. This is the clearest evidence in the whole corpus that two traditions were not isolated from each other — they shared a patron.
+
+- **Tier A — The Gandhāran radiate halo.** Hellenistic solar-crown iconography chronologically predates Gandhāran Buddha images, and the sculptural workshop conventions — drapery, facial type, halo — are drawn directly from Hellenistic models. The borrowing direction is established by the archaeology. The first anthropomorphic Buddha image is likewise a Gandhāran innovation produced in this contact zone.
+
+- **Tier A — Indian soldiers in Xerxes' army.** Herodotus (7.65, 7.70, 7.86) documents Indian contingents at Thermopylae and Salamis (480–479 BCE). This is a pre-Alexander contact mechanism, documented in a primary source, for cultural information to move between the Persian empire, the Greek world, and India.
+
+- **Tier B — Pyrrho and early Buddhist dialectic.** Pyrrho of Elis traveled to India with Alexander (327–325 BCE) and on his return founded Greek Skepticism with a philosophical formula — things are "undifferentiated, unmeasurable, and undecidable" — that structurally parallels the Trilakṣaṇa. Beckwith's claim that Pyrrho encountered *Buddhist* rather than Jain or Ājīvika dialectic specifically remains Tier C; the philosophical parallel itself is Tier B.
+
+- **Tier B — Śākya cultural contact.** The most defensible version of the Śākya-Saka hypothesis (Attwood 2012) is not biographical identification but cultural inheritance: some features of early Buddhism — sibling marriage custom, body-speech-mind ethical triad, Deva/Daeva alignment — may reflect a period of Śākya contact with Iranian cultural forms before the main Saka migrations. The chronological gap (main migrations postdate the Buddha by ~400 years) remains the hypothesis's central weakness.
+
+- **Limit.** The corridor's evidence demonstrates that Gandhāra was a zone of documented multi-tradition co-existence and deliberate synthesis under Kushan patronage. What it cannot establish, without additional evidence, is the precise textual pathways by which specific doctrines moved — as opposed to showing that conditions for movement existed.
+
+- **See also:** [Preliminary conclusions — full project synthesis](preliminary-conclusions.md) · [Śaka–Scythian hypotheses and Buddhism](saka-scythian-hypotheses.md) · [Greco-Buddhism](greco-buddhism.md)
+
+---
+
 ## See also
 
 - [Greco-Buddhism](greco-buddhism.md) — detailed treatment of Greek–Buddhist contact, Menander I, Pyrrho, anthropomorphic Buddha, and the Western reception question

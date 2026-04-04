@@ -225,7 +225,35 @@ Reconstructions also cite a **third** figure — **\*Trito** ("third") — as **
 
 ---
 
-## 5. Disambiguation: what is PIE, what is ANE, what is convergent?
+## 5. Live application: Jesus and Thomas as a surviving PIE twin pair
+
+The **Gospel of Thomas**, Acts of Thomas, and broader Syriac Christian tradition preserve a Christology in which **Judas Thomas Didymus** is the *living twin* of Jesus — a direct application of the \*Manu/\*Yemo pattern to a messianic context.
+
+The name-evidence is explicit: *Thomas* = Aramaic *tōmā* ("twin"); *Didymus* = Greek *didymos* ("twin"). The Acts of Thomas (Syriac, c. 200–250 CE, Edessa) opens with Jesus selling Thomas to an Indian merchant and explicitly calls Thomas "twin of Christ, apostle of the Most High." The Gospel of Thomas (Coptic, from a probable Syriac original) opens: *"These are the secret sayings that the living Jesus spoke and Didymos Judas Thomas recorded."*
+
+Mapped onto the \*Manu/\*Yemo structure:
+
+| PIE template | Thomas tradition |
+|---|---|
+| \*Yemo is sacrificed voluntarily | Jesus dies as willing sacrifice |
+| \*Manu performs or presides over the sacrifice | Thomas is present; associated with the death |
+| World-structure / social order emerges from \*Yemo | Salvation-order emerges from Jesus's body (eucharist) |
+| \*Manu receives and transmits the new order | Thomas receives the "secret sayings" and transmits them to the East |
+| \*Manu founds the human community | Thomas founds the church of India/the East |
+| Dead twin → king of the dead | Jesus is Lord of heaven |
+| Surviving twin → norm-giver, transmitter | Thomas is "teacher of the truth to the East" (Acts of Thomas, prologue) |
+
+This is structurally isomorphic with the PIE reconstruction. It operates in the **Syriac Aramaic** cultural zone (Edessa, upper Tigris-Euphrates), where the Iranian Zoroastrian tradition keeping \*Yemo as Yima / Jamshid was a living cultural form alongside Jewish Babylonian communities. The Thomas twin-Christology is therefore either:
+
+- A *preservation* of a structurally older Syriac Christology, shaped by the Iranian/Mesopotamian cultural environment of its origin (Tier B), or
+- An independent theological development using the same structural logic available in its cultural environment (Tier B), or
+- A deliberate application of the PIE pattern, transmitted through Iranian theology, to the figure of Jesus (Tier C)
+
+The canonical Gospel of John's domestication of Thomas as the "doubter" (John 20:24–29) vs. the Syriac tradition's Thomas as privileged twin-receiver represents two *receptions* of an original Syriac twin-relationship — one that de-emphasizes the twin cosmology, one that preserves it. See the dedicated page: [Jesus and Thomas: the surviving PIE twin in Syriac Christianity](jesus-thomas-twin-tradition.md).
+
+---
+
+## 6. Disambiguation: what is PIE, what is ANE, what is convergent?
 
 - **PIE pattern** = cognate names (\*Yemo → Yama, Ymir, Remus) + shared cosmogonic structure → **probable common inheritance** within IE family.
 - **ANE (Ancient Near East)** = Cain/Abel, Set/Osiris, Anpu/Bata → **Semitic and Egyptian** traditions with their own genealogies; not derived from PIE.
@@ -247,6 +275,7 @@ Reconstructions also cite a **third** figure — **\*Trito** ("third") — as **
 
 ## See also
 
+- [Jesus and Thomas: the surviving PIE twin in Syriac Christianity](jesus-thomas-twin-tradition.md) — the \*Manu/\*Yemo pattern applied to the messianic context
 - [Primordial Cosmic Man: dismemberment, world-making, and salvific reversal](primordial-cosmic-man.md) — hub page placing Puruṣa, Ymir, Phanes, Gayōmart, Adam Kadmon, and the Gnostic Anthropos in a unified soteriological argument
 - [Vedic Puruṣa](../figures/vedic-purusha.md) — dedicated figure page for the Puruṣa Sūkta (RV 10.90) and its Brāhmaṇic/Upaniṣadic elaborations
 - [PIE and Ancient Near Eastern traces in the Bible](pie-and-ane-traces-in-biblical-tradition.md) — divine names, storm gods, sea monsters, and the IE–Semitic interface

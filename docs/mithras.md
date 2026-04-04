@@ -66,6 +66,28 @@ The root *\*mitra-* is Proto-Indo-Iranian for **"contract, covenant, binding obl
 
 ---
 
+## Preliminary conclusions
+
+What the *mitra-* thread establishes, what remains debated, and where caution is required.
+
+- **Tier A — The Mitanni anchor.** The Boğazköy cuneiform treaty (~1400 BCE) invoking *Mitra* as an oath-witness is the oldest documentary anchor for a named deity in this entire corpus. It places the contract-god function at the IE–Near East interface before any Vedic or Avestan text was composed, establishing that the root was already functioning as a divine guarantor of binding agreements before the Indian and Iranian branches fully diverged.
+
+- **Tier A — Onomastic trace in the Hebrew Bible.** *Mithredath* (Ezra 1:8, 4:7) embeds the Iranian divine name inside the Jewish temple-restoration narrative. This is not an analogy — it is a personal name in an administrative text, evidence of on-the-ground Persian–Jewish contact during the restoration period.
+
+- **Tier B — The semantic chain.** The progression from contract-witness (Mitanni) → cosmic yazata elevated by Ahura Mazda (Yasht 10) → Roman initiatory mediator (Mithras) → Manichaean light-bearer (Mihr) traces a genuine genealogical thread, but each segment's transmission mechanism differs in strength. The Zoroastrian → Roman step is the most debated: Beck's Roman-creative-synthesis argument remains the strongest challenge to Cumont's Iranian-continuity position.
+
+- **Tier B — *Maitrī* and *mitra-*.** The mainstream etymology of *Maitreya* derives it from Sanskrit *maitrī* ("loving-kindness") rather than directly from *mitra-* ("covenant"). The *mitra-* semantic background — contract, fidelity, binding obligation — is real and relevant to Maitreya's function as the future covenant-keeper, but that background alone is insufficient to establish transmission. The Manichaean communities who explicitly called Maitreya *Mitri-Burkhan* are the strongest evidence for a live identification in the transmission corridor, made by people inside it.
+
+- **Tier B — Two transmission routes to Roman Mithraism.** The Cumont vs. Beck debate (direct Iranian survival vs. Roman creative synthesis) may have been framed too narrowly as a binary. The site's analysis of the Saka Oitosyros tradition (see [Saka route: Oitosyros and the steppe transmission of Mithra](overview/saka-steppe-mithras-route.md)) suggests a **northern steppe route** ran in parallel with the better-documented Persian court–Hellenistic route. Oitosyros, the Scythian sun-deity equated with Apollo by Herodotus, represents a functional Mithras-equivalent — solar oath-keeper, lord of contract — transmitted through the steppe military world that supplied Rome's frontier legions. The specifically military character of Roman Mithraism (exclusively adult male, rank-based initiation, concentrated in garrison towns and port cities) is more consistent with transmission through steppe military culture than through Persian court-religion channels, which were primarily civilian and priestly. Beck's Roman-synthesis model and the steppe-route hypothesis are not mutually exclusive: both mechanisms may have contributed to the Roman form, with the steppe route explaining *who* adopted it and the Roman creative-synthesis model explaining *how* it was re-shaped.
+
+- **Tier C — Roman Mithraism and Christianity.** Direct borrowing of Christian sacramental forms from Mithraism is not supported by primary evidence. The popular 19th-century parallels (Mithras's virgin birth, twelve apostles, crucifixion) have no ancient attestation. The real overlap is structural: both operated within the same Mediterranean initiatory ecology, filling the same inherited function-space, which is why ancient *interpretatio* equated them without requiring genealogical dependence.
+
+- **What the thread's value is.** The *mitra-* thread is most useful not as a single chain of borrowing but as a tracer for how a specific semantic complex — covenant, light, cosmic witness — recurs across multiple transmission events. Tracking it allows isolation of which steps have mechanism (Mitanni treaty; Achaemenid administration; Manichaean synthesis) from which have only resemblance (Roman Mithras → Christianity).
+
+- **See also:** [Preliminary conclusions — full project synthesis](overview/preliminary-conclusions.md) · [Measuring influence: Mitra, Mithra, Maitreya](overview/measuring-influence-mitra-maitreya.md) · [Achaemenid empire and West Asian Judaism](overview/achaemenid-and-west-asian-judaism.md)
+
+---
+
 ## Select references
 
 - **Encyclopaedia Iranica** — "Mithra" (Old Indian / Old Iranian); "Mithraism"

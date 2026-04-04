@@ -33,7 +33,7 @@ Jayarava Attwood (2012), following Michael Witzel and Asko Parpola, proposes tha
 
 **Migration timeline**: Parpola proposes a group of Iranians entered India around 800 BCE via the Indus Valley. Climate change evidence (van Geel et al. 2004) supports Saka expansion around this period.
 
-For a full exposition, see [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas).
+For a full exposition, see [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses).
 
 ## The Achaemenid Presence in the Indus Region
 
@@ -92,7 +92,7 @@ The Bardiya hypothesis's stronger claim — that Gaumata's biographical story wa
 
 ## See Also
 
-- [Possible Iranian Origins for the Śākyas](/docs/research/iranian-origins-sakyas)
+- [Śaka–Scythian hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - [Saka–Scythian Hypotheses and Buddhism](/docs/overview/saka-scythian-hypotheses)
 - [Amitābha, Maitreya, and Gandhāra–Mahāyāna Evidence](/docs/overview/amitabha-maitreya-gandhara-transmission)
 - [Gandhara, Mahayana, and Central Asian Transmission](/docs/overview/gandhara-central-asian-transmission)
